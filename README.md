@@ -24,6 +24,7 @@
 
 [website]: https://Andre601.com
 [spigot]: https://www.spigotmc.org/resources/authors/56829/
+[github]: https://github.andre601.com
 
 ## :wave: Hello
 I'm Andre_601. I live in switzerland and are a hobby-developer coding in Java.
@@ -77,3 +78,4 @@ Here are some other usefull links.
 
 - [My Website][website]
 - [Spigot Page][spigot]
+- [My dedicated GitHub Project page][github]

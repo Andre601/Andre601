@@ -36,36 +36,56 @@ Here is a selection of some of my (more popular) projects on GitHub.
 ### \*Purr*
 [![imgRepoPurr]][repoPurr]
 
-[\*Purr*][websitePurr] is a Discord bot made in Java that aims at providing you fun and entertainment.  
+<details>
+  <summary>Description (Click to open/close)</summary>
+  
+  [\*Purr*][websitePurr] is a Discord bot made in Java that aims at providing you fun and entertainment.  
 The bot started in march of 2018 and has since then grown in a way I never expected. As of the 21.09.2020 is the bot on 26,000+ servers with no end in sight.
 
 A full documentation of the Bot, including all its commands, can be found under [docs.purrbot.site][docs]
+</details>
 
 ### JavaBotBlockAPI
 [![imgRepoJbba]][repoJbba]
 
+<details>
+  <summary>Description (Click to open/close)</summary>
+  
 JavaBotBlockAPI is the official Java Wrapper for the BotBlock API.  
 [BotBlock.org][botblock] provides Bot owners with a single API which allows them to publish the server count of their bot to multiple bot lists simultanious. This reduces unwanted bloat from using X libraries to post the guild count to X bot lists.
 
 JavaBotBlockAPI supports all GET and POST methods that the API of BotBlock provides and also brings support for Java Bot Libraries such as JDA and Javacord (with more to come).
+</details>
 
 ### HexChat
 [![imgRepoHexChat]][repoHexChat]
 
+<details>
+  <summary>Description (Click to open/close)</summary>
+  
 [HexChat][spigotHexChat] is a simple yet effective Chat plugin for Spigot 1.16.x+  
 It provides the ability to use Hex color codes to format your chat in whatever color you desire. Additionally can you apply Hover text and different click actions such as running a command or opening a URL.
+</details>
 
 ### OneVersionRemake
 [![imgRepoOVR]][repoOVR]
 
+<details>
+  <summary>Description (Click to open/close)</summary>
+  
 [OneVersionRemake][OVR] is a BungeeCord and Velocity Plugin which allows you to block connections from players that don't have the MC version you defined.  
 It also allows you to display a custom kick message and hover text when the player hovers over the player count displayed on the Server list.
+</details>
 
 ### PlaceholderAPI
 [![imgRepoPAPI]][repoPAPI]
 
+<details>
+  <summary>Description (Click to open/close)</summary>
+  
 [PlaceholderAPI][PAPI] is a Spigot plugin which allows plugins to provide own placeholders to other plugins, but also to use placeholders from other plugins for itself.  
 While I'm not the owner of this repository am I a contributor and main maintainer of the Wiki that the plugin has.
+</details>
 
 ## :link: Links
 Here are some other usefull links.

@@ -27,7 +27,7 @@
 [github]: https://github.andre601.com
 
 ## :wave: Hello
-I'm Andre_601. I live in switzerland and are a hobby-developer coding in Java.
+I'm Andre_601. I live in switzerland and am a hobby-developer coding in Java.
 
 I have several projects here on GitHub but also on other pages such as [SpigotMC.org][spigot].
 

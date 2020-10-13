@@ -13,9 +13,6 @@
 [repoJbba]: https://github.com/botblock/JavaBotBlockAPI
 [botblock]: https://botblock.org
 
-[repoHexChat]: https://github.com/Andre601/HexChat
-[spigotHexChat]: https://www.spigotmc.org/resources/80696/
-
 [repoOVR]: https://github.com/Andre601/OneVersionRemake
 [OVR]: https://www.spigotmc.org/resources/71727/
 
@@ -52,12 +49,6 @@ JavaBotBlockAPI is the official Java Wrapper for the BotBlock API.
 [BotBlock.org][botblock] provides Bot owners with a single API which allows them to publish the server count of their bot to multiple bot lists simultanious. This reduces unwanted bloat from using X libraries to post the guild count to X bot lists.
 
 JavaBotBlockAPI supports all GET and POST methods that the API of BotBlock provides and also brings support for Java Bot Libraries such as JDA and Javacord (with more to come).
-
-### HexChat
-[![imgRepoHexChat]][repoHexChat]
-
-[HexChat][spigotHexChat] is a simple yet effective Chat plugin for Spigot 1.16.x+  
-It provides the ability to use Hex color codes to format your chat in whatever color you desire. Additionally can you apply Hover text and different click actions such as running a command or opening a URL.
 
 ### OneVersionRemake
 [![imgRepoOVR]][repoOVR]

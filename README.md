@@ -34,9 +34,6 @@ I have several projects here on GitHub but also on other pages such as [SpigotMC
 ## :file_folder: Projects
 Here is a selection of some of my (more popular) projects on GitHub.
 
-<details>
-  <summary>Show/Hide Projects</summary>
-
 ### \*Purr*
 [![imgRepoPurr]][repoPurr]  
 ![imgPositionMaintainer]
@@ -68,8 +65,6 @@ It also allows you to display a custom kick message and hover text when the play
 
 [PlaceholderAPI][PAPI] is a Spigot plugin which allows plugins to provide own placeholders to other plugins, but also to use placeholders from other plugins for itself.  
 While I'm not the owner of this repository am I a contributor and main maintainer of the Wiki that the plugin has.
-
-</details>
 
 ## :link: Links
 Here are some other usefull links.

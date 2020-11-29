@@ -1,30 +1,30 @@
-<!-- Badges -->
-[imgRepoPurr]: https://img.shields.io/badge/Repository-purrbot--site%2FPurrBot-blue?logo=github&style=for-the-badge
-[imgRepoJbba]: https://img.shields.io/badge/Repository-botblock%2FJavaBotBlockAPI-blue?logo=github&style=for-the-badge
-[imgRepoHexChat]: https://img.shields.io/badge/Repository-Andre601%2FHexChat-blue?logo=github&style=for-the-badge
-[imgRepoOVR]:  https://img.shields.io/badge/Repository-Andre601%2FOneVersionRemake-blue?logo=github&style=for-the-badge
-[imgRepoPAPI]: https://img.shields.io/badge/Repository-PlaceholderAPI%2FPlaceholderAPI-blue?logo=github&style=for-the-badge
-
-[imgPositionMaintainer]: https://img.shields.io/badge/Position-Maintainer-blue?style=for-the-badge
-[imgPositionContributor]: https://img.shields.io/badge/Position-Contributor-blue?style=for-the-badge
-
 <!-- Links -->
-[repoPurr]: https://github.com/purrbot-site/PurrBot
-[websitePurr]: https://purrbot.site
-[docs]: https://docs.purrbot.site
+[PurrBot-Repo]: https://github.com/purrbot-site/PurrBot
+[PurrBot-Website]: https://purrbot.site
+[PurrBot-Docs]: https://docs.purrbot.site
 
-[repoJbba]: https://github.com/botblock/JavaBotBlockAPI
-[botblock]: https://botblock.org
+[JavaBotBlockAPI-Repo]: https://github.com/botblock/JavaBotBlockAPI
+[JavaBotBlockAPI-Javadocs]: https://jbba.dev/docs
 
-[repoOVR]: https://github.com/Andre601/OneVersionRemake
-[OVR]: https://www.spigotmc.org/resources/71727/
+[OneVersionRemake-Repo]: https://github.com/Andre601/OneVersionRemake
+[OneVersionRemake-Spigot]: https://www.spigotmc.org/resources/71727/
 
-[repoPAPI]: https://github.com/PlaceholderAPI/PlaceholderAPI
-[PAPI]: https://www.spigotmc.org/resources/6245/
+[PlaceholderAPI-Repo]: https://github.com/PlaceholderAPI/PlaceholderAPI
+[PlaceholderAPI-Spigot]: https://www.spigotmc.org/resources/6245/
 
 [website]: https://Andre601.com
 [spigot]: https://www.spigotmc.org/resources/authors/56829/
 [github]: https://github.andre601.com
+
+<!-- Images -->
+[PurrBot]: https://github-readme-stats.vercel.app/api/pin?username=purrbot-site&repo=PurrBot&show_owner=true&theme=dracula&title_color=3498db
+[JavaBotBlockAPI]: https://github-readme-stats.vercel.app/api/pin?username=botblock&repo=JavaBotBlockAPI&show_owner=true&theme=dracula&title_color=3498db
+[OneVersionRemake]: https://github-readme-stats.vercel.app/api/pin?username=Andre601&repo=OneVersionRemake&show_owner=true&theme=dracula&title_color=3498db
+[PlaceholderAPI]: https://github-readme-stats.vercel.app/api/pin?username=PlaceholderAPI&repo=PlaceholderAPI&show_owner=true&theme=dracula&title_color=3498db
+
+[stats]: https://github-readme-stats.vercel.app/api?username=Andre601&show_icons=true&theme=dracula&title_color=3498db
+
+[top-lang]: https://github-readme-stats.vercel.app/api/top-langs?username=Andre601&layout=compact&theme=dracula&title_color=3498db
 
 ## :wave: Hello
 I'm Andre_601. I live in switzerland and am a hobby-developer coding in Java.
@@ -32,39 +32,34 @@ I'm Andre_601. I live in switzerland and am a hobby-developer coding in Java.
 I have several projects here on GitHub but also on other pages such as [SpigotMC.org][spigot].
 
 ## :file_folder: Projects
-Here is a selection of some of my (more popular) projects on GitHub.
+Here is a selection of projects that I either maintain or participate in.
 
 ### \*Purr*
-[![imgRepoPurr]][repoPurr]  
-![imgPositionMaintainer]
+- [website][PurrBot-Website]
+- [Documentation][PurrBot-Docs]
 
-  [\*Purr*][websitePurr] is a Discord bot made in Java that aims at providing you fun and entertainment.  
-The bot started in march of 2018 and has since then grown in a way I never expected. As of the 21.09.2020 is the bot on 26,000+ servers with no end in sight.
-
-A full documentation of the Bot, including all its commands, can be found under [docs.purrbot.site][docs]
+[![PurrBot]][PurrBot-Repo]
 
 ### JavaBotBlockAPI
-[![imgRepoJbba]][repoJbba]  
-![imgPositionMaintainer]
+- [Javadocs][JavaBotBlockAPI-Javadocs]
 
-JavaBotBlockAPI is the official Java Wrapper for the BotBlock API.  
-[BotBlock.org][botblock] provides Bot owners with a single API which allows them to publish the server count of their bot to multiple bot lists simultanious. This reduces unwanted bloat from using X libraries to post the guild count to X bot lists.
-
-JavaBotBlockAPI supports all GET and POST methods that the API of BotBlock provides and also brings support for Java Bot Libraries such as JDA and Javacord (with more to come).
+[![JavaBotBlockAPI]][JavaBotBlockAPI-Repo]
 
 ### OneVersionRemake
-[![imgRepoOVR]][repoOVR]  
-![imgPositionMaintainer]
+- [Spigot Download][OneVersionRemake-Spigot]
 
-[OneVersionRemake][OVR] is a BungeeCord and Velocity Plugin which allows you to block connections from players that don't have the MC version you defined.  
-It also allows you to display a custom kick message and hover text when the player hovers over the player count displayed on the Server list.
+[![OneVersionRemake]][OneVersionRemake-Repo]
 
 ### PlaceholderAPI
-[![imgRepoPAPI]][repoPAPI]  
-![imgPositionContributor]
+- [Spigot Download][PlaceholderAPI-Spigot]
 
-[PlaceholderAPI][PAPI] is a Spigot plugin which allows plugins to provide own placeholders to other plugins, but also to use placeholders from other plugins for itself.  
-While I'm not the owner of this repository am I a contributor and main maintainer of the Wiki that the plugin has.
+[![PlaceholderAPI]][PlaceholderAPI-Repo]
+
+## :bar_chart: Statistics
+
+![stats]
+
+![top-lang]
 
 ## :link: Links
 Here are some other usefull links.

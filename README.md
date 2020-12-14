@@ -12,9 +12,9 @@
 [PlaceholderAPI-Repo]: https://github.com/PlaceholderAPI/PlaceholderAPI
 [PlaceholderAPI-Spigot]: https://www.spigotmc.org/resources/6245/
 
-[website]: https://Andre601.com
+[website]: https://Andre601.ch
 [spigot]: https://www.spigotmc.org/resources/authors/56829/
-[github]: https://github.andre601.com
+[github]: https://Andre601.ch/projects
 
 <!-- Images -->
 [PurrBot]: https://github-readme-stats.vercel.app/api/pin?username=purrbot-site&repo=PurrBot&show_owner=true&title_color=3498db&bg_color=ffffff00&text_color=718096

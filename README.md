@@ -17,14 +17,14 @@
 [github]: https://github.andre601.com
 
 <!-- Images -->
-[PurrBot]: https://github-readme-stats.vercel.app/api/pin?username=purrbot-site&repo=PurrBot&show_owner=true&theme=dracula&title_color=3498db
-[JavaBotBlockAPI]: https://github-readme-stats.vercel.app/api/pin?username=botblock&repo=JavaBotBlockAPI&show_owner=true&theme=dracula&title_color=3498db
-[OneVersionRemake]: https://github-readme-stats.vercel.app/api/pin?username=Andre601&repo=OneVersionRemake&show_owner=true&theme=dracula&title_color=3498db
-[PlaceholderAPI]: https://github-readme-stats.vercel.app/api/pin?username=PlaceholderAPI&repo=PlaceholderAPI&show_owner=true&theme=dracula&title_color=3498db
+[PurrBot]: https://github-readme-stats.vercel.app/api/pin?username=purrbot-site&repo=PurrBot&show_owner=true&title_color=3498db&bg_color=ffffff00&text_color=718096
+[JavaBotBlockAPI]: https://github-readme-stats.vercel.app/api/pin?username=botblock&repo=JavaBotBlockAPI&show_owner=true&title_color=3498db&bg_color=ffffff00&text_color=718096
+[OneVersionRemake]: https://github-readme-stats.vercel.app/api/pin?username=Andre601&repo=OneVersionRemake&show_owner=true&title_color=3498db&bg_color=ffffff00&text_color=718096
+[PlaceholderAPI]: https://github-readme-stats.vercel.app/api/pin?username=PlaceholderAPI&repo=PlaceholderAPI&show_owner=true&title_color=3498db&bg_color=ffffff00&text_color=718096
 
-[stats]: https://github-readme-stats.vercel.app/api?username=Andre601&show_icons=true&theme=dracula&title_color=3498db
+[stats]: https://github-readme-stats.vercel.app/api?username=Andre601&show_icons=true&title_color=3498db&bg_color=ffffff00&text_color=718096
 
-[top-lang]: https://github-readme-stats.vercel.app/api/top-langs?username=Andre601&layout=compact&theme=dracula&title_color=3498db
+[top-lang]: https://github-readme-stats.vercel.app/api/top-langs?username=Andre601&layout=compact&title_color=3498db&bg_color=ffffff00&text_color=718096
 
 ## :wave: Hello
 I'm Andre_601. I live in switzerland and am a hobby-developer coding in Java.

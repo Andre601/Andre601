@@ -26,6 +26,8 @@
 
 [top-lang]: https://github-readme-stats.vercel.app/api/top-langs?username=Andre601&layout=compact&title_color=3498db&bg_color=ffffff00&text_color=718096
 
+[trophies]: https://github-profile-trophy.vercel.app/?username=andre601&theme=darkhub
+
 ## :wave: Hello
 I'm Andre_601. I live in switzerland and am a hobby-developer coding in Java.
 
@@ -60,6 +62,8 @@ Here is a selection of projects that I either maintain or participate in.
 ![stats]
 
 ![top-lang]
+
+![trophies]
 
 ## :link: Links
 Here are some other usefull links.

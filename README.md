@@ -37,22 +37,26 @@ I have several projects here on GitHub but also on other pages such as [SpigotMC
 Here is a selection of projects that I either maintain or participate in.
 
 ### \*Purr*
-- [website][PurrBot-Website]
+- **Role**: Maintainer
+- [Website][PurrBot-Website]
 - [Documentation][PurrBot-Docs]
 
 [![PurrBot]][PurrBot-Repo]
 
 ### JavaBotBlockAPI
+- **Role**: Maintainer
 - [Javadocs][JavaBotBlockAPI-Javadocs]
 
 [![JavaBotBlockAPI]][JavaBotBlockAPI-Repo]
 
 ### OneVersionRemake
+- **Role**: Maintainer
 - [Spigot Download][OneVersionRemake-Spigot]
 
 [![OneVersionRemake]][OneVersionRemake-Repo]
 
 ### PlaceholderAPI
+- **Role**: Contributor
 - [Spigot Download][PlaceholderAPI-Spigot]
 
 [![PlaceholderAPI]][PlaceholderAPI-Repo]

@@ -15,7 +15,7 @@ I'm Andre601 (Or Andre_601). I come from switzerland and are a hobby Java-Develo
 I'm also the creator of [\*Purr\*][purr], a Discord bot on more than 35k Servers (And still counting).
 
 ## :file_folder: Projects
-You can find a selection of Projects I either maintain or contribute towards below.
+You can find a selection of Projects I either maintain or contribute towards in the pinned section below this Readme.
 
 ## :bar_chart: Statistics
 ![stats]

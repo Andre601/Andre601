@@ -1,77 +1,29 @@
 <!-- Links -->
-[PurrBot-Repo]: https://github.com/purrbot-site/PurrBot
-[PurrBot-Website]: https://purrbot.site
-[PurrBot-Docs]: https://docs.purrbot.site
-
-[JavaBotBlockAPI-Repo]: https://github.com/botblock/JavaBotBlockAPI
-[JavaBotBlockAPI-Javadocs]: https://jbba.dev/docs
-
-[OneVersionRemake-Repo]: https://github.com/Andre601/OneVersionRemake
-[OneVersionRemake-Spigot]: https://www.spigotmc.org/resources/71727/
-
-[PlaceholderAPI-Repo]: https://github.com/PlaceholderAPI/PlaceholderAPI
-[PlaceholderAPI-Spigot]: https://www.spigotmc.org/resources/6245/
-
-[website]: https://Andre601.ch
+[purr]: https://purrbot.site
+[website]: https://andre601.ch
+[github]: https://andre601.ch/projects
 [spigot]: https://www.spigotmc.org/resources/authors/56829/
-[github]: https://Andre601.ch/projects
+[patreon]: https://patreon.com/andre_601
 
 <!-- Images -->
-[PurrBot]: https://github-readme-stats.vercel.app/api/pin?username=purrbot-site&repo=PurrBot&show_owner=true&title_color=3498db&bg_color=ffffff00&text_color=718096
-[JavaBotBlockAPI]: https://github-readme-stats.vercel.app/api/pin?username=botblock&repo=JavaBotBlockAPI&show_owner=true&title_color=3498db&bg_color=ffffff00&text_color=718096
-[OneVersionRemake]: https://github-readme-stats.vercel.app/api/pin?username=Andre601&repo=OneVersionRemake&show_owner=true&title_color=3498db&bg_color=ffffff00&text_color=718096
-[PlaceholderAPI]: https://github-readme-stats.vercel.app/api/pin?username=PlaceholderAPI&repo=PlaceholderAPI&show_owner=true&title_color=3498db&bg_color=ffffff00&text_color=718096
-
 [stats]: https://github-readme-stats.vercel.app/api?username=Andre601&show_icons=true&title_color=3498db&bg_color=ffffff00&text_color=718096
-
 [top-lang]: https://github-readme-stats.vercel.app/api/top-langs?username=Andre601&layout=compact&title_color=3498db&bg_color=ffffff00&text_color=718096
 
-[trophies]: https://github-profile-trophy.vercel.app/?username=andre601&theme=darkhub
+## :wave: Hello there!
+I'm Andre601 (Or Andre_601). I come from switzerland and are a hobby Java-Developer.
 
-## :wave: Hello
-I'm Andre_601. I live in switzerland and am a hobby-developer coding in Java.
-
-I have several projects here on GitHub but also on other pages such as [SpigotMC.org][spigot].
+I'm also the creator of [\*Purr\*][purr], a Discord bot on more than 35k Servers (And still counting).
 
 ## :file_folder: Projects
-Here is a selection of projects that I either maintain or participate in.
-
-### \*Purr*
-- **Role**: Maintainer
-- [Website][PurrBot-Website]
-- [Documentation][PurrBot-Docs]
-
-[![PurrBot]][PurrBot-Repo]
-
-### JavaBotBlockAPI
-- **Role**: Maintainer
-- [Javadocs][JavaBotBlockAPI-Javadocs]
-
-[![JavaBotBlockAPI]][JavaBotBlockAPI-Repo]
-
-### OneVersionRemake
-- **Role**: Maintainer
-- [Spigot Download][OneVersionRemake-Spigot]
-
-[![OneVersionRemake]][OneVersionRemake-Repo]
-
-### PlaceholderAPI
-- **Role**: Contributor
-- [Spigot Download][PlaceholderAPI-Spigot]
-
-[![PlaceholderAPI]][PlaceholderAPI-Repo]
+You can find a selection of Projects I either maintain or contribute towards below.
 
 ## :bar_chart: Statistics
-
 ![stats]
 
 ![top-lang]
 
-![trophies]
-
 ## :link: Links
-Here are some other usefull links.
-
-- [My Website][website]
+- [Website]
+- [GitHub Projects page][github]
 - [Spigot Page][spigot]
-- [My dedicated GitHub Project page][github]
+- [Patreon]

@@ -4,6 +4,7 @@
 [github]: https://andre601.ch/projects
 [spigot]: https://www.spigotmc.org/resources/authors/56829/
 [patreon]: https://patreon.com/andre_601
+[ko-fi]: https://ko-fi.com/andre_601
 
 <!-- Images -->
 [stats]: https://github-readme-stats.vercel.app/api?username=Andre601&show_icons=true&title_color=3498db&bg_color=ffffff00&text_color=718096
@@ -27,3 +28,4 @@ You can find a selection of Projects I either maintain or contribute towards in 
 - [GitHub Projects page][github]
 - [Spigot Page][spigot]
 - [Patreon]
+- [Ko-fi]

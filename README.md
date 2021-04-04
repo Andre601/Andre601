@@ -13,7 +13,7 @@
 ## :wave: Hello there!
 I'm Andre601 (Or Andre_601). I come from switzerland and are a hobby Java-Developer.
 
-I'm also the creator of [\*Purr\*][purr], a Discord bot on more than 35k Servers (And still counting).
+I'm also the creator of [\*Purr\*][purr], a Discord bot on more than 50k Servers (And still counting).
 
 ## :file_folder: Projects
 You can find a selection of Projects I either maintain or contribute towards in the pinned section below this Readme.

@@ -7,7 +7,7 @@
 [ko-fi]: https://ko-fi.com/andre_601
 
 <!-- Images -->
-[stats]: https://github-readme-stats.vercel.app/api?username=Andre601&show_icons=true&title_color=3498db&bg_color=ffffff00&text_color=718096
+[stats]: https://github-readme-stats.vercel.app/api?username=Andre601&show_icons=true&hide_rank=true&title_color=3498db&bg_color=ffffff00&text_color=718096
 [top-lang]: https://github-readme-stats.vercel.app/api/top-langs?username=Andre601&layout=compact&title_color=3498db&bg_color=ffffff00&text_color=718096
 
 ## :wave: Hello there!
@@ -20,7 +20,6 @@ You can find a selection of Projects I either maintain or contribute towards in 
 
 ## :bar_chart: Statistics
 ![stats]
-
 ![top-lang]
 
 ## :link: Links

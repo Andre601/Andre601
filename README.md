@@ -18,7 +18,7 @@ You can find a selection of Projects I either maintain or contribute towards in 
 <img height="195px" src="https://github-readme-stats.vercel.app/api?username=Andre601&show_icons=true&hide_rank=true&title_color=3498db&bg_color=ffffff00&text_color=718096"><img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Andre601&layout=compact&title_color=3498db&bg_color=ffffff00&text_color=718096">
 
 ### 📜 Recent Activity
-<!-- START_SECTION:activity -->
+<!--START_SECTION:activity-->
 
 ## 🔗 Links
 - [Website]

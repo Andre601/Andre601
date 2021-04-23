@@ -19,6 +19,12 @@ You can find a selection of Projects I either maintain or contribute towards in 
 
 ### 📜 Recent Activity
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#1546](https://github.com/DV8FromTheWorld/JDA/issues/1546) in [DV8FromTheWorld/JDA](https://github.com/DV8FromTheWorld/JDA)
+2. 🎉 Merged PR [#337](https://github.com/purrbot-site/PurrBot/pull/337) in [purrbot-site/PurrBot](https://github.com/purrbot-site/PurrBot)
+3. 🎉 Merged PR [#45](https://github.com/Andre601/OneVersionRemake/pull/45) in [Andre601/OneVersionRemake](https://github.com/Andre601/OneVersionRemake)
+4. 🗣 Commented on [#418](https://github.com/PlaceholderAPI/PlaceholderAPI/issues/418) in [PlaceholderAPI/PlaceholderAPI](https://github.com/PlaceholderAPI/PlaceholderAPI)
+5. ❗️ Closed issue [#617](https://github.com/PlaceholderAPI/PlaceholderAPI/issues/617) in [PlaceholderAPI/PlaceholderAPI](https://github.com/PlaceholderAPI/PlaceholderAPI)
+<!--END_SECTION:activity-->
 
 ## 🔗 Links
 - [Website]

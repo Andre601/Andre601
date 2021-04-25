@@ -19,11 +19,11 @@ You can find a selection of Projects I either maintain or contribute towards in 
 
 ### 📜 Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#52](https://github.com/jamesgeorge007/github-activity-readme/issues/52) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-2. 🗣 Commented on [#1546](https://github.com/DV8FromTheWorld/JDA/issues/1546) in [DV8FromTheWorld/JDA](https://github.com/DV8FromTheWorld/JDA)
-3. 🎉 Merged PR [#337](https://github.com/purrbot-site/PurrBot/pull/337) in [purrbot-site/PurrBot](https://github.com/purrbot-site/PurrBot)
-4. 🎉 Merged PR [#45](https://github.com/Andre601/OneVersionRemake/pull/45) in [Andre601/OneVersionRemake](https://github.com/Andre601/OneVersionRemake)
-5. 🗣 Commented on [#418](https://github.com/PlaceholderAPI/PlaceholderAPI/issues/418) in [PlaceholderAPI/PlaceholderAPI](https://github.com/PlaceholderAPI/PlaceholderAPI)
+1. 🗣 Commented on [#5631](https://github.com/darkreader/darkreader/issues/5631) in [darkreader/darkreader](https://github.com/darkreader/darkreader)
+2. ❗️ Opened issue [#5631](https://github.com/darkreader/darkreader/issues/5631) in [darkreader/darkreader](https://github.com/darkreader/darkreader)
+3. ❗️ Opened issue [#52](https://github.com/jamesgeorge007/github-activity-readme/issues/52) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+4. 🗣 Commented on [#1546](https://github.com/DV8FromTheWorld/JDA/issues/1546) in [DV8FromTheWorld/JDA](https://github.com/DV8FromTheWorld/JDA)
+5. 🎉 Merged PR [#337](https://github.com/purrbot-site/PurrBot/pull/337) in [purrbot-site/PurrBot](https://github.com/purrbot-site/PurrBot)
 <!--END_SECTION:activity-->
 
 ## 🔗 Links

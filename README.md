@@ -23,11 +23,11 @@ The list only includes Issue/Pull request comments, opening issues/Pull requests
 
 This list is updated twice a day.
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#311](https://github.com/Minecrell/ServerListPlus/issues/311) in [Minecrell/ServerListPlus](https://github.com/Minecrell/ServerListPlus)
-2. 🗣 Commented on [#311](https://github.com/Minecrell/ServerListPlus/issues/311) in [Minecrell/ServerListPlus](https://github.com/Minecrell/ServerListPlus)
-3. 🗣 Commented on [#311](https://github.com/Minecrell/ServerListPlus/issues/311) in [Minecrell/ServerListPlus](https://github.com/Minecrell/ServerListPlus)
-4. 🗣 Commented on [#311](https://github.com/Minecrell/ServerListPlus/issues/311) in [Minecrell/ServerListPlus](https://github.com/Minecrell/ServerListPlus)
-5. 🗣 Commented on [#311](https://github.com/Minecrell/ServerListPlus/issues/311) in [Minecrell/ServerListPlus](https://github.com/Minecrell/ServerListPlus)
+1. 💪 Opened PR [#2](https://github.com//probablykasper/readme-template-action/pull/2) in [probablykasper/readme-template-action](https://github.com//probablykasper/readme-template-action)
+2. ❗️ Opened issue [#54](https://github.com//jamesgeorge007/github-activity-readme/issues/54) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+3. ❗️ Opened issue [#53](https://github.com//jamesgeorge007/github-activity-readme/issues/53) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+4. ❗️ Opened issue [#5631](https://github.com//darkreader/darkreader/issues/5631) in [darkreader/darkreader](https://github.com//darkreader/darkreader)
+5. ❗️ Opened issue [#52](https://github.com//jamesgeorge007/github-activity-readme/issues/52) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity-->
 
 ## 🔗 Links

@@ -18,10 +18,8 @@ You can find a selection of Projects I either maintain or contribute towards in 
 <img height="195px" src="https://github-readme-stats.vercel.app/api?username=Andre601&show_icons=true&hide_rank=true&title_color=3498db&bg_color=ffffff00&text_color=718096"><img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Andre601&layout=compact&title_color=3498db&bg_color=ffffff00&text_color=718096">
 
 ### 📜 Recent Activity
-This is a list of my recent activities on GitHub.  
-The list only includes Issue/Pull request comments, opening issues/Pull requests, closing Issues/Pull requests or merging Pull requests.
-
-This list is updated twice a day.
+This is a list of my recent activities.  
+The list is updated twice a day and the displayed activities can be opening an Issue/Pull request, closing an Issue/Pull request or merging a Pull request.
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#2](https://github.com//probablykasper/readme-template-action/pull/2) in [probablykasper/readme-template-action](https://github.com//probablykasper/readme-template-action)
 2. ❗️ Opened issue [#54](https://github.com//jamesgeorge007/github-activity-readme/issues/54) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)

@@ -26,11 +26,11 @@ Additional projects can be found on my [GitHub Project Page][github] so give it 
 A list of my 5 most recent activities, excluding Commenting on Issues.  
 The list is update 2 times a day and includes activities regarding issues (Opening or Closing them) and Pull requests (Opening, closing or merging them).
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com//Techno-Disaster/github-activity-readme/pull/1) in [Techno-Disaster/github-activity-readme](https://github.com//Techno-Disaster/github-activity-readme)
-2. 💪 Opened PR [#2](https://github.com//probablykasper/readme-template-action/pull/2) in [probablykasper/readme-template-action](https://github.com//probablykasper/readme-template-action)
-3. ❗️ Opened issue [#54](https://github.com//jamesgeorge007/github-activity-readme/issues/54) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-4. ❗️ Opened issue [#53](https://github.com//jamesgeorge007/github-activity-readme/issues/53) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-5. ❗️ Opened issue [#5631](https://github.com//darkreader/darkreader/issues/5631) in [darkreader/darkreader](https://github.com//darkreader/darkreader)
+1. 🎉 Merged PR [#15](https://github.com//Andre601/mkdocs-template/pull/15) in [Andre601/mkdocs-template](https://github.com//Andre601/mkdocs-template)
+2. 🎉 Merged PR [#128](https://github.com//purrbot-site/Docs/pull/128) in [purrbot-site/Docs](https://github.com//purrbot-site/Docs)
+3. 💪 Opened PR [#1](https://github.com//Techno-Disaster/github-activity-readme/pull/1) in [Techno-Disaster/github-activity-readme](https://github.com//Techno-Disaster/github-activity-readme)
+4. 💪 Opened PR [#2](https://github.com//probablykasper/readme-template-action/pull/2) in [probablykasper/readme-template-action](https://github.com//probablykasper/readme-template-action)
+5. ❗️ Opened issue [#54](https://github.com//jamesgeorge007/github-activity-readme/issues/54) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity-->
 
 ## 🔗 Links

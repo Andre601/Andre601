@@ -26,11 +26,11 @@ Additional projects can be found on my [GitHub Project Page][github] so give it 
 A list of my 5 most recent activities, excluding Commenting on Issues.  
 The list is update 2 times a day and includes activities regarding issues (Opening or Closing them) and Pull requests (Opening, closing or merging them).
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4285](https://github.com//sindresorhus/refined-github/issues/4285) in [sindresorhus/refined-github](https://github.com//sindresorhus/refined-github)
-2. 🎉 Merged PR [#336](https://github.com//purrbot-site/PurrBot/pull/336) in [purrbot-site/PurrBot](https://github.com//purrbot-site/PurrBot)
-3. 🎉 Merged PR [#338](https://github.com//purrbot-site/PurrBot/pull/338) in [purrbot-site/PurrBot](https://github.com//purrbot-site/PurrBot)
-4. 💪 Opened PR [#623](https://github.com//PlaceholderAPI/PlaceholderAPI/pull/623) in [PlaceholderAPI/PlaceholderAPI](https://github.com//PlaceholderAPI/PlaceholderAPI)
-5. ❌ Closed PR [#622](https://github.com//PlaceholderAPI/PlaceholderAPI/pull/622) in [PlaceholderAPI/PlaceholderAPI](https://github.com//PlaceholderAPI/PlaceholderAPI)
+1. ❗️ Opened issue [#59](https://github.com//jpenilla/MiniMOTD/issues/59) in [jpenilla/MiniMOTD](https://github.com//jpenilla/MiniMOTD)
+2. 💪 Opened PR [#339](https://github.com//Minecrell/ServerListPlus/pull/339) in [Minecrell/ServerListPlus](https://github.com//Minecrell/ServerListPlus)
+3. ❗️ Opened issue [#4285](https://github.com//sindresorhus/refined-github/issues/4285) in [sindresorhus/refined-github](https://github.com//sindresorhus/refined-github)
+4. 🎉 Merged PR [#336](https://github.com//purrbot-site/PurrBot/pull/336) in [purrbot-site/PurrBot](https://github.com//purrbot-site/PurrBot)
+5. 🎉 Merged PR [#338](https://github.com//purrbot-site/PurrBot/pull/338) in [purrbot-site/PurrBot](https://github.com//purrbot-site/PurrBot)
 <!--END_SECTION:activity-->
 
 ## 🔗 Links

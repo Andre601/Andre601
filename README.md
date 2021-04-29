@@ -26,11 +26,11 @@ Additional projects can be found on my [GitHub Project Page][github] so give it 
 A list of my 5 most recent activities, excluding Commenting on Issues.  
 The list is update 2 times a day and includes activities regarding issues (Opening or Closing them) and Pull requests (Opening, closing or merging them).
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#59](https://github.com//jpenilla/MiniMOTD/issues/59) in [jpenilla/MiniMOTD](https://github.com//jpenilla/MiniMOTD)
-2. 💪 Opened PR [#339](https://github.com//Minecrell/ServerListPlus/pull/339) in [Minecrell/ServerListPlus](https://github.com//Minecrell/ServerListPlus)
-3. ❗️ Opened issue [#4285](https://github.com//sindresorhus/refined-github/issues/4285) in [sindresorhus/refined-github](https://github.com//sindresorhus/refined-github)
-4. 🎉 Merged PR [#336](https://github.com//purrbot-site/PurrBot/pull/336) in [purrbot-site/PurrBot](https://github.com//purrbot-site/PurrBot)
-5. 🎉 Merged PR [#338](https://github.com//purrbot-site/PurrBot/pull/338) in [purrbot-site/PurrBot](https://github.com//purrbot-site/PurrBot)
+1. ❗️ Opened issue [#5](https://github.com//xelA/bucket/issues/5) in [xelA/bucket](https://github.com//xelA/bucket)
+2. 💪 Opened PR [#46](https://github.com//Andre601/OneVersionRemake/pull/46) in [Andre601/OneVersionRemake](https://github.com//Andre601/OneVersionRemake)
+3. 💪 Opened PR [#4](https://github.com//Bradydawg/ServerListMotd/pull/4) in [Bradydawg/ServerListMotd](https://github.com//Bradydawg/ServerListMotd)
+4. ❗️ Opened issue [#59](https://github.com//jpenilla/MiniMOTD/issues/59) in [jpenilla/MiniMOTD](https://github.com//jpenilla/MiniMOTD)
+5. 💪 Opened PR [#339](https://github.com//Minecrell/ServerListPlus/pull/339) in [Minecrell/ServerListPlus](https://github.com//Minecrell/ServerListPlus)
 <!--END_SECTION:activity-->
 
 ## 🔗 Links

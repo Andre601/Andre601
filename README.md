@@ -26,11 +26,11 @@ Additional projects can be found on my [GitHub Project Page][github] so give it 
 A list of my 5 most recent activities, excluding Commenting on Issues.  
 The list is update 2 times a day and includes activities regarding issues (Opening or Closing them) and Pull requests (Opening, closing or merging them).
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#46](https://github.com//Andre601/OneVersionRemake/pull/46) in [Andre601/OneVersionRemake](https://github.com//Andre601/OneVersionRemake)
-2. ❗️ Opened issue [#5](https://github.com//xelA/bucket/issues/5) in [xelA/bucket](https://github.com//xelA/bucket)
-3. 💪 Opened PR [#46](https://github.com//Andre601/OneVersionRemake/pull/46) in [Andre601/OneVersionRemake](https://github.com//Andre601/OneVersionRemake)
-4. 💪 Opened PR [#4](https://github.com//Bradydawg/ServerListMotd/pull/4) in [Bradydawg/ServerListMotd](https://github.com//Bradydawg/ServerListMotd)
-5. ❗️ Opened issue [#59](https://github.com//jpenilla/MiniMOTD/issues/59) in [jpenilla/MiniMOTD](https://github.com//jpenilla/MiniMOTD)
+1. 🎉 Merged PR [#231](https://github.com//botblock/JavaBotBlockAPI/pull/231) in [botblock/JavaBotBlockAPI](https://github.com//botblock/JavaBotBlockAPI)
+2. 🎉 Merged PR [#46](https://github.com//Andre601/OneVersionRemake/pull/46) in [Andre601/OneVersionRemake](https://github.com//Andre601/OneVersionRemake)
+3. ❗️ Opened issue [#5](https://github.com//xelA/bucket/issues/5) in [xelA/bucket](https://github.com//xelA/bucket)
+4. 💪 Opened PR [#46](https://github.com//Andre601/OneVersionRemake/pull/46) in [Andre601/OneVersionRemake](https://github.com//Andre601/OneVersionRemake)
+5. 💪 Opened PR [#4](https://github.com//Bradydawg/ServerListMotd/pull/4) in [Bradydawg/ServerListMotd](https://github.com//Bradydawg/ServerListMotd)
 <!--END_SECTION:activity-->
 
 ## 🔗 Links

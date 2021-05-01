@@ -26,11 +26,11 @@ Additional projects can be found on my [GitHub Project Page][github] so give it 
 A list of my 5 most recent activities, excluding Commenting on Issues.  
 The list is update 2 times a day and includes activities regarding issues (Opening or Closing them) and Pull requests (Opening, closing or merging them).
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#231](https://github.com//botblock/JavaBotBlockAPI/pull/231) in [botblock/JavaBotBlockAPI](https://github.com//botblock/JavaBotBlockAPI)
-2. 🎉 Merged PR [#46](https://github.com//Andre601/OneVersionRemake/pull/46) in [Andre601/OneVersionRemake](https://github.com//Andre601/OneVersionRemake)
-3. ❗️ Opened issue [#5](https://github.com//xelA/bucket/issues/5) in [xelA/bucket](https://github.com//xelA/bucket)
-4. 💪 Opened PR [#46](https://github.com//Andre601/OneVersionRemake/pull/46) in [Andre601/OneVersionRemake](https://github.com//Andre601/OneVersionRemake)
-5. 💪 Opened PR [#4](https://github.com//Bradydawg/ServerListMotd/pull/4) in [Bradydawg/ServerListMotd](https://github.com//Bradydawg/ServerListMotd)
+1. 🎉 Merged PR [#233](https://github.com//botblock/JavaBotBlockAPI/pull/233) in [botblock/JavaBotBlockAPI](https://github.com//botblock/JavaBotBlockAPI)
+2. 💪 Opened PR [#233](https://github.com//botblock/JavaBotBlockAPI/pull/233) in [botblock/JavaBotBlockAPI](https://github.com//botblock/JavaBotBlockAPI)
+3. 🎉 Merged PR [#232](https://github.com//botblock/JavaBotBlockAPI/pull/232) in [botblock/JavaBotBlockAPI](https://github.com//botblock/JavaBotBlockAPI)
+4. 💪 Opened PR [#232](https://github.com//botblock/JavaBotBlockAPI/pull/232) in [botblock/JavaBotBlockAPI](https://github.com//botblock/JavaBotBlockAPI)
+5. ❌ Closed PR [#339](https://github.com//purrbot-site/PurrBot/pull/339) in [purrbot-site/PurrBot](https://github.com//purrbot-site/PurrBot)
 <!--END_SECTION:activity-->
 
 ## 🔗 Links

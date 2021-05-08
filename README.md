@@ -23,8 +23,9 @@ Additional projects can be found on my [GitHub Project Page][github] so give it 
 <img height="195px" src="https://github-readme-stats.vercel.app/api?username=Andre601&show_icons=true&hide_rank=true&title_color=3498db&bg_color=ffffff00&text_color=718096"><img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Andre601&layout=compact&title_color=3498db&bg_color=ffffff00&text_color=718096">
 
 ### 📜 Recent Activity
-A list of my 5 most recent activities, excluding Commenting on Issues.  
-The list is update 2 times a day and includes activities regarding issues (Opening or Closing them) and Pull requests (Opening, closing or merging them).
+This is a list of my 5 most recent activities on GitHub.  
+The list is updates twice a day and includes opening and closing issues but also opening, closing or merging Pull requests.
+
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#2](https://github.com//Andre601/Formatter-Expansion/pull/2) in [Andre601/Formatter-Expansion](https://github.com//Andre601/Formatter-Expansion)
 2. 🎉 Merged PR [#16](https://github.com//Andre601/mkdocs-template/pull/16) in [Andre601/mkdocs-template](https://github.com//Andre601/mkdocs-template)

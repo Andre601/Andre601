@@ -13,8 +13,18 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: Techno-Disaster/github-activity-readme@master
+      - uses: Readme-Workflows/recent-activity@url-feature
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           COMMIT_MSG: "Update Andre601/README with new stats"
+          
+          URL_FORMAT: "{REPO}#{ID}"
+          
+          ISSUE_OPENED: "Created Issue {URL}"
+          ISSUE_CLOSED: "Closed Issue {URL}"
+          PR_OPENED: "Created Pull request {URL}"
+          PR_CLOSED: "Closed Pull request {URL}"
+          PR_MERGED: "Merged Pull request {URL}"
+          
+          DISABLE_COMMENTS: true

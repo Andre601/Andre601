@@ -27,11 +27,11 @@ This is a list of my 5 most recent activities on GitHub.
 The list is updates twice a day and includes opening and closing issues but also opening, closing or merging Pull requests.
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#346](https://github.com//purrbot-site/PurrBot/pull/346) in [purrbot-site/PurrBot](https://github.com//purrbot-site/PurrBot)
-2. ❗️ Opened issue [#860](https://github.com//release-drafter/release-drafter/issues/860) in [release-drafter/release-drafter](https://github.com//release-drafter/release-drafter)
-3. 💪 Opened PR [#6](https://github.com//Readme-Workflows/recent-activity/pull/6) in [Readme-Workflows/recent-activity](https://github.com//Readme-Workflows/recent-activity)
-4. ❗️ Opened issue [#5](https://github.com//Readme-Workflows/recent-activity/issues/5) in [Readme-Workflows/recent-activity](https://github.com//Readme-Workflows/recent-activity)
-5. ❗️ Opened issue [#4](https://github.com//Readme-Workflows/recent-activity/issues/4) in [Readme-Workflows/recent-activity](https://github.com//Readme-Workflows/recent-activity)
+1. 🎉 Merged PR [#347](https://github.com//purrbot-site/PurrBot/pull/347) in [purrbot-site/PurrBot](https://github.com//purrbot-site/PurrBot)
+2. 💪 Opened PR [#14](https://github.com//Readme-Workflows/recent-activity/pull/14) in [Readme-Workflows/recent-activity](https://github.com//Readme-Workflows/recent-activity)
+3. 🎉 Merged PR [#346](https://github.com//purrbot-site/PurrBot/pull/346) in [purrbot-site/PurrBot](https://github.com//purrbot-site/PurrBot)
+4. ❗️ Opened issue [#860](https://github.com//release-drafter/release-drafter/issues/860) in [release-drafter/release-drafter](https://github.com//release-drafter/release-drafter)
+5. 💪 Opened PR [#6](https://github.com//Readme-Workflows/recent-activity/pull/6) in [Readme-Workflows/recent-activity](https://github.com//Readme-Workflows/recent-activity)
 <!--END_SECTION:activity-->
 
 ## 🔗 Links

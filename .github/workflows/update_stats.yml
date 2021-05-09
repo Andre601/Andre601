@@ -19,7 +19,7 @@ jobs:
         with:
           COMMIT_MSG: "Update Andre601/README with new stats"
           
-          URL_FORMAT: "{REPO}#{ID}"
+          URL_FORMAT: "{REPO}{ID}"
           
           ISSUE_OPENED: "Created Issue {URL}"
           ISSUE_CLOSED: "Closed Issue {URL}"

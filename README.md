@@ -27,11 +27,11 @@ This is a list of my 5 most recent activities on GitHub.
 The list is updates twice a day and includes opening and closing issues but also opening, closing or merging Pull requests.
 
 <!--START_SECTION:activity-->
-1. Closed Pull request [purrbot-site/PurrBot#347](https://github.com/purrbot-site/PurrBot/pull/347)
-2. Created Pull request [Readme-Workflows/recent-activity#14](https://github.com/Readme-Workflows/recent-activity/pull/14)
-3. Closed Pull request [purrbot-site/PurrBot#346](https://github.com/purrbot-site/PurrBot/pull/346)
-4. Created Issue [release-drafter/release-drafter#860](https://github.com/release-drafter/release-drafter/issues/860)
-5. Created Pull request [Readme-Workflows/recent-activity#6](https://github.com/Readme-Workflows/recent-activity/pull/6)
+1. Closed Pull request [`purrbot-site/PurrBot#347`](https://github.com/purrbot-site/PurrBot/pull/347)
+2. Created Pull request [`Readme-Workflows/recent-activity#14`](https://github.com/Readme-Workflows/recent-activity/pull/14)
+3. Closed Pull request [`purrbot-site/PurrBot#346`](https://github.com/purrbot-site/PurrBot/pull/346)
+4. Created Issue [`release-drafter/release-drafter#860`](https://github.com/release-drafter/release-drafter/issues/860)
+5. Created Pull request [`Readme-Workflows/recent-activity#6`](https://github.com/Readme-Workflows/recent-activity/pull/6)
 <!--END_SECTION:activity-->
 
 ## 🔗 Links

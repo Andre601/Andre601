@@ -18,13 +18,13 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           COMMIT_MSG: "Update Andre601/README with new stats"
+          MAX_LINES: 10
           
-          URL_TEXT: "`{REPO}{ID}`"
+          URL_TEXT: "{REPO}{ID}"
           
           ISSUE_OPENED: "![issueOpened] {URL}"
           ISSUE_CLOSED: "![issueClosed] {URL}"
-          PR_OPENED: "![PullRequestOpened] {URL}"
-          PR_CLOSED: "![PullRequestClosed] {URL}"
-          PR_MERGED: "![PullRequestMerged] {URL}"
-          
-          DISABLE_COMMENTS: true
+          PR_OPENED: "![pullRequestOpened] {URL}"
+          PR_CLOSED: "![pullRequestClosed] {URL}"
+          PR_MERGED: "![pullRequestMerged] {URL}"
+          COMMENTS_ACTIVITY: "![comment] {URL}"

@@ -21,10 +21,10 @@ jobs:
           
           URL_TEXT: "`{REPO}{ID}`"
           
-          ISSUE_OPENED: "Created Issue {URL}"
-          ISSUE_CLOSED: "Closed Issue {URL}"
-          PR_OPENED: "Created Pull request {URL}"
-          PR_CLOSED: "Closed Pull request {URL}"
-          PR_MERGED: "Merged Pull request {URL}"
+          ISSUE_OPENED: "![issueOpened] {URL}"
+          ISSUE_CLOSED: "![issueClosed] {URL}"
+          PR_OPENED: "![PullRequestOpened] {URL}"
+          PR_CLOSED: "![PullRequestClosed] {URL}"
+          PR_MERGED: "![PullRequestMerged] {URL}"
           
           DISABLE_COMMENTS: true

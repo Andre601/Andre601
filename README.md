@@ -27,11 +27,11 @@ This is a list of my 5 most recent activities on GitHub.
 The list is updates twice a day and includes opening and closing issues but also opening, closing or merging Pull requests.
 
 <!--START_SECTION:activity-->
-1. Created Issue [`Ghost-chu/QuickShop-Reremake#940`](https://github.com/Ghost-chu/QuickShop-Reremake/issues/940)
-2. Created Issue [`Ghost-chu/QuickShop-Reremake#939`](https://github.com/Ghost-chu/QuickShop-Reremake/issues/939)
-3. Created Pull request [`Andre601/OneVersionRemake#51`](https://github.com/Andre601/OneVersionRemake/pull/51)
-4. Closed Issue [`SpongePowered/Configurate#204`](https://github.com/SpongePowered/Configurate/issues/204)
-5. Created Issue [`SpongePowered/Configurate#204`](https://github.com/SpongePowered/Configurate/issues/204)
+1. ![pullRequestClosed] [purrbot-site/PurrBot#348](https://github.com/purrbot-site/PurrBot/pull/348)
+2. ![comment] [Ghost-chu/QuickShop-Reremake#806](https://github.com/Ghost-chu/QuickShop-Reremake/issues/806)
+3. ![issueOpened] [Ghost-chu/QuickShop-Reremake#940](https://github.com/Ghost-chu/QuickShop-Reremake/issues/940)
+4. ![issueOpened] [Ghost-chu/QuickShop-Reremake#939](https://github.com/Ghost-chu/QuickShop-Reremake/issues/939)
+5. ![comment] [DV8FromTheWorld/JDA#1619](https://github.com/DV8FromTheWorld/JDA/issues/1619)
 <!--END_SECTION:activity-->
 
 ## 🔗 Links

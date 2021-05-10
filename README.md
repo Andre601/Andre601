@@ -32,7 +32,6 @@ The list is updates twice a day and includes opening and closing issues but also
 3. ![issueOpened] [Ghost-chu/QuickShop-Reremake#940](https://github.com/Ghost-chu/QuickShop-Reremake/issues/940)
 4. ![issueOpened] [Ghost-chu/QuickShop-Reremake#939](https://github.com/Ghost-chu/QuickShop-Reremake/issues/939)
 5. ![comment] [DV8FromTheWorld/JDA#1619](https://github.com/DV8FromTheWorld/JDA/issues/1619)
-<!--END_SECTION:activity-->
 
 ## 🔗 Links
 - [Website]

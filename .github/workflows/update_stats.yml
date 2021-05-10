@@ -22,9 +22,9 @@ jobs:
           
           URL_TEXT: "{REPO}{ID}"
           
-          ISSUE_OPENED: "![issueOpened] {URL}"
-          ISSUE_CLOSED: "![issueClosed] {URL}"
-          PR_OPENED: "![pullRequestOpened] {URL}"
-          PR_CLOSED: "![pullRequestClosed] {URL}"
-          PR_MERGED: "![pullRequestMerged] {URL}"
-          COMMENTS_ACTIVITY: "![comment] {URL}"
+          ISSUE_OPENED: "![issueOpened] **Issue opened:** {URL}"
+          ISSUE_CLOSED: "![issueClosed] **Issue closed:** {URL}"
+          PR_OPENED: "![pullRequestOpened] **Pull request opened:** {URL}"
+          PR_CLOSED: "![pullRequestClosed] **Pull request closed:** {URL}"
+          PR_MERGED: "![pullRequestMerged] **Pull request merged:** {URL}"
+          COMMENTS_ACTIVITY: "![comment] **Commented:** {URL}"

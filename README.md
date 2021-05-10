@@ -27,7 +27,7 @@ This is a list of my 5 most recent activities on GitHub.
 The list is updates twice a day and includes opening and closing issues but also opening, closing or merging Pull requests.
 
 <!--START_SECTION:activity-->
-1. ![pullRequestClosed] [purrbot-site/PurrBot#348](https://github.com/purrbot-site/PurrBot/pull/348)
+1. ![pullRequestMerged] [purrbot-site/PurrBot#348](https://github.com/purrbot-site/PurrBot/pull/348)
 2. ![comment] [Ghost-chu/QuickShop-Reremake#806](https://github.com/Ghost-chu/QuickShop-Reremake/issues/806)
 3. ![issueOpened] [Ghost-chu/QuickShop-Reremake#940](https://github.com/Ghost-chu/QuickShop-Reremake/issues/940)
 4. ![issueOpened] [Ghost-chu/QuickShop-Reremake#939](https://github.com/Ghost-chu/QuickShop-Reremake/issues/939)

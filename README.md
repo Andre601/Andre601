@@ -52,4 +52,4 @@ The list is updates twice a day and includes opening and closing issues but also
 [pullRequestOpened]: https://raw.githubusercontent.com/Andre601/Andre601/09aad4ea8f2f4fb9fe99a74813225caae8117492/images/PullRequestOpened.svg
 [pullRequestClosed]: https://raw.githubusercontent.com/Andre601/Andre601/09aad4ea8f2f4fb9fe99a74813225caae8117492/images/PullRequestClosed.svg
 [pullRequestMerged]: https://raw.githubusercontent.com/Andre601/Andre601/09aad4ea8f2f4fb9fe99a74813225caae8117492/images/PullRequestMerged.svg
-[comment]: https://raw.githubusercontent.com/Andre601/Andre601/09aad4ea8f2f4fb9fe99a74813225caae8117492/images/Comment.svg
+[comment]: https://raw.githubusercontent.com/Andre601/Andre601/79e5dabf88ee39e997b0c23dfd496856d0fd7f43/images/Comment.svg

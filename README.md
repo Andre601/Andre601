@@ -23,8 +23,8 @@ Additional projects can be found on my [GitHub Project Page][github] so give it 
 <img height="195px" src="https://github-readme-stats.vercel.app/api?username=Andre601&show_icons=true&hide_rank=true&title_color=3498db&bg_color=ffffff00&text_color=718096"><img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Andre601&layout=compact&title_color=3498db&bg_color=ffffff00&text_color=718096">
 
 ### 📜 Recent Activity
-This is a list of my 5 most recent activities on GitHub.  
-The list is updates twice a day and includes opening and closing issues but also opening, closing or merging Pull requests.
+This is a list of my 10 most recent activities on GitHub.  
+The list is updates twice a day and includes commenting on Discussions, issues and Pull requests, opening and closing issues and opening, closing and merging Pull requests.
 
 <!--START_SECTION:activity-->
 1. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#348](https://github.com/purrbot-site/PurrBot/pull/348)

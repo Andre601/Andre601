@@ -27,16 +27,16 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes commenting on Discussions, issues and Pull requests, opening and closing issues and opening, closing and merging Pull requests.
 
 <!--START_SECTION:activity-->
-1. ![comment] **Commented:** [Readme-Workflows/recent-activity#19](https://github.com/Readme-Workflows/recent-activity/issues/19)
-2. ![comment] **Commented:** [Readme-Workflows/recent-activity#17](https://github.com/Readme-Workflows/recent-activity/issues/17)
-3. ![comment] **Commented:** [Readme-Workflows/recent-activity#17](https://github.com/Readme-Workflows/recent-activity/issues/17)
-4. ![pullRequestOpened] **Pull request opened:** [Readme-Workflows/recent-activity#19](https://github.com/Readme-Workflows/recent-activity/pull/19)
-5. ![comment] **Commented:** [Readme-Workflows/recent-activity#17](https://github.com/Readme-Workflows/recent-activity/issues/17)
-6. ![pullRequestMerged] **Pull request merged:** [Andre601/GitHub-Markdown#14](https://github.com/Andre601/GitHub-Markdown/pull/14)
-7. ![pullRequestOpened] **Pull request opened:** [Andre601/GitHub-Markdown#14](https://github.com/Andre601/GitHub-Markdown/pull/14)
-8. ![pullRequestMerged] **Pull request merged:** [Andre601/GitHub-Markdown#13](https://github.com/Andre601/GitHub-Markdown/pull/13)
-9. ![pullRequestOpened] **Pull request opened:** [Andre601/GitHub-Markdown#13](https://github.com/Andre601/GitHub-Markdown/pull/13)
-10. ![comment] **Commented:** [Readme-Workflows/recent-activity#17](https://github.com/Readme-Workflows/recent-activity/issues/17)
+1. ![pullRequestClosed] **Pull request closed:** [PlaceholderAPI/PlaceholderAPI#629](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/629)
+2. ![comment] **Commented:** [PlaceholderAPI/PlaceholderAPI#629](https://github.com/PlaceholderAPI/PlaceholderAPI/issues/629)
+3. ![comment] **Commented:** [PlaceholderAPI/PlaceholderAPI#628](https://github.com/PlaceholderAPI/PlaceholderAPI/issues/628)
+4. ![comment] **Commented:** [PlaceholderAPI/PlaceholderAPI#628](https://github.com/PlaceholderAPI/PlaceholderAPI/issues/628)
+5. ![pullRequestMerged] **Pull request merged:** [Andre601/JDA-Utilities#1](https://github.com/Andre601/JDA-Utilities/pull/1)
+6. ![pullRequestMerged] **Pull request merged:** [botblock/JavaBotBlockAPI#241](https://github.com/botblock/JavaBotBlockAPI/pull/241)
+7. ![pullRequestOpened] **Pull request opened:** [botblock/JavaBotBlockAPI#241](https://github.com/botblock/JavaBotBlockAPI/pull/241)
+8. ![pullRequestOpened] **Pull request opened:** [Readme-Workflows/recent-activity#20](https://github.com/Readme-Workflows/recent-activity/pull/20)
+9. ![comment] **Commented:** [Readme-Workflows/recent-activity#19](https://github.com/Readme-Workflows/recent-activity/issues/19)
+10. ![comment] **Commented:** [Readme-Workflows/recent-activity#19](https://github.com/Readme-Workflows/recent-activity/issues/19)
 <!--END_SECTION:activity-->
 
 ## 🔗 Links

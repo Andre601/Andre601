@@ -20,7 +20,7 @@ Below this Readme can you find a list of Projects that I believe are my most pop
 Additional projects can be found on my [GitHub Project Page][github] so give it a look.
 
 ## 📊 Statistics
-<img height="195px" src="https://github-readme-stats.vercel.app/api?username=Andre601&show_icons=true&hide_rank=true&title_color=3498db&bg_color=ffffff00&text_color=718096"><img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Andre601&layout=compact&title_color=3498db&bg_color=ffffff00&text_color=718096">
+<img height="195px" src="https://github-readme-stats.vercel.app/api?username=Andre601&show_icons=true&hide_rank=true&title_color=3498db&bg_color=ffffff00&text_color=718096&disable_animations=true"><img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Andre601&layout=compact&title_color=3498db&bg_color=ffffff00&text_color=718096">
 
 ### 📜 Recent Activity
 This is a list of my 10 most recent activities on GitHub.  

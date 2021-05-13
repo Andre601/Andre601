@@ -27,15 +27,15 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes commenting on Discussions, issues and Pull requests, opening and closing issues and opening, closing and merging Pull requests.
 
 <!--START_SECTION:activity-->
-1. ![comment] **Commented:** [Readme-Workflows/recent-activity#22](https://github.com/Readme-Workflows/recent-activity/issues/22)
-2. ![pullRequestClosed] **Pull request closed:** [Andre601/Andre601#1](https://github.com/Andre601/Andre601/pull/1)
-3. ![pullRequestClosed] **Pull request closed:** [Andre601/blog#13](https://github.com/Andre601/blog/pull/13)
-4. ![pullRequestClosed] **Pull request closed:** [Andre601/mkdocs-template#17](https://github.com/Andre601/mkdocs-template/pull/17)
-5. ![pullRequestClosed] **Pull request closed:** [purrbot-site/Docs#130](https://github.com/purrbot-site/Docs/pull/130)
-6. ![pullRequestClosed] **Pull request closed:** [Andre601/Spigot-Sounds#9](https://github.com/Andre601/Spigot-Sounds/pull/9)
-7. ![pullRequestClosed] **Pull request closed:** [PlaceholderAPI/PlaceholderAPI#629](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/629)
-8. ![comment] **Commented:** [PlaceholderAPI/PlaceholderAPI#629](https://github.com/PlaceholderAPI/PlaceholderAPI/issues/629)
-9. ![comment] **Commented:** [PlaceholderAPI/PlaceholderAPI#628](https://github.com/PlaceholderAPI/PlaceholderAPI/issues/628)
+1. ![comment] **Commented:** [Readme-Workflows/recent-activity#23](https://github.com/Readme-Workflows/recent-activity/issues/23)
+2. ![comment] **Commented:** [Readme-Workflows/recent-activity#22](https://github.com/Readme-Workflows/recent-activity/issues/22)
+3. ![pullRequestClosed] **Pull request closed:** [Andre601/Andre601#1](https://github.com/Andre601/Andre601/pull/1)
+4. ![pullRequestClosed] **Pull request closed:** [Andre601/blog#13](https://github.com/Andre601/blog/pull/13)
+5. ![pullRequestClosed] **Pull request closed:** [Andre601/mkdocs-template#17](https://github.com/Andre601/mkdocs-template/pull/17)
+6. ![pullRequestClosed] **Pull request closed:** [purrbot-site/Docs#130](https://github.com/purrbot-site/Docs/pull/130)
+7. ![pullRequestClosed] **Pull request closed:** [Andre601/Spigot-Sounds#9](https://github.com/Andre601/Spigot-Sounds/pull/9)
+8. ![pullRequestClosed] **Pull request closed:** [PlaceholderAPI/PlaceholderAPI#629](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/629)
+9. ![comment] **Commented:** [PlaceholderAPI/PlaceholderAPI#629](https://github.com/PlaceholderAPI/PlaceholderAPI/issues/629)
 10. ![comment] **Commented:** [PlaceholderAPI/PlaceholderAPI#628](https://github.com/PlaceholderAPI/PlaceholderAPI/issues/628)
 <!--END_SECTION:activity-->
 

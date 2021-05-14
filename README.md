@@ -27,16 +27,16 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes commenting on Discussions, issues and Pull requests, opening and closing issues and opening, closing and merging Pull requests.
 
 <!--START_SECTION:activity-->
-1. ![pullRequestClosed] **Pull request closed:** [PlaceholderAPI/PlaceholderAPI#630](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/630)
-2. ![comment] **Commented:** [PlaceholderAPI/PlaceholderAPI#630](https://github.com/PlaceholderAPI/PlaceholderAPI/issues/630)
-3. ![pullRequestOpened] **Pull request opened:** [PuneetGopinath/PuneetGopinath#1](https://github.com/PuneetGopinath/PuneetGopinath/pull/1)
-4. ![comment] **Commented:** [Readme-Workflows/recent-activity#23](https://github.com/Readme-Workflows/recent-activity/issues/23)
-5. ![pullRequestMerged] **Pull request merged:** [Andre601/Andre601#2](https://github.com/Andre601/Andre601/pull/2)
-6. ![comment] **Commented:** [Readme-Workflows/recent-activity#23](https://github.com/Readme-Workflows/recent-activity/issues/23)
-7. ![comment] **Commented:** [Readme-Workflows/recent-activity#22](https://github.com/Readme-Workflows/recent-activity/issues/22)
-8. ![pullRequestMerged] **Pull request merged:** [Andre601/Andre601#1](https://github.com/Andre601/Andre601/pull/1)
-9. ![pullRequestMerged] **Pull request merged:** [Andre601/blog#13](https://github.com/Andre601/blog/pull/13)
-10. ![pullRequestMerged] **Pull request merged:** [Andre601/mkdocs-template#17](https://github.com/Andre601/mkdocs-template/pull/17)
+1. ![pullRequestMerged] **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#631](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/631)
+2. ![pullRequestClosed] **Pull request closed:** [PlaceholderAPI/PlaceholderAPI#630](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/630)
+3. ![comment] **Commented:** [PlaceholderAPI/PlaceholderAPI#630](https://github.com/PlaceholderAPI/PlaceholderAPI/issues/630)
+4. ![pullRequestOpened] **Pull request opened:** [PuneetGopinath/PuneetGopinath#1](https://github.com/PuneetGopinath/PuneetGopinath/pull/1)
+5. ![comment] **Commented:** [Readme-Workflows/recent-activity#23](https://github.com/Readme-Workflows/recent-activity/issues/23)
+6. ![pullRequestMerged] **Pull request merged:** [Andre601/Andre601#2](https://github.com/Andre601/Andre601/pull/2)
+7. ![comment] **Commented:** [Readme-Workflows/recent-activity#23](https://github.com/Readme-Workflows/recent-activity/issues/23)
+8. ![comment] **Commented:** [Readme-Workflows/recent-activity#22](https://github.com/Readme-Workflows/recent-activity/issues/22)
+9. ![pullRequestMerged] **Pull request merged:** [Andre601/Andre601#1](https://github.com/Andre601/Andre601/pull/1)
+10. ![pullRequestMerged] **Pull request merged:** [Andre601/blog#13](https://github.com/Andre601/blog/pull/13)
 <!--END_SECTION:activity-->
 
 ## 🔗 Links

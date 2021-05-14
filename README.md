@@ -1,4 +1,5 @@
 <!-- Links -->
+[andre]: https://discord.bio/p/andre601
 [purr]: https://purrbot.site
 [discord]: https://discord.gg/6dazXp6
 [website]: https://andre601.ch
@@ -9,7 +10,7 @@
 
 ## 👋 Hello there!
 My name is Andreas but most people just call me Andre.  
-On the internet am I known as either Andre_601 or Andre601.
+On the internet am I known as either Andre_601 or Andre601. My tag on Discord is [Andre_601#0601][andre].
 
 I'm a Hobby Developer who develops stuff in my free time (which is a lot right now) in Java. My most popular/well known project so far is [\*Purr\*][purr], a Discord Bot that reached over 50,000 Servers (And still counting).
 

@@ -28,16 +28,16 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes commenting on Discussions, issues and Pull requests, opening and closing issues and opening, closing and merging Pull requests.
 
 <!--START_SECTION:activity-->
-1. ![comment] **Commented:** [Readme-Workflows/recent-activity#35](https://github.com/Readme-Workflows/recent-activity/issues/35)
-2. ![comment] **Commented:** [Readme-Workflows/recent-activity#35](https://github.com/Readme-Workflows/recent-activity/issues/35)
-3. ![comment] **Commented:** [Readme-Workflows/recent-activity#35](https://github.com/Readme-Workflows/recent-activity/issues/35)
-4. ![comment] **Commented:** [Readme-Workflows/recent-activity#35](https://github.com/Readme-Workflows/recent-activity/issues/35)
-5. ![issueOpened] **Issue opened:** [nastyox/Repo-Roster#3](https://github.com/nastyox/Repo-Roster/issues/3)
-6. ![pullRequestOpened] **Pull request opened:** [Readme-Workflows/recent-activity#35](https://github.com/Readme-Workflows/recent-activity/pull/35)
-7. ![comment] **Commented:** [primer/octicons#613](https://github.com/primer/octicons/issues/613)
-8. ![pullRequestMerged] **Pull request merged:** [purrbot-site/Docs#131](https://github.com/purrbot-site/Docs/pull/131)
-9. ![pullRequestOpened] **Pull request opened:** [purrbot-site/Docs#131](https://github.com/purrbot-site/Docs/pull/131)
-10. ![comment] **Commented:** [Readme-Workflows/recent-activity#32](https://github.com/Readme-Workflows/recent-activity/issues/32)
+1. ![issueOpened] **Issue opened:** [nastyox/Repo-Roster#3](https://github.com/nastyox/Repo-Roster/issues/3)
+2. ![pullRequestOpened] **Pull request opened:** [Readme-Workflows/recent-activity#35](https://github.com/Readme-Workflows/recent-activity/pull/35)
+3. ![pullRequestMerged] **Pull request merged:** [purrbot-site/Docs#131](https://github.com/purrbot-site/Docs/pull/131)
+4. ![pullRequestOpened] **Pull request opened:** [purrbot-site/Docs#131](https://github.com/purrbot-site/Docs/pull/131)
+5. ![pullRequestOpened] **Pull request opened:** [vemel/update-changelog#3](https://github.com/vemel/update-changelog/pull/3)
+6. ![pullRequestOpened] **Pull request opened:** [Readme-Workflows/recent-activity#29](https://github.com/Readme-Workflows/recent-activity/pull/29)
+7. ![pullRequestMerged] **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#631](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/631)
+8. ![pullRequestClosed] **Pull request closed:** [PlaceholderAPI/PlaceholderAPI#630](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/630)
+9. ![pullRequestOpened] **Pull request opened:** [PuneetGopinath/PuneetGopinath#1](https://github.com/PuneetGopinath/PuneetGopinath/pull/1)
+10. ![pullRequestMerged] **Pull request merged:** [Andre601/Andre601#2](https://github.com/Andre601/Andre601/pull/2)
 <!--END_SECTION:activity-->
 
 ## 🔗 Links

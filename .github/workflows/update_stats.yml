@@ -28,3 +28,5 @@ jobs:
           PR_CLOSED: "![pullRequestClosed] **Pull request closed:** {URL}"
           PR_MERGED: "![pullRequestMerged] **Pull request merged:** {URL}"
           COMMENTS_ACTIVITY: "![comment] **Commented:** {URL}"
+          
+          DISABLE_EVENTS: "COMMENTS"

@@ -48,9 +48,9 @@ The list is updates twice a day and includes commenting on Discussions, issues a
 - [Ko-fi]
 
 <!-- Badges -->
-[issueOpened]: https://raw.githubusercontent.com/Andre601/Andre601/4dadd89f960758755927537b4108e03eb2d93eba/images/IssueOpened.svg
-[issueClosed]: https://raw.githubusercontent.com/Andre601/Andre601/4dadd89f960758755927537b4108e03eb2d93eba/images/IssueClosed.svg
-[pullRequestOpened]: https://raw.githubusercontent.com/Andre601/Andre601/4dadd89f960758755927537b4108e03eb2d93eba/images/PullRequestOpened.svg
-[pullRequestClosed]: https://raw.githubusercontent.com/Andre601/Andre601/4dadd89f960758755927537b4108e03eb2d93eba/images/PullRequestClosed.svg
+[issueOpened]: https://raw.githubusercontent.com/Andre601/Andre601/master/images/IssueOpened.svg
+[issueClosed]: https://raw.githubusercontent.com/Andre601/Andre601/master/images/IssueClosed.svg
+[pullRequestOpened]: https://raw.githubusercontent.com/Andre601/Andre601/master/images/PullRequestOpened.svg
+[pullRequestClosed]: https://raw.githubusercontent.com/Andre601/Andre601/master/images/PullRequestClosed.svg
 [pullRequestMerged]: https://raw.githubusercontent.com/Andre601/Andre601/4dadd89f960758755927537b4108e03eb2d93eba/images/PullRequestMerged.svg
-[comment]: https://raw.githubusercontent.com/Andre601/Andre601/4dadd89f960758755927537b4108e03eb2d93eba/images/Comment.svg
+[comment]: https://raw.githubusercontent.com/Andre601/Andre601/master/images/Comment.svg

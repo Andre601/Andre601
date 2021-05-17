@@ -28,19 +28,19 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes commenting on Discussions, issues and Pull requests, opening and closing issues and opening, closing and merging Pull requests.
 
 <!--RECENT_ACTIVITY:last_update-->
-Last update: `17.05.2021 09:04:32 GMT`
+Last update: `17.05.2021 13:07:25 GMT`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![pullRequestMerged] **Pull request merged:** [Andre601/Andre601#3](https://github.com/Andre601/Andre601/pull/3)
-2. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#353](https://github.com/purrbot-site/PurrBot/pull/353)
-3. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#352](https://github.com/purrbot-site/PurrBot/pull/352)
-4. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#351](https://github.com/purrbot-site/PurrBot/pull/351)
-5. ![pullRequestOpened] **Pull request opened:** [Andre601/OneVersionRemake#52](https://github.com/Andre601/OneVersionRemake/pull/52)
-6. ![pullRequestMerged] **Pull request merged:** [Andre601/OneVersionRemake#51](https://github.com/Andre601/OneVersionRemake/pull/51)
-7. ![pullRequestOpened] **Pull request opened:** [Readme-Workflows/recent-activity#39](https://github.com/Readme-Workflows/recent-activity/pull/39)
-8. ![pullRequestOpened] **Pull request opened:** [Readme-Workflows/recent-activity#38](https://github.com/Readme-Workflows/recent-activity/pull/38)
-9. ![pullRequestMerged] **Pull request merged:** [Andre601/andre601.github.io#8](https://github.com/Andre601/andre601.github.io/pull/8)
-10. ![pullRequestOpened] **Pull request opened:** [Readme-Workflows/recent-activity#36](https://github.com/Readme-Workflows/recent-activity/pull/36)
+1. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#354](https://github.com/purrbot-site/PurrBot/pull/354)
+2. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#355](https://github.com/purrbot-site/PurrBot/pull/355)
+3. ![pullRequestMerged] **Pull request merged:** [Andre601/OneVersionRemake#52](https://github.com/Andre601/OneVersionRemake/pull/52)
+4. ![pullRequestOpened] **Pull request opened:** [Readme-Workflows/recent-activity#41](https://github.com/Readme-Workflows/recent-activity/pull/41)
+5. ![pullRequestMerged] **Pull request merged:** [Andre601/Andre601#3](https://github.com/Andre601/Andre601/pull/3)
+6. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#353](https://github.com/purrbot-site/PurrBot/pull/353)
+7. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#352](https://github.com/purrbot-site/PurrBot/pull/352)
+8. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#351](https://github.com/purrbot-site/PurrBot/pull/351)
+9. ![pullRequestOpened] **Pull request opened:** [Andre601/OneVersionRemake#52](https://github.com/Andre601/OneVersionRemake/pull/52)
+10. ![pullRequestMerged] **Pull request merged:** [Andre601/OneVersionRemake#51](https://github.com/Andre601/OneVersionRemake/pull/51)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

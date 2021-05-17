@@ -31,6 +31,5 @@ jobs:
           
           DISABLE_EVENTS: "COMMENTS"
           
-          TIMEZONE_OFFSET: "+2:00"
-          DATE_STRING: "Last update: `{DATE}`"
+          DATE_STRING: "Last update: `{DATE} GMT`"
           DATE_FORMAT: "dd.mm.yyyy HH:MM:ss"

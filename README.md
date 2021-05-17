@@ -27,7 +27,8 @@ Additional projects can be found on my [GitHub Project Page][github] so give it 
 This is a list of my 10 most recent activities on GitHub.  
 The list is updates twice a day and includes commenting on Discussions, issues and Pull requests, opening and closing issues and opening, closing and merging Pull requests.
 
-<!--START_SECTION:activity-->
+<!--RECENT_ACTIVITY:last_update-->
+<!--RECENT_ACTIVITY:start-->
 1. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#353](https://github.com/purrbot-site/PurrBot/pull/353)
 2. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#352](https://github.com/purrbot-site/PurrBot/pull/352)
 3. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#351](https://github.com/purrbot-site/PurrBot/pull/351)
@@ -38,7 +39,7 @@ The list is updates twice a day and includes commenting on Discussions, issues a
 8. ![pullRequestMerged] **Pull request merged:** [Andre601/andre601.github.io#8](https://github.com/Andre601/andre601.github.io/pull/8)
 9. ![pullRequestOpened] **Pull request opened:** [Readme-Workflows/recent-activity#36](https://github.com/Readme-Workflows/recent-activity/pull/36)
 10. ![issueOpened] **Issue opened:** [release-drafter/release-drafter#866](https://github.com/release-drafter/release-drafter/issues/866)
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links
 - [Website]

@@ -51,15 +51,15 @@ Last update: `21.05.2021 12:38:32 GMT`
 - [Ko-fi]
 
 <!-- Badges -->
-[issueOpened]: https://raw.githubusercontent.com/Andre601/Andre601/master/images/IssueOpened.svg
-[issueClosed]: https://raw.githubusercontent.com/Andre601/Andre601/master/images/IssueClosed.svg
+[issueOpened]: https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/octicons/IssueOpenedOld.svg
+[issueClosed]: https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/octicons/IssueClosedOld.svg
 
-[pullRequestOpened]: https://raw.githubusercontent.com/Andre601/Andre601/master/images/PullRequestOpened.svg
-[pullRequestClosed]: https://raw.githubusercontent.com/Andre601/Andre601/master/images/PullRequestClosed.svg
-[pullRequestMerged]: https://raw.githubusercontent.com/Andre601/Andre601/master/images/PullRequestMerged.svg
+[pullRequestOpened]: https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/octicons/PullRequestOpened.svg
+[pullRequestClosed]: https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/octicons/PullRequestClosed.svg
+[pullRequestMerged]: https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/octicons/PullRequestMerged.svg
 
-[comment]: https://raw.githubusercontent.com/Andre601/Andre601/master/images/Comment.svg
+[comment]: https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/octicons/Comment.svg
 
-[changesRequested]: https://raw.githubusercontent.com/Andre601/Andre601/master/images/RequestedChanges.svg
-[approved]: https://raw.githubusercontent.com/Andre601/Andre601/master/images/ApprovedPullRequest.svg
-[newRepo]: https://raw.githubusercontent.com/Andre601/Andre601/master/images/NewRepository.svg
+[changesRequested]: https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/octicons/RequestedChanges.svg
+[approved]: https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/octicons/ApprovedChanges.svg
+[newRepo]: https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/octicons/Repository.svg

@@ -53,7 +53,13 @@ Last update: `21.05.2021 12:38:32 GMT`
 <!-- Badges -->
 [issueOpened]: https://raw.githubusercontent.com/Andre601/Andre601/master/images/IssueOpened.svg
 [issueClosed]: https://raw.githubusercontent.com/Andre601/Andre601/master/images/IssueClosed.svg
+
 [pullRequestOpened]: https://raw.githubusercontent.com/Andre601/Andre601/master/images/PullRequestOpened.svg
 [pullRequestClosed]: https://raw.githubusercontent.com/Andre601/Andre601/master/images/PullRequestClosed.svg
-[pullRequestMerged]: https://raw.githubusercontent.com/Andre601/Andre601/4dadd89f960758755927537b4108e03eb2d93eba/images/PullRequestMerged.svg
+[pullRequestMerged]: https://raw.githubusercontent.com/Andre601/Andre601/master/images/PullRequestMerged.svg
+
 [comment]: https://raw.githubusercontent.com/Andre601/Andre601/master/images/Comment.svg
+
+[changesRequested]: https://raw.githubusercontent.com/Andre601/Andre601/master/images/RequestedChanges.svg
+[approved]: https://raw.githubusercontent.com/Andre601/Andre601/master/images/ApprovedPullRequest.svg
+[newRepo]: https://raw.githubusercontent.com/Andre601/Andre601/master/images/NewRepository.svg

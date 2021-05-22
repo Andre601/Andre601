@@ -28,19 +28,19 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes commenting on Discussions, issues and Pull requests, opening and closing issues and opening, closing and merging Pull requests.
 
 <!--RECENT_ACTIVITY:last_update-->
-Last update: `21.05.2021 12:38:32 GMT`
+Last update: `22.05.2021 01:14:48 GMT`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![issueOpened] **Issue opened:** [github/choosealicense.com#830](https://github.com/github/choosealicense.com/issues/830)
-2. ![pullRequestOpened] **Pull request opened:** [Readme-Workflows/recent-activity#47](https://github.com/Readme-Workflows/recent-activity/pull/47)
-3. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#356](https://github.com/purrbot-site/PurrBot/pull/356)
-4. ![pullRequestMerged] **Pull request merged:** [Andre601/mkdocs-template#18](https://github.com/Andre601/mkdocs-template/pull/18)
-5. ![pullRequestMerged] **Pull request merged:** [purrbot-site/Docs#132](https://github.com/purrbot-site/Docs/pull/132)
-6. ![pullRequestOpened] **Pull request opened:** [Readme-Workflows/recent-activity#44](https://github.com/Readme-Workflows/recent-activity/pull/44)
-7. ![pullRequestOpened] **Pull request opened:** [Readme-Workflows/recent-activity#43](https://github.com/Readme-Workflows/recent-activity/pull/43)
-8. ![pullRequestMerged] **Pull request merged:** [Andre601/OneVersionRemake#55](https://github.com/Andre601/OneVersionRemake/pull/55)
-9. ![pullRequestMerged] **Pull request merged:** [PowerPlugins/Plugin#32](https://github.com/PowerPlugins/Plugin/pull/32)
-10. ![pullRequestOpened] **Pull request opened:** [Andre601/OneVersionRemake#55](https://github.com/Andre601/OneVersionRemake/pull/55)
+1. ![pullRequestOpened] **Pull request opened:** [Readme-Workflows/recent-activity#51](https://github.com/Readme-Workflows/recent-activity/pull/51)
+2. ![pullRequestOpened] **Pull request opened:** [Readme-Workflows/recent-activity#50](https://github.com/Readme-Workflows/recent-activity/pull/50)
+3. ![pullRequestOpened] **Pull request opened:** [KyoriPowered/adventure-text-minimessage#112](https://github.com/KyoriPowered/adventure-text-minimessage/pull/112)
+4. ![pullRequestMerged] **Pull request merged:** [Andre601/adventure-text-minimessage#1](https://github.com/Andre601/adventure-text-minimessage/pull/1)
+5. ![pullRequestOpened] **Pull request opened:** [Andre601/adventure-text-minimessage#1](https://github.com/Andre601/adventure-text-minimessage/pull/1)
+6. ![issueOpened] **Issue opened:** [github/choosealicense.com#830](https://github.com/github/choosealicense.com/issues/830)
+7. ![pullRequestOpened] **Pull request opened:** [Readme-Workflows/recent-activity#47](https://github.com/Readme-Workflows/recent-activity/pull/47)
+8. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#356](https://github.com/purrbot-site/PurrBot/pull/356)
+9. ![pullRequestMerged] **Pull request merged:** [Andre601/mkdocs-template#18](https://github.com/Andre601/mkdocs-template/pull/18)
+10. ![pullRequestMerged] **Pull request merged:** [purrbot-site/Docs#132](https://github.com/purrbot-site/Docs/pull/132)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

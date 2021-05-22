@@ -13,29 +13,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2.3.4
-      - uses: Readme-Workflows/recent-activity@main
+      - uses: Readme-Workflows/recent-activity@add-config-file
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          COMMIT_MSG: "Update Andre601/README with new stats"
-          MAX_LINES: 10
-          
-          URL_TEXT: "{REPO}{ID}"
-          
-          ISSUE_OPENED: "![issueOpened] **Issue opened:** {URL}"
-          ISSUE_CLOSED: "![issueClosed] **Issue closed:** {URL}"
-          PR_OPENED: "![pullRequestOpened] **Pull request opened:** {URL}"
-          PR_CLOSED: "![pullRequestClosed] **Pull request closed:** {URL}"
-          PR_MERGED: "![pullRequestMerged] **Pull request merged:** {URL}"
-          COMMENTS_ACTIVITY: "![comment] **Commented:** {URL}"
-          CREATE_REPO: "![repoCreated] **Created Repository:** `{REPO}`"
-          REVIEW_APPROVED: "![approved] **Approved Changes:** {URL}"
-          CHANGES_REQUESTED: "![changesRequested] **Requested Changes:** {URL}"
-          RELEASE: "![release] **Created Release:** {URL}"
-          STAR: "![star] **Starred** {REPO}"
-          
-          DISABLE_EVENTS: "COMMENTS"
-          
-          TIMEZONE: "Europe/Zurich"
-          DATE_STRING: "Last update: `{DATE}`"
-          DATE_FORMAT: "dd.mm.yyyy HH:MM:ss Z"

@@ -62,4 +62,7 @@ Last update: `22.05.2021 12:36:59 GMT`
 
 [changesRequested]: https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/octicons/RequestedChanges.svg
 [approved]: https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/octicons/ApprovedChanges.svg
-[newRepo]: https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/octicons/Repository.svg
+[repoCreated]: https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/octicons/Repository.svg
+
+[release]: https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/octicons/Release.svg
+[star]: https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/octicons/StarredRepository.svg

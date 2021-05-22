@@ -1,0 +1,22 @@
+settings: 
+  commit_msg: "Update Andre601/README with new stats"
+  max_lines: 10
+  url_text: "{REPO}{ID}"
+  disabled_events:
+  - 'comments'
+  date:
+    timezone: "Europe/Zurich"
+    text: "Last update: `{DATE}`"
+    format: "dd.mm.yyyy HH:MM:ss Z"
+messages:
+  comments: "![comment] **Commented:** {URL}"
+  issue_opened: "![issueOpened] **Issue opened:** {URL}"
+  issue_closed: "![issueClosed] **Issue closed:** {URL}"
+  pr_opened: "![pullRequestOpened] **Pull request opened:** {URL}"
+  pr_closed: "![pullRequestClosed] **Pull request closed:** {URL}"
+  pr_merged: "![pullRequestMerged] **Pull request merged:** {URL}"
+  create_repo: "![repoCreated] **Created Repository:** `{REPO}`"
+  review_approved: "![approved] **Approved Changes:** {URL}"
+  changes_requested: "![changesRequested] **Requested Changes:** {URL}"
+  new_release: "![release] **Created Release:** {URL}"
+  new_star: "![star] **Starred** {REPO}"

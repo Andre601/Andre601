@@ -51,18 +51,19 @@ Last update: `23.05.2021 10:58:34 GMT+0200`
 - [Ko-fi]
 
 <!-- Badges -->
-[issueOpened]: https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/octicons/IssueOpenedOld.svg
-[issueClosed]: https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/octicons/IssueClosedOld.svg
+[issueOpened]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpenedOld.svg
+[issueClosed]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosedOld.svg
 
-[pullRequestOpened]: https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/octicons/PullRequestOpened.svg
-[pullRequestClosed]: https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/octicons/PullRequestClosed.svg
-[pullRequestMerged]: https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/octicons/PullRequestMerged.svg
+[pullRequestOpened]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg
+[pullRequestClosed]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg
+[pullRequestMerged]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg
 
-[comment]: https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/octicons/Comment.svg
+[comment]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg
 
-[changesRequested]: https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/octicons/RequestedChanges.svg
-[approved]: https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/octicons/ApprovedChanges.svg
-[repoCreated]: https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/octicons/Repository.svg
+[changesRequested]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg
+[approved]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg
+[repoCreated]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg
 
-[release]: https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/octicons/Release.svg
-[star]: https://raw.githubusercontent.com/Readme-Workflows/Readme-Icons/main/icons/octicons/StarredRepository.svg
+[release]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg
+[star]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepository.svg
+[wiki]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Wiki.svg

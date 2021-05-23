@@ -28,19 +28,19 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes commenting on Discussions, issues and Pull requests, opening and closing issues and opening, closing and merging Pull requests.
 
 <!--RECENT_ACTIVITY:last_update-->
-Last update: `23.05.2021 11:08:47 GMT+0200`
+Last update: `23.05.2021 14:36:50 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![pullRequestMerged] **Pull request merged:** [Andre601/Andre601#4](https://github.com/Andre601/Andre601/pull/4)
-2. ![approved] **Approved Changes:** [Readme-Workflows/recent-activity#53](https://github.com/Readme-Workflows/recent-activity/pull/53#pullrequestreview-666243200)
-3. ![pullRequestMerged] **Pull request merged:** [Readme-Workflows/Readme-Icons#4](https://github.com/Readme-Workflows/Readme-Icons/pull/4)
-4. ![wiki] **Wiki Page created:** [Configuration](https://github.com/Readme-Workflows/recent-activity/wiki/Configuration) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-5. ![pullRequestOpened] **Pull request opened:** [Readme-Workflows/recent-activity#56](https://github.com/Readme-Workflows/recent-activity/pull/56)
-6. ![star] **Starred** [Readme-Workflows/Readme-Icons](https://github.com/Readme-Workflows/Readme-Icons)
-7. ![approved] **Approved Changes:** [Readme-Workflows/recent-activity#54](https://github.com/Readme-Workflows/recent-activity/pull/54#pullrequestreview-666196400)
-8. ![pullRequestMerged] **Pull request merged:** [Readme-Workflows/recent-activity#55](https://github.com/Readme-Workflows/recent-activity/pull/55)
-9. ![pullRequestOpened] **Pull request opened:** [Readme-Workflows/recent-activity#55](https://github.com/Readme-Workflows/recent-activity/pull/55)
-10. ![changesRequested] **Requested Changes:** [Readme-Workflows/recent-activity#54](https://github.com/Readme-Workflows/recent-activity/pull/54#pullrequestreview-666192808)
+1. ![changesRequested] **Requested Changes:** [Readme-Workflows/Readme-Icons#9](https://github.com/Readme-Workflows/Readme-Icons/pull/9#pullrequestreview-666263002)
+2. ![changesRequested] **Requested Changes:** [Readme-Workflows/Readme-Icons#9](https://github.com/Readme-Workflows/Readme-Icons/pull/9#pullrequestreview-666263002)
+3. ![changesRequested] **Requested Changes:** [Readme-Workflows/Readme-Icons#9](https://github.com/Readme-Workflows/Readme-Icons/pull/9#pullrequestreview-666261336)
+4. ![changesRequested] **Requested Changes:** [Readme-Workflows/Readme-Icons#9](https://github.com/Readme-Workflows/Readme-Icons/pull/9#pullrequestreview-666261336)
+5. ![pullRequestMerged] **Pull request merged:** [Readme-Workflows/Readme-Icons#8](https://github.com/Readme-Workflows/Readme-Icons/pull/8)
+6. ![pullRequestOpened] **Pull request opened:** [Readme-Workflows/Readme-Icons#8](https://github.com/Readme-Workflows/Readme-Icons/pull/8)
+7. ![pullRequestMerged] **Pull request merged:** [Readme-Workflows/Readme-Icons#7](https://github.com/Readme-Workflows/Readme-Icons/pull/7)
+8. ![pullRequestOpened] **Pull request opened:** [Readme-Workflows/Readme-Icons#7](https://github.com/Readme-Workflows/Readme-Icons/pull/7)
+9. ![pullRequestClosed] **Pull request closed:** [Readme-Workflows/Readme-Icons#6](https://github.com/Readme-Workflows/Readme-Icons/pull/6)
+10. ![pullRequestMerged] **Pull request merged:** [Readme-Workflows/Readme-Icons#5](https://github.com/Readme-Workflows/Readme-Icons/pull/5)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

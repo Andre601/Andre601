@@ -28,19 +28,19 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes commenting on Discussions, issues and Pull requests, opening and closing issues and opening, closing and merging Pull requests.
 
 <!--RECENT_ACTIVITY:last_update-->
-Last update: `22.05.2021 21:50:16 GMT+0200`
+Last update: `23.05.2021 03:25:33 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![pullRequestOpened] **Pull request opened:** [Readme-Workflows/recent-activity#56](https://github.com/Readme-Workflows/recent-activity/pull/56)
-2. ![star] **Starred** [Readme-Workflows/Readme-Icons](https://github.com/Readme-Workflows/Readme-Icons)
-3. ![approved] **Approved Changes:** [Readme-Workflows/recent-activity#54](https://github.com/Readme-Workflows/recent-activity/pull/54#pullrequestreview-666196400)
-4. ![pullRequestMerged] **Pull request merged:** [Readme-Workflows/recent-activity#55](https://github.com/Readme-Workflows/recent-activity/pull/55)
-5. ![pullRequestOpened] **Pull request opened:** [Readme-Workflows/recent-activity#55](https://github.com/Readme-Workflows/recent-activity/pull/55)
-6. ![changesRequested] **Requested Changes:** [Readme-Workflows/recent-activity#54](https://github.com/Readme-Workflows/recent-activity/pull/54#pullrequestreview-666192808)
-7. ![approved] **Approved Changes:** [Readme-Workflows/recent-activity#54](https://github.com/Readme-Workflows/recent-activity/pull/54#pullrequestreview-666192714)
-8. ![issueOpened] **Issue opened:** [peaceiris/actions-label-commenter#436](https://github.com/peaceiris/actions-label-commenter/issues/436)
-9. ![pullRequestMerged] **Pull request merged:** [Readme-Workflows/Readme-Icons#2](https://github.com/Readme-Workflows/Readme-Icons/pull/2)
-10. ![approved] **Approved Changes:** [Readme-Workflows/Readme-Icons#2](https://github.com/Readme-Workflows/Readme-Icons/pull/2#pullrequestreview-666161329)
+1. 📖 Created new wiki page [Configuration](https://github.com/Readme-Workflows/recent-activity/wiki/Configuration) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+2. ![pullRequestOpened] **Pull request opened:** [Readme-Workflows/recent-activity#56](https://github.com/Readme-Workflows/recent-activity/pull/56)
+3. ![star] **Starred** [Readme-Workflows/Readme-Icons](https://github.com/Readme-Workflows/Readme-Icons)
+4. ![approved] **Approved Changes:** [Readme-Workflows/recent-activity#54](https://github.com/Readme-Workflows/recent-activity/pull/54#pullrequestreview-666196400)
+5. ![pullRequestMerged] **Pull request merged:** [Readme-Workflows/recent-activity#55](https://github.com/Readme-Workflows/recent-activity/pull/55)
+6. ![pullRequestOpened] **Pull request opened:** [Readme-Workflows/recent-activity#55](https://github.com/Readme-Workflows/recent-activity/pull/55)
+7. ![changesRequested] **Requested Changes:** [Readme-Workflows/recent-activity#54](https://github.com/Readme-Workflows/recent-activity/pull/54#pullrequestreview-666192808)
+8. ![approved] **Approved Changes:** [Readme-Workflows/recent-activity#54](https://github.com/Readme-Workflows/recent-activity/pull/54#pullrequestreview-666192714)
+9. ![issueOpened] **Issue opened:** [peaceiris/actions-label-commenter#436](https://github.com/peaceiris/actions-label-commenter/issues/436)
+10. ![pullRequestMerged] **Pull request merged:** [Readme-Workflows/Readme-Icons#2](https://github.com/Readme-Workflows/Readme-Icons/pull/2)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

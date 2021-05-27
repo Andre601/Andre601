@@ -28,19 +28,19 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes commenting on Discussions, issues and Pull requests, opening and closing issues and opening, closing and merging Pull requests.
 
 <!--RECENT_ACTIVITY:last_update-->
-Last update: `26.05.2021 14:42:29 GMT+0200`
+Last update: `27.05.2021 03:50:00 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![pullRequestMerged] **Pull request merged:** [PowerPlugins/Plugin#34](https://github.com/PowerPlugins/Plugin/pull/34)
-2. ![pullRequestMerged] **Pull request merged:** [Readme-Workflows/Readme-Icons#13](https://github.com/Readme-Workflows/Readme-Icons/pull/13)
-3. ![approved] **Approved Changes:** [Readme-Workflows/Readme-Icons#13](https://github.com/Readme-Workflows/Readme-Icons/pull/13#pullrequestreview-668649207)
+1. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#359](https://github.com/purrbot-site/PurrBot/pull/359)
+2. ![pullRequestMerged] **Pull request merged:** [PowerPlugins/Plugin#34](https://github.com/PowerPlugins/Plugin/pull/34)
+3. ![pullRequestMerged] **Pull request merged:** [Readme-Workflows/Readme-Icons#13](https://github.com/Readme-Workflows/Readme-Icons/pull/13)
 4. ![approved] **Approved Changes:** [Readme-Workflows/Readme-Icons#13](https://github.com/Readme-Workflows/Readme-Icons/pull/13#pullrequestreview-668649207)
-5. ![pullRequestMerged] **Pull request merged:** [Readme-Workflows/Readme-Icons#12](https://github.com/Readme-Workflows/Readme-Icons/pull/12)
-6. ![approved] **Approved Changes:** [Readme-Workflows/Readme-Icons#12](https://github.com/Readme-Workflows/Readme-Icons/pull/12#pullrequestreview-667984858)
-7. ![changesRequested] **Requested Changes:** [Readme-Workflows/Readme-Icons#12](https://github.com/Readme-Workflows/Readme-Icons/pull/12#pullrequestreview-667955478)
+5. ![approved] **Approved Changes:** [Readme-Workflows/Readme-Icons#13](https://github.com/Readme-Workflows/Readme-Icons/pull/13#pullrequestreview-668649207)
+6. ![pullRequestMerged] **Pull request merged:** [Readme-Workflows/Readme-Icons#12](https://github.com/Readme-Workflows/Readme-Icons/pull/12)
+7. ![approved] **Approved Changes:** [Readme-Workflows/Readme-Icons#12](https://github.com/Readme-Workflows/Readme-Icons/pull/12#pullrequestreview-667984858)
 8. ![changesRequested] **Requested Changes:** [Readme-Workflows/Readme-Icons#12](https://github.com/Readme-Workflows/Readme-Icons/pull/12#pullrequestreview-667955478)
-9. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#358](https://github.com/purrbot-site/PurrBot/pull/358)
-10. ![approved] **Approved Changes:** [Readme-Workflows/recent-activity#62](https://github.com/Readme-Workflows/recent-activity/pull/62#pullrequestreview-666721409)
+9. ![changesRequested] **Requested Changes:** [Readme-Workflows/Readme-Icons#12](https://github.com/Readme-Workflows/Readme-Icons/pull/12#pullrequestreview-667955478)
+10. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#358](https://github.com/purrbot-site/PurrBot/pull/358)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

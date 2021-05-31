@@ -28,19 +28,19 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes commenting on Discussions, issues and Pull requests, opening and closing issues and opening, closing and merging Pull requests.
 
 <!--RECENT_ACTIVITY:last_update-->
-Last update: `30.05.2021 15:01:01 GMT+0200`
+Last update: `31.05.2021 04:42:23 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![approved] **Approved Changes:** [Readme-Workflows/recent-activity#67](https://github.com/Readme-Workflows/recent-activity/pull/67#pullrequestreview-671810616)
-2. ![approved] **Approved Changes:** [Readme-Workflows/readme-workflows.github.io#2](https://github.com/Readme-Workflows/readme-workflows.github.io/pull/2#pullrequestreview-671810369)
-3. ![issueOpened] **Issue opened:** [xelA/bucket#53](https://github.com/xelA/bucket/issues/53)
-4. ![pullRequestOpened] **Pull request opened:** [Readme-Workflows/recent-activity#66](https://github.com/Readme-Workflows/recent-activity/pull/66)
-5. ![pullRequestOpened] **Pull request opened:** [Readme-Workflows/recent-activity#64](https://github.com/Readme-Workflows/recent-activity/pull/64)
-6. ![approved] **Approved Changes:** [Readme-Workflows/recent-activity#63](https://github.com/Readme-Workflows/recent-activity/pull/63#pullrequestreview-670333483)
-7. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#359](https://github.com/purrbot-site/PurrBot/pull/359)
-8. ![pullRequestMerged] **Pull request merged:** [PowerPlugins/Plugin#34](https://github.com/PowerPlugins/Plugin/pull/34)
-9. ![pullRequestMerged] **Pull request merged:** [Readme-Workflows/Readme-Icons#13](https://github.com/Readme-Workflows/Readme-Icons/pull/13)
-10. ![approved] **Approved Changes:** [Readme-Workflows/Readme-Icons#13](https://github.com/Readme-Workflows/Readme-Icons/pull/13#pullrequestreview-668649207)
+1. ![pullRequestMerged] **Pull request merged:** [Readme-Workflows/Readme-Icons#14](https://github.com/Readme-Workflows/Readme-Icons/pull/14)
+2. ![approved] **Approved Changes:** [Readme-Workflows/Readme-Icons#14](https://github.com/Readme-Workflows/Readme-Icons/pull/14#pullrequestreview-671867502)
+3. ![approved] **Approved Changes:** [Readme-Workflows/recent-activity#67](https://github.com/Readme-Workflows/recent-activity/pull/67#pullrequestreview-671810616)
+4. ![approved] **Approved Changes:** [Readme-Workflows/readme-workflows.github.io#2](https://github.com/Readme-Workflows/readme-workflows.github.io/pull/2#pullrequestreview-671810369)
+5. ![issueOpened] **Issue opened:** [xelA/bucket#53](https://github.com/xelA/bucket/issues/53)
+6. ![pullRequestOpened] **Pull request opened:** [Readme-Workflows/recent-activity#66](https://github.com/Readme-Workflows/recent-activity/pull/66)
+7. ![pullRequestOpened] **Pull request opened:** [Readme-Workflows/recent-activity#64](https://github.com/Readme-Workflows/recent-activity/pull/64)
+8. ![approved] **Approved Changes:** [Readme-Workflows/recent-activity#63](https://github.com/Readme-Workflows/recent-activity/pull/63#pullrequestreview-670333483)
+9. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#359](https://github.com/purrbot-site/PurrBot/pull/359)
+10. ![pullRequestMerged] **Pull request merged:** [PowerPlugins/Plugin#34](https://github.com/PowerPlugins/Plugin/pull/34)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

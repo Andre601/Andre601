@@ -28,19 +28,19 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes commenting on Discussions, issues and Pull requests, opening and closing issues and opening, closing and merging Pull requests.
 
 <!--RECENT_ACTIVITY:last_update-->
-Last update: `01.06.2021 05:11:45 GMT+0200`
+Last update: `01.06.2021 15:18:19 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![pullRequestMerged] **Pull request merged:** [Andre601/OneVersionRemake#60](https://github.com/Andre601/OneVersionRemake/pull/60)
-2. ![pullRequestOpened] **Pull request opened:** [Andre601/OneVersionRemake#60](https://github.com/Andre601/OneVersionRemake/pull/60)
-3. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#360](https://github.com/purrbot-site/PurrBot/pull/360)
-4. ![pullRequestMerged] **Pull request merged:** [Andre601/OneVersionRemake#58](https://github.com/Andre601/OneVersionRemake/pull/58)
-5. ![issueClosed] **Issue closed:** [Andre601/OneVersionRemake#57](https://github.com/Andre601/OneVersionRemake/issues/57)
-6. ![pullRequestOpened] **Pull request opened:** [Andre601/OneVersionRemake#58](https://github.com/Andre601/OneVersionRemake/pull/58)
-7. ![pullRequestMerged] **Pull request merged:** [Andre601/Andre601#5](https://github.com/Andre601/Andre601/pull/5)
-8. ![pullRequestMerged] **Pull request merged:** [Andre601/mkdocs-template#19](https://github.com/Andre601/mkdocs-template/pull/19)
-9. ![pullRequestMerged] **Pull request merged:** [purrbot-site/Docs#133](https://github.com/purrbot-site/Docs/pull/133)
-10. ![pullRequestMerged] **Pull request merged:** [Readme-Workflows/Readme-Icons#14](https://github.com/Readme-Workflows/Readme-Icons/pull/14)
+1. ![pullRequestMerged] **Pull request merged:** [Andre601/PowerSuggestionBot#2](https://github.com/Andre601/PowerSuggestionBot/pull/2)
+2. ![pullRequestMerged] **Pull request merged:** [Andre601/PowerSuggestionBot#1](https://github.com/Andre601/PowerSuggestionBot/pull/1)
+3. ![pullRequestMerged] **Pull request merged:** [Andre601/Andre601#6](https://github.com/Andre601/Andre601/pull/6)
+4. ![pullRequestMerged] **Pull request merged:** [Andre601/OneVersionRemake#60](https://github.com/Andre601/OneVersionRemake/pull/60)
+5. ![pullRequestOpened] **Pull request opened:** [Andre601/OneVersionRemake#60](https://github.com/Andre601/OneVersionRemake/pull/60)
+6. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#360](https://github.com/purrbot-site/PurrBot/pull/360)
+7. ![pullRequestMerged] **Pull request merged:** [Andre601/OneVersionRemake#58](https://github.com/Andre601/OneVersionRemake/pull/58)
+8. ![issueClosed] **Issue closed:** [Andre601/OneVersionRemake#57](https://github.com/Andre601/OneVersionRemake/issues/57)
+9. ![pullRequestOpened] **Pull request opened:** [Andre601/OneVersionRemake#58](https://github.com/Andre601/OneVersionRemake/pull/58)
+10. ![pullRequestMerged] **Pull request merged:** [Andre601/Andre601#5](https://github.com/Andre601/Andre601/pull/5)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

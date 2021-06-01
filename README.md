@@ -28,19 +28,19 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes commenting on Discussions, issues and Pull requests, opening and closing issues and opening, closing and merging Pull requests.
 
 <!--RECENT_ACTIVITY:last_update-->
-Last update: `31.05.2021 15:03:10 GMT+0200`
+Last update: `01.06.2021 05:11:45 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#360](https://github.com/purrbot-site/PurrBot/pull/360)
-2. ![pullRequestMerged] **Pull request merged:** [Andre601/OneVersionRemake#58](https://github.com/Andre601/OneVersionRemake/pull/58)
-3. ![issueClosed] **Issue closed:** [Andre601/OneVersionRemake#57](https://github.com/Andre601/OneVersionRemake/issues/57)
-4. ![pullRequestOpened] **Pull request opened:** [Andre601/OneVersionRemake#58](https://github.com/Andre601/OneVersionRemake/pull/58)
-5. ![pullRequestMerged] **Pull request merged:** [Andre601/Andre601#5](https://github.com/Andre601/Andre601/pull/5)
-6. ![pullRequestMerged] **Pull request merged:** [Andre601/mkdocs-template#19](https://github.com/Andre601/mkdocs-template/pull/19)
-7. ![pullRequestMerged] **Pull request merged:** [purrbot-site/Docs#133](https://github.com/purrbot-site/Docs/pull/133)
-8. ![pullRequestMerged] **Pull request merged:** [Readme-Workflows/Readme-Icons#14](https://github.com/Readme-Workflows/Readme-Icons/pull/14)
-9. ![approved] **Approved Changes:** [Readme-Workflows/Readme-Icons#14](https://github.com/Readme-Workflows/Readme-Icons/pull/14#pullrequestreview-671867502)
-10. ![approved] **Approved Changes:** [Readme-Workflows/recent-activity#67](https://github.com/Readme-Workflows/recent-activity/pull/67#pullrequestreview-671810616)
+1. ![pullRequestMerged] **Pull request merged:** [Andre601/OneVersionRemake#60](https://github.com/Andre601/OneVersionRemake/pull/60)
+2. ![pullRequestOpened] **Pull request opened:** [Andre601/OneVersionRemake#60](https://github.com/Andre601/OneVersionRemake/pull/60)
+3. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#360](https://github.com/purrbot-site/PurrBot/pull/360)
+4. ![pullRequestMerged] **Pull request merged:** [Andre601/OneVersionRemake#58](https://github.com/Andre601/OneVersionRemake/pull/58)
+5. ![issueClosed] **Issue closed:** [Andre601/OneVersionRemake#57](https://github.com/Andre601/OneVersionRemake/issues/57)
+6. ![pullRequestOpened] **Pull request opened:** [Andre601/OneVersionRemake#58](https://github.com/Andre601/OneVersionRemake/pull/58)
+7. ![pullRequestMerged] **Pull request merged:** [Andre601/Andre601#5](https://github.com/Andre601/Andre601/pull/5)
+8. ![pullRequestMerged] **Pull request merged:** [Andre601/mkdocs-template#19](https://github.com/Andre601/mkdocs-template/pull/19)
+9. ![pullRequestMerged] **Pull request merged:** [purrbot-site/Docs#133](https://github.com/purrbot-site/Docs/pull/133)
+10. ![pullRequestMerged] **Pull request merged:** [Readme-Workflows/Readme-Icons#14](https://github.com/Readme-Workflows/Readme-Icons/pull/14)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

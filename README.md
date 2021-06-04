@@ -28,19 +28,19 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes commenting on Discussions, issues and Pull requests, opening and closing issues and opening, closing and merging Pull requests.
 
 <!--RECENT_ACTIVITY:last_update-->
-Last update: `03.06.2021 15:00:00 GMT+0200`
+Last update: `04.06.2021 03:20:23 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![pullRequestMerged] **Pull request merged:** [Andre601/PowerSuggestionBot#2](https://github.com/Andre601/PowerSuggestionBot/pull/2)
-2. ![pullRequestMerged] **Pull request merged:** [Andre601/PowerSuggestionBot#1](https://github.com/Andre601/PowerSuggestionBot/pull/1)
-3. ![pullRequestMerged] **Pull request merged:** [Andre601/Andre601#6](https://github.com/Andre601/Andre601/pull/6)
-4. ![pullRequestMerged] **Pull request merged:** [Andre601/OneVersionRemake#60](https://github.com/Andre601/OneVersionRemake/pull/60)
-5. ![pullRequestOpened] **Pull request opened:** [Andre601/OneVersionRemake#60](https://github.com/Andre601/OneVersionRemake/pull/60)
-6. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#360](https://github.com/purrbot-site/PurrBot/pull/360)
-7. ![pullRequestMerged] **Pull request merged:** [Andre601/OneVersionRemake#58](https://github.com/Andre601/OneVersionRemake/pull/58)
-8. ![issueClosed] **Issue closed:** [Andre601/OneVersionRemake#57](https://github.com/Andre601/OneVersionRemake/issues/57)
-9. ![pullRequestOpened] **Pull request opened:** [Andre601/OneVersionRemake#58](https://github.com/Andre601/OneVersionRemake/pull/58)
-10. ![pullRequestMerged] **Pull request merged:** [Andre601/Andre601#5](https://github.com/Andre601/Andre601/pull/5)
+1. ![pullRequestOpened] **Pull request opened:** [Chew/JDA-Chewtils#3](https://github.com/Chew/JDA-Chewtils/pull/3)
+2. ![changesRequested] **Requested Changes:** [Chew/JDA-Chewtils#1](https://github.com/Chew/JDA-Chewtils/pull/1#pullrequestreview-675747651)
+3. ![changesRequested] **Requested Changes:** [Chew/JDA-Chewtils#1](https://github.com/Chew/JDA-Chewtils/pull/1#pullrequestreview-675747651)
+4. ![issueOpened] **Issue opened:** [Chew/JDA-Chewtils#2](https://github.com/Chew/JDA-Chewtils/issues/2)
+5. ![pullRequestMerged] **Pull request merged:** [Andre601/PowerSuggestionBot#2](https://github.com/Andre601/PowerSuggestionBot/pull/2)
+6. ![pullRequestMerged] **Pull request merged:** [Andre601/PowerSuggestionBot#1](https://github.com/Andre601/PowerSuggestionBot/pull/1)
+7. ![pullRequestMerged] **Pull request merged:** [Andre601/Andre601#6](https://github.com/Andre601/Andre601/pull/6)
+8. ![pullRequestMerged] **Pull request merged:** [Andre601/OneVersionRemake#60](https://github.com/Andre601/OneVersionRemake/pull/60)
+9. ![pullRequestOpened] **Pull request opened:** [Andre601/OneVersionRemake#60](https://github.com/Andre601/OneVersionRemake/pull/60)
+10. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#360](https://github.com/purrbot-site/PurrBot/pull/360)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

@@ -28,19 +28,19 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes commenting on Discussions, issues and Pull requests, opening and closing issues and opening, closing and merging Pull requests.
 
 <!--RECENT_ACTIVITY:last_update-->
-Last update: `06.06.2021 02:52:57 GMT+0200`
+Last update: `06.06.2021 14:38:24 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![issueOpened] **Issue opened:** [lucko/LuckPermsWeb#362](https://github.com/lucko/LuckPermsWeb/issues/362)
-2. ![pullRequestOpened] **Pull request opened:** [discordextremelist/discord-bot-best-practices#1](https://github.com/discordextremelist/discord-bot-best-practices/pull/1)
-3. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#362](https://github.com/purrbot-site/PurrBot/pull/362)
-4. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#361](https://github.com/purrbot-site/PurrBot/pull/361)
-5. ![pullRequestOpened] **Pull request opened:** [Chew/JDA-Chewtils#3](https://github.com/Chew/JDA-Chewtils/pull/3)
-6. ![changesRequested] **Requested Changes:** [Chew/JDA-Chewtils#1](https://github.com/Chew/JDA-Chewtils/pull/1#pullrequestreview-675747651)
-7. ![changesRequested] **Requested Changes:** [Chew/JDA-Chewtils#1](https://github.com/Chew/JDA-Chewtils/pull/1#pullrequestreview-675747651)
-8. ![issueOpened] **Issue opened:** [Chew/JDA-Chewtils#2](https://github.com/Chew/JDA-Chewtils/issues/2)
-9. ![pullRequestMerged] **Pull request merged:** [Andre601/PowerSuggestionBot#2](https://github.com/Andre601/PowerSuggestionBot/pull/2)
-10. ![pullRequestMerged] **Pull request merged:** [Andre601/PowerSuggestionBot#1](https://github.com/Andre601/PowerSuggestionBot/pull/1)
+1. ![pullRequestMerged] **Pull request merged:** [purrbot-site/Docs#134](https://github.com/purrbot-site/Docs/pull/134)
+2. ![pullRequestOpened] **Pull request opened:** [purrbot-site/Docs#134](https://github.com/purrbot-site/Docs/pull/134)
+3. ![approved] **Approved Changes:** [Readme-Workflows/recent-activity#70](https://github.com/Readme-Workflows/recent-activity/pull/70#pullrequestreview-676847845)
+4. ![issueOpened] **Issue opened:** [lucko/LuckPermsWeb#362](https://github.com/lucko/LuckPermsWeb/issues/362)
+5. ![pullRequestOpened] **Pull request opened:** [discordextremelist/discord-bot-best-practices#1](https://github.com/discordextremelist/discord-bot-best-practices/pull/1)
+6. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#362](https://github.com/purrbot-site/PurrBot/pull/362)
+7. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#361](https://github.com/purrbot-site/PurrBot/pull/361)
+8. ![pullRequestOpened] **Pull request opened:** [Chew/JDA-Chewtils#3](https://github.com/Chew/JDA-Chewtils/pull/3)
+9. ![changesRequested] **Requested Changes:** [Chew/JDA-Chewtils#1](https://github.com/Chew/JDA-Chewtils/pull/1#pullrequestreview-675747651)
+10. ![changesRequested] **Requested Changes:** [Chew/JDA-Chewtils#1](https://github.com/Chew/JDA-Chewtils/pull/1#pullrequestreview-675747651)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

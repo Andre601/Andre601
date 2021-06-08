@@ -28,19 +28,19 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes commenting on Discussions, issues and Pull requests, opening and closing issues and opening, closing and merging Pull requests.
 
 <!--RECENT_ACTIVITY:last_update-->
-Last update: `07.06.2021 14:50:22 GMT+0200`
+Last update: `08.06.2021 02:53:37 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![pullRequestMerged] **Pull request merged:** [purrbot-site/Docs#134](https://github.com/purrbot-site/Docs/pull/134)
-2. ![pullRequestOpened] **Pull request opened:** [purrbot-site/Docs#134](https://github.com/purrbot-site/Docs/pull/134)
-3. ![approved] **Approved Changes:** [Readme-Workflows/recent-activity#70](https://github.com/Readme-Workflows/recent-activity/pull/70#pullrequestreview-676847845)
-4. ![issueOpened] **Issue opened:** [lucko/LuckPermsWeb#362](https://github.com/lucko/LuckPermsWeb/issues/362)
-5. ![pullRequestOpened] **Pull request opened:** [discordextremelist/discord-bot-best-practices#1](https://github.com/discordextremelist/discord-bot-best-practices/pull/1)
-6. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#362](https://github.com/purrbot-site/PurrBot/pull/362)
-7. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#361](https://github.com/purrbot-site/PurrBot/pull/361)
-8. ![pullRequestOpened] **Pull request opened:** [Chew/JDA-Chewtils#3](https://github.com/Chew/JDA-Chewtils/pull/3)
-9. ![changesRequested] **Requested Changes:** [Chew/JDA-Chewtils#1](https://github.com/Chew/JDA-Chewtils/pull/1#pullrequestreview-675747651)
-10. ![changesRequested] **Requested Changes:** [Chew/JDA-Chewtils#1](https://github.com/Chew/JDA-Chewtils/pull/1#pullrequestreview-675747651)
+1. ![pullRequestOpened] **Pull request opened:** [Andre601/OneVersionRemake#63](https://github.com/Andre601/OneVersionRemake/pull/63)
+2. ![pullRequestMerged] **Pull request merged:** [Andre601/OneVersionRemake#62](https://github.com/Andre601/OneVersionRemake/pull/62)
+3. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#363](https://github.com/purrbot-site/PurrBot/pull/363)
+4. ![pullRequestMerged] **Pull request merged:** [purrbot-site/Docs#134](https://github.com/purrbot-site/Docs/pull/134)
+5. ![pullRequestOpened] **Pull request opened:** [purrbot-site/Docs#134](https://github.com/purrbot-site/Docs/pull/134)
+6. ![approved] **Approved Changes:** [Readme-Workflows/recent-activity#70](https://github.com/Readme-Workflows/recent-activity/pull/70#pullrequestreview-676847845)
+7. ![issueOpened] **Issue opened:** [lucko/LuckPermsWeb#362](https://github.com/lucko/LuckPermsWeb/issues/362)
+8. ![pullRequestOpened] **Pull request opened:** [discordextremelist/discord-bot-best-practices#1](https://github.com/discordextremelist/discord-bot-best-practices/pull/1)
+9. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#362](https://github.com/purrbot-site/PurrBot/pull/362)
+10. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#361](https://github.com/purrbot-site/PurrBot/pull/361)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

@@ -28,19 +28,19 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes commenting on Discussions, issues and Pull requests, opening and closing issues and opening, closing and merging Pull requests.
 
 <!--RECENT_ACTIVITY:last_update-->
-Last update: `09.06.2021 14:14:47 GMT+0200`
+Last update: `10.06.2021 02:34:12 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![pullRequestMerged] **Pull request merged:** [Andre601/OneVersionRemake#67](https://github.com/Andre601/OneVersionRemake/pull/67)
-2. ![issueClosed] **Issue closed:** [xelA/bucket#63](https://github.com/xelA/bucket/issues/63)
-3. ![issueOpened] **Issue opened:** [xelA/bucket#63](https://github.com/xelA/bucket/issues/63)
-4. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#364](https://github.com/purrbot-site/PurrBot/pull/364)
-5. ![pullRequestMerged] **Pull request merged:** [purrbot-site/Docs#136](https://github.com/purrbot-site/Docs/pull/136)
-6. ![pullRequestOpened] **Pull request opened:** [purrbot-site/Docs#136](https://github.com/purrbot-site/Docs/pull/136)
-7. ![pullRequestOpened] **Pull request opened:** [Chew/JDA-Chewtils#5](https://github.com/Chew/JDA-Chewtils/pull/5)
-8. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#357](https://github.com/purrbot-site/PurrBot/pull/357)
-9. ![pullRequestMerged] **Pull request merged:** [Andre601/OneVersionRemake#65](https://github.com/Andre601/OneVersionRemake/pull/65)
-10. ![pullRequestMerged] **Pull request merged:** [Andre601/OneVersionRemake#66](https://github.com/Andre601/OneVersionRemake/pull/66)
+1. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#366](https://github.com/purrbot-site/PurrBot/pull/366)
+2. ![pullRequestMerged] **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#639](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/639)
+3. ![approved] **Approved Changes:** [PlaceholderAPI/PlaceholderAPI#639](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/639#pullrequestreview-679697975)
+4. ![issueOpened] **Issue opened:** [primer/octicons#632](https://github.com/primer/octicons/issues/632)
+5. ![pullRequestMerged] **Pull request merged:** [Readme-Workflows/Readme-Icons#15](https://github.com/Readme-Workflows/Readme-Icons/pull/15)
+6. ![pullRequestOpened] **Pull request opened:** [Readme-Workflows/Readme-Icons#15](https://github.com/Readme-Workflows/Readme-Icons/pull/15)
+7. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#365](https://github.com/purrbot-site/PurrBot/pull/365)
+8. ![pullRequestMerged] **Pull request merged:** [Andre601/OneVersionRemake#67](https://github.com/Andre601/OneVersionRemake/pull/67)
+9. ![issueClosed] **Issue closed:** [xelA/bucket#63](https://github.com/xelA/bucket/issues/63)
+10. ![issueOpened] **Issue opened:** [xelA/bucket#63](https://github.com/xelA/bucket/issues/63)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

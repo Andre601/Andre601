@@ -15,7 +15,7 @@ messages:
   pr_opened: "![pullRequestOpened] **Pull request opened:** {URL}"
   pr_closed: "![pullRequestClosed] **Pull request closed:** {URL}"
   pr_merged: "![pullRequestMerged] **Pull request merged:** {URL}"
-  create_repo: "![repoCreated] **Created Repository:** `{REPO}`"
+  create_repo: "![repoCreated] **Created Repository:** {REPO}"
   changes_approved: "![approved] **Approved Changes:** {URL}"
   changes_requested: "![changesRequested] **Requested Changes:** {URL}"
   new_release: "![release] **Created Release:** {URL}"

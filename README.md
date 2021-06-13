@@ -25,7 +25,7 @@ Additional projects can be found on my [GitHub Project Page][github] so give it 
 
 ### 📜 Recent Activity
 This is a list of my 10 most recent activities on GitHub.  
-The list is updates twice a day and includes commenting on Discussions, issues and Pull requests, opening and closing issues and opening, closing and merging Pull requests.
+The list is updates twice a day and includes opening and closing issues and opening, closing and merging Pull requests.
 
 <!--RECENT_ACTIVITY:last_update-->
 Last update: `14.06.2021 00:01:04 GMT+0200`

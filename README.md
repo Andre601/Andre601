@@ -28,19 +28,19 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes commenting on Discussions, issues and Pull requests, opening and closing issues and opening, closing and merging Pull requests.
 
 <!--RECENT_ACTIVITY:last_update-->
-Last update: `13.06.2021 14:13:22 GMT+0200`
+Last update: `14.06.2021 00:01:04 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![pullRequestOpened] **Pull request opened:** [CodeCrafter47/TabOverlayWiki#16](https://github.com/CodeCrafter47/TabOverlayWiki/pull/16)
-2. ![pullRequestOpened] **Pull request opened:** [5zig-reborn/5zig-reborn.github.io#4](https://github.com/5zig-reborn/5zig-reborn.github.io/pull/4)
-3. ![repoCreated] **Created Repository:** `[Andre601/minimal-mistakes-quickstart](https://github.com/Andre601/minimal-mistakes-quickstart)`
-4. ![issueOpened] **Issue opened:** [lucko/LuckPermsWeb#363](https://github.com/lucko/LuckPermsWeb/issues/363)
-5. ![pullRequestMerged] **Pull request merged:** [Andre601/OneVersionRemake#63](https://github.com/Andre601/OneVersionRemake/pull/63)
-6. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#368](https://github.com/purrbot-site/PurrBot/pull/368)
-7. ![pullRequestMerged] **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#640](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/640)
-8. ![pullRequestMerged] **Pull request merged:** [Readme-Workflows/Readme-Icons#16](https://github.com/Readme-Workflows/Readme-Icons/pull/16)
-9. ![pullRequestOpened] **Pull request opened:** [Readme-Workflows/Readme-Icons#16](https://github.com/Readme-Workflows/Readme-Icons/pull/16)
-10. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#366](https://github.com/purrbot-site/PurrBot/pull/366)
+1. ![issueOpened] **Issue opened:** [xelA/bucket#70](https://github.com/xelA/bucket/issues/70)
+2. ![pullRequestMerged] **Pull request merged:** [Andre601/blog#14](https://github.com/Andre601/blog/pull/14)
+3. ![pullRequestOpened] **Pull request opened:** [Andre601/blog#14](https://github.com/Andre601/blog/pull/14)
+4. ![pullRequestOpened] **Pull request opened:** [CodeCrafter47/TabOverlayWiki#16](https://github.com/CodeCrafter47/TabOverlayWiki/pull/16)
+5. ![pullRequestOpened] **Pull request opened:** [5zig-reborn/5zig-reborn.github.io#4](https://github.com/5zig-reborn/5zig-reborn.github.io/pull/4)
+6. ![repoCreated] **Created Repository:** [Andre601/minimal-mistakes-quickstart](https://github.com/Andre601/minimal-mistakes-quickstart)
+7. ![issueOpened] **Issue opened:** [lucko/LuckPermsWeb#363](https://github.com/lucko/LuckPermsWeb/issues/363)
+8. ![pullRequestMerged] **Pull request merged:** [Andre601/OneVersionRemake#63](https://github.com/Andre601/OneVersionRemake/pull/63)
+9. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#368](https://github.com/purrbot-site/PurrBot/pull/368)
+10. ![pullRequestMerged] **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#640](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/640)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

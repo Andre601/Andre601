@@ -28,19 +28,19 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes opening and closing issues and opening, closing and merging Pull requests.
 
 <!--RECENT_ACTIVITY:last_update-->
-Last update: `14.06.2021 14:13:47 GMT+0200`
+Last update: `15.06.2021 02:31:32 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![pullRequestMerged] **Pull request merged:** [Andre601/OneVersionRemake#70](https://github.com/Andre601/OneVersionRemake/pull/70)
-2. ![pullRequestMerged] **Pull request merged:** [Andre601/OneVersionRemake#69](https://github.com/Andre601/OneVersionRemake/pull/69)
-3. ![pullRequestMerged] **Pull request merged:** [PowerPlugins/Plugin#35](https://github.com/PowerPlugins/Plugin/pull/35)
-4. ![pullRequestMerged] **Pull request merged:** [purrbot-site/Docs#137](https://github.com/purrbot-site/Docs/pull/137)
-5. ![issueOpened] **Issue opened:** [xelA/bucket#70](https://github.com/xelA/bucket/issues/70)
-6. ![pullRequestMerged] **Pull request merged:** [Andre601/blog#14](https://github.com/Andre601/blog/pull/14)
-7. ![pullRequestOpened] **Pull request opened:** [Andre601/blog#14](https://github.com/Andre601/blog/pull/14)
-8. ![pullRequestOpened] **Pull request opened:** [CodeCrafter47/TabOverlayWiki#16](https://github.com/CodeCrafter47/TabOverlayWiki/pull/16)
-9. ![pullRequestOpened] **Pull request opened:** [5zig-reborn/5zig-reborn.github.io#4](https://github.com/5zig-reborn/5zig-reborn.github.io/pull/4)
-10. ![repoCreated] **Created Repository:** [Andre601/minimal-mistakes-quickstart](https://github.com/Andre601/minimal-mistakes-quickstart)
+1. ![issueOpened] **Issue opened:** [xelA/bucket#71](https://github.com/xelA/bucket/issues/71)
+2. ![issueClosed] **Issue closed:** [Andre601/Formatter-Expansion#3](https://github.com/Andre601/Formatter-Expansion/issues/3)
+3. ![pullRequestMerged] **Pull request merged:** [Andre601/OneVersionRemake#70](https://github.com/Andre601/OneVersionRemake/pull/70)
+4. ![pullRequestMerged] **Pull request merged:** [Andre601/OneVersionRemake#69](https://github.com/Andre601/OneVersionRemake/pull/69)
+5. ![pullRequestMerged] **Pull request merged:** [PowerPlugins/Plugin#35](https://github.com/PowerPlugins/Plugin/pull/35)
+6. ![pullRequestMerged] **Pull request merged:** [purrbot-site/Docs#137](https://github.com/purrbot-site/Docs/pull/137)
+7. ![issueOpened] **Issue opened:** [xelA/bucket#70](https://github.com/xelA/bucket/issues/70)
+8. ![pullRequestMerged] **Pull request merged:** [Andre601/blog#14](https://github.com/Andre601/blog/pull/14)
+9. ![pullRequestOpened] **Pull request opened:** [Andre601/blog#14](https://github.com/Andre601/blog/pull/14)
+10. ![pullRequestOpened] **Pull request opened:** [CodeCrafter47/TabOverlayWiki#16](https://github.com/CodeCrafter47/TabOverlayWiki/pull/16)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

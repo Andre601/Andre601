@@ -28,19 +28,19 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes opening and closing issues and opening, closing and merging Pull requests.
 
 <!--RECENT_ACTIVITY:last_update-->
-Last update: `15.06.2021 14:18:16 GMT+0200`
+Last update: `16.06.2021 02:31:57 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![issueOpened] **Issue opened:** [Python-Markdown/markdown#1145](https://github.com/Python-Markdown/markdown/issues/1145)
-2. ![pullRequestMerged] **Pull request merged:** [Andre601/blog#15](https://github.com/Andre601/blog/pull/15)
-3. ![pullRequestOpened] **Pull request opened:** [Andre601/blog#15](https://github.com/Andre601/blog/pull/15)
-4. ![issueOpened] **Issue opened:** [xelA/bucket#71](https://github.com/xelA/bucket/issues/71)
-5. ![issueClosed] **Issue closed:** [Andre601/Formatter-Expansion#3](https://github.com/Andre601/Formatter-Expansion/issues/3)
-6. ![pullRequestMerged] **Pull request merged:** [Andre601/OneVersionRemake#70](https://github.com/Andre601/OneVersionRemake/pull/70)
-7. ![pullRequestMerged] **Pull request merged:** [Andre601/OneVersionRemake#69](https://github.com/Andre601/OneVersionRemake/pull/69)
-8. ![pullRequestMerged] **Pull request merged:** [PowerPlugins/Plugin#35](https://github.com/PowerPlugins/Plugin/pull/35)
-9. ![pullRequestMerged] **Pull request merged:** [purrbot-site/Docs#137](https://github.com/purrbot-site/Docs/pull/137)
-10. ![issueOpened] **Issue opened:** [xelA/bucket#70](https://github.com/xelA/bucket/issues/70)
+1. ![issueClosed] **Issue closed:** [Readme-Workflows/recent-activity#72](https://github.com/Readme-Workflows/recent-activity/issues/72)
+2. ![issueOpened] **Issue opened:** [Readme-Workflows/recent-activity#72](https://github.com/Readme-Workflows/recent-activity/issues/72)
+3. ![issueOpened] **Issue opened:** [peaceiris/actions-label-commenter#444](https://github.com/peaceiris/actions-label-commenter/issues/444)
+4. ![pullRequestMerged] **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#642](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/642)
+5. ![approved] **Approved Changes:** [PlaceholderAPI/PlaceholderAPI#642](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/642#pullrequestreview-684433531)
+6. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#370](https://github.com/purrbot-site/PurrBot/pull/370)
+7. ![issueOpened] **Issue opened:** [Python-Markdown/markdown#1145](https://github.com/Python-Markdown/markdown/issues/1145)
+8. ![pullRequestMerged] **Pull request merged:** [Andre601/blog#15](https://github.com/Andre601/blog/pull/15)
+9. ![pullRequestOpened] **Pull request opened:** [Andre601/blog#15](https://github.com/Andre601/blog/pull/15)
+10. ![issueOpened] **Issue opened:** [xelA/bucket#71](https://github.com/xelA/bucket/issues/71)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

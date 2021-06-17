@@ -51,8 +51,8 @@ Last update: `17.06.2021 14:18:17 GMT+0200`
 - [Ko-fi]
 
 <!-- Badges -->
-[issueOpened]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@v1.1.0/icons/octicons/IssueOpenedOld.svg
-[issueClosed]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@v1.1.0/icons/octicons/IssueClosedOld.svg
+[issueOpened]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@v1.1.0/icons/octicons/IssueOpened.svg
+[issueClosed]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@v1.1.0/icons/octicons/IssueClosed.svg
 
 [pullRequestOpened]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@v1.1.0/icons/octicons/PullRequestOpened.svg
 [pullRequestClosed]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@v1.1.0/icons/octicons/PullRequestClosed.svg

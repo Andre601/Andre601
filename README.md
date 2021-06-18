@@ -28,19 +28,19 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes opening and closing issues and opening, closing and merging Pull requests.
 
 <!--RECENT_ACTIVITY:last_update-->
-Last update: `18.06.2021 02:30:47 GMT+0200`
+Last update: `18.06.2021 14:18:18 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![issueOpened] **Issue opened:** [Ghost-chu/QuickShop-Reremake#1155](https://github.com/Ghost-chu/QuickShop-Reremake/issues/1155)
-2. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#372](https://github.com/purrbot-site/PurrBot/pull/372)
-3. ![issueClosed] **Issue closed:** [PlaceholderAPI/PlaceholderAPI#643](https://github.com/PlaceholderAPI/PlaceholderAPI/issues/643)
-4. ![pullRequestMerged] **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#645](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/645)
-5. ![approved] **Approved Changes:** [PlaceholderAPI/PlaceholderAPI#645](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/645#pullrequestreview-686259520)
-6. ![changesRequested] **Requested Changes:** [PlaceholderAPI/PlaceholderAPI#645](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/645#pullrequestreview-686257203)
-7. ![changesRequested] **Requested Changes:** [PlaceholderAPI/PlaceholderAPI#645](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/645#pullrequestreview-686257203)
-8. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#371](https://github.com/purrbot-site/PurrBot/pull/371)
-9. ![issueClosed] **Issue closed:** [Readme-Workflows/recent-activity#72](https://github.com/Readme-Workflows/recent-activity/issues/72)
-10. ![issueOpened] **Issue opened:** [Readme-Workflows/recent-activity#72](https://github.com/Readme-Workflows/recent-activity/issues/72)
+1. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#373](https://github.com/purrbot-site/PurrBot/pull/373)
+2. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#369](https://github.com/purrbot-site/PurrBot/pull/369)
+3. ![pullRequestMerged] **Pull request merged:** [botblock/JavaBotBlockAPI#242](https://github.com/botblock/JavaBotBlockAPI/pull/242)
+4. ![pullRequestMerged] **Pull request merged:** [botblock/JavaBotBlockAPI#243](https://github.com/botblock/JavaBotBlockAPI/pull/243)
+5. ![pullRequestOpened] **Pull request opened:** [botblock/JavaBotBlockAPI#243](https://github.com/botblock/JavaBotBlockAPI/pull/243)
+6. ![pullRequestOpened] **Pull request opened:** [botblock/JavaBotBlockAPI#242](https://github.com/botblock/JavaBotBlockAPI/pull/242)
+7. ![issueOpened] **Issue opened:** [Ghost-chu/QuickShop-Reremake#1155](https://github.com/Ghost-chu/QuickShop-Reremake/issues/1155)
+8. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#372](https://github.com/purrbot-site/PurrBot/pull/372)
+9. ![issueClosed] **Issue closed:** [PlaceholderAPI/PlaceholderAPI#643](https://github.com/PlaceholderAPI/PlaceholderAPI/issues/643)
+10. ![pullRequestMerged] **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#645](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/645)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

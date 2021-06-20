@@ -28,19 +28,19 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes opening and closing issues and opening, closing and merging Pull requests.
 
 <!--RECENT_ACTIVITY:last_update-->
-Last update: `19.06.2021 14:13:03 GMT+0200`
+Last update: `20.06.2021 02:32:53 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![pullRequestMerged] **Pull request merged:** [botblock/JavaBotBlockAPI#246](https://github.com/botblock/JavaBotBlockAPI/pull/246)
-2. ![pullRequestMerged] **Pull request merged:** [botblock/JavaBotBlockAPI#245](https://github.com/botblock/JavaBotBlockAPI/pull/245)
-3. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#375](https://github.com/purrbot-site/PurrBot/pull/375)
-4. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#374](https://github.com/purrbot-site/PurrBot/pull/374)
-5. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#373](https://github.com/purrbot-site/PurrBot/pull/373)
-6. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#369](https://github.com/purrbot-site/PurrBot/pull/369)
-7. ![pullRequestMerged] **Pull request merged:** [botblock/JavaBotBlockAPI#242](https://github.com/botblock/JavaBotBlockAPI/pull/242)
-8. ![pullRequestMerged] **Pull request merged:** [botblock/JavaBotBlockAPI#243](https://github.com/botblock/JavaBotBlockAPI/pull/243)
-9. ![pullRequestOpened] **Pull request opened:** [botblock/JavaBotBlockAPI#243](https://github.com/botblock/JavaBotBlockAPI/pull/243)
-10. ![pullRequestOpened] **Pull request opened:** [botblock/JavaBotBlockAPI#242](https://github.com/botblock/JavaBotBlockAPI/pull/242)
+1. ![pullRequestOpened] **Pull request opened:** [Readme-Workflows/Readme-Icons#18](https://github.com/Readme-Workflows/Readme-Icons/pull/18)
+2. ![pullRequestMerged] **Pull request merged:** [Readme-Workflows/Readme-Icons#17](https://github.com/Readme-Workflows/Readme-Icons/pull/17)
+3. ![pullRequestOpened] **Pull request opened:** [Readme-Workflows/Readme-Icons#17](https://github.com/Readme-Workflows/Readme-Icons/pull/17)
+4. ![pullRequestMerged] **Pull request merged:** [botblock/JavaBotBlockAPI#246](https://github.com/botblock/JavaBotBlockAPI/pull/246)
+5. ![pullRequestMerged] **Pull request merged:** [botblock/JavaBotBlockAPI#245](https://github.com/botblock/JavaBotBlockAPI/pull/245)
+6. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#375](https://github.com/purrbot-site/PurrBot/pull/375)
+7. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#374](https://github.com/purrbot-site/PurrBot/pull/374)
+8. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#373](https://github.com/purrbot-site/PurrBot/pull/373)
+9. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#369](https://github.com/purrbot-site/PurrBot/pull/369)
+10. ![pullRequestMerged] **Pull request merged:** [botblock/JavaBotBlockAPI#242](https://github.com/botblock/JavaBotBlockAPI/pull/242)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

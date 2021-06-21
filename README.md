@@ -30,7 +30,7 @@ Here is a list of various repositories based on certain criterias. a full list o
 
 - [`Andre601/brand`](https://github.com/Andre601/brand) (![star] 0 ![forked] 0)
 - [`Andre601/adventure-text-minimessage`](https://github.com/Andre601/adventure-text-minimessage) (![star] 0 ![forked] 0)
-- [`Andre601/update-changelog`](https://github.com/Andre601/update-changelog) (![star] 0 ![forked] 0)
+- [`Andre601/PuneetGopinath`](https://github.com/Andre601/PuneetGopinath) (![star] 0 ![forked] 0)
 
 ## 📊 Statistics
 <img height="195px" src="https://github-readme-stats.vercel.app/api?username=Andre601&show_icons=true&hide_rank=true&title_color=3498db&bg_color=ffffff00&text_color=718096&disable_animations=true"><img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Andre601&layout=compact&title_color=3498db&bg_color=ffffff00&text_color=718096">
@@ -40,14 +40,14 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes opening and closing issues and opening, closing and merging Pull requests.
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 21st, 2021, 4:54:37 PM
+Last update: `21.06.2021 18:32:03 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#3](https://github.com/probablykasper/readme-template-action/issues/3) in [probablykasper/readme-template-action](https://github.com/probablykasper/readme-template-action)
-2. 💪 Opened PR [#15](https://github.com/cdnjs/brand/pull/15) in [cdnjs/brand](https://github.com/cdnjs/brand)
-3. 🔱 Forked [Andre601/brand](https://github.com/Andre601/brand) from [cdnjs/brand](https://github.com/cdnjs/brand)
-4. 🎉 Merged PR [#647](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/647) in [PlaceholderAPI/PlaceholderAPI](https://github.com/PlaceholderAPI/PlaceholderAPI)
-5. 👍 Approved [#647](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/647#pullrequestreview-687923262) in [PlaceholderAPI/PlaceholderAPI](https://github.com/PlaceholderAPI/PlaceholderAPI)
+1. ![pullRequestOpened] **Pull request opened:** [cdnjs/brand#15](https://github.com/cdnjs/brand/pull/15)
+2. 🔱 Forked [Andre601/brand](https://github.com/Andre601/brand) from [cdnjs/brand](https://github.com/cdnjs/brand)
+3. ![pullRequestMerged] **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#647](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/647)
+4. ![approved] **Approved Changes:** [PlaceholderAPI/PlaceholderAPI#647](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/647#pullrequestreview-687923262)
+5. ![issueOpened] **Issue opened:** [dabutvin/Imgbot#953](https://github.com/dabutvin/Imgbot/issues/953)
 6. ![pullRequestMerged] **Pull request merged:** [Readme-Workflows/Readme-Icons#21](https://github.com/Readme-Workflows/Readme-Icons/pull/21)
 7. ![pullRequestMerged] **Pull request merged:** [Readme-Workflows/Readme-Icons#19](https://github.com/Readme-Workflows/Readme-Icons/pull/19)
 8. ![pullRequestMerged] **Pull request merged:** [Readme-Workflows/Readme-Icons#18](https://github.com/Readme-Workflows/Readme-Icons/pull/18)

@@ -22,9 +22,9 @@ Here is a list of various repositories based on certain criterias. a full list o
 
 ### Most starred repositories
 
-{{ loop 3_MOST_STARRED }}
+{{ loop 3_MOST_STARRED_REPOS }}
 - [`{{ REPO_FULL_NAME }}`]({{ REPO_URL }}) (![star] {{ REPO_STARS }} ![forked] {{ REPO_FORK_COUNT }})
-{{ end 3_MOST_STARRED }}
+{{ end 3_MOST_STARRED_REPOS }}
 
 ### Newest repositories
 

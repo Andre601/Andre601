@@ -26,12 +26,6 @@ Here is a list of various repositories based on certain criterias. a full list o
 - [`{{ REPO_FULL_NAME }}`]({{ REPO_URL }}) (![star] {{ REPO_STARS }} ![forked] {{ REPO_FORK_COUNT }})
 {{ end 3_MOST_STARRED_REPOS }}
 
-### Newest repositories
-
-{{ loop 3_NEWEST_REPOS }}
-- [`{{ REPO_FULL_NAME }}`]({{ REPO_URL }}) (![star] {{ REPO_STARS }} ![forked] {{ REPO_FORK_COUNT }})
-{{ end 3_NEWEST_REPOS }}
-
 ## 📊 Statistics
 <img height="195px" src="https://github-readme-stats.vercel.app/api?username=Andre601&show_icons=true&hide_rank=true&title_color=3498db&bg_color=ffffff00&text_color=718096&disable_animations=true"><img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Andre601&layout=compact&title_color=3498db&bg_color=ffffff00&text_color=718096">
 

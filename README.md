@@ -12,13 +12,25 @@
 My name is Andreas but most people just call me Andre.  
 On the internet am I known as either Andre_601 or Andre601. My tag on Discord is [Andre_601#0601][andre].
 
-I'm a Hobby Developer who develops stuff in my free time (which is a lot right now) in Java. My most popular/well known project so far is [\*Purr\*][purr], a Discord Bot that reached over 50,000 Servers (And still counting).
+I'm a Hobby Java-Developer who creates a lot of various projects here on GitHub from which some are more popular than others.  
+I joined GitHub 6 years ago.
 
 If you have any questions, feel free to join my [personal Discord Server][discord]. I'm pretty much always around and have time to answer stuff.
 
 ## 📁 Projects
-Below this Readme can you find a list of Projects that I believe are my most popular ones (Or those you might be most interested in).  
-Additional projects can be found on my [GitHub Project Page][github] so give it a look.
+Here is a list of various repositories based on certain criterias. a full list of my Repositories can be found on my [projects page][github].
+
+### Most starred repositories
+
+{{ loop 3_MOST_STARRED }}
+- [`{{ REPO_FULL_NAME }}`]({{ REPO_URL }}) (![star] {{ REPO_STARS }} ![forked] {{ REPO_FORK_COUNT }})
+{{ end 3_MOST_STARRED }}
+
+### Newest repositories
+
+- [`Andre601/brand`](https://github.com/Andre601/brand) (![star] 0 ![forked] 0)
+- [`Andre601/adventure-text-minimessage`](https://github.com/Andre601/adventure-text-minimessage) (![star] 0 ![forked] 0)
+- [`Andre601/update-changelog`](https://github.com/Andre601/update-changelog) (![star] 0 ![forked] 0)
 
 ## 📊 Statistics
 <img height="195px" src="https://github-readme-stats.vercel.app/api?username=Andre601&show_icons=true&hide_rank=true&title_color=3498db&bg_color=ffffff00&text_color=718096&disable_animations=true"><img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Andre601&layout=compact&title_color=3498db&bg_color=ffffff00&text_color=718096">
@@ -28,19 +40,19 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes opening and closing issues and opening, closing and merging Pull requests.
 
 <!--RECENT_ACTIVITY:last_update-->
-Last update: `21.06.2021 14:14:20 GMT+0200`
+Last update: `21.06.2021 18:32:03 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![pullRequestMerged] **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#647](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/647)
-2. ![approved] **Approved Changes:** [PlaceholderAPI/PlaceholderAPI#647](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/647#pullrequestreview-687923262)
-3. ![issueOpened] **Issue opened:** [dabutvin/Imgbot#953](https://github.com/dabutvin/Imgbot/issues/953)
-4. ![pullRequestMerged] **Pull request merged:** [Readme-Workflows/Readme-Icons#21](https://github.com/Readme-Workflows/Readme-Icons/pull/21)
-5. ![pullRequestMerged] **Pull request merged:** [Readme-Workflows/Readme-Icons#19](https://github.com/Readme-Workflows/Readme-Icons/pull/19)
-6. ![pullRequestMerged] **Pull request merged:** [Readme-Workflows/Readme-Icons#18](https://github.com/Readme-Workflows/Readme-Icons/pull/18)
-7. ![pullRequestOpened] **Pull request opened:** [Readme-Workflows/Readme-Icons#19](https://github.com/Readme-Workflows/Readme-Icons/pull/19)
-8. ![pullRequestOpened] **Pull request opened:** [Readme-Workflows/Readme-Icons#18](https://github.com/Readme-Workflows/Readme-Icons/pull/18)
-9. ![pullRequestMerged] **Pull request merged:** [Readme-Workflows/Readme-Icons#17](https://github.com/Readme-Workflows/Readme-Icons/pull/17)
-10. ![pullRequestOpened] **Pull request opened:** [Readme-Workflows/Readme-Icons#17](https://github.com/Readme-Workflows/Readme-Icons/pull/17)
+1. ![pullRequestOpened] **Pull request opened:** [cdnjs/brand#15](https://github.com/cdnjs/brand/pull/15)
+2. 🔱 Forked [Andre601/brand](https://github.com/Andre601/brand) from [cdnjs/brand](https://github.com/cdnjs/brand)
+3. ![pullRequestMerged] **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#647](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/647)
+4. ![approved] **Approved Changes:** [PlaceholderAPI/PlaceholderAPI#647](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/647#pullrequestreview-687923262)
+5. ![issueOpened] **Issue opened:** [dabutvin/Imgbot#953](https://github.com/dabutvin/Imgbot/issues/953)
+6. ![pullRequestMerged] **Pull request merged:** [Readme-Workflows/Readme-Icons#21](https://github.com/Readme-Workflows/Readme-Icons/pull/21)
+7. ![pullRequestMerged] **Pull request merged:** [Readme-Workflows/Readme-Icons#19](https://github.com/Readme-Workflows/Readme-Icons/pull/19)
+8. ![pullRequestMerged] **Pull request merged:** [Readme-Workflows/Readme-Icons#18](https://github.com/Readme-Workflows/Readme-Icons/pull/18)
+9. ![pullRequestOpened] **Pull request opened:** [Readme-Workflows/Readme-Icons#19](https://github.com/Readme-Workflows/Readme-Icons/pull/19)
+10. ![pullRequestOpened] **Pull request opened:** [Readme-Workflows/Readme-Icons#18](https://github.com/Readme-Workflows/Readme-Icons/pull/18)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links
@@ -67,3 +79,4 @@ Last update: `21.06.2021 14:14:20 GMT+0200`
 [release]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@v1.1.0/icons/octicons/Release.svg
 [star]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@v1.1.0/icons/octicons/StarredRepository.svg
 [wiki]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@v1.1.0/icons/octicons/Wiki.svg
+[forked]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg

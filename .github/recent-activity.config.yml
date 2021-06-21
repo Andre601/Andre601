@@ -22,4 +22,4 @@ messages:
   new_release: "![release] **Created Release:** {URL}"
   new_star: "![star] **Starred** {REPO}"
   wiki_create: "![wiki] **Wiki Page created:** {WIKI} in {REPO}"
-  repo_forked: "![forked] **Forked Repository:** {FORK} (From {REPO})
+  fork_repo: "![forked] **Forked Repository:** {FORK} (From {REPO})

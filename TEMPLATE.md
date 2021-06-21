@@ -34,19 +34,19 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes opening and closing issues and opening, closing and merging Pull requests.
 
 <!--RECENT_ACTIVITY:last_update-->
-Last update: `21.06.2021 18:32:03 GMT+0200`
+Last update: `21.06.2021 18:57:40 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![pullRequestOpened] **Pull request opened:** [cdnjs/brand#15](https://github.com/cdnjs/brand/pull/15)
-2. 🔱 Forked [Andre601/brand](https://github.com/Andre601/brand) from [cdnjs/brand](https://github.com/cdnjs/brand)
-3. ![pullRequestMerged] **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#647](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/647)
-4. ![approved] **Approved Changes:** [PlaceholderAPI/PlaceholderAPI#647](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/647#pullrequestreview-687923262)
-5. ![issueOpened] **Issue opened:** [dabutvin/Imgbot#953](https://github.com/dabutvin/Imgbot/issues/953)
-6. ![pullRequestMerged] **Pull request merged:** [Readme-Workflows/Readme-Icons#21](https://github.com/Readme-Workflows/Readme-Icons/pull/21)
-7. ![pullRequestMerged] **Pull request merged:** [Readme-Workflows/Readme-Icons#19](https://github.com/Readme-Workflows/Readme-Icons/pull/19)
-8. ![pullRequestMerged] **Pull request merged:** [Readme-Workflows/Readme-Icons#18](https://github.com/Readme-Workflows/Readme-Icons/pull/18)
-9. ![pullRequestOpened] **Pull request opened:** [Readme-Workflows/Readme-Icons#19](https://github.com/Readme-Workflows/Readme-Icons/pull/19)
-10. ![pullRequestOpened] **Pull request opened:** [Readme-Workflows/Readme-Icons#18](https://github.com/Readme-Workflows/Readme-Icons/pull/18)
+1. ![issueOpened] **Issue opened:** [probablykasper/readme-template-action#3](https://github.com/probablykasper/readme-template-action/issues/3)
+2. ![pullRequestOpened] **Pull request opened:** [cdnjs/brand#15](https://github.com/cdnjs/brand/pull/15)
+3. ![forked] **Forked Repository:** [Andre601/brand](https://github.com/Andre601/brand) (From [cdnjs/brand](https://github.com/cdnjs/brand))
+4. ![pullRequestMerged] **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#647](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/647)
+5. ![approved] **Approved Changes:** [PlaceholderAPI/PlaceholderAPI#647](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/647#pullrequestreview-687923262)
+6. ![issueOpened] **Issue opened:** [dabutvin/Imgbot#953](https://github.com/dabutvin/Imgbot/issues/953)
+7. ![pullRequestMerged] **Pull request merged:** [Readme-Workflows/Readme-Icons#21](https://github.com/Readme-Workflows/Readme-Icons/pull/21)
+8. ![pullRequestMerged] **Pull request merged:** [Readme-Workflows/Readme-Icons#19](https://github.com/Readme-Workflows/Readme-Icons/pull/19)
+9. ![pullRequestMerged] **Pull request merged:** [Readme-Workflows/Readme-Icons#18](https://github.com/Readme-Workflows/Readme-Icons/pull/18)
+10. ![pullRequestOpened] **Pull request opened:** [Readme-Workflows/Readme-Icons#19](https://github.com/Readme-Workflows/Readme-Icons/pull/19)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

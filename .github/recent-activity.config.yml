@@ -1,6 +1,7 @@
 settings: 
   commit_msg: "Update Andre601/README with new stats"
   max_lines: 10
+  readme_file: "./TEMPLATE.md"
   url_text: "{REPO}{ID}"
   disabled_events:
   - 'comments'

@@ -7,12 +7,41 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  activity:
+    name: Update README with recent activity
     runs-on: ubuntu-latest
-    name: Update Profile README
 
     steps:
-      - uses: actions/checkout@v2.3.4
-      - uses: Readme-Workflows/recent-activity@v2.2.0
+      - name: Checkout repo
+        uses: actions/checkout@v2
+
+      - name: Update Activity list
+        uses: Readme-Workflows/recent-activity@v2.2.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  stats:
+    needs: activity
+    name: Update README with latest stats
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v2
+
+      - name: git pull
+        run: git pull
+
+      - name: Generate stats
+        uses: teoxoy/profile-readme-stats@v1
+        with:
+          token: ${{ secrets.STATS_TOKEN }}
+
+      - name: Add stats to readme
+        run: |
+          if [[ "$(git status --porcelain)" != "" ]]; then
+            git config user.name github-actions[bot]
+            git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+            git add --all
+            git commit -m "Update README with latest stats"
+            git push
+          fi

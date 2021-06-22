@@ -22,7 +22,7 @@ Here is a list of various repositories based on certain criterias. a full list o
 
 ### Most starred repositories
 
-- [`Andre601/OneVersionRemake`](https://github.com/Andre601/OneVersionRemake) (![star] 7 ![forked] 0)
+- [`Andre601/OneVersionRemake`](https://github.com/Andre601/OneVersionRemake) (![star] 7 ![forked] 1)
 - [`Andre601/Supporto`](https://github.com/Andre601/Supporto) (![star] 4 ![forked] 2)
 - [`Andre601/Formatter-Expansion`](https://github.com/Andre601/Formatter-Expansion) (![star] 2 ![forked] 1)
 
@@ -34,7 +34,7 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes opening and closing issues and opening, closing and merging Pull requests.
 
 <!--RECENT_ACTIVITY:last_update-->
-Last update: `22.06.2021 02:29:29 GMT+0200`
+Last update: `22.06.2021 14:16:24 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 1. ![issueClosed] **Issue closed:** [primer/octicons#566](https://github.com/primer/octicons/issues/566)

@@ -34,19 +34,19 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes opening and closing issues and opening, closing and merging Pull requests.
 
 <!--RECENT_ACTIVITY:last_update-->
-Last update: `26.06.2021 02:29:41 GMT+0200`
+Last update: `26.06.2021 14:13:21 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![pullRequestMerged] **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#650](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/650)
-2. ![approved] **Approved Changes:** [PlaceholderAPI/PlaceholderAPI#650](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/650#pullrequestreview-693208709)
-3. ![issueOpened] **Issue opened:** [xelA/bucket#78](https://github.com/xelA/bucket/issues/78)
-4. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#367](https://github.com/purrbot-site/PurrBot/pull/367)
-5. ![pullRequestMerged] **Pull request merged:** [purrbot-site/Docs#139](https://github.com/purrbot-site/Docs/pull/139)
-6. ![pullRequestMerged] **Pull request merged:** [purrbot-site/Docs#138](https://github.com/purrbot-site/Docs/pull/138)
-7. ![pullRequestClosed] **Pull request closed:** [purrbot-site/PurrBot#379](https://github.com/purrbot-site/PurrBot/pull/379)
-8. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#377](https://github.com/purrbot-site/PurrBot/pull/377)
-9. ![issueOpened] **Issue opened:** [dependabot/dependabot-core#3993](https://github.com/dependabot/dependabot-core/issues/3993)
-10. ![pullRequestOpened] **Pull request opened:** [Andre601/GitHub-Markdown#17](https://github.com/Andre601/GitHub-Markdown/pull/17)
+1. ![pullRequestClosed] **Pull request closed:** [purrbot-site/PurrBot#383](https://github.com/purrbot-site/PurrBot/pull/383)
+2. ![pullRequestClosed] **Pull request closed:** [purrbot-site/PurrBot#382](https://github.com/purrbot-site/PurrBot/pull/382)
+3. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#380](https://github.com/purrbot-site/PurrBot/pull/380)
+4. ![changesRequested] **Requested Changes:** [PlaceholderAPI/PlaceholderAPI#652](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/652#pullrequestreview-693286645)
+5. ![changesRequested] **Requested Changes:** [PlaceholderAPI/PlaceholderAPI#652](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/652#pullrequestreview-693286645)
+6. ![pullRequestMerged] **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#650](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/650)
+7. ![approved] **Approved Changes:** [PlaceholderAPI/PlaceholderAPI#650](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/650#pullrequestreview-693208709)
+8. ![issueOpened] **Issue opened:** [xelA/bucket#78](https://github.com/xelA/bucket/issues/78)
+9. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#367](https://github.com/purrbot-site/PurrBot/pull/367)
+10. ![pullRequestMerged] **Pull request merged:** [purrbot-site/Docs#139](https://github.com/purrbot-site/Docs/pull/139)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

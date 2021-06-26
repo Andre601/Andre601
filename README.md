@@ -34,19 +34,19 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes opening and closing issues and opening, closing and merging Pull requests.
 
 <!--RECENT_ACTIVITY:last_update-->
-Last update: `25.06.2021 14:13:57 GMT+0200`
+Last update: `26.06.2021 02:29:41 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![pullRequestOpened] **Pull request opened:** [Andre601/GitHub-Markdown#17](https://github.com/Andre601/GitHub-Markdown/pull/17)
-2. ![pullRequestMerged] **Pull request merged:** [Andre601/GitHub-Markdown#15](https://github.com/Andre601/GitHub-Markdown/pull/15)
-3. ![issueOpened] **Issue opened:** [Andre601/GitHub-Markdown#16](https://github.com/Andre601/GitHub-Markdown/issues/16)
-4. ![pullRequestOpened] **Pull request opened:** [Andre601/GitHub-Markdown#15](https://github.com/Andre601/GitHub-Markdown/pull/15)
-5. ![issueOpened] **Issue opened:** [KennyTV/list-of-shame#53](https://github.com/KennyTV/list-of-shame/issues/53)
-6. ![pullRequestMerged] **Pull request merged:** [Andre601/OneVersionRemake#72](https://github.com/Andre601/OneVersionRemake/pull/72)
-7. ![pullRequestOpened] **Pull request opened:** [Andre601/OneVersionRemake#72](https://github.com/Andre601/OneVersionRemake/pull/72)
-8. ![issueClosed] **Issue closed:** [primer/octicons#566](https://github.com/primer/octicons/issues/566)
-9. ![issueOpened] **Issue opened:** [probablykasper/readme-template-action#3](https://github.com/probablykasper/readme-template-action/issues/3)
-10. ![pullRequestOpened] **Pull request opened:** [cdnjs/brand#15](https://github.com/cdnjs/brand/pull/15)
+1. ![pullRequestMerged] **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#650](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/650)
+2. ![approved] **Approved Changes:** [PlaceholderAPI/PlaceholderAPI#650](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/650#pullrequestreview-693208709)
+3. ![issueOpened] **Issue opened:** [xelA/bucket#78](https://github.com/xelA/bucket/issues/78)
+4. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#367](https://github.com/purrbot-site/PurrBot/pull/367)
+5. ![pullRequestMerged] **Pull request merged:** [purrbot-site/Docs#139](https://github.com/purrbot-site/Docs/pull/139)
+6. ![pullRequestMerged] **Pull request merged:** [purrbot-site/Docs#138](https://github.com/purrbot-site/Docs/pull/138)
+7. ![pullRequestClosed] **Pull request closed:** [purrbot-site/PurrBot#379](https://github.com/purrbot-site/PurrBot/pull/379)
+8. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#377](https://github.com/purrbot-site/PurrBot/pull/377)
+9. ![issueOpened] **Issue opened:** [dependabot/dependabot-core#3993](https://github.com/dependabot/dependabot-core/issues/3993)
+10. ![pullRequestOpened] **Pull request opened:** [Andre601/GitHub-Markdown#17](https://github.com/Andre601/GitHub-Markdown/pull/17)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

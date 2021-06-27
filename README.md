@@ -34,19 +34,19 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes opening and closing issues and opening, closing and merging Pull requests.
 
 <!--RECENT_ACTIVITY:last_update-->
-Last update: `26.06.2021 14:13:21 GMT+0200`
+Last update: `27.06.2021 02:34:10 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![pullRequestClosed] **Pull request closed:** [purrbot-site/PurrBot#383](https://github.com/purrbot-site/PurrBot/pull/383)
-2. ![pullRequestClosed] **Pull request closed:** [purrbot-site/PurrBot#382](https://github.com/purrbot-site/PurrBot/pull/382)
-3. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#380](https://github.com/purrbot-site/PurrBot/pull/380)
-4. ![changesRequested] **Requested Changes:** [PlaceholderAPI/PlaceholderAPI#652](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/652#pullrequestreview-693286645)
-5. ![changesRequested] **Requested Changes:** [PlaceholderAPI/PlaceholderAPI#652](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/652#pullrequestreview-693286645)
-6. ![pullRequestMerged] **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#650](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/650)
-7. ![approved] **Approved Changes:** [PlaceholderAPI/PlaceholderAPI#650](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/650#pullrequestreview-693208709)
-8. ![issueOpened] **Issue opened:** [xelA/bucket#78](https://github.com/xelA/bucket/issues/78)
-9. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#367](https://github.com/purrbot-site/PurrBot/pull/367)
-10. ![pullRequestMerged] **Pull request merged:** [purrbot-site/Docs#139](https://github.com/purrbot-site/Docs/pull/139)
+1. ![pullRequestOpened] **Pull request opened:** [facelessuser/pymdown-extensions#1373](https://github.com/facelessuser/pymdown-extensions/pull/1373)
+2. ![forked] **Forked Repository:** [Andre601/pymdown-extensions](https://github.com/Andre601/pymdown-extensions) (From [facelessuser/pymdown-extensions](https://github.com/facelessuser/pymdown-extensions))
+3. ![pullRequestOpened] **Pull request opened:** [Andre601/blog#16](https://github.com/Andre601/blog/pull/16)
+4. ![pullRequestMerged] **Pull request merged:** [purrbot-site/Docs#140](https://github.com/purrbot-site/Docs/pull/140)
+5. ![pullRequestOpened] **Pull request opened:** [purrbot-site/Docs#140](https://github.com/purrbot-site/Docs/pull/140)
+6. ![pullRequestClosed] **Pull request closed:** [purrbot-site/PurrBot#385](https://github.com/purrbot-site/PurrBot/pull/385)
+7. ![pullRequestClosed] **Pull request closed:** [purrbot-site/PurrBot#384](https://github.com/purrbot-site/PurrBot/pull/384)
+8. ![pullRequestClosed] **Pull request closed:** [purrbot-site/PurrBot#383](https://github.com/purrbot-site/PurrBot/pull/383)
+9. ![pullRequestClosed] **Pull request closed:** [purrbot-site/PurrBot#382](https://github.com/purrbot-site/PurrBot/pull/382)
+10. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#380](https://github.com/purrbot-site/PurrBot/pull/380)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

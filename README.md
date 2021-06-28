@@ -34,19 +34,19 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes opening and closing issues and opening, closing and merging Pull requests.
 
 <!--RECENT_ACTIVITY:last_update-->
-Last update: `27.06.2021 14:13:56 GMT+0200`
+Last update: `28.06.2021 02:34:03 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![pullRequestOpened] **Pull request opened:** [facelessuser/pymdown-extensions#1373](https://github.com/facelessuser/pymdown-extensions/pull/1373)
-2. ![forked] **Forked Repository:** [Andre601/pymdown-extensions](https://github.com/Andre601/pymdown-extensions) (From [facelessuser/pymdown-extensions](https://github.com/facelessuser/pymdown-extensions))
-3. ![pullRequestOpened] **Pull request opened:** [Andre601/blog#16](https://github.com/Andre601/blog/pull/16)
-4. ![pullRequestMerged] **Pull request merged:** [purrbot-site/Docs#140](https://github.com/purrbot-site/Docs/pull/140)
-5. ![pullRequestOpened] **Pull request opened:** [purrbot-site/Docs#140](https://github.com/purrbot-site/Docs/pull/140)
-6. ![pullRequestClosed] **Pull request closed:** [purrbot-site/PurrBot#385](https://github.com/purrbot-site/PurrBot/pull/385)
-7. ![pullRequestClosed] **Pull request closed:** [purrbot-site/PurrBot#384](https://github.com/purrbot-site/PurrBot/pull/384)
-8. ![pullRequestClosed] **Pull request closed:** [purrbot-site/PurrBot#383](https://github.com/purrbot-site/PurrBot/pull/383)
-9. ![pullRequestClosed] **Pull request closed:** [purrbot-site/PurrBot#382](https://github.com/purrbot-site/PurrBot/pull/382)
-10. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#380](https://github.com/purrbot-site/PurrBot/pull/380)
+1. ![pullRequestMerged] **Pull request merged:** [Andre601/blog#16](https://github.com/Andre601/blog/pull/16)
+2. ![issueOpened] **Issue opened:** [DiscordWebsite/Embed#2](https://github.com/DiscordWebsite/Embed/issues/2)
+3. ![pullRequestOpened] **Pull request opened:** [squidfunk/mkdocs-material#2790](https://github.com/squidfunk/mkdocs-material/pull/2790)
+4. ![pullRequestOpened] **Pull request opened:** [facelessuser/pymdown-extensions#1373](https://github.com/facelessuser/pymdown-extensions/pull/1373)
+5. ![forked] **Forked Repository:** [Andre601/pymdown-extensions](https://github.com/Andre601/pymdown-extensions) (From [facelessuser/pymdown-extensions](https://github.com/facelessuser/pymdown-extensions))
+6. ![pullRequestOpened] **Pull request opened:** [Andre601/blog#16](https://github.com/Andre601/blog/pull/16)
+7. ![pullRequestMerged] **Pull request merged:** [purrbot-site/Docs#140](https://github.com/purrbot-site/Docs/pull/140)
+8. ![pullRequestOpened] **Pull request opened:** [purrbot-site/Docs#140](https://github.com/purrbot-site/Docs/pull/140)
+9. ![pullRequestClosed] **Pull request closed:** [purrbot-site/PurrBot#385](https://github.com/purrbot-site/PurrBot/pull/385)
+10. ![pullRequestClosed] **Pull request closed:** [purrbot-site/PurrBot#384](https://github.com/purrbot-site/PurrBot/pull/384)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

@@ -34,19 +34,19 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes opening and closing issues and opening, closing and merging Pull requests.
 
 <!--RECENT_ACTIVITY:last_update-->
-Last update: `28.06.2021 14:19:21 GMT+0200`
+Last update: `29.06.2021 02:32:36 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![pullRequestMerged] **Pull request merged:** [Andre601/OneVersionRemake#73](https://github.com/Andre601/OneVersionRemake/pull/73)
-2. ![pullRequestOpened] **Pull request opened:** [Andre601/OneVersionRemake#73](https://github.com/Andre601/OneVersionRemake/pull/73)
-3. ![pullRequestMerged] **Pull request merged:** [Andre601/mkdocs-template#22](https://github.com/Andre601/mkdocs-template/pull/22)
-4. ![pullRequestMerged] **Pull request merged:** [Andre601/blog#16](https://github.com/Andre601/blog/pull/16)
-5. ![issueOpened] **Issue opened:** [DiscordWebsite/Embed#2](https://github.com/DiscordWebsite/Embed/issues/2)
-6. ![pullRequestOpened] **Pull request opened:** [squidfunk/mkdocs-material#2790](https://github.com/squidfunk/mkdocs-material/pull/2790)
-7. ![pullRequestOpened] **Pull request opened:** [facelessuser/pymdown-extensions#1373](https://github.com/facelessuser/pymdown-extensions/pull/1373)
-8. ![forked] **Forked Repository:** [Andre601/pymdown-extensions](https://github.com/Andre601/pymdown-extensions) (From [facelessuser/pymdown-extensions](https://github.com/facelessuser/pymdown-extensions))
-9. ![pullRequestOpened] **Pull request opened:** [Andre601/blog#16](https://github.com/Andre601/blog/pull/16)
-10. ![pullRequestMerged] **Pull request merged:** [purrbot-site/Docs#140](https://github.com/purrbot-site/Docs/pull/140)
+1. ![pullRequestOpened] **Pull request opened:** [PlaceholderAPI/PlaceholderAPI#654](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/654)
+2. ![pullRequestClosed] **Pull request closed:** [purrbot-site/PurrBot#258](https://github.com/purrbot-site/PurrBot/pull/258)
+3. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#388](https://github.com/purrbot-site/PurrBot/pull/388)
+4. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#387](https://github.com/purrbot-site/PurrBot/pull/387)
+5. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#386](https://github.com/purrbot-site/PurrBot/pull/386)
+6. ![pullRequestMerged] **Pull request merged:** [Andre601/OneVersionRemake#73](https://github.com/Andre601/OneVersionRemake/pull/73)
+7. ![pullRequestOpened] **Pull request opened:** [Andre601/OneVersionRemake#73](https://github.com/Andre601/OneVersionRemake/pull/73)
+8. ![pullRequestMerged] **Pull request merged:** [Andre601/mkdocs-template#22](https://github.com/Andre601/mkdocs-template/pull/22)
+9. ![pullRequestMerged] **Pull request merged:** [Andre601/blog#16](https://github.com/Andre601/blog/pull/16)
+10. ![issueOpened] **Issue opened:** [DiscordWebsite/Embed#2](https://github.com/DiscordWebsite/Embed/issues/2)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

@@ -34,19 +34,19 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes opening and closing issues and opening, closing and merging Pull requests.
 
 <!--RECENT_ACTIVITY:last_update-->
-Last update: `30.06.2021 02:33:18 GMT+0200`
+Last update: `30.06.2021 14:19:16 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![release] **Created Release:** [DiscordServices/DServices4Jv1.3.1: Fix wrong check in getRemainingTime](https://github.com/DiscordServices/DServices4J/releases/tag/1.3.1)
-2. ![pullRequestMerged] **Pull request merged:** [DiscordServices/DServices4J#4](https://github.com/DiscordServices/DServices4J/pull/4)
-3. ![pullRequestOpened] **Pull request opened:** [DiscordServices/DServices4J#4](https://github.com/DiscordServices/DServices4J/pull/4)
-4. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#390](https://github.com/purrbot-site/PurrBot/pull/390)
-5. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#389](https://github.com/purrbot-site/PurrBot/pull/389)
-6. ![pullRequestOpened] **Pull request opened:** [PlaceholderAPI/PlaceholderAPI#654](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/654)
-7. ![pullRequestClosed] **Pull request closed:** [purrbot-site/PurrBot#258](https://github.com/purrbot-site/PurrBot/pull/258)
-8. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#388](https://github.com/purrbot-site/PurrBot/pull/388)
-9. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#387](https://github.com/purrbot-site/PurrBot/pull/387)
-10. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#386](https://github.com/purrbot-site/PurrBot/pull/386)
+1. ![changesRequested] **Requested Changes:** [PlaceholderAPI/PlaceholderAPI#656](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/656#pullrequestreview-696019518)
+2. ![changesRequested] **Requested Changes:** [PlaceholderAPI/PlaceholderAPI#656](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/656#pullrequestreview-696019518)
+3. ![pullRequestMerged] **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#655](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/655)
+4. ![approved] **Approved Changes:** [PlaceholderAPI/PlaceholderAPI#655](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/655#pullrequestreview-695908289)
+5. ![release] **Created Release:** [DiscordServices/DServices4Jv1.3.1: Fix wrong check in getRemainingTime](https://github.com/DiscordServices/DServices4J/releases/tag/1.3.1)
+6. ![pullRequestMerged] **Pull request merged:** [DiscordServices/DServices4J#4](https://github.com/DiscordServices/DServices4J/pull/4)
+7. ![pullRequestOpened] **Pull request opened:** [DiscordServices/DServices4J#4](https://github.com/DiscordServices/DServices4J/pull/4)
+8. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#390](https://github.com/purrbot-site/PurrBot/pull/390)
+9. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#389](https://github.com/purrbot-site/PurrBot/pull/389)
+10. ![pullRequestOpened] **Pull request opened:** [PlaceholderAPI/PlaceholderAPI#654](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/654)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

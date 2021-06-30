@@ -34,19 +34,19 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes opening and closing issues and opening, closing and merging Pull requests.
 
 <!--RECENT_ACTIVITY:last_update-->
-Last update: `29.06.2021 14:19:17 GMT+0200`
+Last update: `30.06.2021 02:33:18 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![pullRequestOpened] **Pull request opened:** [PlaceholderAPI/PlaceholderAPI#654](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/654)
-2. ![pullRequestClosed] **Pull request closed:** [purrbot-site/PurrBot#258](https://github.com/purrbot-site/PurrBot/pull/258)
-3. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#388](https://github.com/purrbot-site/PurrBot/pull/388)
-4. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#387](https://github.com/purrbot-site/PurrBot/pull/387)
-5. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#386](https://github.com/purrbot-site/PurrBot/pull/386)
-6. ![pullRequestMerged] **Pull request merged:** [Andre601/OneVersionRemake#73](https://github.com/Andre601/OneVersionRemake/pull/73)
-7. ![pullRequestOpened] **Pull request opened:** [Andre601/OneVersionRemake#73](https://github.com/Andre601/OneVersionRemake/pull/73)
-8. ![pullRequestMerged] **Pull request merged:** [Andre601/mkdocs-template#22](https://github.com/Andre601/mkdocs-template/pull/22)
-9. ![pullRequestMerged] **Pull request merged:** [Andre601/blog#16](https://github.com/Andre601/blog/pull/16)
-10. ![issueOpened] **Issue opened:** [DiscordWebsite/Embed#2](https://github.com/DiscordWebsite/Embed/issues/2)
+1. ![release] **Created Release:** [DiscordServices/DServices4Jv1.3.1: Fix wrong check in getRemainingTime](https://github.com/DiscordServices/DServices4J/releases/tag/1.3.1)
+2. ![pullRequestMerged] **Pull request merged:** [DiscordServices/DServices4J#4](https://github.com/DiscordServices/DServices4J/pull/4)
+3. ![pullRequestOpened] **Pull request opened:** [DiscordServices/DServices4J#4](https://github.com/DiscordServices/DServices4J/pull/4)
+4. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#390](https://github.com/purrbot-site/PurrBot/pull/390)
+5. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#389](https://github.com/purrbot-site/PurrBot/pull/389)
+6. ![pullRequestOpened] **Pull request opened:** [PlaceholderAPI/PlaceholderAPI#654](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/654)
+7. ![pullRequestClosed] **Pull request closed:** [purrbot-site/PurrBot#258](https://github.com/purrbot-site/PurrBot/pull/258)
+8. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#388](https://github.com/purrbot-site/PurrBot/pull/388)
+9. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#387](https://github.com/purrbot-site/PurrBot/pull/387)
+10. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#386](https://github.com/purrbot-site/PurrBot/pull/386)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

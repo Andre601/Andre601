@@ -34,19 +34,19 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes opening and closing issues and opening, closing and merging Pull requests.
 
 <!--RECENT_ACTIVITY:last_update-->
-Last update: `01.07.2021 14:20:18 GMT+0200`
+Last update: `02.07.2021 02:30:36 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![pullRequestMerged] **Pull request merged:** [botblock/JavaBotBlockAPI#247](https://github.com/botblock/JavaBotBlockAPI/pull/247)
-2. ![pullRequestClosed] **Pull request closed:** [PlaceholderAPI/PlaceholderAPI#601](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/601)
-3. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#391](https://github.com/purrbot-site/PurrBot/pull/391)
-4. ![changesRequested] **Requested Changes:** [PlaceholderAPI/PlaceholderAPI#656](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/656#pullrequestreview-696019518)
-5. ![changesRequested] **Requested Changes:** [PlaceholderAPI/PlaceholderAPI#656](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/656#pullrequestreview-696019518)
-6. ![pullRequestMerged] **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#655](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/655)
-7. ![approved] **Approved Changes:** [PlaceholderAPI/PlaceholderAPI#655](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/655#pullrequestreview-695908289)
-8. ![release] **Created Release:** [DiscordServices/DServices4Jv1.3.1: Fix wrong check in getRemainingTime](https://github.com/DiscordServices/DServices4J/releases/tag/1.3.1)
-9. ![pullRequestMerged] **Pull request merged:** [DiscordServices/DServices4J#4](https://github.com/DiscordServices/DServices4J/pull/4)
-10. ![pullRequestOpened] **Pull request opened:** [DiscordServices/DServices4J#4](https://github.com/DiscordServices/DServices4J/pull/4)
+1. ![pullRequestMerged] **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#659](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/659)
+2. ![approved] **Approved Changes:** [Readme-Workflows/recent-activity#75](https://github.com/Readme-Workflows/recent-activity/pull/75#pullrequestreview-697494554)
+3. ![pullRequestOpened] **Pull request opened:** [PlaceholderAPI/PlaceholderAPI#659](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/659)
+4. ![issueOpened] **Issue opened:** [EssentialsX/Wiki#20](https://github.com/EssentialsX/Wiki/issues/20)
+5. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#392](https://github.com/purrbot-site/PurrBot/pull/392)
+6. ![pullRequestMerged] **Pull request merged:** [botblock/JavaBotBlockAPI#247](https://github.com/botblock/JavaBotBlockAPI/pull/247)
+7. ![pullRequestClosed] **Pull request closed:** [PlaceholderAPI/PlaceholderAPI#601](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/601)
+8. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#391](https://github.com/purrbot-site/PurrBot/pull/391)
+9. ![changesRequested] **Requested Changes:** [PlaceholderAPI/PlaceholderAPI#656](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/656#pullrequestreview-696019518)
+10. ![changesRequested] **Requested Changes:** [PlaceholderAPI/PlaceholderAPI#656](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/656#pullrequestreview-696019518)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

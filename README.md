@@ -34,19 +34,19 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes opening and closing issues and opening, closing and merging Pull requests.
 
 <!--RECENT_ACTIVITY:last_update-->
-Last update: `02.07.2021 14:14:37 GMT+0200`
+Last update: `03.07.2021 02:31:35 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![pullRequestOpened] **Pull request opened:** [Readme-Workflows/recent-activity#78](https://github.com/Readme-Workflows/recent-activity/pull/78)
-2. ![pullRequestOpened] **Pull request opened:** [DV8FromTheWorld/JDA#1703](https://github.com/DV8FromTheWorld/JDA/pull/1703)
-3. ![pullRequestMerged] **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#659](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/659)
-4. ![approved] **Approved Changes:** [Readme-Workflows/recent-activity#75](https://github.com/Readme-Workflows/recent-activity/pull/75#pullrequestreview-697494554)
-5. ![pullRequestOpened] **Pull request opened:** [PlaceholderAPI/PlaceholderAPI#659](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/659)
-6. ![issueOpened] **Issue opened:** [EssentialsX/Wiki#20](https://github.com/EssentialsX/Wiki/issues/20)
-7. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#392](https://github.com/purrbot-site/PurrBot/pull/392)
-8. ![pullRequestMerged] **Pull request merged:** [botblock/JavaBotBlockAPI#247](https://github.com/botblock/JavaBotBlockAPI/pull/247)
-9. ![pullRequestClosed] **Pull request closed:** [PlaceholderAPI/PlaceholderAPI#601](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/601)
-10. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#391](https://github.com/purrbot-site/PurrBot/pull/391)
+1. ![pullRequestOpened] **Pull request opened:** [SanderGielisse/BannerBoard-free#4](https://github.com/SanderGielisse/BannerBoard-free/pull/4)
+2. ![forked] **Forked Repository:** [Andre601/BannerBoard-free](https://github.com/Andre601/BannerBoard-free) (From [SanderGielisse/BannerBoard-free](https://github.com/SanderGielisse/BannerBoard-free))
+3. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#393](https://github.com/purrbot-site/PurrBot/pull/393)
+4. ![pullRequestMerged] **Pull request merged:** [Readme-Workflows/Readme-Icons#23](https://github.com/Readme-Workflows/Readme-Icons/pull/23)
+5. ![pullRequestMerged] **Pull request merged:** [Readme-Workflows/Readme-Icons#22](https://github.com/Readme-Workflows/Readme-Icons/pull/22)
+6. ![pullRequestOpened] **Pull request opened:** [Readme-Workflows/Readme-Icons#22](https://github.com/Readme-Workflows/Readme-Icons/pull/22)
+7. ![pullRequestOpened] **Pull request opened:** [Readme-Workflows/recent-activity#78](https://github.com/Readme-Workflows/recent-activity/pull/78)
+8. ![pullRequestOpened] **Pull request opened:** [DV8FromTheWorld/JDA#1703](https://github.com/DV8FromTheWorld/JDA/pull/1703)
+9. ![pullRequestMerged] **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#659](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/659)
+10. ![approved] **Approved Changes:** [Readme-Workflows/recent-activity#75](https://github.com/Readme-Workflows/recent-activity/pull/75#pullrequestreview-697494554)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

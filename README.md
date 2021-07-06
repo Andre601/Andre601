@@ -34,19 +34,19 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes opening and closing issues and opening, closing and merging Pull requests.
 
 <!--RECENT_ACTIVITY:last_update-->
-Last update: `05.07.2021 14:19:09 GMT+0200`
+Last update: `06.07.2021 02:33:02 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![pullRequestMerged] **Pull request merged:** [Andre601/Andre601#7](https://github.com/Andre601/Andre601/pull/7)
-2. ![pullRequestMerged] **Pull request merged:** [botblock/JavaBotBlockAPI#248](https://github.com/botblock/JavaBotBlockAPI/pull/248)
-3. ![pullRequestOpened] **Pull request opened:** [SanderGielisse/BannerBoard-free#4](https://github.com/SanderGielisse/BannerBoard-free/pull/4)
-4. ![forked] **Forked Repository:** [Andre601/BannerBoard-free](https://github.com/Andre601/BannerBoard-free) (From [SanderGielisse/BannerBoard-free](https://github.com/SanderGielisse/BannerBoard-free))
-5. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#393](https://github.com/purrbot-site/PurrBot/pull/393)
-6. ![pullRequestMerged] **Pull request merged:** [Readme-Workflows/Readme-Icons#23](https://github.com/Readme-Workflows/Readme-Icons/pull/23)
-7. ![pullRequestMerged] **Pull request merged:** [Readme-Workflows/Readme-Icons#22](https://github.com/Readme-Workflows/Readme-Icons/pull/22)
-8. ![pullRequestOpened] **Pull request opened:** [Readme-Workflows/Readme-Icons#22](https://github.com/Readme-Workflows/Readme-Icons/pull/22)
-9. ![pullRequestOpened] **Pull request opened:** [Readme-Workflows/recent-activity#78](https://github.com/Readme-Workflows/recent-activity/pull/78)
-10. ![pullRequestOpened] **Pull request opened:** [DV8FromTheWorld/JDA#1703](https://github.com/DV8FromTheWorld/JDA/pull/1703)
+1. ![issueOpened] **Issue opened:** [xelA/bucket#87](https://github.com/xelA/bucket/issues/87)
+2. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#395](https://github.com/purrbot-site/PurrBot/pull/395)
+3. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#394](https://github.com/purrbot-site/PurrBot/pull/394)
+4. ![pullRequestMerged] **Pull request merged:** [Andre601/Andre601#7](https://github.com/Andre601/Andre601/pull/7)
+5. ![pullRequestMerged] **Pull request merged:** [botblock/JavaBotBlockAPI#248](https://github.com/botblock/JavaBotBlockAPI/pull/248)
+6. ![pullRequestOpened] **Pull request opened:** [SanderGielisse/BannerBoard-free#4](https://github.com/SanderGielisse/BannerBoard-free/pull/4)
+7. ![forked] **Forked Repository:** [Andre601/BannerBoard-free](https://github.com/Andre601/BannerBoard-free) (From [SanderGielisse/BannerBoard-free](https://github.com/SanderGielisse/BannerBoard-free))
+8. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#393](https://github.com/purrbot-site/PurrBot/pull/393)
+9. ![pullRequestMerged] **Pull request merged:** [Readme-Workflows/Readme-Icons#23](https://github.com/Readme-Workflows/Readme-Icons/pull/23)
+10. ![pullRequestMerged] **Pull request merged:** [Readme-Workflows/Readme-Icons#22](https://github.com/Readme-Workflows/Readme-Icons/pull/22)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

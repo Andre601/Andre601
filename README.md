@@ -24,7 +24,7 @@ Here is a list of various repositories based on certain criterias. a full list o
 
 - [`Andre601/OneVersionRemake`](https://github.com/Andre601/OneVersionRemake) (![star] 7 ![forked] 0)
 - [`Andre601/Supporto`](https://github.com/Andre601/Supporto) (![star] 4 ![forked] 2)
-- [`Andre601/Formatter-Expansion`](https://github.com/Andre601/Formatter-Expansion) (![star] 2 ![forked] 2)
+- [`Andre601/Formatter-Expansion`](https://github.com/Andre601/Formatter-Expansion) (![star] 2 ![forked] 1)
 
 ## 📊 Statistics
 <img height="195px" src="https://github-readme-stats.vercel.app/api?username=Andre601&show_icons=true&hide_rank=true&title_color=3498db&bg_color=ffffff00&text_color=718096&disable_animations=true"><img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Andre601&layout=compact&title_color=3498db&bg_color=ffffff00&text_color=718096">
@@ -34,7 +34,7 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes opening and closing issues and opening, closing and merging Pull requests.
 
 <!--RECENT_ACTIVITY:last_update-->
-Last update: `06.07.2021 02:33:02 GMT+0200`
+Last update: `06.07.2021 14:16:23 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 1. ![issueOpened] **Issue opened:** [xelA/bucket#87](https://github.com/xelA/bucket/issues/87)

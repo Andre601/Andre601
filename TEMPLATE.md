@@ -34,19 +34,19 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes opening and closing issues and opening, closing and merging Pull requests.
 
 <!--RECENT_ACTIVITY:last_update-->
-Last update: `06.07.2021 14:16:23 GMT+0200`
+Last update: `07.07.2021 02:31:52 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![issueOpened] **Issue opened:** [xelA/bucket#87](https://github.com/xelA/bucket/issues/87)
-2. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#395](https://github.com/purrbot-site/PurrBot/pull/395)
-3. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#394](https://github.com/purrbot-site/PurrBot/pull/394)
-4. ![pullRequestMerged] **Pull request merged:** [Andre601/Andre601#7](https://github.com/Andre601/Andre601/pull/7)
-5. ![pullRequestMerged] **Pull request merged:** [botblock/JavaBotBlockAPI#248](https://github.com/botblock/JavaBotBlockAPI/pull/248)
-6. ![pullRequestOpened] **Pull request opened:** [SanderGielisse/BannerBoard-free#4](https://github.com/SanderGielisse/BannerBoard-free/pull/4)
-7. ![forked] **Forked Repository:** [Andre601/BannerBoard-free](https://github.com/Andre601/BannerBoard-free) (From [SanderGielisse/BannerBoard-free](https://github.com/SanderGielisse/BannerBoard-free))
-8. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#393](https://github.com/purrbot-site/PurrBot/pull/393)
-9. ![pullRequestMerged] **Pull request merged:** [Readme-Workflows/Readme-Icons#23](https://github.com/Readme-Workflows/Readme-Icons/pull/23)
-10. ![pullRequestMerged] **Pull request merged:** [Readme-Workflows/Readme-Icons#22](https://github.com/Readme-Workflows/Readme-Icons/pull/22)
+1. ![pullRequestOpened] **Pull request opened:** [CodeCrafter47/TabOverlayCommon#4](https://github.com/CodeCrafter47/TabOverlayCommon/pull/4)
+2. ![forked] **Forked Repository:** [Andre601/TabOverlayCommon](https://github.com/Andre601/TabOverlayCommon) (From [CodeCrafter47/TabOverlayCommon](https://github.com/CodeCrafter47/TabOverlayCommon))
+3. ![pullRequestClosed] **Pull request closed:** [Andre601/OneVersionRemake#77](https://github.com/Andre601/OneVersionRemake/pull/77)
+4. ![pullRequestClosed] **Pull request closed:** [Andre601/OneVersionRemake#76](https://github.com/Andre601/OneVersionRemake/pull/76)
+5. ![pullRequestMerged] **Pull request merged:** [Andre601/OneVersionRemake#75](https://github.com/Andre601/OneVersionRemake/pull/75)
+6. ![issueOpened] **Issue opened:** [xelA/bucket#87](https://github.com/xelA/bucket/issues/87)
+7. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#395](https://github.com/purrbot-site/PurrBot/pull/395)
+8. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#394](https://github.com/purrbot-site/PurrBot/pull/394)
+9. ![pullRequestMerged] **Pull request merged:** [Andre601/Andre601#7](https://github.com/Andre601/Andre601/pull/7)
+10. ![pullRequestMerged] **Pull request merged:** [botblock/JavaBotBlockAPI#248](https://github.com/botblock/JavaBotBlockAPI/pull/248)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

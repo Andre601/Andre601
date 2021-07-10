@@ -34,19 +34,19 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes opening and closing issues and opening, closing and merging Pull requests.
 
 <!--RECENT_ACTIVITY:last_update-->
-Last update: `09.07.2021 14:13:58 GMT+0200`
+Last update: `10.07.2021 02:30:31 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![pullRequestMerged] **Pull request merged:** [botblock/JavaBotBlockAPI#250](https://github.com/botblock/JavaBotBlockAPI/pull/250)
-2. ![pullRequestMerged] **Pull request merged:** [Andre601/OneVersionRemake#84](https://github.com/Andre601/OneVersionRemake/pull/84)
-3. ![pullRequestOpened] **Pull request opened:** [Andre601/OneVersionRemake#84](https://github.com/Andre601/OneVersionRemake/pull/84)
-4. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#397](https://github.com/purrbot-site/PurrBot/pull/397)
-5. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#396](https://github.com/purrbot-site/PurrBot/pull/396)
-6. ![pullRequestMerged] **Pull request merged:** [Andre601/OneVersionRemake#82](https://github.com/Andre601/OneVersionRemake/pull/82)
-7. ![pullRequestOpened] **Pull request opened:** [Andre601/OneVersionRemake#82](https://github.com/Andre601/OneVersionRemake/pull/82)
-8. ![pullRequestMerged] **Pull request merged:** [Andre601/OneVersionRemake#80](https://github.com/Andre601/OneVersionRemake/pull/80)
-9. ![issueClosed] **Issue closed:** [Andre601/OneVersionRemake#79](https://github.com/Andre601/OneVersionRemake/issues/79)
-10. ![pullRequestOpened] **Pull request opened:** [Andre601/OneVersionRemake#80](https://github.com/Andre601/OneVersionRemake/pull/80)
+1. ![pullRequestMerged] **Pull request merged:** [Andre601/OneVersionRemake#87](https://github.com/Andre601/OneVersionRemake/pull/87)
+2. ![issueClosed] **Issue closed:** [Andre601/OneVersionRemake#86](https://github.com/Andre601/OneVersionRemake/issues/86)
+3. ![pullRequestOpened] **Pull request opened:** [Andre601/OneVersionRemake#87](https://github.com/Andre601/OneVersionRemake/pull/87)
+4. ![issueClosed] **Issue closed:** [PlaceholderAPI/PlaceholderAPI#477](https://github.com/PlaceholderAPI/PlaceholderAPI/issues/477)
+5. ![issueOpened] **Issue opened:** [SanderGielisse/BannerBoard-free#5](https://github.com/SanderGielisse/BannerBoard-free/issues/5)
+6. ![pullRequestMerged] **Pull request merged:** [Andre601/StatusNPC#4](https://github.com/Andre601/StatusNPC/pull/4)
+7. ![pullRequestMerged] **Pull request merged:** [botblock/JavaBotBlockAPI#250](https://github.com/botblock/JavaBotBlockAPI/pull/250)
+8. ![pullRequestMerged] **Pull request merged:** [Andre601/OneVersionRemake#84](https://github.com/Andre601/OneVersionRemake/pull/84)
+9. ![pullRequestOpened] **Pull request opened:** [Andre601/OneVersionRemake#84](https://github.com/Andre601/OneVersionRemake/pull/84)
+10. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#397](https://github.com/purrbot-site/PurrBot/pull/397)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

@@ -34,19 +34,19 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes opening and closing issues and opening, closing and merging Pull requests.
 
 <!--RECENT_ACTIVITY:last_update-->
-Last update: `10.07.2021 14:13:22 GMT+0200`
+Last update: `11.07.2021 02:34:47 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![release] **Created Release:** [PlaceholderAPI/PlaceholderAPI2.10.10 | Quality of life changes and more](https://github.com/PlaceholderAPI/PlaceholderAPI/releases/tag/2.10.10)
-2. ![pullRequestMerged] **Pull request merged:** [Andre601/OneVersionRemake#87](https://github.com/Andre601/OneVersionRemake/pull/87)
-3. ![issueClosed] **Issue closed:** [Andre601/OneVersionRemake#86](https://github.com/Andre601/OneVersionRemake/issues/86)
-4. ![pullRequestOpened] **Pull request opened:** [Andre601/OneVersionRemake#87](https://github.com/Andre601/OneVersionRemake/pull/87)
-5. ![issueClosed] **Issue closed:** [PlaceholderAPI/PlaceholderAPI#477](https://github.com/PlaceholderAPI/PlaceholderAPI/issues/477)
-6. ![issueOpened] **Issue opened:** [SanderGielisse/BannerBoard-free#5](https://github.com/SanderGielisse/BannerBoard-free/issues/5)
-7. ![pullRequestMerged] **Pull request merged:** [Andre601/StatusNPC#4](https://github.com/Andre601/StatusNPC/pull/4)
-8. ![pullRequestMerged] **Pull request merged:** [botblock/JavaBotBlockAPI#250](https://github.com/botblock/JavaBotBlockAPI/pull/250)
-9. ![pullRequestMerged] **Pull request merged:** [Andre601/OneVersionRemake#84](https://github.com/Andre601/OneVersionRemake/pull/84)
-10. ![pullRequestOpened] **Pull request opened:** [Andre601/OneVersionRemake#84](https://github.com/Andre601/OneVersionRemake/pull/84)
+1. ![pullRequestMerged] **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#662](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/662)
+2. ![pullRequestOpened] **Pull request opened:** [PlaceholderAPI/PlaceholderAPI#662](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/662)
+3. ![release] **Created Release:** [PlaceholderAPI/PlaceholderAPI2.10.10 | Quality of life changes and more](https://github.com/PlaceholderAPI/PlaceholderAPI/releases/tag/2.10.10)
+4. ![pullRequestMerged] **Pull request merged:** [Andre601/OneVersionRemake#87](https://github.com/Andre601/OneVersionRemake/pull/87)
+5. ![issueClosed] **Issue closed:** [Andre601/OneVersionRemake#86](https://github.com/Andre601/OneVersionRemake/issues/86)
+6. ![pullRequestOpened] **Pull request opened:** [Andre601/OneVersionRemake#87](https://github.com/Andre601/OneVersionRemake/pull/87)
+7. ![issueClosed] **Issue closed:** [PlaceholderAPI/PlaceholderAPI#477](https://github.com/PlaceholderAPI/PlaceholderAPI/issues/477)
+8. ![issueOpened] **Issue opened:** [SanderGielisse/BannerBoard-free#5](https://github.com/SanderGielisse/BannerBoard-free/issues/5)
+9. ![pullRequestMerged] **Pull request merged:** [Andre601/StatusNPC#4](https://github.com/Andre601/StatusNPC/pull/4)
+10. ![pullRequestMerged] **Pull request merged:** [botblock/JavaBotBlockAPI#250](https://github.com/botblock/JavaBotBlockAPI/pull/250)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

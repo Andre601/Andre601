@@ -34,19 +34,19 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes opening and closing issues and opening, closing and merging Pull requests.
 
 <!--RECENT_ACTIVITY:last_update-->
-Last update: `11.07.2021 14:13:27 GMT+0200`
+Last update: `12.07.2021 02:31:26 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![pullRequestMerged] **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#662](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/662)
-2. ![pullRequestOpened] **Pull request opened:** [PlaceholderAPI/PlaceholderAPI#662](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/662)
-3. ![release] **Created Release:** [PlaceholderAPI/PlaceholderAPI2.10.10 | Quality of life changes and more](https://github.com/PlaceholderAPI/PlaceholderAPI/releases/tag/2.10.10)
-4. ![pullRequestMerged] **Pull request merged:** [Andre601/OneVersionRemake#87](https://github.com/Andre601/OneVersionRemake/pull/87)
-5. ![issueClosed] **Issue closed:** [Andre601/OneVersionRemake#86](https://github.com/Andre601/OneVersionRemake/issues/86)
-6. ![pullRequestOpened] **Pull request opened:** [Andre601/OneVersionRemake#87](https://github.com/Andre601/OneVersionRemake/pull/87)
-7. ![issueClosed] **Issue closed:** [PlaceholderAPI/PlaceholderAPI#477](https://github.com/PlaceholderAPI/PlaceholderAPI/issues/477)
-8. ![issueOpened] **Issue opened:** [SanderGielisse/BannerBoard-free#5](https://github.com/SanderGielisse/BannerBoard-free/issues/5)
-9. ![pullRequestMerged] **Pull request merged:** [Andre601/StatusNPC#4](https://github.com/Andre601/StatusNPC/pull/4)
-10. ![pullRequestMerged] **Pull request merged:** [botblock/JavaBotBlockAPI#250](https://github.com/botblock/JavaBotBlockAPI/pull/250)
+1. ![pullRequestMerged] **Pull request merged:** [Readme-Workflows/recent-activity#80](https://github.com/Readme-Workflows/recent-activity/pull/80)
+2. ![pullRequestOpened] **Pull request opened:** [Readme-Workflows/recent-activity#80](https://github.com/Readme-Workflows/recent-activity/pull/80)
+3. ![pullRequestMerged] **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#662](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/662)
+4. ![pullRequestOpened] **Pull request opened:** [PlaceholderAPI/PlaceholderAPI#662](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/662)
+5. ![release] **Created Release:** [PlaceholderAPI/PlaceholderAPI2.10.10 | Quality of life changes and more](https://github.com/PlaceholderAPI/PlaceholderAPI/releases/tag/2.10.10)
+6. ![pullRequestMerged] **Pull request merged:** [Andre601/OneVersionRemake#87](https://github.com/Andre601/OneVersionRemake/pull/87)
+7. ![issueClosed] **Issue closed:** [Andre601/OneVersionRemake#86](https://github.com/Andre601/OneVersionRemake/issues/86)
+8. ![pullRequestOpened] **Pull request opened:** [Andre601/OneVersionRemake#87](https://github.com/Andre601/OneVersionRemake/pull/87)
+9. ![issueClosed] **Issue closed:** [PlaceholderAPI/PlaceholderAPI#477](https://github.com/PlaceholderAPI/PlaceholderAPI/issues/477)
+10. ![issueOpened] **Issue opened:** [SanderGielisse/BannerBoard-free#5](https://github.com/SanderGielisse/BannerBoard-free/issues/5)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

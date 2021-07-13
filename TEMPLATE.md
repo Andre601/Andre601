@@ -34,19 +34,19 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes opening and closing issues and opening, closing and merging Pull requests.
 
 <!--RECENT_ACTIVITY:last_update-->
-Last update: `12.07.2021 14:18:23 GMT+0200`
+Last update: `13.07.2021 02:33:09 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![pullRequestOpened] **Pull request opened:** [Readme-Workflows/readme-replacer#3](https://github.com/Readme-Workflows/readme-replacer/pull/3)
-2. ![approved] **Approved Changes:** [Readme-Workflows/readme-replacer#2](https://github.com/Readme-Workflows/readme-replacer/pull/2#pullrequestreview-703745594)
-3. ![pullRequestMerged] **Pull request merged:** [purrbot-site/Docs#141](https://github.com/purrbot-site/Docs/pull/141)
-4. ![pullRequestMerged] **Pull request merged:** [Andre601/mkdocs-template#23](https://github.com/Andre601/mkdocs-template/pull/23)
-5. ![pullRequestMerged] **Pull request merged:** [Readme-Workflows/recent-activity#80](https://github.com/Readme-Workflows/recent-activity/pull/80)
-6. ![pullRequestOpened] **Pull request opened:** [Readme-Workflows/recent-activity#80](https://github.com/Readme-Workflows/recent-activity/pull/80)
-7. ![pullRequestMerged] **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#662](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/662)
-8. ![pullRequestOpened] **Pull request opened:** [PlaceholderAPI/PlaceholderAPI#662](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/662)
-9. ![release] **Created Release:** [PlaceholderAPI/PlaceholderAPI2.10.10 | Quality of life changes and more](https://github.com/PlaceholderAPI/PlaceholderAPI/releases/tag/2.10.10)
-10. ![pullRequestMerged] **Pull request merged:** [Andre601/OneVersionRemake#87](https://github.com/Andre601/OneVersionRemake/pull/87)
+1. ![issueOpened] **Issue opened:** [mermaid-js/mermaid-live-editor#254](https://github.com/mermaid-js/mermaid-live-editor/issues/254)
+2. ![pullRequestOpened] **Pull request opened:** [5zig-reborn/5zig-reborn.github.io#5](https://github.com/5zig-reborn/5zig-reborn.github.io/pull/5)
+3. ![pullRequestOpened] **Pull request opened:** [Chew/JDA-Chewtils#10](https://github.com/Chew/JDA-Chewtils/pull/10)
+4. ![issueOpened] **Issue opened:** [Chew/JDA-Chewtils#9](https://github.com/Chew/JDA-Chewtils/issues/9)
+5. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#398](https://github.com/purrbot-site/PurrBot/pull/398)
+6. ![pullRequestMerged] **Pull request merged:** [Andre601/OneVersionRemake#89](https://github.com/Andre601/OneVersionRemake/pull/89)
+7. ![pullRequestOpened] **Pull request opened:** [Readme-Workflows/readme-replacer#3](https://github.com/Readme-Workflows/readme-replacer/pull/3)
+8. ![approved] **Approved Changes:** [Readme-Workflows/readme-replacer#2](https://github.com/Readme-Workflows/readme-replacer/pull/2#pullrequestreview-703745594)
+9. ![pullRequestMerged] **Pull request merged:** [purrbot-site/Docs#141](https://github.com/purrbot-site/Docs/pull/141)
+10. ![pullRequestMerged] **Pull request merged:** [Andre601/mkdocs-template#23](https://github.com/Andre601/mkdocs-template/pull/23)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

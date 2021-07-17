@@ -34,19 +34,19 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes opening and closing issues and opening, closing and merging Pull requests.
 
 <!--RECENT_ACTIVITY:last_update-->
-Last update: `16.07.2021 14:14:43 GMT+0200`
+Last update: `17.07.2021 02:31:47 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![pullRequestOpened] **Pull request opened:** [DV8FromTheWorld/JDA#1732](https://github.com/DV8FromTheWorld/JDA/pull/1732)
-2. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#381](https://github.com/purrbot-site/PurrBot/pull/381)
-3. ![pullRequestOpened] **Pull request opened:** [Readme-Workflows/Readme-Icons#24](https://github.com/Readme-Workflows/Readme-Icons/pull/24)
-4. ![issueClosed] **Issue closed:** [PlaceholderAPI/PlaceholderAPI#638](https://github.com/PlaceholderAPI/PlaceholderAPI/issues/638)
-5. ![pullRequestOpened] **Pull request opened:** [PlaceholderAPI/PlaceholderAPI#667](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/667)
-6. ![pullRequestMerged] **Pull request merged:** [purrbot-site/Docs#142](https://github.com/purrbot-site/Docs/pull/142)
-7. ![pullRequestOpened] **Pull request opened:** [purrbot-site/Docs#142](https://github.com/purrbot-site/Docs/pull/142)
-8. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#399](https://github.com/purrbot-site/PurrBot/pull/399)
-9. ![pullRequestOpened] **Pull request opened:** [Readme-Workflows/recent-activity#81](https://github.com/Readme-Workflows/recent-activity/pull/81)
-10. ![pullRequestOpened] **Pull request opened:** [Readme-Workflows/.github#2](https://github.com/Readme-Workflows/.github/pull/2)
+1. ![pullRequestMerged] **Pull request merged:** [botblock/JavaBotBlockAPI#252](https://github.com/botblock/JavaBotBlockAPI/pull/252)
+2. ![pullRequestOpened] **Pull request opened:** [botblock/JavaBotBlockAPI#252](https://github.com/botblock/JavaBotBlockAPI/pull/252)
+3. ![pullRequestMerged] **Pull request merged:** [botblock/JavaBotBlockAPI#251](https://github.com/botblock/JavaBotBlockAPI/pull/251)
+4. ![pullRequestOpened] **Pull request opened:** [botblock/JavaBotBlockAPI#251](https://github.com/botblock/JavaBotBlockAPI/pull/251)
+5. ![pullRequestOpened] **Pull request opened:** [DV8FromTheWorld/JDA#1732](https://github.com/DV8FromTheWorld/JDA/pull/1732)
+6. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#381](https://github.com/purrbot-site/PurrBot/pull/381)
+7. ![pullRequestOpened] **Pull request opened:** [Readme-Workflows/Readme-Icons#24](https://github.com/Readme-Workflows/Readme-Icons/pull/24)
+8. ![issueClosed] **Issue closed:** [PlaceholderAPI/PlaceholderAPI#638](https://github.com/PlaceholderAPI/PlaceholderAPI/issues/638)
+9. ![pullRequestOpened] **Pull request opened:** [PlaceholderAPI/PlaceholderAPI#667](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/667)
+10. ![pullRequestMerged] **Pull request merged:** [purrbot-site/Docs#142](https://github.com/purrbot-site/Docs/pull/142)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

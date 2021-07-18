@@ -34,19 +34,19 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes opening and closing issues and opening, closing and merging Pull requests.
 
 <!--RECENT_ACTIVITY:last_update-->
-Last update: `17.07.2021 14:13:42 GMT+0200`
+Last update: `18.07.2021 02:32:22 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![pullRequestMerged] **Pull request merged:** [botblock/JavaBotBlockAPI#252](https://github.com/botblock/JavaBotBlockAPI/pull/252)
-2. ![pullRequestOpened] **Pull request opened:** [botblock/JavaBotBlockAPI#252](https://github.com/botblock/JavaBotBlockAPI/pull/252)
-3. ![pullRequestMerged] **Pull request merged:** [botblock/JavaBotBlockAPI#251](https://github.com/botblock/JavaBotBlockAPI/pull/251)
-4. ![pullRequestOpened] **Pull request opened:** [botblock/JavaBotBlockAPI#251](https://github.com/botblock/JavaBotBlockAPI/pull/251)
-5. ![pullRequestOpened] **Pull request opened:** [DV8FromTheWorld/JDA#1732](https://github.com/DV8FromTheWorld/JDA/pull/1732)
-6. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#381](https://github.com/purrbot-site/PurrBot/pull/381)
-7. ![pullRequestOpened] **Pull request opened:** [Readme-Workflows/Readme-Icons#24](https://github.com/Readme-Workflows/Readme-Icons/pull/24)
-8. ![issueClosed] **Issue closed:** [PlaceholderAPI/PlaceholderAPI#638](https://github.com/PlaceholderAPI/PlaceholderAPI/issues/638)
-9. ![pullRequestOpened] **Pull request opened:** [PlaceholderAPI/PlaceholderAPI#667](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/667)
-10. ![pullRequestMerged] **Pull request merged:** [purrbot-site/Docs#142](https://github.com/purrbot-site/Docs/pull/142)
+1. ![forked] **Forked Repository:** [Andre601/PlaceholderAPI](https://github.com/Andre601/PlaceholderAPI) (From [PlaceholderAPI/PlaceholderAPI](https://github.com/PlaceholderAPI/PlaceholderAPI))
+2. ![pullRequestMerged] **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#671](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/671)
+3. ![pullRequestOpened] **Pull request opened:** [PlaceholderAPI/PlaceholderAPI#671](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/671)
+4. ![pullRequestClosed] **Pull request closed:** [PlaceholderAPI/PlaceholderAPI#670](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/670)
+5. ![issueOpened] **Issue opened:** [ultrabug/mkdocs-static-i18n#46](https://github.com/ultrabug/mkdocs-static-i18n/issues/46)
+6. ![pullRequestClosed] **Pull request closed:** [PlaceholderAPI/PlaceholderAPI#669](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/669)
+7. ![pullRequestMerged] **Pull request merged:** [botblock/JavaBotBlockAPI#252](https://github.com/botblock/JavaBotBlockAPI/pull/252)
+8. ![pullRequestOpened] **Pull request opened:** [botblock/JavaBotBlockAPI#252](https://github.com/botblock/JavaBotBlockAPI/pull/252)
+9. ![pullRequestMerged] **Pull request merged:** [botblock/JavaBotBlockAPI#251](https://github.com/botblock/JavaBotBlockAPI/pull/251)
+10. ![pullRequestOpened] **Pull request opened:** [botblock/JavaBotBlockAPI#251](https://github.com/botblock/JavaBotBlockAPI/pull/251)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

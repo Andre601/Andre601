@@ -34,19 +34,19 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes opening and closing issues and opening, closing and merging Pull requests.
 
 <!--RECENT_ACTIVITY:last_update-->
-Last update: `19.07.2021 02:32:24 GMT+0200`
+Last update: `19.07.2021 14:16:10 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![pullRequestClosed] **Pull request closed:** [5zig-reborn/5zig-reborn.github.io#3](https://github.com/5zig-reborn/5zig-reborn.github.io/pull/3)
-2. ![issueClosed] **Issue closed:** [PlaceholderAPI/PlaceholderAPI#672](https://github.com/PlaceholderAPI/PlaceholderAPI/issues/672)
-3. ![forked] **Forked Repository:** [Andre601/PlaceholderAPI](https://github.com/Andre601/PlaceholderAPI) (From [PlaceholderAPI/PlaceholderAPI](https://github.com/PlaceholderAPI/PlaceholderAPI))
-4. ![pullRequestMerged] **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#671](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/671)
-5. ![pullRequestOpened] **Pull request opened:** [PlaceholderAPI/PlaceholderAPI#671](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/671)
-6. ![pullRequestClosed] **Pull request closed:** [PlaceholderAPI/PlaceholderAPI#670](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/670)
-7. ![issueOpened] **Issue opened:** [ultrabug/mkdocs-static-i18n#46](https://github.com/ultrabug/mkdocs-static-i18n/issues/46)
-8. ![pullRequestClosed] **Pull request closed:** [PlaceholderAPI/PlaceholderAPI#669](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/669)
-9. ![pullRequestMerged] **Pull request merged:** [botblock/JavaBotBlockAPI#252](https://github.com/botblock/JavaBotBlockAPI/pull/252)
-10. ![pullRequestOpened] **Pull request opened:** [botblock/JavaBotBlockAPI#252](https://github.com/botblock/JavaBotBlockAPI/pull/252)
+1. ![pullRequestMerged] **Pull request merged:** [purrbot-site/Docs#143](https://github.com/purrbot-site/Docs/pull/143)
+2. ![pullRequestMerged] **Pull request merged:** [Andre601/mkdocs-template#24](https://github.com/Andre601/mkdocs-template/pull/24)
+3. ![pullRequestClosed] **Pull request closed:** [5zig-reborn/5zig-reborn.github.io#3](https://github.com/5zig-reborn/5zig-reborn.github.io/pull/3)
+4. ![issueClosed] **Issue closed:** [PlaceholderAPI/PlaceholderAPI#672](https://github.com/PlaceholderAPI/PlaceholderAPI/issues/672)
+5. ![forked] **Forked Repository:** [Andre601/PlaceholderAPI](https://github.com/Andre601/PlaceholderAPI) (From [PlaceholderAPI/PlaceholderAPI](https://github.com/PlaceholderAPI/PlaceholderAPI))
+6. ![pullRequestMerged] **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#671](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/671)
+7. ![pullRequestOpened] **Pull request opened:** [PlaceholderAPI/PlaceholderAPI#671](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/671)
+8. ![pullRequestClosed] **Pull request closed:** [PlaceholderAPI/PlaceholderAPI#670](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/670)
+9. ![issueOpened] **Issue opened:** [ultrabug/mkdocs-static-i18n#46](https://github.com/ultrabug/mkdocs-static-i18n/issues/46)
+10. ![pullRequestClosed] **Pull request closed:** [PlaceholderAPI/PlaceholderAPI#669](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/669)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

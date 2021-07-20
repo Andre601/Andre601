@@ -10,7 +10,7 @@
 
 ## 👋 Hello there!
 My name is Andreas but most people just call me Andre.  
-On the internet am I known as either Andre_601 or Andre601. My tag on Discord is [Andre_601#0601][andre].
+On the internet am I known as either Andre_601 or Andre601. My tag on Discord is `Andre_601#0601`.
 
 I'm a Hobby Java-Developer who creates a lot of various projects here on GitHub from which some are more popular than others.  
 I joined GitHub 6 years ago.
@@ -34,19 +34,19 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes opening and closing issues and opening, closing and merging Pull requests.
 
 <!--RECENT_ACTIVITY:last_update-->
-Last update: `20.07.2021 14:16:18 GMT+0200`
+Last update: `21.07.2021 01:36:46 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![issueOpened] **Issue opened:** [mmistakes/minimal-mistakes#3068](https://github.com/mmistakes/minimal-mistakes/issues/3068)
-2. ![pullRequestMerged] **Pull request merged:** [Andre601/andre601.github.io#10](https://github.com/Andre601/andre601.github.io/pull/10)
-3. ![pullRequestMerged] **Pull request merged:** [Andre601/andre601.github.io#9](https://github.com/Andre601/andre601.github.io/pull/9)
-4. ![pullRequestOpened] **Pull request opened:** [Andre601/andre601.github.io#9](https://github.com/Andre601/andre601.github.io/pull/9)
-5. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#403](https://github.com/purrbot-site/PurrBot/pull/403)
-6. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#402](https://github.com/purrbot-site/PurrBot/pull/402)
-7. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#401](https://github.com/purrbot-site/PurrBot/pull/401)
-8. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#400](https://github.com/purrbot-site/PurrBot/pull/400)
-9. ![pullRequestMerged] **Pull request merged:** [purrbot-site/Docs#143](https://github.com/purrbot-site/Docs/pull/143)
-10. ![pullRequestMerged] **Pull request merged:** [Andre601/mkdocs-template#24](https://github.com/Andre601/mkdocs-template/pull/24)
+1. ![pullRequestMerged] **Pull request merged:** [Andre601/ArmorStand-Tools#1](https://github.com/Andre601/ArmorStand-Tools/pull/1)
+2. ![pullRequestOpened] **Pull request opened:** [Andre601/ArmorStand-Tools#1](https://github.com/Andre601/ArmorStand-Tools/pull/1)
+3. ![approved] **Approved Changes:** [Readme-Workflows/readme-replacer#4](https://github.com/Readme-Workflows/readme-replacer/pull/4#pullrequestreview-710606164)
+4. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#404](https://github.com/purrbot-site/PurrBot/pull/404)
+5. ![issueOpened] **Issue opened:** [mmistakes/minimal-mistakes#3068](https://github.com/mmistakes/minimal-mistakes/issues/3068)
+6. ![pullRequestMerged] **Pull request merged:** [Andre601/andre601.github.io#10](https://github.com/Andre601/andre601.github.io/pull/10)
+7. ![pullRequestMerged] **Pull request merged:** [Andre601/andre601.github.io#9](https://github.com/Andre601/andre601.github.io/pull/9)
+8. ![pullRequestOpened] **Pull request opened:** [Andre601/andre601.github.io#9](https://github.com/Andre601/andre601.github.io/pull/9)
+9. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#403](https://github.com/purrbot-site/PurrBot/pull/403)
+10. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#402](https://github.com/purrbot-site/PurrBot/pull/402)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

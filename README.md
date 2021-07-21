@@ -1,9 +1,7 @@
 <!-- Links -->
-[andre]: https://discord.bio/p/andre601
 [purr]: https://purrbot.site
 [discord]: https://discord.gg/6dazXp6
 [website]: https://andre601.ch
-[github]: https://andre601.ch/projects
 [spigot]: https://www.spigotmc.org/resources/authors/56829/
 [patreon]: https://patreon.com/andre_601
 [ko-fi]: https://ko-fi.com/andre_601
@@ -18,7 +16,7 @@ I joined GitHub 6 years ago.
 If you have any questions, feel free to join my [personal Discord Server][discord]. I'm pretty much always around and have time to answer stuff.
 
 ## 📁 Projects
-Here is a list of various repositories based on certain criterias. a full list of my Repositories can be found on my [projects page][github].
+Here is a list of various repositories based on certain criterias.
 
 ### Most starred repositories
 
@@ -34,7 +32,7 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes opening and closing issues and opening, closing and merging Pull requests.
 
 <!--RECENT_ACTIVITY:last_update-->
-Last update: `21.07.2021 02:33:12 GMT+0200`
+Last update: `21.07.2021 03:06:04 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 1. ![pullRequestMerged] **Pull request merged:** [Andre601/ArmorStand-Tools#1](https://github.com/Andre601/ArmorStand-Tools/pull/1)
@@ -51,7 +49,6 @@ Last update: `21.07.2021 02:33:12 GMT+0200`
 
 ## 🔗 Links
 - [Website]
-- [GitHub Projects page][github]
 - [Spigot Page][spigot]
 - [Patreon]
 - [Ko-fi]

@@ -32,19 +32,19 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes opening and closing issues and opening, closing and merging Pull requests.
 
 <!--RECENT_ACTIVITY:last_update-->
-Last update: `22.07.2021 02:32:25 GMT+0200`
+Last update: `22.07.2021 14:14:21 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![issueClosed] **Issue closed:** [PlaceholderAPI/PlaceholderAPI#653](https://github.com/PlaceholderAPI/PlaceholderAPI/issues/653)
-2. ![pullRequestMerged] **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#674](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/674)
-3. ![pullRequestOpened] **Pull request opened:** [PlaceholderAPI/PlaceholderAPI#674](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/674)
-4. ![pullRequestMerged] **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#654](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/654)
-5. ![pullRequestMerged] **Pull request merged:** [botblock/JavaBotBlockAPI#254](https://github.com/botblock/JavaBotBlockAPI/pull/254)
-6. ![pullRequestOpened] **Pull request opened:** [botblock/JavaBotBlockAPI#254](https://github.com/botblock/JavaBotBlockAPI/pull/254)
-7. ![pullRequestOpened] **Pull request opened:** [CodeCrafter47/TabOverlayWiki#17](https://github.com/CodeCrafter47/TabOverlayWiki/pull/17)
-8. ![pullRequestMerged] **Pull request merged:** [Andre601/ArmorStand-Tools#1](https://github.com/Andre601/ArmorStand-Tools/pull/1)
-9. ![pullRequestOpened] **Pull request opened:** [Andre601/ArmorStand-Tools#1](https://github.com/Andre601/ArmorStand-Tools/pull/1)
-10. ![approved] **Approved Changes:** [Readme-Workflows/readme-replacer#4](https://github.com/Readme-Workflows/readme-replacer/pull/4#pullrequestreview-710606164)
+1. ![pullRequestMerged] **Pull request merged:** [purrbot-site/Docs#144](https://github.com/purrbot-site/Docs/pull/144)
+2. ![pullRequestMerged] **Pull request merged:** [Andre601/mkdocs-template#25](https://github.com/Andre601/mkdocs-template/pull/25)
+3. ![issueClosed] **Issue closed:** [PlaceholderAPI/PlaceholderAPI#653](https://github.com/PlaceholderAPI/PlaceholderAPI/issues/653)
+4. ![pullRequestMerged] **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#674](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/674)
+5. ![pullRequestOpened] **Pull request opened:** [PlaceholderAPI/PlaceholderAPI#674](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/674)
+6. ![pullRequestMerged] **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#654](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/654)
+7. ![pullRequestMerged] **Pull request merged:** [botblock/JavaBotBlockAPI#254](https://github.com/botblock/JavaBotBlockAPI/pull/254)
+8. ![pullRequestOpened] **Pull request opened:** [botblock/JavaBotBlockAPI#254](https://github.com/botblock/JavaBotBlockAPI/pull/254)
+9. ![pullRequestOpened] **Pull request opened:** [CodeCrafter47/TabOverlayWiki#17](https://github.com/CodeCrafter47/TabOverlayWiki/pull/17)
+10. ![pullRequestMerged] **Pull request merged:** [Andre601/ArmorStand-Tools#1](https://github.com/Andre601/ArmorStand-Tools/pull/1)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

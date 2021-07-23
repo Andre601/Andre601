@@ -32,19 +32,19 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes opening and closing issues and opening, closing and merging Pull requests.
 
 <!--RECENT_ACTIVITY:last_update-->
-Last update: `22.07.2021 14:14:21 GMT+0200`
+Last update: `23.07.2021 02:32:20 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![pullRequestMerged] **Pull request merged:** [purrbot-site/Docs#144](https://github.com/purrbot-site/Docs/pull/144)
-2. ![pullRequestMerged] **Pull request merged:** [Andre601/mkdocs-template#25](https://github.com/Andre601/mkdocs-template/pull/25)
-3. ![issueClosed] **Issue closed:** [PlaceholderAPI/PlaceholderAPI#653](https://github.com/PlaceholderAPI/PlaceholderAPI/issues/653)
-4. ![pullRequestMerged] **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#674](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/674)
-5. ![pullRequestOpened] **Pull request opened:** [PlaceholderAPI/PlaceholderAPI#674](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/674)
-6. ![pullRequestMerged] **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#654](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/654)
-7. ![pullRequestMerged] **Pull request merged:** [botblock/JavaBotBlockAPI#254](https://github.com/botblock/JavaBotBlockAPI/pull/254)
-8. ![pullRequestOpened] **Pull request opened:** [botblock/JavaBotBlockAPI#254](https://github.com/botblock/JavaBotBlockAPI/pull/254)
-9. ![pullRequestOpened] **Pull request opened:** [CodeCrafter47/TabOverlayWiki#17](https://github.com/CodeCrafter47/TabOverlayWiki/pull/17)
-10. ![pullRequestMerged] **Pull request merged:** [Andre601/ArmorStand-Tools#1](https://github.com/Andre601/ArmorStand-Tools/pull/1)
+1. ![pullRequestOpened] **Pull request opened:** [PlaceholderAPI/PlaceholderAPI#677](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/677)
+2. ![pullRequestOpened] **Pull request opened:** [CodeCrafter47/TabOverlayWiki#18](https://github.com/CodeCrafter47/TabOverlayWiki/pull/18)
+3. ![pullRequestMerged] **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#676](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/676)
+4. ![approved] **Approved Changes:** [PlaceholderAPI/PlaceholderAPI#676](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/676#pullrequestreview-713195291)
+5. ![pullRequestMerged] **Pull request merged:** [Andre601/Formatter-Expansion#4](https://github.com/Andre601/Formatter-Expansion/pull/4)
+6. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#407](https://github.com/purrbot-site/PurrBot/pull/407)
+7. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#406](https://github.com/purrbot-site/PurrBot/pull/406)
+8. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#405](https://github.com/purrbot-site/PurrBot/pull/405)
+9. ![pullRequestOpened] **Pull request opened:** [Andre601/Formatter-Expansion#4](https://github.com/Andre601/Formatter-Expansion/pull/4)
+10. ![pullRequestMerged] **Pull request merged:** [purrbot-site/Docs#144](https://github.com/purrbot-site/Docs/pull/144)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

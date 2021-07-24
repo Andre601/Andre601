@@ -32,19 +32,19 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes opening and closing issues and opening, closing and merging Pull requests.
 
 <!--RECENT_ACTIVITY:last_update-->
-Last update: `24.07.2021 02:30:15 GMT+0200`
+Last update: `24.07.2021 14:13:42 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![issueOpened] **Issue opened:** [mmistakes/minimal-mistakes#3073](https://github.com/mmistakes/minimal-mistakes/issues/3073)
-2. ![pullRequestMerged] **Pull request merged:** [Readme-Workflows/Readme-Icons#24](https://github.com/Readme-Workflows/Readme-Icons/pull/24)
-3. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#408](https://github.com/purrbot-site/PurrBot/pull/408)
-4. ![pullRequestOpened] **Pull request opened:** [PlaceholderAPI/PlaceholderAPI#677](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/677)
-5. ![pullRequestOpened] **Pull request opened:** [CodeCrafter47/TabOverlayWiki#18](https://github.com/CodeCrafter47/TabOverlayWiki/pull/18)
-6. ![pullRequestMerged] **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#676](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/676)
-7. ![approved] **Approved Changes:** [PlaceholderAPI/PlaceholderAPI#676](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/676#pullrequestreview-713195291)
-8. ![pullRequestMerged] **Pull request merged:** [Andre601/Formatter-Expansion#4](https://github.com/Andre601/Formatter-Expansion/pull/4)
-9. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#407](https://github.com/purrbot-site/PurrBot/pull/407)
-10. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#406](https://github.com/purrbot-site/PurrBot/pull/406)
+1. ![pullRequestMerged] **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#680](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/680)
+2. ![approved] **Approved Changes:** [PlaceholderAPI/PlaceholderAPI#680](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/680#pullrequestreview-714229255)
+3. ![changesRequested] **Requested Changes:** [PlaceholderAPI/PlaceholderAPI#679](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/679#pullrequestreview-714213245)
+4. ![changesRequested] **Requested Changes:** [PlaceholderAPI/PlaceholderAPI#679](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/679#pullrequestreview-714213245)
+5. ![issueOpened] **Issue opened:** [mmistakes/minimal-mistakes#3073](https://github.com/mmistakes/minimal-mistakes/issues/3073)
+6. ![pullRequestMerged] **Pull request merged:** [Readme-Workflows/Readme-Icons#24](https://github.com/Readme-Workflows/Readme-Icons/pull/24)
+7. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#408](https://github.com/purrbot-site/PurrBot/pull/408)
+8. ![pullRequestOpened] **Pull request opened:** [PlaceholderAPI/PlaceholderAPI#677](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/677)
+9. ![pullRequestOpened] **Pull request opened:** [CodeCrafter47/TabOverlayWiki#18](https://github.com/CodeCrafter47/TabOverlayWiki/pull/18)
+10. ![pullRequestMerged] **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#676](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/676)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

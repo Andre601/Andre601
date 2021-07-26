@@ -20,7 +20,7 @@ Here is a list of various repositories based on certain criterias.
 
 ### Most starred repositories
 
-- [`Andre601/OneVersionRemake`](https://github.com/Andre601/OneVersionRemake) (![star] 7 ![forked] 0)
+- [`Andre601/OneVersionRemake`](https://github.com/Andre601/OneVersionRemake) (![star] 8 ![forked] 0)
 - [`Andre601/Supporto`](https://github.com/Andre601/Supporto) (![star] 4 ![forked] 3)
 - [`Andre601/Formatter-Expansion`](https://github.com/Andre601/Formatter-Expansion) (![star] 2 ![forked] 1)
 
@@ -32,19 +32,19 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes opening and closing issues and opening, closing and merging Pull requests.
 
 <!--RECENT_ACTIVITY:last_update-->
-Last update: `25.07.2021 14:14:08 GMT+0200`
+Last update: `26.07.2021 02:31:36 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![issueOpened] **Issue opened:** [xelA/bucket#104](https://github.com/xelA/bucket/issues/104)
-2. ![pullRequestMerged] **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#680](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/680)
-3. ![approved] **Approved Changes:** [PlaceholderAPI/PlaceholderAPI#680](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/680#pullrequestreview-714229255)
-4. ![changesRequested] **Requested Changes:** [PlaceholderAPI/PlaceholderAPI#679](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/679#pullrequestreview-714213245)
-5. ![changesRequested] **Requested Changes:** [PlaceholderAPI/PlaceholderAPI#679](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/679#pullrequestreview-714213245)
-6. ![issueOpened] **Issue opened:** [mmistakes/minimal-mistakes#3073](https://github.com/mmistakes/minimal-mistakes/issues/3073)
-7. ![pullRequestMerged] **Pull request merged:** [Readme-Workflows/Readme-Icons#24](https://github.com/Readme-Workflows/Readme-Icons/pull/24)
-8. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#408](https://github.com/purrbot-site/PurrBot/pull/408)
-9. ![pullRequestOpened] **Pull request opened:** [PlaceholderAPI/PlaceholderAPI#677](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/677)
-10. ![pullRequestOpened] **Pull request opened:** [CodeCrafter47/TabOverlayWiki#18](https://github.com/CodeCrafter47/TabOverlayWiki/pull/18)
+1. ![pullRequestMerged] **Pull request merged:** [botblock/JavaBotBlockAPI#258](https://github.com/botblock/JavaBotBlockAPI/pull/258)
+2. ![pullRequestOpened] **Pull request opened:** [botblock/JavaBotBlockAPI#258](https://github.com/botblock/JavaBotBlockAPI/pull/258)
+3. ![pullRequestMerged] **Pull request merged:** [botblock/JavaBotBlockAPI#256](https://github.com/botblock/JavaBotBlockAPI/pull/256)
+4. ![pullRequestOpened] **Pull request opened:** [botblock/JavaBotBlockAPI#256](https://github.com/botblock/JavaBotBlockAPI/pull/256)
+5. ![approved] **Approved Changes:** [Readme-Workflows/recent-activity#86](https://github.com/Readme-Workflows/recent-activity/pull/86#pullrequestreview-714338224)
+6. ![issueOpened] **Issue opened:** [xelA/bucket#104](https://github.com/xelA/bucket/issues/104)
+7. ![pullRequestMerged] **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#680](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/680)
+8. ![approved] **Approved Changes:** [PlaceholderAPI/PlaceholderAPI#680](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/680#pullrequestreview-714229255)
+9. ![changesRequested] **Requested Changes:** [PlaceholderAPI/PlaceholderAPI#679](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/679#pullrequestreview-714213245)
+10. ![changesRequested] **Requested Changes:** [PlaceholderAPI/PlaceholderAPI#679](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/679#pullrequestreview-714213245)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

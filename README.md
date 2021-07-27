@@ -32,19 +32,19 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes opening and closing issues and opening, closing and merging Pull requests.
 
 <!--RECENT_ACTIVITY:last_update-->
-Last update: `26.07.2021 14:16:39 GMT+0200`
+Last update: `27.07.2021 02:32:25 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![pullRequestMerged] **Pull request merged:** [purrbot-site/Docs#145](https://github.com/purrbot-site/Docs/pull/145)
-2. ![pullRequestMerged] **Pull request merged:** [Andre601/mkdocs-template#26](https://github.com/Andre601/mkdocs-template/pull/26)
-3. ![pullRequestMerged] **Pull request merged:** [botblock/JavaBotBlockAPI#258](https://github.com/botblock/JavaBotBlockAPI/pull/258)
-4. ![pullRequestOpened] **Pull request opened:** [botblock/JavaBotBlockAPI#258](https://github.com/botblock/JavaBotBlockAPI/pull/258)
-5. ![pullRequestMerged] **Pull request merged:** [botblock/JavaBotBlockAPI#256](https://github.com/botblock/JavaBotBlockAPI/pull/256)
-6. ![pullRequestOpened] **Pull request opened:** [botblock/JavaBotBlockAPI#256](https://github.com/botblock/JavaBotBlockAPI/pull/256)
-7. ![approved] **Approved Changes:** [Readme-Workflows/recent-activity#86](https://github.com/Readme-Workflows/recent-activity/pull/86#pullrequestreview-714338224)
-8. ![issueOpened] **Issue opened:** [xelA/bucket#104](https://github.com/xelA/bucket/issues/104)
-9. ![pullRequestMerged] **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#680](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/680)
-10. ![approved] **Approved Changes:** [PlaceholderAPI/PlaceholderAPI#680](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/680#pullrequestreview-714229255)
+1. ![issueClosed] **Issue closed:** [ultrabug/mkdocs-static-i18n#46](https://github.com/ultrabug/mkdocs-static-i18n/issues/46)
+2. ![pullRequestOpened] **Pull request opened:** [LoneDev6/API-ItemsAdder#3](https://github.com/LoneDev6/API-ItemsAdder/pull/3)
+3. ![forked] **Forked Repository:** [Andre601/API-ItemsAdder](https://github.com/Andre601/API-ItemsAdder) (From [LoneDev6/API-ItemsAdder](https://github.com/LoneDev6/API-ItemsAdder))
+4. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#410](https://github.com/purrbot-site/PurrBot/pull/410)
+5. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#409](https://github.com/purrbot-site/PurrBot/pull/409)
+6. ![pullRequestMerged] **Pull request merged:** [purrbot-site/Docs#145](https://github.com/purrbot-site/Docs/pull/145)
+7. ![pullRequestMerged] **Pull request merged:** [Andre601/mkdocs-template#26](https://github.com/Andre601/mkdocs-template/pull/26)
+8. ![pullRequestMerged] **Pull request merged:** [botblock/JavaBotBlockAPI#258](https://github.com/botblock/JavaBotBlockAPI/pull/258)
+9. ![pullRequestOpened] **Pull request opened:** [botblock/JavaBotBlockAPI#258](https://github.com/botblock/JavaBotBlockAPI/pull/258)
+10. ![pullRequestMerged] **Pull request merged:** [botblock/JavaBotBlockAPI#256](https://github.com/botblock/JavaBotBlockAPI/pull/256)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

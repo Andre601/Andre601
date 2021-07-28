@@ -32,19 +32,19 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes opening and closing issues and opening, closing and merging Pull requests.
 
 <!--RECENT_ACTIVITY:last_update-->
-Last update: `27.07.2021 14:15:58 GMT+0200`
+Last update: `28.07.2021 02:33:46 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![issueOpened] **Issue opened:** [CodeCrafter47/BungeeTabListPlus#647](https://github.com/CodeCrafter47/BungeeTabListPlus/issues/647)
-2. ![issueClosed] **Issue closed:** [PlaceholderAPI/PlaceholderAPI#682](https://github.com/PlaceholderAPI/PlaceholderAPI/issues/682)
-3. ![issueClosed] **Issue closed:** [ultrabug/mkdocs-static-i18n#46](https://github.com/ultrabug/mkdocs-static-i18n/issues/46)
-4. ![pullRequestOpened] **Pull request opened:** [LoneDev6/API-ItemsAdder#3](https://github.com/LoneDev6/API-ItemsAdder/pull/3)
-5. ![forked] **Forked Repository:** [Andre601/API-ItemsAdder](https://github.com/Andre601/API-ItemsAdder) (From [LoneDev6/API-ItemsAdder](https://github.com/LoneDev6/API-ItemsAdder))
-6. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#410](https://github.com/purrbot-site/PurrBot/pull/410)
-7. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#409](https://github.com/purrbot-site/PurrBot/pull/409)
-8. ![pullRequestMerged] **Pull request merged:** [purrbot-site/Docs#145](https://github.com/purrbot-site/Docs/pull/145)
-9. ![pullRequestMerged] **Pull request merged:** [Andre601/mkdocs-template#26](https://github.com/Andre601/mkdocs-template/pull/26)
-10. ![pullRequestMerged] **Pull request merged:** [botblock/JavaBotBlockAPI#258](https://github.com/botblock/JavaBotBlockAPI/pull/258)
+1. ![pullRequestMerged] **Pull request merged:** [Readme-Workflows/Readme-Icons#26](https://github.com/Readme-Workflows/Readme-Icons/pull/26)
+2. ![pullRequestOpened] **Pull request opened:** [Readme-Workflows/Readme-Icons#26](https://github.com/Readme-Workflows/Readme-Icons/pull/26)
+3. ![pullRequestMerged] **Pull request merged:** [Readme-Workflows/Readme-Icons#25](https://github.com/Readme-Workflows/Readme-Icons/pull/25)
+4. ![pullRequestOpened] **Pull request opened:** [Readme-Workflows/Readme-Icons#25](https://github.com/Readme-Workflows/Readme-Icons/pull/25)
+5. ![pullRequestOpened] **Pull request opened:** [Readme-Workflows/readme-replacer#6](https://github.com/Readme-Workflows/readme-replacer/pull/6)
+6. ![pullRequestOpened] **Pull request opened:** [Andre601/Andre601#8](https://github.com/Andre601/Andre601/pull/8)
+7. ![pullRequestOpened] **Pull request opened:** [CodeCrafter47/AdvancedTabOverlay#23](https://github.com/CodeCrafter47/AdvancedTabOverlay/pull/23)
+8. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#411](https://github.com/purrbot-site/PurrBot/pull/411)
+9. ![issueOpened] **Issue opened:** [xelA/bucket#106](https://github.com/xelA/bucket/issues/106)
+10. ![issueOpened] **Issue opened:** [CodeCrafter47/BungeeTabListPlus#647](https://github.com/CodeCrafter47/BungeeTabListPlus/issues/647)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

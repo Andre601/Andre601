@@ -32,19 +32,19 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes opening and closing issues and opening, closing and merging Pull requests.
 
 <!--RECENT_ACTIVITY:last_update-->
-Last update: `28.07.2021 14:14:48 GMT+0200`
+Last update: `29.07.2021 02:31:05 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![pullRequestOpened] **Pull request opened:** [DV8FromTheWorld/JDA#1745](https://github.com/DV8FromTheWorld/JDA/pull/1745)
-2. ![pullRequestMerged] **Pull request merged:** [Readme-Workflows/Readme-Icons#26](https://github.com/Readme-Workflows/Readme-Icons/pull/26)
-3. ![pullRequestOpened] **Pull request opened:** [Readme-Workflows/Readme-Icons#26](https://github.com/Readme-Workflows/Readme-Icons/pull/26)
-4. ![pullRequestMerged] **Pull request merged:** [Readme-Workflows/Readme-Icons#25](https://github.com/Readme-Workflows/Readme-Icons/pull/25)
-5. ![pullRequestOpened] **Pull request opened:** [Readme-Workflows/Readme-Icons#25](https://github.com/Readme-Workflows/Readme-Icons/pull/25)
-6. ![pullRequestOpened] **Pull request opened:** [Readme-Workflows/readme-replacer#6](https://github.com/Readme-Workflows/readme-replacer/pull/6)
-7. ![pullRequestOpened] **Pull request opened:** [Andre601/Andre601#8](https://github.com/Andre601/Andre601/pull/8)
-8. ![pullRequestOpened] **Pull request opened:** [CodeCrafter47/AdvancedTabOverlay#23](https://github.com/CodeCrafter47/AdvancedTabOverlay/pull/23)
-9. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#411](https://github.com/purrbot-site/PurrBot/pull/411)
-10. ![issueOpened] **Issue opened:** [xelA/bucket#106](https://github.com/xelA/bucket/issues/106)
+1. ![pullRequestMerged] **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#683](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/683)
+2. ![approved] **Approved Changes:** [PlaceholderAPI/PlaceholderAPI#683](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/683#pullrequestreview-717521312)
+3. ![wiki] **Wiki Page created:** [_Sidebar](https://github.com/Chew/JDA-Chewtils/wiki/_Sidebar) in [Chew/JDA-Chewtils](https://github.com/Chew/JDA-Chewtils)
+4. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#412](https://github.com/purrbot-site/PurrBot/pull/412)
+5. ![pullRequestOpened] **Pull request opened:** [DV8FromTheWorld/JDA#1745](https://github.com/DV8FromTheWorld/JDA/pull/1745)
+6. ![pullRequestMerged] **Pull request merged:** [Readme-Workflows/Readme-Icons#26](https://github.com/Readme-Workflows/Readme-Icons/pull/26)
+7. ![pullRequestOpened] **Pull request opened:** [Readme-Workflows/Readme-Icons#26](https://github.com/Readme-Workflows/Readme-Icons/pull/26)
+8. ![pullRequestMerged] **Pull request merged:** [Readme-Workflows/Readme-Icons#25](https://github.com/Readme-Workflows/Readme-Icons/pull/25)
+9. ![pullRequestOpened] **Pull request opened:** [Readme-Workflows/Readme-Icons#25](https://github.com/Readme-Workflows/Readme-Icons/pull/25)
+10. ![pullRequestOpened] **Pull request opened:** [Readme-Workflows/readme-replacer#6](https://github.com/Readme-Workflows/readme-replacer/pull/6)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

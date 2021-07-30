@@ -32,19 +32,19 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes opening and closing issues and opening, closing and merging Pull requests.
 
 <!--RECENT_ACTIVITY:last_update-->
-Last update: `30.07.2021 14:14:50 GMT+0200`
+Last update: `30.07.2021 23:58:05 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![pullRequestMerged] **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#683](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/683)
-2. ![approved] **Approved Changes:** [PlaceholderAPI/PlaceholderAPI#683](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/683#pullrequestreview-717521312)
-3. ![wiki] **Wiki Page created:** [_Sidebar](https://github.com/Chew/JDA-Chewtils/wiki/_Sidebar) in [Chew/JDA-Chewtils](https://github.com/Chew/JDA-Chewtils)
-4. ![pullRequestMerged] **Pull request merged:** [purrbot-site/PurrBot#412](https://github.com/purrbot-site/PurrBot/pull/412)
-5. ![pullRequestOpened] **Pull request opened:** [DV8FromTheWorld/JDA#1745](https://github.com/DV8FromTheWorld/JDA/pull/1745)
-6. ![pullRequestMerged] **Pull request merged:** [Readme-Workflows/Readme-Icons#26](https://github.com/Readme-Workflows/Readme-Icons/pull/26)
-7. ![pullRequestOpened] **Pull request opened:** [Readme-Workflows/Readme-Icons#26](https://github.com/Readme-Workflows/Readme-Icons/pull/26)
-8. ![pullRequestMerged] **Pull request merged:** [Readme-Workflows/Readme-Icons#25](https://github.com/Readme-Workflows/Readme-Icons/pull/25)
-9. ![pullRequestOpened] **Pull request opened:** [Readme-Workflows/Readme-Icons#25](https://github.com/Readme-Workflows/Readme-Icons/pull/25)
-10. ![pullRequestOpened] **Pull request opened:** [Readme-Workflows/readme-replacer#6](https://github.com/Readme-Workflows/readme-replacer/pull/6)
+1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/Andre601#8](https://github.com/Andre601/Andre601/pull/8)
+2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#683](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/683)
+3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) **Approved Changes:** [PlaceholderAPI/PlaceholderAPI#683](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/683#pullrequestreview-717521312)
+4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Wiki.svg) **Wiki Page created:** [_Sidebar](https://github.com/Chew/JDA-Chewtils/wiki/_Sidebar) in [Chew/JDA-Chewtils](https://github.com/Chew/JDA-Chewtils)
+5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#412](https://github.com/purrbot-site/PurrBot/pull/412)
+6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [DV8FromTheWorld/JDA#1745](https://github.com/DV8FromTheWorld/JDA/pull/1745)
+7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Readme-Workflows/Readme-Icons#26](https://github.com/Readme-Workflows/Readme-Icons/pull/26)
+8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [Readme-Workflows/Readme-Icons#26](https://github.com/Readme-Workflows/Readme-Icons/pull/26)
+9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Readme-Workflows/Readme-Icons#25](https://github.com/Readme-Workflows/Readme-Icons/pull/25)
+10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [Readme-Workflows/Readme-Icons#25](https://github.com/Readme-Workflows/Readme-Icons/pull/25)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links
@@ -52,22 +52,3 @@ Last update: `30.07.2021 14:14:50 GMT+0200`
 - [Spigot Page][spigot]
 - [Patreon]
 - [Ko-fi]
-
-<!-- Badges -->
-[issueOpened]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@v1.1.0/icons/octicons/IssueOpened.svg
-[issueClosed]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@v1.1.0/icons/octicons/IssueClosed.svg
-
-[pullRequestOpened]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@v1.1.0/icons/octicons/PullRequestOpened.svg
-[pullRequestClosed]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@v1.1.0/icons/octicons/PullRequestClosed.svg
-[pullRequestMerged]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@v1.1.0/icons/octicons/PullRequestMerged.svg
-
-[comment]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@v1.1.0/icons/octicons/Comment.svg
-
-[changesRequested]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@v1.1.0/icons/octicons/RequestedChanges.svg
-[approved]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@v1.1.0/icons/octicons/ApprovedChanges.svg
-[repoCreated]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@v1.1.0/icons/octicons/Repository.svg
-
-[release]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@v1.1.0/icons/octicons/Release.svg
-[star]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@v1.1.0/icons/octicons/StarredRepository.svg
-[wiki]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@v1.1.0/icons/octicons/Wiki.svg
-[forked]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg

@@ -12,23 +12,49 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout Repository
         uses: actions/checkout@v2
 
       - name: Update Activity list
         uses: Readme-Workflows/recent-activity@v2.3.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  stats:
+  
+  placeholder_replacer:
     needs: activity
+    name: Replace placeholders for README
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+      
+      - name: Pull changes for Readme-Workflows/readme-replacer
+        run: git pull
+      
+      - name: Replace placeholders
+        uses: Readme-Workflows/readme-replacer@v1.0.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_FILE: './TEMPLATE.md'
+          TIMEZONE: 'Europe/Zurich'
+      
+      - name: Push changes to TEMPLATE.md
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+  
+  stats:
+    needs: placeholder_replacer
     name: Update README with latest stats
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout Repository
         uses: actions/checkout@v2
 
-      - name: git pull
+      - name: Pull changes for probablykasper/readme-template-action
         run: git pull
 
       - name: Generate stats

@@ -20,9 +20,9 @@ Here is a list of various repositories based on certain criterias.
 
 ### Most starred repositories
 
-- [`Andre601/OneVersionRemake`](https://github.com/Andre601/OneVersionRemake) (![star] 8 ![forked] 0)
-- [`Andre601/Formatter-Expansion`](https://github.com/Andre601/Formatter-Expansion) (![star] 2 ![forked] 1)
-- [`Andre601/StatusNPC`](https://github.com/Andre601/StatusNPC) (![star] 2 ![forked] 0)
+- [`Andre601/OneVersionRemake`](https://github.com/Andre601/OneVersionRemake) (![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepository.svg) 8 ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) 0)
+- [`Andre601/Formatter-Expansion`](https://github.com/Andre601/Formatter-Expansion) (![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepository.svg) 2 ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) 1)
+- [`Andre601/StatusNPC`](https://github.com/Andre601/StatusNPC) (![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepository.svg) 2 ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) 0)
 
 ## 📊 Statistics
 <img height="195px" src="https://github-readme-stats.vercel.app/api?username=Andre601&show_icons=true&hide_rank=true&title_color=3498db&bg_color=ffffff00&text_color=718096&disable_animations=true"><img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Andre601&layout=compact&title_color=3498db&bg_color=ffffff00&text_color=718096">
@@ -32,7 +32,7 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes opening and closing issues and opening, closing and merging Pull requests.
 
 <!--RECENT_ACTIVITY:last_update-->
-Last update: `30.07.2021 23:58:05 GMT+0200`
+Last update: `31.07.2021 00:01:53 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/Andre601#8](https://github.com/Andre601/Andre601/pull/8)

@@ -35,16 +35,16 @@ The list is updates twice a day and includes opening and closing issues and open
 Last update: `01.08.2021 02:37:19 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. {octicons/issueOpened} **Issue opened:** [Chew/JDA-Chewtils#14](https://github.com/Chew/JDA-Chewtils/issues/14)
-2. {octicons/prOpened} **Pull request opened:** [CodeCrafter47/TabOverlayWiki#19](https://github.com/CodeCrafter47/TabOverlayWiki/pull/19)
-3. {octicons/prMerged} **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#685](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/685)
-4. {octicons/approved} **Approved Changes:** [PlaceholderAPI/PlaceholderAPI#685](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/685#pullrequestreview-719580269)
-5. {octicons/requestedChanges} **Requested Changes:** [PlaceholderAPI/PlaceholderAPI#685](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/685#pullrequestreview-719578953)
-6. {octicons/requestedChanges} **Requested Changes:** [PlaceholderAPI/PlaceholderAPI#685](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/685#pullrequestreview-719578953)
-7. {octicons/prMerged} **Pull request merged:** [Andre601/GitHub-Markdown#17](https://github.com/Andre601/GitHub-Markdown/pull/17)
-8. {octicons/prMerged} **Pull request merged:** [Andre601/Andre601#8](https://github.com/Andre601/Andre601/pull/8)
-9. {octicons/prMerged} **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#683](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/683)
-10. {octicons/approved} **Approved Changes:** [PlaceholderAPI/PlaceholderAPI#683](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/683#pullrequestreview-717521312)
+1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [Chew/JDA-Chewtils#14](https://github.com/Chew/JDA-Chewtils/issues/14)
+2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [CodeCrafter47/TabOverlayWiki#19](https://github.com/CodeCrafter47/TabOverlayWiki/pull/19)
+3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#685](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/685)
+4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) **Approved Changes:** [PlaceholderAPI/PlaceholderAPI#685](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/685#pullrequestreview-719580269)
+5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) **Requested Changes:** [PlaceholderAPI/PlaceholderAPI#685](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/685#pullrequestreview-719578953)
+6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) **Requested Changes:** [PlaceholderAPI/PlaceholderAPI#685](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/685#pullrequestreview-719578953)
+7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/GitHub-Markdown#17](https://github.com/Andre601/GitHub-Markdown/pull/17)
+8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/Andre601#8](https://github.com/Andre601/Andre601/pull/8)
+9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#683](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/683)
+10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) **Approved Changes:** [PlaceholderAPI/PlaceholderAPI#683](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/683#pullrequestreview-717521312)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

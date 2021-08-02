@@ -35,16 +35,16 @@ The list is updates twice a day and includes opening and closing issues and open
 Last update: `02.08.2021 14:20:25 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. {octicons/prMerged} **Pull request merged:** [PowerPlugins/Plugin#37](https://github.com/PowerPlugins/Plugin/pull/37)
-2. {octicons/prMerged} **Pull request merged:** [PowerPlugins/Plugin#38](https://github.com/PowerPlugins/Plugin/pull/38)
-3. {octicons/prMerged} **Pull request merged:** [purrbot-site/Docs#146](https://github.com/purrbot-site/Docs/pull/146)
-4. {octicons/prMerged} **Pull request merged:** [Andre601/mkdocs-template#27](https://github.com/Andre601/mkdocs-template/pull/27)
-5. {octicons/prOpened} **Pull request opened:** [Readme-Workflows/recent-activity#89](https://github.com/Readme-Workflows/recent-activity/pull/89)
-6. {octicons/issueOpened} **Issue opened:** [Readme-Workflows/recent-activity#88](https://github.com/Readme-Workflows/recent-activity/issues/88)
-7. {octicons/issueOpened} **Issue opened:** [Chew/JDA-Chewtils#14](https://github.com/Chew/JDA-Chewtils/issues/14)
-8. {octicons/prOpened} **Pull request opened:** [CodeCrafter47/TabOverlayWiki#19](https://github.com/CodeCrafter47/TabOverlayWiki/pull/19)
-9. {octicons/prMerged} **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#685](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/685)
-10. {octicons/approved} **Approved Changes:** [PlaceholderAPI/PlaceholderAPI#685](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/685#pullrequestreview-719580269)
+1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [PowerPlugins/Plugin#37](https://github.com/PowerPlugins/Plugin/pull/37)
+2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [PowerPlugins/Plugin#38](https://github.com/PowerPlugins/Plugin/pull/38)
+3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/Docs#146](https://github.com/purrbot-site/Docs/pull/146)
+4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/mkdocs-template#27](https://github.com/Andre601/mkdocs-template/pull/27)
+5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [Readme-Workflows/recent-activity#89](https://github.com/Readme-Workflows/recent-activity/pull/89)
+6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [Readme-Workflows/recent-activity#88](https://github.com/Readme-Workflows/recent-activity/issues/88)
+7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [Chew/JDA-Chewtils#14](https://github.com/Chew/JDA-Chewtils/issues/14)
+8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [CodeCrafter47/TabOverlayWiki#19](https://github.com/CodeCrafter47/TabOverlayWiki/pull/19)
+9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#685](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/685)
+10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) **Approved Changes:** [PlaceholderAPI/PlaceholderAPI#685](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/685#pullrequestreview-719580269)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

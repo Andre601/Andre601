@@ -35,16 +35,16 @@ The list is updates twice a day and includes opening and closing issues and open
 Last update: `02.08.2021 02:32:33 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. {octicons/prOpened} **Pull request opened:** [Readme-Workflows/recent-activity#89](https://github.com/Readme-Workflows/recent-activity/pull/89)
-2. {octicons/issueOpened} **Issue opened:** [Readme-Workflows/recent-activity#88](https://github.com/Readme-Workflows/recent-activity/issues/88)
-3. {octicons/issueOpened} **Issue opened:** [Chew/JDA-Chewtils#14](https://github.com/Chew/JDA-Chewtils/issues/14)
-4. {octicons/prOpened} **Pull request opened:** [CodeCrafter47/TabOverlayWiki#19](https://github.com/CodeCrafter47/TabOverlayWiki/pull/19)
-5. {octicons/prMerged} **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#685](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/685)
-6. {octicons/approved} **Approved Changes:** [PlaceholderAPI/PlaceholderAPI#685](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/685#pullrequestreview-719580269)
-7. {octicons/requestedChanges} **Requested Changes:** [PlaceholderAPI/PlaceholderAPI#685](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/685#pullrequestreview-719578953)
-8. {octicons/requestedChanges} **Requested Changes:** [PlaceholderAPI/PlaceholderAPI#685](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/685#pullrequestreview-719578953)
-9. {octicons/prMerged} **Pull request merged:** [Andre601/GitHub-Markdown#17](https://github.com/Andre601/GitHub-Markdown/pull/17)
-10. {octicons/prMerged} **Pull request merged:** [Andre601/Andre601#8](https://github.com/Andre601/Andre601/pull/8)
+1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [Readme-Workflows/recent-activity#89](https://github.com/Readme-Workflows/recent-activity/pull/89)
+2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [Readme-Workflows/recent-activity#88](https://github.com/Readme-Workflows/recent-activity/issues/88)
+3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [Chew/JDA-Chewtils#14](https://github.com/Chew/JDA-Chewtils/issues/14)
+4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [CodeCrafter47/TabOverlayWiki#19](https://github.com/CodeCrafter47/TabOverlayWiki/pull/19)
+5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#685](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/685)
+6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) **Approved Changes:** [PlaceholderAPI/PlaceholderAPI#685](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/685#pullrequestreview-719580269)
+7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) **Requested Changes:** [PlaceholderAPI/PlaceholderAPI#685](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/685#pullrequestreview-719578953)
+8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) **Requested Changes:** [PlaceholderAPI/PlaceholderAPI#685](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/685#pullrequestreview-719578953)
+9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/GitHub-Markdown#17](https://github.com/Andre601/GitHub-Markdown/pull/17)
+10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/Andre601#8](https://github.com/Andre601/Andre601/pull/8)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

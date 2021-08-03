@@ -32,19 +32,19 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes opening and closing issues and opening, closing and merging Pull requests.
 
 <!--RECENT_ACTIVITY:last_update-->
-Last update: `03.08.2021 02:36:48 GMT+0200`
+Last update: `03.08.2021 14:20:20 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/Docs#147](https://github.com/purrbot-site/Docs/pull/147)
-2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [purrbot-site/Docs#147](https://github.com/purrbot-site/Docs/pull/147)
-3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#413](https://github.com/purrbot-site/PurrBot/pull/413)
-4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) **Requested Changes:** [Readme-Workflows/recent-activity#90](https://github.com/Readme-Workflows/recent-activity/pull/90#pullrequestreview-720249492)
-5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) **Requested Changes:** [Readme-Workflows/recent-activity#90](https://github.com/Readme-Workflows/recent-activity/pull/90#pullrequestreview-720249492)
-6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [Readme-Workflows/recent-activity#91](https://github.com/Readme-Workflows/recent-activity/pull/91)
-7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#415](https://github.com/purrbot-site/PurrBot/pull/415)
-8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#414](https://github.com/purrbot-site/PurrBot/pull/414)
-9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [PowerPlugins/Plugin#37](https://github.com/PowerPlugins/Plugin/pull/37)
-10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [PowerPlugins/Plugin#38](https://github.com/PowerPlugins/Plugin/pull/38)
+1. {octicons/approved} **Approved Changes:** [Readme-Workflows/recent-activity#90](https://github.com/Readme-Workflows/recent-activity/pull/90#pullrequestreview-721047846)
+2. {octicons/prMerged} **Pull request merged:** [purrbot-site/Docs#147](https://github.com/purrbot-site/Docs/pull/147)
+3. {octicons/prOpened} **Pull request opened:** [purrbot-site/Docs#147](https://github.com/purrbot-site/Docs/pull/147)
+4. {octicons/prMerged} **Pull request merged:** [purrbot-site/PurrBot#413](https://github.com/purrbot-site/PurrBot/pull/413)
+5. {octicons/requestedChanges} **Requested Changes:** [Readme-Workflows/recent-activity#90](https://github.com/Readme-Workflows/recent-activity/pull/90#pullrequestreview-720249492)
+6. {octicons/requestedChanges} **Requested Changes:** [Readme-Workflows/recent-activity#90](https://github.com/Readme-Workflows/recent-activity/pull/90#pullrequestreview-720249492)
+7. {octicons/prOpened} **Pull request opened:** [Readme-Workflows/recent-activity#91](https://github.com/Readme-Workflows/recent-activity/pull/91)
+8. {octicons/prMerged} **Pull request merged:** [purrbot-site/PurrBot#415](https://github.com/purrbot-site/PurrBot/pull/415)
+9. {octicons/prMerged} **Pull request merged:** [purrbot-site/PurrBot#414](https://github.com/purrbot-site/PurrBot/pull/414)
+10. {octicons/prMerged} **Pull request merged:** [PowerPlugins/Plugin#37](https://github.com/PowerPlugins/Plugin/pull/37)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

@@ -35,16 +35,16 @@ The list is updates twice a day and includes opening and closing issues and open
 Last update: `03.08.2021 02:36:48 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. {octicons/prMerged} **Pull request merged:** [purrbot-site/Docs#147](https://github.com/purrbot-site/Docs/pull/147)
-2. {octicons/prOpened} **Pull request opened:** [purrbot-site/Docs#147](https://github.com/purrbot-site/Docs/pull/147)
-3. {octicons/prMerged} **Pull request merged:** [purrbot-site/PurrBot#413](https://github.com/purrbot-site/PurrBot/pull/413)
-4. {octicons/requestedChanges} **Requested Changes:** [Readme-Workflows/recent-activity#90](https://github.com/Readme-Workflows/recent-activity/pull/90#pullrequestreview-720249492)
-5. {octicons/requestedChanges} **Requested Changes:** [Readme-Workflows/recent-activity#90](https://github.com/Readme-Workflows/recent-activity/pull/90#pullrequestreview-720249492)
-6. {octicons/prOpened} **Pull request opened:** [Readme-Workflows/recent-activity#91](https://github.com/Readme-Workflows/recent-activity/pull/91)
-7. {octicons/prMerged} **Pull request merged:** [purrbot-site/PurrBot#415](https://github.com/purrbot-site/PurrBot/pull/415)
-8. {octicons/prMerged} **Pull request merged:** [purrbot-site/PurrBot#414](https://github.com/purrbot-site/PurrBot/pull/414)
-9. {octicons/prMerged} **Pull request merged:** [PowerPlugins/Plugin#37](https://github.com/PowerPlugins/Plugin/pull/37)
-10. {octicons/prMerged} **Pull request merged:** [PowerPlugins/Plugin#38](https://github.com/PowerPlugins/Plugin/pull/38)
+1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/Docs#147](https://github.com/purrbot-site/Docs/pull/147)
+2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [purrbot-site/Docs#147](https://github.com/purrbot-site/Docs/pull/147)
+3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#413](https://github.com/purrbot-site/PurrBot/pull/413)
+4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) **Requested Changes:** [Readme-Workflows/recent-activity#90](https://github.com/Readme-Workflows/recent-activity/pull/90#pullrequestreview-720249492)
+5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) **Requested Changes:** [Readme-Workflows/recent-activity#90](https://github.com/Readme-Workflows/recent-activity/pull/90#pullrequestreview-720249492)
+6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [Readme-Workflows/recent-activity#91](https://github.com/Readme-Workflows/recent-activity/pull/91)
+7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#415](https://github.com/purrbot-site/PurrBot/pull/415)
+8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#414](https://github.com/purrbot-site/PurrBot/pull/414)
+9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [PowerPlugins/Plugin#37](https://github.com/PowerPlugins/Plugin/pull/37)
+10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [PowerPlugins/Plugin#38](https://github.com/PowerPlugins/Plugin/pull/38)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

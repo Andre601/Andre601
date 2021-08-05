@@ -35,16 +35,16 @@ The list is updates twice a day and includes opening and closing issues and open
 Last update: `05.08.2021 02:33:22 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. {octicons/prOpened} **Pull request opened:** [purrbot-site/PurrBot#417](https://github.com/purrbot-site/PurrBot/pull/417)
-2. {octicons/prClosed} **Pull request closed:** [PlaceholderAPI/PlaceholderAPI#688](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/688)
-3. {octicons/prOpened} **Pull request opened:** [PlaceholderAPI/Sound-Expansion#2](https://github.com/PlaceholderAPI/Sound-Expansion/pull/2)
-4. {octicons/forkedRepo} **Forked Repository:** [Andre601/Sound-Expansion](https://github.com/Andre601/Sound-Expansion) (From [PlaceholderAPI/Sound-Expansion](https://github.com/PlaceholderAPI/Sound-Expansion))
-5. {octicons/prMerged} **Pull request merged:** [purrbot-site/PurrBot#416](https://github.com/purrbot-site/PurrBot/pull/416)
-6. {octicons/approved} **Approved Changes:** [Readme-Workflows/recent-activity#90](https://github.com/Readme-Workflows/recent-activity/pull/90#pullrequestreview-721047846)
-7. {octicons/prMerged} **Pull request merged:** [purrbot-site/Docs#147](https://github.com/purrbot-site/Docs/pull/147)
-8. {octicons/prOpened} **Pull request opened:** [purrbot-site/Docs#147](https://github.com/purrbot-site/Docs/pull/147)
-9. {octicons/prMerged} **Pull request merged:** [purrbot-site/PurrBot#413](https://github.com/purrbot-site/PurrBot/pull/413)
-10. {octicons/requestedChanges} **Requested Changes:** [Readme-Workflows/recent-activity#90](https://github.com/Readme-Workflows/recent-activity/pull/90#pullrequestreview-720249492)
+1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [purrbot-site/PurrBot#417](https://github.com/purrbot-site/PurrBot/pull/417)
+2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) **Pull request closed:** [PlaceholderAPI/PlaceholderAPI#688](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/688)
+3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [PlaceholderAPI/Sound-Expansion#2](https://github.com/PlaceholderAPI/Sound-Expansion/pull/2)
+4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) **Forked Repository:** [Andre601/Sound-Expansion](https://github.com/Andre601/Sound-Expansion) (From [PlaceholderAPI/Sound-Expansion](https://github.com/PlaceholderAPI/Sound-Expansion))
+5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#416](https://github.com/purrbot-site/PurrBot/pull/416)
+6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) **Approved Changes:** [Readme-Workflows/recent-activity#90](https://github.com/Readme-Workflows/recent-activity/pull/90#pullrequestreview-721047846)
+7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/Docs#147](https://github.com/purrbot-site/Docs/pull/147)
+8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [purrbot-site/Docs#147](https://github.com/purrbot-site/Docs/pull/147)
+9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#413](https://github.com/purrbot-site/PurrBot/pull/413)
+10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) **Requested Changes:** [Readme-Workflows/recent-activity#90](https://github.com/Readme-Workflows/recent-activity/pull/90#pullrequestreview-720249492)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

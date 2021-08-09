@@ -32,19 +32,19 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes opening and closing issues and opening, closing and merging Pull requests.
 
 <!--RECENT_ACTIVITY:last_update-->
-Last update: `08.08.2021 14:14:10 GMT+0200`
+Last update: `09.08.2021 02:34:23 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) **Issue closed:** [Chew/JDA-Chewtils#17](https://github.com/Chew/JDA-Chewtils/issues/17)
-2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#419](https://github.com/purrbot-site/PurrBot/pull/419)
-3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [Chew/JDA-Chewtils#17](https://github.com/Chew/JDA-Chewtils/issues/17)
-4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#418](https://github.com/purrbot-site/PurrBot/pull/418)
-5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [purrbot-site/PurrBot#417](https://github.com/purrbot-site/PurrBot/pull/417)
-6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) **Pull request closed:** [PlaceholderAPI/PlaceholderAPI#688](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/688)
-7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [PlaceholderAPI/Sound-Expansion#2](https://github.com/PlaceholderAPI/Sound-Expansion/pull/2)
-8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) **Forked Repository:** [Andre601/Sound-Expansion](https://github.com/Andre601/Sound-Expansion) (From [PlaceholderAPI/Sound-Expansion](https://github.com/PlaceholderAPI/Sound-Expansion))
-9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#416](https://github.com/purrbot-site/PurrBot/pull/416)
-10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) **Approved Changes:** [Readme-Workflows/recent-activity#90](https://github.com/Readme-Workflows/recent-activity/pull/90#pullrequestreview-721047846)
+1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#689](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/689)
+2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) **Approved Changes:** [PlaceholderAPI/PlaceholderAPI#689](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/689#pullrequestreview-724937857)
+3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) **Issue closed:** [Chew/JDA-Chewtils#17](https://github.com/Chew/JDA-Chewtils/issues/17)
+4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#419](https://github.com/purrbot-site/PurrBot/pull/419)
+5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [Chew/JDA-Chewtils#17](https://github.com/Chew/JDA-Chewtils/issues/17)
+6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#418](https://github.com/purrbot-site/PurrBot/pull/418)
+7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [purrbot-site/PurrBot#417](https://github.com/purrbot-site/PurrBot/pull/417)
+8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) **Pull request closed:** [PlaceholderAPI/PlaceholderAPI#688](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/688)
+9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [PlaceholderAPI/Sound-Expansion#2](https://github.com/PlaceholderAPI/Sound-Expansion/pull/2)
+10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) **Forked Repository:** [Andre601/Sound-Expansion](https://github.com/Andre601/Sound-Expansion) (From [PlaceholderAPI/Sound-Expansion](https://github.com/PlaceholderAPI/Sound-Expansion))
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

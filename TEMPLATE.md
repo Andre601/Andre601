@@ -32,19 +32,19 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes opening and closing issues and opening, closing and merging Pull requests.
 
 <!--RECENT_ACTIVITY:last_update-->
-Last update: `12.08.2021 02:32:50 GMT+0200`
+Last update: `12.08.2021 14:15:11 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/Docs#148](https://github.com/purrbot-site/Docs/pull/148)
-2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/mkdocs-template#28](https://github.com/Andre601/mkdocs-template/pull/28)
-3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [HelpChat/Barry#80](https://github.com/HelpChat/Barry/pull/80)
-4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [CodeCrafter47/TabOverlayWiki#20](https://github.com/CodeCrafter47/TabOverlayWiki/pull/20)
-5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#420](https://github.com/purrbot-site/PurrBot/pull/420)
-6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [Readme-Workflows/recent-activity#94](https://github.com/Readme-Workflows/recent-activity/pull/94)
-7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/Andre601#9](https://github.com/Andre601/Andre601/pull/9)
-8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [CodeMC/Documentation#13](https://github.com/CodeMC/Documentation/pull/13)
-9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) **Approved Changes:** [CodeMC/Documentation#13](https://github.com/CodeMC/Documentation/pull/13#pullrequestreview-725212551)
-10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#689](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/689)
+1. {octicons/prMerged} **Pull request merged:** [purrbot-site/Docs#149](https://github.com/purrbot-site/Docs/pull/149)
+2. {octicons/prMerged} **Pull request merged:** [Andre601/mkdocs-template#29](https://github.com/Andre601/mkdocs-template/pull/29)
+3. {octicons/prMerged} **Pull request merged:** [purrbot-site/Docs#148](https://github.com/purrbot-site/Docs/pull/148)
+4. {octicons/prMerged} **Pull request merged:** [Andre601/mkdocs-template#28](https://github.com/Andre601/mkdocs-template/pull/28)
+5. {octicons/prOpened} **Pull request opened:** [HelpChat/Barry#80](https://github.com/HelpChat/Barry/pull/80)
+6. {octicons/prOpened} **Pull request opened:** [CodeCrafter47/TabOverlayWiki#20](https://github.com/CodeCrafter47/TabOverlayWiki/pull/20)
+7. {octicons/prMerged} **Pull request merged:** [purrbot-site/PurrBot#420](https://github.com/purrbot-site/PurrBot/pull/420)
+8. {octicons/prOpened} **Pull request opened:** [Readme-Workflows/recent-activity#94](https://github.com/Readme-Workflows/recent-activity/pull/94)
+9. {octicons/prMerged} **Pull request merged:** [Andre601/Andre601#9](https://github.com/Andre601/Andre601/pull/9)
+10. {octicons/prMerged} **Pull request merged:** [CodeMC/Documentation#13](https://github.com/CodeMC/Documentation/pull/13)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

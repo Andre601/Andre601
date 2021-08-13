@@ -35,16 +35,16 @@ The list is updates twice a day and includes opening and closing issues and open
 Last update: `13.08.2021 14:19:16 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. {octicons/prMerged} **Pull request merged:** [PowerPlugins/Plugin#39](https://github.com/PowerPlugins/Plugin/pull/39)
-2. {octicons/prOpened} **Pull request opened:** [DV8FromTheWorld/JDA#1777](https://github.com/DV8FromTheWorld/JDA/pull/1777)
-3. {octicons/prMerged} **Pull request merged:** [purrbot-site/Docs#149](https://github.com/purrbot-site/Docs/pull/149)
-4. {octicons/prMerged} **Pull request merged:** [Andre601/mkdocs-template#29](https://github.com/Andre601/mkdocs-template/pull/29)
-5. {octicons/prMerged} **Pull request merged:** [purrbot-site/Docs#148](https://github.com/purrbot-site/Docs/pull/148)
-6. {octicons/prMerged} **Pull request merged:** [Andre601/mkdocs-template#28](https://github.com/Andre601/mkdocs-template/pull/28)
-7. {octicons/prOpened} **Pull request opened:** [HelpChat/Barry#80](https://github.com/HelpChat/Barry/pull/80)
-8. {octicons/prOpened} **Pull request opened:** [CodeCrafter47/TabOverlayWiki#20](https://github.com/CodeCrafter47/TabOverlayWiki/pull/20)
-9. {octicons/prMerged} **Pull request merged:** [purrbot-site/PurrBot#420](https://github.com/purrbot-site/PurrBot/pull/420)
-10. {octicons/prOpened} **Pull request opened:** [Readme-Workflows/recent-activity#94](https://github.com/Readme-Workflows/recent-activity/pull/94)
+1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [PowerPlugins/Plugin#39](https://github.com/PowerPlugins/Plugin/pull/39)
+2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [DV8FromTheWorld/JDA#1777](https://github.com/DV8FromTheWorld/JDA/pull/1777)
+3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/Docs#149](https://github.com/purrbot-site/Docs/pull/149)
+4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/mkdocs-template#29](https://github.com/Andre601/mkdocs-template/pull/29)
+5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/Docs#148](https://github.com/purrbot-site/Docs/pull/148)
+6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/mkdocs-template#28](https://github.com/Andre601/mkdocs-template/pull/28)
+7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [HelpChat/Barry#80](https://github.com/HelpChat/Barry/pull/80)
+8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [CodeCrafter47/TabOverlayWiki#20](https://github.com/CodeCrafter47/TabOverlayWiki/pull/20)
+9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#420](https://github.com/purrbot-site/PurrBot/pull/420)
+10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [Readme-Workflows/recent-activity#94](https://github.com/Readme-Workflows/recent-activity/pull/94)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

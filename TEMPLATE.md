@@ -35,16 +35,16 @@ The list is updates twice a day and includes opening and closing issues and open
 Last update: `17.08.2021 02:32:38 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. {octicons/prMerged} **Pull request merged:** [purrbot-site/PurrBot#421](https://github.com/purrbot-site/PurrBot/pull/421)
-2. {octicons/prOpened} **Pull request opened:** [DV8FromTheWorld/JDA#1779](https://github.com/DV8FromTheWorld/JDA/pull/1779)
-3. {octicons/prMerged} **Pull request merged:** [Andre601/Formatter-Expansion#6](https://github.com/Andre601/Formatter-Expansion/pull/6)
-4. {octicons/prOpened} **Pull request opened:** [Andre601/Formatter-Expansion#6](https://github.com/Andre601/Formatter-Expansion/pull/6)
-5. {octicons/issueClosed} **Issue closed:** [Andre601/Formatter-Expansion#5](https://github.com/Andre601/Formatter-Expansion/issues/5)
-6. {octicons/prMerged} **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#692](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/692)
-7. {octicons/approved} **Approved Changes:** [PlaceholderAPI/PlaceholderAPI#692](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/692#pullrequestreview-730134806)
-8. {octicons/prOpened} **Pull request opened:** [Readme-Workflows/recent-activity#97](https://github.com/Readme-Workflows/recent-activity/pull/97)
-9. {octicons/prMerged} **Pull request merged:** [PowerPlugins/Plugin#39](https://github.com/PowerPlugins/Plugin/pull/39)
-10. {octicons/prOpened} **Pull request opened:** [DV8FromTheWorld/JDA#1777](https://github.com/DV8FromTheWorld/JDA/pull/1777)
+1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#421](https://github.com/purrbot-site/PurrBot/pull/421)
+2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [DV8FromTheWorld/JDA#1779](https://github.com/DV8FromTheWorld/JDA/pull/1779)
+3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/Formatter-Expansion#6](https://github.com/Andre601/Formatter-Expansion/pull/6)
+4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [Andre601/Formatter-Expansion#6](https://github.com/Andre601/Formatter-Expansion/pull/6)
+5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) **Issue closed:** [Andre601/Formatter-Expansion#5](https://github.com/Andre601/Formatter-Expansion/issues/5)
+6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#692](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/692)
+7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) **Approved Changes:** [PlaceholderAPI/PlaceholderAPI#692](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/692#pullrequestreview-730134806)
+8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [Readme-Workflows/recent-activity#97](https://github.com/Readme-Workflows/recent-activity/pull/97)
+9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [PowerPlugins/Plugin#39](https://github.com/PowerPlugins/Plugin/pull/39)
+10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [DV8FromTheWorld/JDA#1777](https://github.com/DV8FromTheWorld/JDA/pull/1777)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

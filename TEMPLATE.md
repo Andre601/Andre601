@@ -25,8 +25,9 @@ module.exports = {
               edges {
                 node {
                   name
+                  url
                   stargazers { totalCount }
-                  # etc
+                  forks { totalCount }
                 }
               }
             }
@@ -38,8 +39,9 @@ module.exports = {
       for (const repo of repos) {
         loop.push({
           REPO_FULL_NAME: repo.name
+          REPO_URL: repo.url
           REPO_STARS: repo.stargazers.totalCount
-          // etc
+          REPO_FORKS: repo.forks.totalCount
         })
       }
       return loop
@@ -62,10 +64,12 @@ Here is a list of various repositories based on certain criterias.
 
 ### Most starred repositories
 
+#### Purrbot.site
 {{ loop MOST_STARRED }}
-- [`{{ REPO_FULL_NAME }}`]({{ REPO_URL }}) (![star] {{ REPO_STARS }} ![fork] {{ REPO_FORK_COUNT }})
+- [`{{ REPO_FULL_NAME }}`]({{ REPO_URL }}) (![star] {{ REPO_STARS }} ![fork] {{ REPO_FORKS }})
 {{ end MOST_STARRED }}
 
+#### Andre601
 {{ loop 3_MOST_STARRED_REPOS }}
 - [`{{ REPO_FULL_NAME }}`]({{ REPO_URL }}) (![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepository.svg) {{ REPO_STARS }} ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) {{ REPO_FORK_COUNT }})
 {{ end 3_MOST_STARRED_REPOS }}

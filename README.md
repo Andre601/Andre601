@@ -6,6 +6,10 @@
 [patreon]: https://patreon.com/andre_601
 [ko-fi]: https://ko-fi.com/andre_601
 
+<!-- SVGs -->
+[star]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepository.svg
+[fork]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg
+
 ## 👋 Hello there!
 My name is Andreas but most people just call me Andre.  
 On the internet am I known as either Andre_601 or Andre601. My tag on Discord is `Andre_601#0601`.
@@ -20,9 +24,9 @@ Here is a list of various repositories based on certain criterias.
 
 ### Most starred repositories
 
-- [`Andre601/OneVersionRemake`](https://github.com/Andre601/OneVersionRemake) (![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepository.svg) 8 ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) 0)
-- [`Andre601/Supporto`](https://github.com/Andre601/Supporto) (![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepository.svg) 3 ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) 3)
-- [`Andre601/HexChat`](https://github.com/Andre601/HexChat) (![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepository.svg) 2 ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) 0)
+- [`Andre601/OneVersionRemake`](https://github.com/Andre601/OneVersionRemake) (![star] 8 ![fork] 0)
+- [`Andre601/Supporto`](https://github.com/Andre601/Supporto) (![star] 3 ![fork] 3)
+- [`Andre601/HexChat`](https://github.com/Andre601/HexChat) (![star] 2 ![fork] 0)
 
 ## 📊 Statistics
 <img height="195px" src="https://github-readme-stats.vercel.app/api?username=Andre601&show_icons=true&hide_rank=true&title_color=3498db&bg_color=ffffff00&text_color=718096&disable_animations=true"><img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Andre601&layout=compact&title_color=3498db&bg_color=ffffff00&text_color=718096">
@@ -32,19 +36,19 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes opening and closing issues and opening, closing and merging Pull requests.
 
 <!--RECENT_ACTIVITY:last_update-->
-Last update: `21.08.2021 14:14:03 GMT+0200`
+Last update: `21.08.2021 23:48:57 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [widgetbot-io/embed#190](https://github.com/widgetbot-io/embed/issues/190)
-2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#424](https://github.com/purrbot-site/PurrBot/pull/424)
-3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#423](https://github.com/purrbot-site/PurrBot/pull/423)
-4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#422](https://github.com/purrbot-site/PurrBot/pull/422)
-5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [CodeCrafter47/TabOverlayCommon#5](https://github.com/CodeCrafter47/TabOverlayCommon/issues/5)
-6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/OneVersionRemake#94](https://github.com/Andre601/OneVersionRemake/pull/94)
-7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/OneVersionRemake#95](https://github.com/Andre601/OneVersionRemake/pull/95)
-8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/OneVersionRemake#93](https://github.com/Andre601/OneVersionRemake/pull/93)
-9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/OneVersionRemake#92](https://github.com/Andre601/OneVersionRemake/pull/92)
-10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/OneVersionRemake#91](https://github.com/Andre601/OneVersionRemake/pull/91)
+1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/Andre601#10](https://github.com/Andre601/Andre601/pull/10)
+2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [Andre601/Andre601#10](https://github.com/Andre601/Andre601/pull/10)
+3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [widgetbot-io/embed#190](https://github.com/widgetbot-io/embed/issues/190)
+4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#424](https://github.com/purrbot-site/PurrBot/pull/424)
+5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#423](https://github.com/purrbot-site/PurrBot/pull/423)
+6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#422](https://github.com/purrbot-site/PurrBot/pull/422)
+7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [CodeCrafter47/TabOverlayCommon#5](https://github.com/CodeCrafter47/TabOverlayCommon/issues/5)
+8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/OneVersionRemake#94](https://github.com/Andre601/OneVersionRemake/pull/94)
+9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/OneVersionRemake#95](https://github.com/Andre601/OneVersionRemake/pull/95)
+10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/OneVersionRemake#93](https://github.com/Andre601/OneVersionRemake/pull/93)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

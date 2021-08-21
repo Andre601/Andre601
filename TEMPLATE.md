@@ -6,6 +6,48 @@
 [patreon]: https://patreon.com/andre_601
 [ko-fi]: https://ko-fi.com/andre_601
 
+<!-- SVGs -->
+[star]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepository.svg
+[fork]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg
+
+```js
+// {{ TEMPLATE: }}
+module.exports = {
+  MOST_STARRED: {
+    type: 'customQuery',
+    loop: true,
+    query: async (octokit, moment, user) => {
+      // You can do anything  you want with the GitHub API here.
+      const result = await octokit.graphql(`
+        query { 
+          organization(login: "purrbot-site") {
+            repositories(first: 3, isFork: false, privacy: PUBLIC, ownerAffiliations: [OWNER], orderBy: { field: STARGAZERS, direction: DESC } ) {
+              edges {
+                node {
+                  name
+                  stargazers { totalCount }
+                  # etc
+                }
+              }
+            }
+          }
+        }
+      `)
+      const loop = []
+      const repos = result.organization.repositories.edges
+      for (const repo of repos) {
+        loop.push({
+          REPO_FULL_NAME: repo.name
+          REPO_STARS: repo.stargazers.totalCount
+          // etc
+        })
+      }
+      return loop
+    }
+  }
+// {{ :TEMPLATE }}
+```
+
 ## 👋 Hello there!
 My name is Andreas but most people just call me Andre.  
 On the internet am I known as either Andre_601 or Andre601. My tag on Discord is `Andre_601#0601`.
@@ -19,6 +61,10 @@ If you have any questions, feel free to join my [personal Discord Server][discor
 Here is a list of various repositories based on certain criterias.
 
 ### Most starred repositories
+
+{{ loop MOST_STARRED }}
+- [`{{ REPO_FULL_NAME }}`]({{ REPO_URL }}) (![star] {{ REPO_STARS }} ![fork] {{ REPO_FORK_COUNT }})
+{{ end MOST_STARRED }}
 
 {{ loop 3_MOST_STARRED_REPOS }}
 - [`{{ REPO_FULL_NAME }}`]({{ REPO_URL }}) (![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepository.svg) {{ REPO_STARS }} ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) {{ REPO_FORK_COUNT }})

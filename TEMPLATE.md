@@ -36,19 +36,19 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes opening and closing issues and opening, closing and merging Pull requests.
 
 <!--RECENT_ACTIVITY:last_update-->
-Last update: `22.08.2021 14:14:05 GMT+0200`
+Last update: `23.08.2021 02:29:46 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#696](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/696)
-2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) **Approved Changes:** [PlaceholderAPI/PlaceholderAPI#696](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/696#pullrequestreview-735561441)
-3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/Andre601#10](https://github.com/Andre601/Andre601/pull/10)
-4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [Andre601/Andre601#10](https://github.com/Andre601/Andre601/pull/10)
-5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [widgetbot-io/embed#190](https://github.com/widgetbot-io/embed/issues/190)
-6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#424](https://github.com/purrbot-site/PurrBot/pull/424)
-7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#423](https://github.com/purrbot-site/PurrBot/pull/423)
-8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#422](https://github.com/purrbot-site/PurrBot/pull/422)
-9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [CodeCrafter47/TabOverlayCommon#5](https://github.com/CodeCrafter47/TabOverlayCommon/issues/5)
-10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/OneVersionRemake#94](https://github.com/Andre601/OneVersionRemake/pull/94)
+1. {octicons/issueOpened} **Issue opened:** [MineSkin/mineskin.org#25](https://github.com/MineSkin/mineskin.org/issues/25)
+2. {octicons/prOpened} **Pull request opened:** [DV8FromTheWorld/JDA#1787](https://github.com/DV8FromTheWorld/JDA/pull/1787)
+3. {octicons/prMerged} **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#696](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/696)
+4. {octicons/approved} **Approved Changes:** [PlaceholderAPI/PlaceholderAPI#696](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/696#pullrequestreview-735561441)
+5. {octicons/prMerged} **Pull request merged:** [Andre601/Andre601#10](https://github.com/Andre601/Andre601/pull/10)
+6. {octicons/prOpened} **Pull request opened:** [Andre601/Andre601#10](https://github.com/Andre601/Andre601/pull/10)
+7. {octicons/issueOpened} **Issue opened:** [widgetbot-io/embed#190](https://github.com/widgetbot-io/embed/issues/190)
+8. {octicons/prMerged} **Pull request merged:** [purrbot-site/PurrBot#424](https://github.com/purrbot-site/PurrBot/pull/424)
+9. {octicons/prMerged} **Pull request merged:** [purrbot-site/PurrBot#423](https://github.com/purrbot-site/PurrBot/pull/423)
+10. {octicons/prMerged} **Pull request merged:** [purrbot-site/PurrBot#422](https://github.com/purrbot-site/PurrBot/pull/422)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

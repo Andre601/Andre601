@@ -39,16 +39,16 @@ The list is updates twice a day and includes opening and closing issues and open
 Last update: `24.08.2021 02:31:14 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. {octicons/prMerged} **Pull request merged:** [Andre601/anti-scam-database#1](https://github.com/Andre601/anti-scam-database/pull/1)
-2. {octicons/prOpened} **Pull request opened:** [Andre601/anti-scam-database#1](https://github.com/Andre601/anti-scam-database/pull/1)
-3. {octicons/prMerged} **Pull request merged:** [purrbot-site/PurrBot#426](https://github.com/purrbot-site/PurrBot/pull/426)
-4. {octicons/prMerged} **Pull request merged:** [purrbot-site/PurrBot#425](https://github.com/purrbot-site/PurrBot/pull/425)
-5. {octicons/issueOpened} **Issue opened:** [MineSkin/mineskin.org#25](https://github.com/MineSkin/mineskin.org/issues/25)
-6. {octicons/prOpened} **Pull request opened:** [DV8FromTheWorld/JDA#1787](https://github.com/DV8FromTheWorld/JDA/pull/1787)
-7. {octicons/prMerged} **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#696](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/696)
-8. {octicons/approved} **Approved Changes:** [PlaceholderAPI/PlaceholderAPI#696](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/696#pullrequestreview-735561441)
-9. {octicons/prMerged} **Pull request merged:** [Andre601/Andre601#10](https://github.com/Andre601/Andre601/pull/10)
-10. {octicons/prOpened} **Pull request opened:** [Andre601/Andre601#10](https://github.com/Andre601/Andre601/pull/10)
+1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/anti-scam-database#1](https://github.com/Andre601/anti-scam-database/pull/1)
+2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [Andre601/anti-scam-database#1](https://github.com/Andre601/anti-scam-database/pull/1)
+3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#426](https://github.com/purrbot-site/PurrBot/pull/426)
+4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#425](https://github.com/purrbot-site/PurrBot/pull/425)
+5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [MineSkin/mineskin.org#25](https://github.com/MineSkin/mineskin.org/issues/25)
+6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [DV8FromTheWorld/JDA#1787](https://github.com/DV8FromTheWorld/JDA/pull/1787)
+7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#696](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/696)
+8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) **Approved Changes:** [PlaceholderAPI/PlaceholderAPI#696](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/696#pullrequestreview-735561441)
+9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/Andre601#10](https://github.com/Andre601/Andre601/pull/10)
+10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [Andre601/Andre601#10](https://github.com/Andre601/Andre601/pull/10)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

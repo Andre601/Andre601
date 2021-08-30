@@ -39,16 +39,16 @@ The list is updates twice a day and includes opening and closing issues and open
 Last update: `30.08.2021 14:19:27 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. {octicons/prMerged} **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#703](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/703)
-2. {octicons/approved} **Approved Changes:** [PlaceholderAPI/PlaceholderAPI#703](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/703#pullrequestreview-741528268)
-3. {octicons/requestedChanges} **2 changes requested:** [PlaceholderAPI/PlaceholderAPI#703](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/703#pullrequestreview-741523267)
-4. {octicons/issueOpened} **Issue opened:** [Sollace/Presence-Footsteps#102](https://github.com/Sollace/Presence-Footsteps/issues/102)
-5. {octicons/prMerged} **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#701](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/701)
-6. {octicons/approved} **Approved Changes:** [PlaceholderAPI/PlaceholderAPI#701](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/701#pullrequestreview-740575395)
-7. {octicons/prOpened} **Pull request opened:** [PlaceholderAPI/PlaceholderAPI#698](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/698)
-8. {octicons/prOpened} **Pull request opened:** [CodeCrafter47/TabOverlayWiki#21](https://github.com/CodeCrafter47/TabOverlayWiki/pull/21)
-9. {octicons/prOpened} **Pull request opened:** [Andre601/anti-scam-database#7](https://github.com/Andre601/anti-scam-database/pull/7)
-10. {octicons/prMerged} **Pull request merged:** [purrbot-site/Docs#150](https://github.com/purrbot-site/Docs/pull/150)
+1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#703](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/703)
+2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) **Approved Changes:** [PlaceholderAPI/PlaceholderAPI#703](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/703#pullrequestreview-741528268)
+3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) **2 changes requested:** [PlaceholderAPI/PlaceholderAPI#703](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/703#pullrequestreview-741523267)
+4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [Sollace/Presence-Footsteps#102](https://github.com/Sollace/Presence-Footsteps/issues/102)
+5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#701](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/701)
+6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) **Approved Changes:** [PlaceholderAPI/PlaceholderAPI#701](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/701#pullrequestreview-740575395)
+7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [PlaceholderAPI/PlaceholderAPI#698](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/698)
+8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [CodeCrafter47/TabOverlayWiki#21](https://github.com/CodeCrafter47/TabOverlayWiki/pull/21)
+9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [Andre601/anti-scam-database#7](https://github.com/Andre601/anti-scam-database/pull/7)
+10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/Docs#150](https://github.com/purrbot-site/Docs/pull/150)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

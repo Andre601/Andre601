@@ -36,19 +36,19 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes opening and closing issues and opening, closing and merging Pull requests.
 
 <!--RECENT_ACTIVITY:last_update-->
-Last update: `01.09.2021 02:35:38 GMT+0200`
+Last update: `01.09.2021 14:19:23 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [Readme-Workflows/recent-activity#103](https://github.com/Readme-Workflows/recent-activity/pull/103)
-2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [api7/contributor-graph#97](https://github.com/api7/contributor-graph/issues/97)
-3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#429](https://github.com/purrbot-site/PurrBot/pull/429)
-4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) **Issue closed:** [Sollace/Presence-Footsteps#102](https://github.com/Sollace/Presence-Footsteps/issues/102)
-5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/anti-scam-database#8](https://github.com/Andre601/anti-scam-database/pull/8)
-6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#428](https://github.com/purrbot-site/PurrBot/pull/428)
-7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#703](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/703)
-8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) **Approved Changes:** [PlaceholderAPI/PlaceholderAPI#703](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/703#pullrequestreview-741528268)
-9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) **2 changes requested:** [PlaceholderAPI/PlaceholderAPI#703](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/703#pullrequestreview-741523267)
-10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [Sollace/Presence-Footsteps#102](https://github.com/Sollace/Presence-Footsteps/issues/102)
+1. {octicons/prMerged} **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#705](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/705)
+2. {octicons/approved} **Approved Changes:** [PlaceholderAPI/PlaceholderAPI#705](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/705#pullrequestreview-743813930)
+3. {octicons/prMerged} **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#698](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/698)
+4. {octicons/prOpened} **Pull request opened:** [Readme-Workflows/recent-activity#103](https://github.com/Readme-Workflows/recent-activity/pull/103)
+5. {octicons/issueOpened} **Issue opened:** [api7/contributor-graph#97](https://github.com/api7/contributor-graph/issues/97)
+6. {octicons/prMerged} **Pull request merged:** [purrbot-site/PurrBot#429](https://github.com/purrbot-site/PurrBot/pull/429)
+7. {octicons/issueClosed} **Issue closed:** [Sollace/Presence-Footsteps#102](https://github.com/Sollace/Presence-Footsteps/issues/102)
+8. {octicons/prMerged} **Pull request merged:** [Andre601/anti-scam-database#8](https://github.com/Andre601/anti-scam-database/pull/8)
+9. {octicons/prMerged} **Pull request merged:** [purrbot-site/PurrBot#428](https://github.com/purrbot-site/PurrBot/pull/428)
+10. {octicons/prMerged} **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#703](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/703)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

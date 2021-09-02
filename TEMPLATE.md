@@ -39,16 +39,16 @@ The list is updates twice a day and includes opening and closing issues and open
 Last update: `02.09.2021 14:19:23 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. {octicons/prMerged} **Pull request merged:** [Andre601/OneVersionRemake#96](https://github.com/Andre601/OneVersionRemake/pull/96)
-2. {octicons/prMerged} **Pull request merged:** [purrbot-site/Docs#151](https://github.com/purrbot-site/Docs/pull/151)
-3. {octicons/prMerged} **Pull request merged:** [Andre601/mkdocs-template#31](https://github.com/Andre601/mkdocs-template/pull/31)
-4. {octicons/prMerged} **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#705](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/705)
-5. {octicons/approved} **Approved Changes:** [PlaceholderAPI/PlaceholderAPI#705](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/705#pullrequestreview-743813930)
-6. {octicons/prMerged} **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#698](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/698)
-7. {octicons/prOpened} **Pull request opened:** [Readme-Workflows/recent-activity#103](https://github.com/Readme-Workflows/recent-activity/pull/103)
-8. {octicons/issueOpened} **Issue opened:** [api7/contributor-graph#97](https://github.com/api7/contributor-graph/issues/97)
-9. {octicons/prMerged} **Pull request merged:** [purrbot-site/PurrBot#429](https://github.com/purrbot-site/PurrBot/pull/429)
-10. {octicons/issueClosed} **Issue closed:** [Sollace/Presence-Footsteps#102](https://github.com/Sollace/Presence-Footsteps/issues/102)
+1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/OneVersionRemake#96](https://github.com/Andre601/OneVersionRemake/pull/96)
+2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/Docs#151](https://github.com/purrbot-site/Docs/pull/151)
+3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/mkdocs-template#31](https://github.com/Andre601/mkdocs-template/pull/31)
+4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#705](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/705)
+5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) **Approved Changes:** [PlaceholderAPI/PlaceholderAPI#705](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/705#pullrequestreview-743813930)
+6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#698](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/698)
+7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [Readme-Workflows/recent-activity#103](https://github.com/Readme-Workflows/recent-activity/pull/103)
+8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [api7/contributor-graph#97](https://github.com/api7/contributor-graph/issues/97)
+9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#429](https://github.com/purrbot-site/PurrBot/pull/429)
+10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) **Issue closed:** [Sollace/Presence-Footsteps#102](https://github.com/Sollace/Presence-Footsteps/issues/102)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

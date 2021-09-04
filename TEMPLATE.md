@@ -39,16 +39,16 @@ The list is updates twice a day and includes opening and closing issues and open
 Last update: `04.09.2021 14:14:06 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. {octicons/issueOpened} **Issue opened:** [ajayyy/SponsorBlock#929](https://github.com/ajayyy/SponsorBlock/issues/929)
-2. {octicons/prMerged} **Pull request merged:** [purrbot-site/PurrBot#430](https://github.com/purrbot-site/PurrBot/pull/430)
-3. {octicons/issueOpened} **Issue opened:** [xelA/bucket#128](https://github.com/xelA/bucket/issues/128)
-4. {octicons/prMerged} **Pull request merged:** [Andre601/anti-scam-database#11](https://github.com/Andre601/anti-scam-database/pull/11)
-5. {octicons/issueClosed} **Issue closed:** [Andre601/anti-scam-database#10](https://github.com/Andre601/anti-scam-database/issues/10)
-6. {octicons/issueClosed} **Issue closed:** [Andre601/anti-scam-database#9](https://github.com/Andre601/anti-scam-database/issues/9)
-7. {octicons/prOpened} **Pull request opened:** [Andre601/anti-scam-database#11](https://github.com/Andre601/anti-scam-database/pull/11)
-8. {octicons/prMerged} **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#706](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/706)
-9. {octicons/approved} **Approved Changes:** [PlaceholderAPI/PlaceholderAPI#706](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/706#pullrequestreview-745610445)
-10. {octicons/prMerged} **Pull request merged:** [Andre601/OneVersionRemake#96](https://github.com/Andre601/OneVersionRemake/pull/96)
+1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [ajayyy/SponsorBlock#929](https://github.com/ajayyy/SponsorBlock/issues/929)
+2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#430](https://github.com/purrbot-site/PurrBot/pull/430)
+3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [xelA/bucket#128](https://github.com/xelA/bucket/issues/128)
+4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/anti-scam-database#11](https://github.com/Andre601/anti-scam-database/pull/11)
+5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) **Issue closed:** [Andre601/anti-scam-database#10](https://github.com/Andre601/anti-scam-database/issues/10)
+6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) **Issue closed:** [Andre601/anti-scam-database#9](https://github.com/Andre601/anti-scam-database/issues/9)
+7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [Andre601/anti-scam-database#11](https://github.com/Andre601/anti-scam-database/pull/11)
+8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#706](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/706)
+9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) **Approved Changes:** [PlaceholderAPI/PlaceholderAPI#706](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/706#pullrequestreview-745610445)
+10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/OneVersionRemake#96](https://github.com/Andre601/OneVersionRemake/pull/96)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

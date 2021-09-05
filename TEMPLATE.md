@@ -39,16 +39,16 @@ The list is updates twice a day and includes opening and closing issues and open
 Last update: `05.09.2021 21:20:07 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. {octicons/issueClosed} **Issue closed:** [Andre601/anti-scam-database#18](https://github.com/Andre601/anti-scam-database/issues/18)
-2. {octicons/prMerged} **Pull request merged:** [Andre601/anti-scam-database#19](https://github.com/Andre601/anti-scam-database/pull/19)
-3. {octicons/issueClosed} **Issue closed:** [Andre601/anti-scam-database#17](https://github.com/Andre601/anti-scam-database/issues/17)
-4. {octicons/prOpened} **Pull request opened:** [Andre601/anti-scam-database#19](https://github.com/Andre601/anti-scam-database/pull/19)
-5. {octicons/issueOpened} **Issue opened:** [revoltchat/revite#186](https://github.com/revoltchat/revite/issues/186)
-6. {octicons/issueClosed} **Issue closed:** [ThatTonybo/Revolt-Discord-Theme#16](https://github.com/ThatTonybo/Revolt-Discord-Theme/issues/16)
-7. {octicons/issueOpened} **Issue opened:** [ThatTonybo/Revolt-Discord-Theme#16](https://github.com/ThatTonybo/Revolt-Discord-Theme/issues/16)
-8. {octicons/prMerged} **Pull request merged:** [Andre601/anti-scam-database#16](https://github.com/Andre601/anti-scam-database/pull/16)
-9. {octicons/prOpened} **Pull request opened:** [Andre601/anti-scam-database#16](https://github.com/Andre601/anti-scam-database/pull/16)
-10. {octicons/prMerged} **Pull request merged:** [Andre601/anti-scam-database#15](https://github.com/Andre601/anti-scam-database/pull/15)
+1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) **Issue closed:** [Andre601/anti-scam-database#18](https://github.com/Andre601/anti-scam-database/issues/18)
+2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/anti-scam-database#19](https://github.com/Andre601/anti-scam-database/pull/19)
+3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) **Issue closed:** [Andre601/anti-scam-database#17](https://github.com/Andre601/anti-scam-database/issues/17)
+4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [Andre601/anti-scam-database#19](https://github.com/Andre601/anti-scam-database/pull/19)
+5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [revoltchat/revite#186](https://github.com/revoltchat/revite/issues/186)
+6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) **Issue closed:** [ThatTonybo/Revolt-Discord-Theme#16](https://github.com/ThatTonybo/Revolt-Discord-Theme/issues/16)
+7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [ThatTonybo/Revolt-Discord-Theme#16](https://github.com/ThatTonybo/Revolt-Discord-Theme/issues/16)
+8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/anti-scam-database#16](https://github.com/Andre601/anti-scam-database/pull/16)
+9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [Andre601/anti-scam-database#16](https://github.com/Andre601/anti-scam-database/pull/16)
+10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/anti-scam-database#15](https://github.com/Andre601/anti-scam-database/pull/15)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

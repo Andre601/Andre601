@@ -39,16 +39,16 @@ The list is updates twice a day and includes opening and closing issues and open
 Last update: `08.09.2021 14:15:04 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. {octicons/prMerged} **Pull request merged:** [Andre601/anti-scam-database#22](https://github.com/Andre601/anti-scam-database/pull/22)
-2. {octicons/issueClosed} **Issue closed:** [Andre601/anti-scam-database#21](https://github.com/Andre601/anti-scam-database/issues/21)
-3. {octicons/prOpened} **Pull request opened:** [Andre601/anti-scam-database#22](https://github.com/Andre601/anti-scam-database/pull/22)
-4. {octicons/prMerged} **Pull request merged:** [Andre601/OneVersionRemake#102](https://github.com/Andre601/OneVersionRemake/pull/102)
-5. {octicons/prMerged} **Pull request merged:** [Andre601/OneVersionRemake#101](https://github.com/Andre601/OneVersionRemake/pull/101)
-6. {octicons/prMerged} **Pull request merged:** [Andre601/OneVersionRemake#100](https://github.com/Andre601/OneVersionRemake/pull/100)
-7. {octicons/prMerged} **Pull request merged:** [Andre601/anti-scam-database#20](https://github.com/Andre601/anti-scam-database/pull/20)
-8. {octicons/prOpened} **Pull request opened:** [Andre601/anti-scam-database#20](https://github.com/Andre601/anti-scam-database/pull/20)
-9. {octicons/prMerged} **Pull request merged:** [purrbot-site/PurrBot#431](https://github.com/purrbot-site/PurrBot/pull/431)
-10. {octicons/prMerged} **Pull request merged:** [Andre601/OneVersionRemake#99](https://github.com/Andre601/OneVersionRemake/pull/99)
+1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/anti-scam-database#22](https://github.com/Andre601/anti-scam-database/pull/22)
+2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) **Issue closed:** [Andre601/anti-scam-database#21](https://github.com/Andre601/anti-scam-database/issues/21)
+3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [Andre601/anti-scam-database#22](https://github.com/Andre601/anti-scam-database/pull/22)
+4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/OneVersionRemake#102](https://github.com/Andre601/OneVersionRemake/pull/102)
+5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/OneVersionRemake#101](https://github.com/Andre601/OneVersionRemake/pull/101)
+6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/OneVersionRemake#100](https://github.com/Andre601/OneVersionRemake/pull/100)
+7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/anti-scam-database#20](https://github.com/Andre601/anti-scam-database/pull/20)
+8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [Andre601/anti-scam-database#20](https://github.com/Andre601/anti-scam-database/pull/20)
+9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#431](https://github.com/purrbot-site/PurrBot/pull/431)
+10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/OneVersionRemake#99](https://github.com/Andre601/OneVersionRemake/pull/99)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

@@ -39,16 +39,16 @@ The list is updates twice a day and includes opening and closing issues and open
 Last update: `10.09.2021 02:36:25 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. {octicons/issueClosed} **Issue closed:** [PlaceholderAPI/PlaceholderAPI#709](https://github.com/PlaceholderAPI/PlaceholderAPI/issues/709)
-2. {octicons/prMerged} **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#713](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/713)
-3. {octicons/approved} **Approved Changes:** [PlaceholderAPI/PlaceholderAPI#713](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/713#pullrequestreview-750936350)
-4. {octicons/prMerged} **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#712](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/712)
-5. {octicons/prOpened} **Pull request opened:** [PlaceholderAPI/PlaceholderAPI#712](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/712)
-6. {octicons/prClosed} **Pull request closed:** [PlaceholderAPI/PlaceholderAPI#711](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/711)
-7. {octicons/prMerged} **Pull request merged:** [Andre601/mkdocs-pagenav-generator#1](https://github.com/Andre601/mkdocs-pagenav-generator/pull/1)
-8. {octicons/prMerged} **Pull request merged:** [purrbot-site/PurrBot#434](https://github.com/purrbot-site/PurrBot/pull/434)
-9. {octicons/prMerged} **Pull request merged:** [purrbot-site/PurrBot#433](https://github.com/purrbot-site/PurrBot/pull/433)
-10. {octicons/prOpened} **Pull request opened:** [Andre601/anti-scam-database#23](https://github.com/Andre601/anti-scam-database/pull/23)
+1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) **Issue closed:** [PlaceholderAPI/PlaceholderAPI#709](https://github.com/PlaceholderAPI/PlaceholderAPI/issues/709)
+2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#713](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/713)
+3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) **Approved Changes:** [PlaceholderAPI/PlaceholderAPI#713](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/713#pullrequestreview-750936350)
+4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#712](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/712)
+5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [PlaceholderAPI/PlaceholderAPI#712](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/712)
+6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) **Pull request closed:** [PlaceholderAPI/PlaceholderAPI#711](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/711)
+7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/mkdocs-pagenav-generator#1](https://github.com/Andre601/mkdocs-pagenav-generator/pull/1)
+8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#434](https://github.com/purrbot-site/PurrBot/pull/434)
+9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#433](https://github.com/purrbot-site/PurrBot/pull/433)
+10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [Andre601/anti-scam-database#23](https://github.com/Andre601/anti-scam-database/pull/23)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

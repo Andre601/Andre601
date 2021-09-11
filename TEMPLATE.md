@@ -39,16 +39,16 @@ The list is updates twice a day and includes opening and closing issues and open
 Last update: `11.09.2021 14:14:06 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. {octicons/prMerged} **Pull request merged:** [Andre601/anti-phishing-database#23](https://github.com/Andre601/anti-phishing-database/pull/23)
-2. {octicons/forkedRepo} **Forked Repository:** [Andre601/JRV](https://github.com/Andre601/JRV) (From [JRVLT/JRV](https://github.com/JRVLT/JRV))
-3. {octicons/issueOpened} **Issue opened:** [RevoltSocial/lists#40](https://github.com/RevoltSocial/lists/issues/40)
-4. {octicons/prMerged} **Pull request merged:** [purrbot-site/PurrBot#435](https://github.com/purrbot-site/PurrBot/pull/435)
-5. {octicons/prMerged} **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#714](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/714)
-6. {octicons/approved} **Approved Changes:** [PlaceholderAPI/PlaceholderAPI#714](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/714#pullrequestreview-751353296)
-7. {octicons/issueOpened} **Issue opened:** [revoltchat/revite#214](https://github.com/revoltchat/revite/issues/214)
-8. {octicons/issueClosed} **Issue closed:** [PlaceholderAPI/PlaceholderAPI#709](https://github.com/PlaceholderAPI/PlaceholderAPI/issues/709)
-9. {octicons/prMerged} **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#713](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/713)
-10. {octicons/approved} **Approved Changes:** [PlaceholderAPI/PlaceholderAPI#713](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/713#pullrequestreview-750936350)
+1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/anti-phishing-database#23](https://github.com/Andre601/anti-phishing-database/pull/23)
+2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) **Forked Repository:** [Andre601/JRV](https://github.com/Andre601/JRV) (From [JRVLT/JRV](https://github.com/JRVLT/JRV))
+3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [RevoltSocial/lists#40](https://github.com/RevoltSocial/lists/issues/40)
+4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#435](https://github.com/purrbot-site/PurrBot/pull/435)
+5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#714](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/714)
+6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) **Approved Changes:** [PlaceholderAPI/PlaceholderAPI#714](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/714#pullrequestreview-751353296)
+7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [revoltchat/revite#214](https://github.com/revoltchat/revite/issues/214)
+8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) **Issue closed:** [PlaceholderAPI/PlaceholderAPI#709](https://github.com/PlaceholderAPI/PlaceholderAPI/issues/709)
+9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#713](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/713)
+10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) **Approved Changes:** [PlaceholderAPI/PlaceholderAPI#713](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/713#pullrequestreview-750936350)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

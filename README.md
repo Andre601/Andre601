@@ -24,8 +24,8 @@ Here is a list of various repositories based on certain criterias.
 
 ### Most starred repositories
 
+- [`Andre601/anti-phishing-database`](https://github.com/Andre601/anti-phishing-database) (![star] 8 ![fork] 3)
 - [`Andre601/OneVersionRemake`](https://github.com/Andre601/OneVersionRemake) (![star] 8 ![fork] 0)
-- [`Andre601/anti-scam-database`](https://github.com/Andre601/anti-scam-database) (![star] 7 ![fork] 3)
 - [`Andre601/Supporto`](https://github.com/Andre601/Supporto) (![star] 3 ![fork] 3)
 
 ## 📊 Statistics
@@ -36,19 +36,19 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes opening and closing issues and opening, closing and merging Pull requests.
 
 <!--RECENT_ACTIVITY:last_update-->
-Last update: `10.09.2021 14:14:53 GMT+0200`
+Last update: `11.09.2021 02:32:52 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [revoltchat/revite#214](https://github.com/revoltchat/revite/issues/214)
-2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) **Issue closed:** [PlaceholderAPI/PlaceholderAPI#709](https://github.com/PlaceholderAPI/PlaceholderAPI/issues/709)
-3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#713](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/713)
-4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) **Approved Changes:** [PlaceholderAPI/PlaceholderAPI#713](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/713#pullrequestreview-750936350)
-5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#712](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/712)
-6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [PlaceholderAPI/PlaceholderAPI#712](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/712)
-7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) **Pull request closed:** [PlaceholderAPI/PlaceholderAPI#711](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/711)
-8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/mkdocs-pagenav-generator#1](https://github.com/Andre601/mkdocs-pagenav-generator/pull/1)
-9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#434](https://github.com/purrbot-site/PurrBot/pull/434)
-10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#433](https://github.com/purrbot-site/PurrBot/pull/433)
+1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/anti-phishing-database#23](https://github.com/Andre601/anti-phishing-database/pull/23)
+2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) **Forked Repository:** [Andre601/JRV](https://github.com/Andre601/JRV) (From [JRVLT/JRV](https://github.com/JRVLT/JRV))
+3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [RevoltSocial/lists#40](https://github.com/RevoltSocial/lists/issues/40)
+4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#435](https://github.com/purrbot-site/PurrBot/pull/435)
+5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#714](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/714)
+6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) **Approved Changes:** [PlaceholderAPI/PlaceholderAPI#714](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/714#pullrequestreview-751353296)
+7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [revoltchat/revite#214](https://github.com/revoltchat/revite/issues/214)
+8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) **Issue closed:** [PlaceholderAPI/PlaceholderAPI#709](https://github.com/PlaceholderAPI/PlaceholderAPI/issues/709)
+9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#713](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/713)
+10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) **Approved Changes:** [PlaceholderAPI/PlaceholderAPI#713](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/713#pullrequestreview-750936350)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

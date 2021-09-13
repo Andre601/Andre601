@@ -39,16 +39,16 @@ The list is updates twice a day and includes opening and closing issues and open
 Last update: `13.09.2021 14:16:07 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. {octicons/prMerged} **Pull request merged:** [Andre601/andre601.github.io#11](https://github.com/Andre601/andre601.github.io/pull/11)
-2. {octicons/prOpened} **Pull request opened:** [Andre601/andre601.github.io#11](https://github.com/Andre601/andre601.github.io/pull/11)
-3. {octicons/repo} **Created Repository:** [Andre601/Expansion-Wiki-Generator](https://github.com/Andre601/Expansion-Wiki-Generator)
-4. {octicons/prOpened} **Pull request opened:** [MinecraftAuthentication/lib#4](https://github.com/MinecraftAuthentication/lib/pull/4)
-5. {octicons/forkedRepo} **Forked Repository:** [Andre601/lib](https://github.com/Andre601/lib) (From [MinecraftAuthentication/lib](https://github.com/MinecraftAuthentication/lib))
-6. {octicons/repo} **Created Repository:** [Andre601/Revolt4J](https://github.com/Andre601/Revolt4J)
-7. {octicons/issueOpened} **Issue opened:** [JRVLT/JRV#1](https://github.com/JRVLT/JRV/issues/1)
-8. {octicons/issueOpened} **Issue opened:** [CodeCrafter47/BungeeTabListPlus#653](https://github.com/CodeCrafter47/BungeeTabListPlus/issues/653)
-9. {octicons/prMerged} **Pull request merged:** [Andre601/anti-phishing-database#23](https://github.com/Andre601/anti-phishing-database/pull/23)
-10. {octicons/forkedRepo} **Forked Repository:** [Andre601/JRV](https://github.com/Andre601/JRV) (From [JRVLT/JRV](https://github.com/JRVLT/JRV))
+1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/andre601.github.io#11](https://github.com/Andre601/andre601.github.io/pull/11)
+2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [Andre601/andre601.github.io#11](https://github.com/Andre601/andre601.github.io/pull/11)
+3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) **Created Repository:** [Andre601/Expansion-Wiki-Generator](https://github.com/Andre601/Expansion-Wiki-Generator)
+4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [MinecraftAuthentication/lib#4](https://github.com/MinecraftAuthentication/lib/pull/4)
+5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) **Forked Repository:** [Andre601/lib](https://github.com/Andre601/lib) (From [MinecraftAuthentication/lib](https://github.com/MinecraftAuthentication/lib))
+6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) **Created Repository:** [Andre601/Revolt4J](https://github.com/Andre601/Revolt4J)
+7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [JRVLT/JRV#1](https://github.com/JRVLT/JRV/issues/1)
+8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [CodeCrafter47/BungeeTabListPlus#653](https://github.com/CodeCrafter47/BungeeTabListPlus/issues/653)
+9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/anti-phishing-database#23](https://github.com/Andre601/anti-phishing-database/pull/23)
+10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) **Forked Repository:** [Andre601/JRV](https://github.com/Andre601/JRV) (From [JRVLT/JRV](https://github.com/JRVLT/JRV))
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

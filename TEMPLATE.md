@@ -39,16 +39,16 @@ The list is updates twice a day and includes opening and closing issues and open
 Last update: `14.09.2021 02:34:25 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. {octicons/prMerged} **Pull request merged:** [CodeMC/Documentation#14](https://github.com/CodeMC/Documentation/pull/14)
-2. {octicons/approved} **Approved Changes:** [CodeMC/Documentation#14](https://github.com/CodeMC/Documentation/pull/14#pullrequestreview-753159710)
-3. {octicons/prMerged} **Pull request merged:** [Andre601/anti-phishing-database#25](https://github.com/Andre601/anti-phishing-database/pull/25)
-4. {octicons/prOpened} **Pull request opened:** [Andre601/anti-phishing-database#25](https://github.com/Andre601/anti-phishing-database/pull/25)
-5. {octicons/prMerged} **Pull request merged:** [Andre601/anti-phishing-database#24](https://github.com/Andre601/anti-phishing-database/pull/24)
-6. {octicons/prOpened} **Pull request opened:** [Andre601/anti-phishing-database#24](https://github.com/Andre601/anti-phishing-database/pull/24)
-7. {octicons/prMerged} **Pull request merged:** [purrbot-site/PurrBot#436](https://github.com/purrbot-site/PurrBot/pull/436)
-8. {octicons/issueOpened} **Issue opened:** [Andre601/Revolt4J#3](https://github.com/Andre601/Revolt4J/issues/3)
-9. {octicons/issueOpened} **Issue opened:** [Andre601/Revolt4J#2](https://github.com/Andre601/Revolt4J/issues/2)
-10. {octicons/issueOpened} **Issue opened:** [Andre601/Revolt4J#1](https://github.com/Andre601/Revolt4J/issues/1)
+1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [CodeMC/Documentation#14](https://github.com/CodeMC/Documentation/pull/14)
+2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) **Approved Changes:** [CodeMC/Documentation#14](https://github.com/CodeMC/Documentation/pull/14#pullrequestreview-753159710)
+3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/anti-phishing-database#25](https://github.com/Andre601/anti-phishing-database/pull/25)
+4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [Andre601/anti-phishing-database#25](https://github.com/Andre601/anti-phishing-database/pull/25)
+5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/anti-phishing-database#24](https://github.com/Andre601/anti-phishing-database/pull/24)
+6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [Andre601/anti-phishing-database#24](https://github.com/Andre601/anti-phishing-database/pull/24)
+7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#436](https://github.com/purrbot-site/PurrBot/pull/436)
+8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [Andre601/Revolt4J#3](https://github.com/Andre601/Revolt4J/issues/3)
+9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [Andre601/Revolt4J#2](https://github.com/Andre601/Revolt4J/issues/2)
+10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [Andre601/Revolt4J#1](https://github.com/Andre601/Revolt4J/issues/1)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

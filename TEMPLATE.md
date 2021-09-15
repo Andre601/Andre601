@@ -36,19 +36,19 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes opening and closing issues and opening, closing and merging Pull requests.
 
 <!--RECENT_ACTIVITY:last_update-->
-Last update: `15.09.2021 02:33:29 GMT+0200`
+Last update: `15.09.2021 14:16:03 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#437](https://github.com/purrbot-site/PurrBot/pull/437)
-2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/OneVersionRemake#103](https://github.com/Andre601/OneVersionRemake/pull/103)
-3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [CodeMC/Documentation#14](https://github.com/CodeMC/Documentation/pull/14)
-4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) **Approved Changes:** [CodeMC/Documentation#14](https://github.com/CodeMC/Documentation/pull/14#pullrequestreview-753159710)
-5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/anti-phishing-database#25](https://github.com/Andre601/anti-phishing-database/pull/25)
-6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [Andre601/anti-phishing-database#25](https://github.com/Andre601/anti-phishing-database/pull/25)
-7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/anti-phishing-database#24](https://github.com/Andre601/anti-phishing-database/pull/24)
-8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [Andre601/anti-phishing-database#24](https://github.com/Andre601/anti-phishing-database/pull/24)
-9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#436](https://github.com/purrbot-site/PurrBot/pull/436)
-10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [Andre601/Revolt4J#3](https://github.com/Andre601/Revolt4J/issues/3)
+1. {octicons/repo} **Created Repository:** [CodeMC/.github](https://github.com/CodeMC/.github)
+2. {octicons/prMerged} **Pull request merged:** [purrbot-site/PurrBot#437](https://github.com/purrbot-site/PurrBot/pull/437)
+3. {octicons/prMerged} **Pull request merged:** [Andre601/OneVersionRemake#103](https://github.com/Andre601/OneVersionRemake/pull/103)
+4. {octicons/prMerged} **Pull request merged:** [CodeMC/Documentation#14](https://github.com/CodeMC/Documentation/pull/14)
+5. {octicons/approved} **Approved Changes:** [CodeMC/Documentation#14](https://github.com/CodeMC/Documentation/pull/14#pullrequestreview-753159710)
+6. {octicons/prMerged} **Pull request merged:** [Andre601/anti-phishing-database#25](https://github.com/Andre601/anti-phishing-database/pull/25)
+7. {octicons/prOpened} **Pull request opened:** [Andre601/anti-phishing-database#25](https://github.com/Andre601/anti-phishing-database/pull/25)
+8. {octicons/prMerged} **Pull request merged:** [Andre601/anti-phishing-database#24](https://github.com/Andre601/anti-phishing-database/pull/24)
+9. {octicons/prOpened} **Pull request opened:** [Andre601/anti-phishing-database#24](https://github.com/Andre601/anti-phishing-database/pull/24)
+10. {octicons/prMerged} **Pull request merged:** [purrbot-site/PurrBot#436](https://github.com/purrbot-site/PurrBot/pull/436)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

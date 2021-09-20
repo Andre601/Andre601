@@ -15,7 +15,7 @@ My name is Andreas but most people just call me Andre.
 On the internet am I known as either Andre_601 or Andre601. My tag on Discord is `Andre_601#0601`.
 
 I'm a Hobby Java-Developer who creates a lot of various projects here on GitHub from which some are more popular than others.  
-I joined GitHub 6 years ago.
+I joined GitHub 7 years ago.
 
 If you have any questions, feel free to join my [personal Discord Server][discord]. I'm pretty much always around and have time to answer stuff.
 
@@ -36,19 +36,19 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes opening and closing issues and opening, closing and merging Pull requests.
 
 <!--RECENT_ACTIVITY:last_update-->
-Last update: `20.09.2021 02:37:31 GMT+0200`
+Last update: `20.09.2021 14:15:46 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) **Issue closed:** [PlaceholderAPI/PlaceholderAPI#716](https://github.com/PlaceholderAPI/PlaceholderAPI/issues/716)
-2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [kennytv/list-of-shame#70](https://github.com/kennytv/list-of-shame/issues/70)
-3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [kennytv/list-of-shame#69](https://github.com/kennytv/list-of-shame/pull/69)
-4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/Docs#152](https://github.com/purrbot-site/Docs/pull/152)
-5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [purrbot-site/Docs#152](https://github.com/purrbot-site/Docs/pull/152)
-6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [revoltchat/revite#250](https://github.com/revoltchat/revite/issues/250)
-7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) **Created Repository:** [CodeMC/.github](https://github.com/CodeMC/.github)
-8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#437](https://github.com/purrbot-site/PurrBot/pull/437)
-9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/OneVersionRemake#103](https://github.com/Andre601/OneVersionRemake/pull/103)
-10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [CodeMC/Documentation#14](https://github.com/CodeMC/Documentation/pull/14)
+1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/Docs#153](https://github.com/purrbot-site/Docs/pull/153)
+2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/mkdocs-template#32](https://github.com/Andre601/mkdocs-template/pull/32)
+3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [PlaceholderAPI/PlaceholderAPI#717](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/717)
+4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) **Issue closed:** [PlaceholderAPI/PlaceholderAPI#716](https://github.com/PlaceholderAPI/PlaceholderAPI/issues/716)
+5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [kennytv/list-of-shame#70](https://github.com/kennytv/list-of-shame/issues/70)
+6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [kennytv/list-of-shame#69](https://github.com/kennytv/list-of-shame/pull/69)
+7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/Docs#152](https://github.com/purrbot-site/Docs/pull/152)
+8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [purrbot-site/Docs#152](https://github.com/purrbot-site/Docs/pull/152)
+9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [revoltchat/revite#250](https://github.com/revoltchat/revite/issues/250)
+10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) **Created Repository:** [CodeMC/.github](https://github.com/CodeMC/.github)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

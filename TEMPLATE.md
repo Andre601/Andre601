@@ -39,16 +39,16 @@ The list is updates twice a day and includes opening and closing issues and open
 Last update: `22.09.2021 14:15:37 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. {octicons/issueOpened} **Issue opened:** [Sollace/Presence-Footsteps#103](https://github.com/Sollace/Presence-Footsteps/issues/103)
-2. {octicons/prMerged} **Pull request merged:** [purrbot-site/Docs#154](https://github.com/purrbot-site/Docs/pull/154)
-3. {octicons/prMerged} **Pull request merged:** [Andre601/mkdocs-template#33](https://github.com/Andre601/mkdocs-template/pull/33)
-4. {octicons/prMerged} **Pull request merged:** [purrbot-site/PurrBot#438](https://github.com/purrbot-site/PurrBot/pull/438)
-5. {octicons/prMerged} **Pull request merged:** [purrbot-site/Docs#153](https://github.com/purrbot-site/Docs/pull/153)
-6. {octicons/prMerged} **Pull request merged:** [Andre601/mkdocs-template#32](https://github.com/Andre601/mkdocs-template/pull/32)
-7. {octicons/prOpened} **Pull request opened:** [PlaceholderAPI/PlaceholderAPI#717](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/717)
-8. {octicons/issueClosed} **Issue closed:** [PlaceholderAPI/PlaceholderAPI#716](https://github.com/PlaceholderAPI/PlaceholderAPI/issues/716)
-9. {octicons/issueOpened} **Issue opened:** [kennytv/list-of-shame#70](https://github.com/kennytv/list-of-shame/issues/70)
-10. {octicons/prOpened} **Pull request opened:** [kennytv/list-of-shame#69](https://github.com/kennytv/list-of-shame/pull/69)
+1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [Sollace/Presence-Footsteps#103](https://github.com/Sollace/Presence-Footsteps/issues/103)
+2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/Docs#154](https://github.com/purrbot-site/Docs/pull/154)
+3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/mkdocs-template#33](https://github.com/Andre601/mkdocs-template/pull/33)
+4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#438](https://github.com/purrbot-site/PurrBot/pull/438)
+5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/Docs#153](https://github.com/purrbot-site/Docs/pull/153)
+6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/mkdocs-template#32](https://github.com/Andre601/mkdocs-template/pull/32)
+7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [PlaceholderAPI/PlaceholderAPI#717](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/717)
+8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) **Issue closed:** [PlaceholderAPI/PlaceholderAPI#716](https://github.com/PlaceholderAPI/PlaceholderAPI/issues/716)
+9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [kennytv/list-of-shame#70](https://github.com/kennytv/list-of-shame/issues/70)
+10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [kennytv/list-of-shame#69](https://github.com/kennytv/list-of-shame/pull/69)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

@@ -39,16 +39,16 @@ The list is updates twice a day and includes opening and closing issues and open
 Last update: `27.09.2021 02:33:37 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. {octicons/issueClosed} **Issue closed:** [Ghost-chu/QuickShop-Reremake#1499](https://github.com/Ghost-chu/QuickShop-Reremake/issues/1499)
-2. {octicons/issueOpened} **Issue opened:** [Ghost-chu/QuickShop-Reremake#1499](https://github.com/Ghost-chu/QuickShop-Reremake/issues/1499)
-3. {octicons/issueOpened} **Issue opened:** [dmulloy2/ProtocolLib#1406](https://github.com/dmulloy2/ProtocolLib/issues/1406)
-4. {octicons/issueOpened} **Issue opened:** [PluginBugs/Issues-ItemsAdder#1229](https://github.com/PluginBugs/Issues-ItemsAdder/issues/1229)
-5. {octicons/issueClosed} **Issue closed:** [tr7zw/NotEnoughAnimations#38](https://github.com/tr7zw/NotEnoughAnimations/issues/38)
-6. {octicons/issueOpened} **Issue opened:** [tr7zw/NotEnoughAnimations#38](https://github.com/tr7zw/NotEnoughAnimations/issues/38)
-7. {octicons/prMerged} **Pull request merged:** [purrbot-site/Docs#156](https://github.com/purrbot-site/Docs/pull/156)
-8. {octicons/prOpened} **Pull request opened:** [purrbot-site/Docs#156](https://github.com/purrbot-site/Docs/pull/156)
-9. {octicons/prMerged} **Pull request merged:** [purrbot-site/Docs#155](https://github.com/purrbot-site/Docs/pull/155)
-10. {octicons/prMerged} **Pull request merged:** [Andre601/mkdocs-template#34](https://github.com/Andre601/mkdocs-template/pull/34)
+1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) **Issue closed:** [Ghost-chu/QuickShop-Reremake#1499](https://github.com/Ghost-chu/QuickShop-Reremake/issues/1499)
+2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [Ghost-chu/QuickShop-Reremake#1499](https://github.com/Ghost-chu/QuickShop-Reremake/issues/1499)
+3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [dmulloy2/ProtocolLib#1406](https://github.com/dmulloy2/ProtocolLib/issues/1406)
+4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [PluginBugs/Issues-ItemsAdder#1229](https://github.com/PluginBugs/Issues-ItemsAdder/issues/1229)
+5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) **Issue closed:** [tr7zw/NotEnoughAnimations#38](https://github.com/tr7zw/NotEnoughAnimations/issues/38)
+6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [tr7zw/NotEnoughAnimations#38](https://github.com/tr7zw/NotEnoughAnimations/issues/38)
+7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/Docs#156](https://github.com/purrbot-site/Docs/pull/156)
+8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [purrbot-site/Docs#156](https://github.com/purrbot-site/Docs/pull/156)
+9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/Docs#155](https://github.com/purrbot-site/Docs/pull/155)
+10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/mkdocs-template#34](https://github.com/Andre601/mkdocs-template/pull/34)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

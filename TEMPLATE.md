@@ -36,19 +36,19 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes opening and closing issues and opening, closing and merging Pull requests.
 
 <!--RECENT_ACTIVITY:last_update-->
-Last update: `28.09.2021 02:34:53 GMT+0200`
+Last update: `28.09.2021 14:16:09 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/anti-phishing-database#27](https://github.com/Andre601/anti-phishing-database/pull/27)
-2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) **Issue closed:** [Andre601/anti-phishing-database#26](https://github.com/Andre601/anti-phishing-database/issues/26)
-3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [Andre601/anti-phishing-database#27](https://github.com/Andre601/anti-phishing-database/pull/27)
-4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#440](https://github.com/purrbot-site/PurrBot/pull/440)
-5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) **Created Repository:** [botblock/.github](https://github.com/botblock/.github)
-6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [PowerPlugins/Plugin#40](https://github.com/PowerPlugins/Plugin/pull/40)
-7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) **Issue closed:** [Ghost-chu/QuickShop-Reremake#1499](https://github.com/Ghost-chu/QuickShop-Reremake/issues/1499)
-8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [Ghost-chu/QuickShop-Reremake#1499](https://github.com/Ghost-chu/QuickShop-Reremake/issues/1499)
-9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [dmulloy2/ProtocolLib#1406](https://github.com/dmulloy2/ProtocolLib/issues/1406)
-10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [PluginBugs/Issues-ItemsAdder#1229](https://github.com/PluginBugs/Issues-ItemsAdder/issues/1229)
+1. {octicons/prMerged} **Pull request merged:** [Andre601/blog#17](https://github.com/Andre601/blog/pull/17)
+2. {octicons/prOpened} **Pull request opened:** [Andre601/blog#17](https://github.com/Andre601/blog/pull/17)
+3. {octicons/prMerged} **Pull request merged:** [PowerPlugins/Plugin#41](https://github.com/PowerPlugins/Plugin/pull/41)
+4. {octicons/prMerged} **Pull request merged:** [Andre601/anti-phishing-database#27](https://github.com/Andre601/anti-phishing-database/pull/27)
+5. {octicons/issueClosed} **Issue closed:** [Andre601/anti-phishing-database#26](https://github.com/Andre601/anti-phishing-database/issues/26)
+6. {octicons/prOpened} **Pull request opened:** [Andre601/anti-phishing-database#27](https://github.com/Andre601/anti-phishing-database/pull/27)
+7. {octicons/prMerged} **Pull request merged:** [purrbot-site/PurrBot#440](https://github.com/purrbot-site/PurrBot/pull/440)
+8. {octicons/repo} **Created Repository:** [botblock/.github](https://github.com/botblock/.github)
+9. {octicons/prMerged} **Pull request merged:** [PowerPlugins/Plugin#40](https://github.com/PowerPlugins/Plugin/pull/40)
+10. {octicons/issueClosed} **Issue closed:** [Ghost-chu/QuickShop-Reremake#1499](https://github.com/Ghost-chu/QuickShop-Reremake/issues/1499)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

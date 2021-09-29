@@ -24,7 +24,7 @@ Here is a list of various repositories based on certain criterias.
 
 ### Most starred repositories
 
-- [`Andre601/anti-phishing-database`](https://github.com/Andre601/anti-phishing-database) (![star] 8 ![fork] 3)
+- [`Andre601/anti-phishing-database`](https://github.com/Andre601/anti-phishing-database) (![star] 9 ![fork] 3)
 - [`Andre601/OneVersionRemake`](https://github.com/Andre601/OneVersionRemake) (![star] 8 ![fork] 0)
 - [`Andre601/Supporto`](https://github.com/Andre601/Supporto) (![star] 3 ![fork] 3)
 
@@ -36,19 +36,19 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes opening and closing issues and opening, closing and merging Pull requests.
 
 <!--RECENT_ACTIVITY:last_update-->
-Last update: `28.09.2021 14:16:09 GMT+0200`
+Last update: `29.09.2021 02:33:45 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/blog#17](https://github.com/Andre601/blog/pull/17)
-2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [Andre601/blog#17](https://github.com/Andre601/blog/pull/17)
-3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [PowerPlugins/Plugin#41](https://github.com/PowerPlugins/Plugin/pull/41)
-4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/anti-phishing-database#27](https://github.com/Andre601/anti-phishing-database/pull/27)
-5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) **Issue closed:** [Andre601/anti-phishing-database#26](https://github.com/Andre601/anti-phishing-database/issues/26)
-6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [Andre601/anti-phishing-database#27](https://github.com/Andre601/anti-phishing-database/pull/27)
-7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#440](https://github.com/purrbot-site/PurrBot/pull/440)
-8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) **Created Repository:** [botblock/.github](https://github.com/botblock/.github)
-9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [PowerPlugins/Plugin#40](https://github.com/PowerPlugins/Plugin/pull/40)
-10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) **Issue closed:** [Ghost-chu/QuickShop-Reremake#1499](https://github.com/Ghost-chu/QuickShop-Reremake/issues/1499)
+1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) **Created Repository:** [CodeMC/Bot](https://github.com/CodeMC/Bot)
+2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/blog#17](https://github.com/Andre601/blog/pull/17)
+3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [Andre601/blog#17](https://github.com/Andre601/blog/pull/17)
+4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [PowerPlugins/Plugin#41](https://github.com/PowerPlugins/Plugin/pull/41)
+5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/anti-phishing-database#27](https://github.com/Andre601/anti-phishing-database/pull/27)
+6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) **Issue closed:** [Andre601/anti-phishing-database#26](https://github.com/Andre601/anti-phishing-database/issues/26)
+7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [Andre601/anti-phishing-database#27](https://github.com/Andre601/anti-phishing-database/pull/27)
+8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#440](https://github.com/purrbot-site/PurrBot/pull/440)
+9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) **Created Repository:** [botblock/.github](https://github.com/botblock/.github)
+10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [PowerPlugins/Plugin#40](https://github.com/PowerPlugins/Plugin/pull/40)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

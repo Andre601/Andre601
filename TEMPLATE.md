@@ -36,19 +36,19 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes opening and closing issues and opening, closing and merging Pull requests.
 
 <!--RECENT_ACTIVITY:last_update-->
-Last update: `29.09.2021 14:15:28 GMT+0200`
+Last update: `30.09.2021 02:37:44 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) **Created Repository:** [CodeMC/Bot](https://github.com/CodeMC/Bot)
-2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/blog#17](https://github.com/Andre601/blog/pull/17)
-3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [Andre601/blog#17](https://github.com/Andre601/blog/pull/17)
-4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [PowerPlugins/Plugin#41](https://github.com/PowerPlugins/Plugin/pull/41)
-5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/anti-phishing-database#27](https://github.com/Andre601/anti-phishing-database/pull/27)
-6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) **Issue closed:** [Andre601/anti-phishing-database#26](https://github.com/Andre601/anti-phishing-database/issues/26)
-7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [Andre601/anti-phishing-database#27](https://github.com/Andre601/anti-phishing-database/pull/27)
-8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#440](https://github.com/purrbot-site/PurrBot/pull/440)
-9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) **Created Repository:** [botblock/.github](https://github.com/botblock/.github)
-10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [PowerPlugins/Plugin#40](https://github.com/PowerPlugins/Plugin/pull/40)
+1. {octicons/repo} **Created Repository:** [CodeMC/Bot](https://github.com/CodeMC/Bot)
+2. {octicons/prMerged} **Pull request merged:** [Andre601/blog#17](https://github.com/Andre601/blog/pull/17)
+3. {octicons/prOpened} **Pull request opened:** [Andre601/blog#17](https://github.com/Andre601/blog/pull/17)
+4. {octicons/prMerged} **Pull request merged:** [PowerPlugins/Plugin#41](https://github.com/PowerPlugins/Plugin/pull/41)
+5. {octicons/prMerged} **Pull request merged:** [Andre601/anti-phishing-database#27](https://github.com/Andre601/anti-phishing-database/pull/27)
+6. {octicons/issueClosed} **Issue closed:** [Andre601/anti-phishing-database#26](https://github.com/Andre601/anti-phishing-database/issues/26)
+7. {octicons/prOpened} **Pull request opened:** [Andre601/anti-phishing-database#27](https://github.com/Andre601/anti-phishing-database/pull/27)
+8. {octicons/prMerged} **Pull request merged:** [purrbot-site/PurrBot#440](https://github.com/purrbot-site/PurrBot/pull/440)
+9. {octicons/repo} **Created Repository:** [botblock/.github](https://github.com/botblock/.github)
+10. {octicons/prMerged} **Pull request merged:** [PowerPlugins/Plugin#40](https://github.com/PowerPlugins/Plugin/pull/40)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

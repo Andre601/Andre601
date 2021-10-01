@@ -39,16 +39,16 @@ The list is updates twice a day and includes opening and closing issues and open
 Last update: `01.10.2021 14:15:38 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. {octicons/prOpened} **Pull request opened:** [PlaceholderAPI/PlaceholderAPI#722](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/722)
-2. {octicons/repo} **Created Repository:** [PlaceholderAPI/.github](https://github.com/PlaceholderAPI/.github)
-3. {octicons/prMerged} **Pull request merged:** [Andre601/OneVersionRemake#104](https://github.com/Andre601/OneVersionRemake/pull/104)
-4. {octicons/prOpened} **Pull request opened:** [5zig-reborn/5zig-reborn.github.io#6](https://github.com/5zig-reborn/5zig-reborn.github.io/pull/6)
-5. {octicons/prOpened} **Pull request opened:** [CodeCrafter47/minecraft-data-api#6](https://github.com/CodeCrafter47/minecraft-data-api/pull/6)
-6. {octicons/forkedRepo} **Forked Repository:** [Andre601/minecraft-data-api](https://github.com/Andre601/minecraft-data-api) (From [CodeCrafter47/minecraft-data-api](https://github.com/CodeCrafter47/minecraft-data-api))
-7. {octicons/prOpened} **Pull request opened:** [CodeCrafter47/BungeeTabListPlus#655](https://github.com/CodeCrafter47/BungeeTabListPlus/pull/655)
-8. {octicons/forkedRepo} **Forked Repository:** [Andre601/BungeeTabListPlus](https://github.com/Andre601/BungeeTabListPlus) (From [CodeCrafter47/BungeeTabListPlus](https://github.com/CodeCrafter47/BungeeTabListPlus))
-9. {octicons/prOpened} **Pull request opened:** [Andre601/BungeeTabListPlus#1](https://github.com/Andre601/BungeeTabListPlus/pull/1)
-10. {octicons/repo} **Created Repository:** [CodeMC/Bot](https://github.com/CodeMC/Bot)
+1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [PlaceholderAPI/PlaceholderAPI#722](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/722)
+2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) **Created Repository:** [PlaceholderAPI/.github](https://github.com/PlaceholderAPI/.github)
+3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/OneVersionRemake#104](https://github.com/Andre601/OneVersionRemake/pull/104)
+4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [5zig-reborn/5zig-reborn.github.io#6](https://github.com/5zig-reborn/5zig-reborn.github.io/pull/6)
+5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [CodeCrafter47/minecraft-data-api#6](https://github.com/CodeCrafter47/minecraft-data-api/pull/6)
+6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) **Forked Repository:** [Andre601/minecraft-data-api](https://github.com/Andre601/minecraft-data-api) (From [CodeCrafter47/minecraft-data-api](https://github.com/CodeCrafter47/minecraft-data-api))
+7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [CodeCrafter47/BungeeTabListPlus#655](https://github.com/CodeCrafter47/BungeeTabListPlus/pull/655)
+8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) **Forked Repository:** [Andre601/BungeeTabListPlus](https://github.com/Andre601/BungeeTabListPlus) (From [CodeCrafter47/BungeeTabListPlus](https://github.com/CodeCrafter47/BungeeTabListPlus))
+9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [Andre601/BungeeTabListPlus#1](https://github.com/Andre601/BungeeTabListPlus/pull/1)
+10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) **Created Repository:** [CodeMC/Bot](https://github.com/CodeMC/Bot)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

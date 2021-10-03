@@ -39,16 +39,16 @@ The list is updates twice a day and includes opening and closing issues and open
 Last update: `03.10.2021 02:37:46 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. {octicons/prMerged} **Pull request merged:** [5zig-reborn/5zig-reborn.github.io#7](https://github.com/5zig-reborn/5zig-reborn.github.io/pull/7)
-2. {octicons/prOpened} **Pull request opened:** [5zig-reborn/5zig-reborn.github.io#7](https://github.com/5zig-reborn/5zig-reborn.github.io/pull/7)
-3. {octicons/prMerged} **Pull request merged:** [5zig-reborn/5zig-reborn.github.io#6](https://github.com/5zig-reborn/5zig-reborn.github.io/pull/6)
-4. {octicons/issueClosed} **Issue closed:** [PlaceholderAPI/PlaceholderAPI#632](https://github.com/PlaceholderAPI/PlaceholderAPI/issues/632)
-5. {octicons/issueClosed} **Issue closed:** [PlaceholderAPI/PlaceholderAPI#621](https://github.com/PlaceholderAPI/PlaceholderAPI/issues/621)
-6. {octicons/prOpened} **Pull request opened:** [purrbot-site/Docs#157](https://github.com/purrbot-site/Docs/pull/157)
-7. {octicons/prMerged} **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#723](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/723)
-8. {octicons/prOpened} **Pull request opened:** [PlaceholderAPI/PlaceholderAPI#723](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/723)
-9. {octicons/prMerged} **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#722](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/722)
-10. {octicons/prOpened} **Pull request opened:** [PlaceholderAPI/PlaceholderAPI#722](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/722)
+1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [5zig-reborn/5zig-reborn.github.io#7](https://github.com/5zig-reborn/5zig-reborn.github.io/pull/7)
+2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [5zig-reborn/5zig-reborn.github.io#7](https://github.com/5zig-reborn/5zig-reborn.github.io/pull/7)
+3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [5zig-reborn/5zig-reborn.github.io#6](https://github.com/5zig-reborn/5zig-reborn.github.io/pull/6)
+4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) **Issue closed:** [PlaceholderAPI/PlaceholderAPI#632](https://github.com/PlaceholderAPI/PlaceholderAPI/issues/632)
+5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) **Issue closed:** [PlaceholderAPI/PlaceholderAPI#621](https://github.com/PlaceholderAPI/PlaceholderAPI/issues/621)
+6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [purrbot-site/Docs#157](https://github.com/purrbot-site/Docs/pull/157)
+7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#723](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/723)
+8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [PlaceholderAPI/PlaceholderAPI#723](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/723)
+9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#722](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/722)
+10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [PlaceholderAPI/PlaceholderAPI#722](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/722)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

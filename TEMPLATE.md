@@ -36,19 +36,19 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes opening and closing issues and opening, closing and merging Pull requests.
 
 <!--RECENT_ACTIVITY:last_update-->
-Last update: `04.10.2021 02:39:20 GMT+0200`
+Last update: `04.10.2021 14:15:18 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [CodeCrafter47/TabOverlayWiki#22](https://github.com/CodeCrafter47/TabOverlayWiki/issues/22)
-2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [lokka30/PhantomWorlds#33](https://github.com/lokka30/PhantomWorlds/issues/33)
-3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [5zig-reborn/5zig-reborn.github.io#7](https://github.com/5zig-reborn/5zig-reborn.github.io/pull/7)
-4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [5zig-reborn/5zig-reborn.github.io#7](https://github.com/5zig-reborn/5zig-reborn.github.io/pull/7)
-5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [5zig-reborn/5zig-reborn.github.io#6](https://github.com/5zig-reborn/5zig-reborn.github.io/pull/6)
-6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) **Issue closed:** [PlaceholderAPI/PlaceholderAPI#632](https://github.com/PlaceholderAPI/PlaceholderAPI/issues/632)
-7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) **Issue closed:** [PlaceholderAPI/PlaceholderAPI#621](https://github.com/PlaceholderAPI/PlaceholderAPI/issues/621)
-8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [purrbot-site/Docs#157](https://github.com/purrbot-site/Docs/pull/157)
-9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#723](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/723)
-10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [PlaceholderAPI/PlaceholderAPI#723](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/723)
+1. {octicons/prMerged} **Pull request merged:** [Andre601/OneVersionRemake#107](https://github.com/Andre601/OneVersionRemake/pull/107)
+2. {octicons/prMerged} **Pull request merged:** [Andre601/OneVersionRemake#106](https://github.com/Andre601/OneVersionRemake/pull/106)
+3. {octicons/prMerged} **Pull request merged:** [Andre601/OneVersionRemake#105](https://github.com/Andre601/OneVersionRemake/pull/105)
+4. {octicons/prMerged} **Pull request merged:** [PowerPlugins/Plugin#42](https://github.com/PowerPlugins/Plugin/pull/42)
+5. {octicons/prMerged} **Pull request merged:** [purrbot-site/Docs#158](https://github.com/purrbot-site/Docs/pull/158)
+6. {octicons/prMerged} **Pull request merged:** [Andre601/mkdocs-template#35](https://github.com/Andre601/mkdocs-template/pull/35)
+7. {octicons/issueOpened} **Issue opened:** [CodeCrafter47/TabOverlayWiki#22](https://github.com/CodeCrafter47/TabOverlayWiki/issues/22)
+8. {octicons/issueOpened} **Issue opened:** [lokka30/PhantomWorlds#33](https://github.com/lokka30/PhantomWorlds/issues/33)
+9. {octicons/prMerged} **Pull request merged:** [5zig-reborn/5zig-reborn.github.io#7](https://github.com/5zig-reborn/5zig-reborn.github.io/pull/7)
+10. {octicons/prOpened} **Pull request opened:** [5zig-reborn/5zig-reborn.github.io#7](https://github.com/5zig-reborn/5zig-reborn.github.io/pull/7)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

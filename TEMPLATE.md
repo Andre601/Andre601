@@ -39,16 +39,16 @@ The list is updates twice a day and includes opening and closing issues and open
 Last update: `05.10.2021 14:15:25 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. {octicons/prOpened} **Pull request opened:** [Readme-Workflows/recent-activity#119](https://github.com/Readme-Workflows/recent-activity/pull/119)
-2. {octicons/prOpened} **Pull request opened:** [Chew/JDA-Chewtils#29](https://github.com/Chew/JDA-Chewtils/pull/29)
-3. {octicons/forkedRepo} **Forked Repository:** [Andre601/JDA-Chewtils](https://github.com/Andre601/JDA-Chewtils) (From [Chew/JDA-Chewtils](https://github.com/Chew/JDA-Chewtils))
-4. {octicons/prMerged} **Pull request merged:** [purrbot-site/PurrBot#443](https://github.com/purrbot-site/PurrBot/pull/443)
-5. {octicons/prMerged} **Pull request merged:** [purrbot-site/PurrBot#442](https://github.com/purrbot-site/PurrBot/pull/442)
-6. {octicons/prMerged} **Pull request merged:** [purrbot-site/PurrBot#441](https://github.com/purrbot-site/PurrBot/pull/441)
-7. {octicons/prMerged} **Pull request merged:** [Andre601/OneVersionRemake#107](https://github.com/Andre601/OneVersionRemake/pull/107)
-8. {octicons/prMerged} **Pull request merged:** [Andre601/OneVersionRemake#106](https://github.com/Andre601/OneVersionRemake/pull/106)
-9. {octicons/prMerged} **Pull request merged:** [Andre601/OneVersionRemake#105](https://github.com/Andre601/OneVersionRemake/pull/105)
-10. {octicons/prMerged} **Pull request merged:** [PowerPlugins/Plugin#42](https://github.com/PowerPlugins/Plugin/pull/42)
+1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [Readme-Workflows/recent-activity#119](https://github.com/Readme-Workflows/recent-activity/pull/119)
+2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [Chew/JDA-Chewtils#29](https://github.com/Chew/JDA-Chewtils/pull/29)
+3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) **Forked Repository:** [Andre601/JDA-Chewtils](https://github.com/Andre601/JDA-Chewtils) (From [Chew/JDA-Chewtils](https://github.com/Chew/JDA-Chewtils))
+4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#443](https://github.com/purrbot-site/PurrBot/pull/443)
+5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#442](https://github.com/purrbot-site/PurrBot/pull/442)
+6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#441](https://github.com/purrbot-site/PurrBot/pull/441)
+7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/OneVersionRemake#107](https://github.com/Andre601/OneVersionRemake/pull/107)
+8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/OneVersionRemake#106](https://github.com/Andre601/OneVersionRemake/pull/106)
+9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/OneVersionRemake#105](https://github.com/Andre601/OneVersionRemake/pull/105)
+10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [PowerPlugins/Plugin#42](https://github.com/PowerPlugins/Plugin/pull/42)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

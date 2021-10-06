@@ -39,16 +39,16 @@ The list is updates twice a day and includes opening and closing issues and open
 Last update: `06.10.2021 14:15:41 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. {octicons/prMerged} **Pull request merged:** [Andre601/anti-phishing-database#29](https://github.com/Andre601/anti-phishing-database/pull/29)
-2. {octicons/issueClosed} **Issue closed:** [Andre601/anti-phishing-database#28](https://github.com/Andre601/anti-phishing-database/issues/28)
-3. {octicons/prOpened} **Pull request opened:** [Andre601/anti-phishing-database#29](https://github.com/Andre601/anti-phishing-database/pull/29)
-4. {octicons/prOpened} **Pull request opened:** [Readme-Workflows/recent-activity#119](https://github.com/Readme-Workflows/recent-activity/pull/119)
-5. {octicons/prOpened} **Pull request opened:** [Chew/JDA-Chewtils#29](https://github.com/Chew/JDA-Chewtils/pull/29)
-6. {octicons/forkedRepo} **Forked Repository:** [Andre601/JDA-Chewtils](https://github.com/Andre601/JDA-Chewtils) (From [Chew/JDA-Chewtils](https://github.com/Chew/JDA-Chewtils))
-7. {octicons/prMerged} **Pull request merged:** [purrbot-site/PurrBot#443](https://github.com/purrbot-site/PurrBot/pull/443)
-8. {octicons/prMerged} **Pull request merged:** [purrbot-site/PurrBot#442](https://github.com/purrbot-site/PurrBot/pull/442)
-9. {octicons/prMerged} **Pull request merged:** [purrbot-site/PurrBot#441](https://github.com/purrbot-site/PurrBot/pull/441)
-10. {octicons/prMerged} **Pull request merged:** [Andre601/OneVersionRemake#107](https://github.com/Andre601/OneVersionRemake/pull/107)
+1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/anti-phishing-database#29](https://github.com/Andre601/anti-phishing-database/pull/29)
+2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) **Issue closed:** [Andre601/anti-phishing-database#28](https://github.com/Andre601/anti-phishing-database/issues/28)
+3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [Andre601/anti-phishing-database#29](https://github.com/Andre601/anti-phishing-database/pull/29)
+4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [Readme-Workflows/recent-activity#119](https://github.com/Readme-Workflows/recent-activity/pull/119)
+5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [Chew/JDA-Chewtils#29](https://github.com/Chew/JDA-Chewtils/pull/29)
+6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) **Forked Repository:** [Andre601/JDA-Chewtils](https://github.com/Andre601/JDA-Chewtils) (From [Chew/JDA-Chewtils](https://github.com/Chew/JDA-Chewtils))
+7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#443](https://github.com/purrbot-site/PurrBot/pull/443)
+8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#442](https://github.com/purrbot-site/PurrBot/pull/442)
+9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#441](https://github.com/purrbot-site/PurrBot/pull/441)
+10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/OneVersionRemake#107](https://github.com/Andre601/OneVersionRemake/pull/107)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

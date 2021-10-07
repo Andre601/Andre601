@@ -39,16 +39,16 @@ The list is updates twice a day and includes opening and closing issues and open
 Last update: `07.10.2021 14:17:00 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. {octicons/prMerged} **Pull request merged:** [purrbot-site/Docs#159](https://github.com/purrbot-site/Docs/pull/159)
-2. {octicons/prMerged} **Pull request merged:** [Andre601/mkdocs-template#36](https://github.com/Andre601/mkdocs-template/pull/36)
-3. {octicons/prMerged} **Pull request merged:** [PowerPlugins/Wiki-Docs#12](https://github.com/PowerPlugins/Wiki-Docs/pull/12)
-4. {octicons/prOpened} **Pull request opened:** [PowerPlugins/Wiki-Docs#12](https://github.com/PowerPlugins/Wiki-Docs/pull/12)
-5. {octicons/issueOpened} **Issue opened:** [xelA/bucket#150](https://github.com/xelA/bucket/issues/150)
-6. {octicons/prMerged} **Pull request merged:** [Andre601/GitHub-Markdown#18](https://github.com/Andre601/GitHub-Markdown/pull/18)
-7. {octicons/issueOpened} **Issue opened:** [github/docs#10833](https://github.com/github/docs/issues/10833)
-8. {octicons/prOpened} **Pull request opened:** [Andre601/GitHub-Markdown#18](https://github.com/Andre601/GitHub-Markdown/pull/18)
-9. {octicons/prMerged} **Pull request merged:** [Andre601/anti-phishing-database#29](https://github.com/Andre601/anti-phishing-database/pull/29)
-10. {octicons/issueClosed} **Issue closed:** [Andre601/anti-phishing-database#28](https://github.com/Andre601/anti-phishing-database/issues/28)
+1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/Docs#159](https://github.com/purrbot-site/Docs/pull/159)
+2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/mkdocs-template#36](https://github.com/Andre601/mkdocs-template/pull/36)
+3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [PowerPlugins/Wiki-Docs#12](https://github.com/PowerPlugins/Wiki-Docs/pull/12)
+4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [PowerPlugins/Wiki-Docs#12](https://github.com/PowerPlugins/Wiki-Docs/pull/12)
+5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [xelA/bucket#150](https://github.com/xelA/bucket/issues/150)
+6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/GitHub-Markdown#18](https://github.com/Andre601/GitHub-Markdown/pull/18)
+7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [github/docs#10833](https://github.com/github/docs/issues/10833)
+8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [Andre601/GitHub-Markdown#18](https://github.com/Andre601/GitHub-Markdown/pull/18)
+9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/anti-phishing-database#29](https://github.com/Andre601/anti-phishing-database/pull/29)
+10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) **Issue closed:** [Andre601/anti-phishing-database#28](https://github.com/Andre601/anti-phishing-database/issues/28)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

@@ -36,19 +36,19 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes opening and closing issues and opening, closing and merging Pull requests.
 
 <!--RECENT_ACTIVITY:last_update-->
-Last update: `06.10.2021 14:15:41 GMT+0200`
+Last update: `07.10.2021 02:37:35 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/anti-phishing-database#29](https://github.com/Andre601/anti-phishing-database/pull/29)
-2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) **Issue closed:** [Andre601/anti-phishing-database#28](https://github.com/Andre601/anti-phishing-database/issues/28)
-3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [Andre601/anti-phishing-database#29](https://github.com/Andre601/anti-phishing-database/pull/29)
-4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [Readme-Workflows/recent-activity#119](https://github.com/Readme-Workflows/recent-activity/pull/119)
-5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [Chew/JDA-Chewtils#29](https://github.com/Chew/JDA-Chewtils/pull/29)
-6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) **Forked Repository:** [Andre601/JDA-Chewtils](https://github.com/Andre601/JDA-Chewtils) (From [Chew/JDA-Chewtils](https://github.com/Chew/JDA-Chewtils))
-7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#443](https://github.com/purrbot-site/PurrBot/pull/443)
-8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#442](https://github.com/purrbot-site/PurrBot/pull/442)
-9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#441](https://github.com/purrbot-site/PurrBot/pull/441)
-10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/OneVersionRemake#107](https://github.com/Andre601/OneVersionRemake/pull/107)
+1. {octicons/prMerged} **Pull request merged:** [Andre601/GitHub-Markdown#18](https://github.com/Andre601/GitHub-Markdown/pull/18)
+2. {octicons/issueOpened} **Issue opened:** [github/docs#10833](https://github.com/github/docs/issues/10833)
+3. {octicons/prOpened} **Pull request opened:** [Andre601/GitHub-Markdown#18](https://github.com/Andre601/GitHub-Markdown/pull/18)
+4. {octicons/prMerged} **Pull request merged:** [Andre601/anti-phishing-database#29](https://github.com/Andre601/anti-phishing-database/pull/29)
+5. {octicons/issueClosed} **Issue closed:** [Andre601/anti-phishing-database#28](https://github.com/Andre601/anti-phishing-database/issues/28)
+6. {octicons/prOpened} **Pull request opened:** [Andre601/anti-phishing-database#29](https://github.com/Andre601/anti-phishing-database/pull/29)
+7. {octicons/prOpened} **Pull request opened:** [Readme-Workflows/recent-activity#119](https://github.com/Readme-Workflows/recent-activity/pull/119)
+8. {octicons/prOpened} **Pull request opened:** [Chew/JDA-Chewtils#29](https://github.com/Chew/JDA-Chewtils/pull/29)
+9. {octicons/forkedRepo} **Forked Repository:** [Andre601/JDA-Chewtils](https://github.com/Andre601/JDA-Chewtils) (From [Chew/JDA-Chewtils](https://github.com/Chew/JDA-Chewtils))
+10. {octicons/prMerged} **Pull request merged:** [purrbot-site/PurrBot#443](https://github.com/purrbot-site/PurrBot/pull/443)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

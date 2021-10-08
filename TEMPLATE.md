@@ -39,16 +39,16 @@ The list is updates twice a day and includes opening and closing issues and open
 Last update: `08.10.2021 14:15:24 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. {octicons/issueOpened} **Issue opened:** [Ghost-chu/QuickShop-Reremake#1517](https://github.com/Ghost-chu/QuickShop-Reremake/issues/1517)
-2. {octicons/prOpened} **Pull request opened:** [github/docs#10894](https://github.com/github/docs/pull/10894)
-3. {octicons/prMerged} **Pull request merged:** [purrbot-site/PurrBot#444](https://github.com/purrbot-site/PurrBot/pull/444)
-4. {octicons/issueOpened} **Issue opened:** [St3venAU/ArmorStandTools#55](https://github.com/St3venAU/ArmorStandTools/issues/55)
-5. {octicons/prOpened} **Pull request opened:** [Andre601/ArmorStand-Tools#2](https://github.com/Andre601/ArmorStand-Tools/pull/2)
-6. {octicons/prMerged} **Pull request merged:** [purrbot-site/Docs#159](https://github.com/purrbot-site/Docs/pull/159)
-7. {octicons/prMerged} **Pull request merged:** [Andre601/mkdocs-template#36](https://github.com/Andre601/mkdocs-template/pull/36)
-8. {octicons/prMerged} **Pull request merged:** [PowerPlugins/Wiki-Docs#12](https://github.com/PowerPlugins/Wiki-Docs/pull/12)
-9. {octicons/prOpened} **Pull request opened:** [PowerPlugins/Wiki-Docs#12](https://github.com/PowerPlugins/Wiki-Docs/pull/12)
-10. {octicons/issueOpened} **Issue opened:** [xelA/bucket#150](https://github.com/xelA/bucket/issues/150)
+1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [Ghost-chu/QuickShop-Reremake#1517](https://github.com/Ghost-chu/QuickShop-Reremake/issues/1517)
+2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [github/docs#10894](https://github.com/github/docs/pull/10894)
+3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#444](https://github.com/purrbot-site/PurrBot/pull/444)
+4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [St3venAU/ArmorStandTools#55](https://github.com/St3venAU/ArmorStandTools/issues/55)
+5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [Andre601/ArmorStand-Tools#2](https://github.com/Andre601/ArmorStand-Tools/pull/2)
+6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/Docs#159](https://github.com/purrbot-site/Docs/pull/159)
+7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/mkdocs-template#36](https://github.com/Andre601/mkdocs-template/pull/36)
+8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [PowerPlugins/Wiki-Docs#12](https://github.com/PowerPlugins/Wiki-Docs/pull/12)
+9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [PowerPlugins/Wiki-Docs#12](https://github.com/PowerPlugins/Wiki-Docs/pull/12)
+10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [xelA/bucket#150](https://github.com/xelA/bucket/issues/150)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

@@ -36,19 +36,19 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes opening and closing issues and opening, closing and merging Pull requests.
 
 <!--RECENT_ACTIVITY:last_update-->
-Last update: `11.10.2021 14:15:27 GMT+0200`
+Last update: `12.10.2021 02:37:38 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) **Created Repository:** [Andre601/revolt-translation-guidelines](https://github.com/Andre601/revolt-translation-guidelines)
-2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [revoltchat/revite#330](https://github.com/revoltchat/revite/issues/330)
-3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [PlaceholderAPI/PlaceholderAPI#731](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/731)
-4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#730](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/730)
-5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) **Approved Changes:** [PlaceholderAPI/PlaceholderAPI#730](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/730#pullrequestreview-775591688)
-6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#445](https://github.com/purrbot-site/PurrBot/pull/445)
-7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [Ghost-chu/QuickShop-Reremake#1517](https://github.com/Ghost-chu/QuickShop-Reremake/issues/1517)
-8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [github/docs#10894](https://github.com/github/docs/pull/10894)
-9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#444](https://github.com/purrbot-site/PurrBot/pull/444)
-10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [St3venAU/ArmorStandTools#55](https://github.com/St3venAU/ArmorStandTools/issues/55)
+1. {octicons/prMerged} **Pull request merged:** [purrbot-site/PurrBot#446](https://github.com/purrbot-site/PurrBot/pull/446)
+2. {octicons/repo} **Created Repository:** [Andre601/revolt-translation-guidelines](https://github.com/Andre601/revolt-translation-guidelines)
+3. {octicons/issueOpened} **Issue opened:** [revoltchat/revite#330](https://github.com/revoltchat/revite/issues/330)
+4. {octicons/prOpened} **Pull request opened:** [PlaceholderAPI/PlaceholderAPI#731](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/731)
+5. {octicons/prMerged} **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#730](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/730)
+6. {octicons/approved} **Approved Changes:** [PlaceholderAPI/PlaceholderAPI#730](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/730#pullrequestreview-775591688)
+7. {octicons/prMerged} **Pull request merged:** [purrbot-site/PurrBot#445](https://github.com/purrbot-site/PurrBot/pull/445)
+8. {octicons/issueOpened} **Issue opened:** [Ghost-chu/QuickShop-Reremake#1517](https://github.com/Ghost-chu/QuickShop-Reremake/issues/1517)
+9. {octicons/prOpened} **Pull request opened:** [github/docs#10894](https://github.com/github/docs/pull/10894)
+10. {octicons/prMerged} **Pull request merged:** [purrbot-site/PurrBot#444](https://github.com/purrbot-site/PurrBot/pull/444)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

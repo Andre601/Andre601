@@ -36,19 +36,19 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes opening and closing issues and opening, closing and merging Pull requests.
 
 <!--RECENT_ACTIVITY:last_update-->
-Last update: `12.10.2021 02:37:38 GMT+0200`
+Last update: `12.10.2021 14:15:56 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#446](https://github.com/purrbot-site/PurrBot/pull/446)
-2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) **Created Repository:** [Andre601/revolt-translation-guidelines](https://github.com/Andre601/revolt-translation-guidelines)
-3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [revoltchat/revite#330](https://github.com/revoltchat/revite/issues/330)
-4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [PlaceholderAPI/PlaceholderAPI#731](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/731)
-5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#730](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/730)
-6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) **Approved Changes:** [PlaceholderAPI/PlaceholderAPI#730](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/730#pullrequestreview-775591688)
-7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#445](https://github.com/purrbot-site/PurrBot/pull/445)
-8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [Ghost-chu/QuickShop-Reremake#1517](https://github.com/Ghost-chu/QuickShop-Reremake/issues/1517)
-9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [github/docs#10894](https://github.com/github/docs/pull/10894)
-10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#444](https://github.com/purrbot-site/PurrBot/pull/444)
+1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/Docs#160](https://github.com/purrbot-site/Docs/pull/160)
+2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/mkdocs-template#37](https://github.com/Andre601/mkdocs-template/pull/37)
+3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#446](https://github.com/purrbot-site/PurrBot/pull/446)
+4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) **Created Repository:** [Andre601/revolt-translation-guidelines](https://github.com/Andre601/revolt-translation-guidelines)
+5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [revoltchat/revite#330](https://github.com/revoltchat/revite/issues/330)
+6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [PlaceholderAPI/PlaceholderAPI#731](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/731)
+7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#730](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/730)
+8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) **Approved Changes:** [PlaceholderAPI/PlaceholderAPI#730](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/730#pullrequestreview-775591688)
+9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#445](https://github.com/purrbot-site/PurrBot/pull/445)
+10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [Ghost-chu/QuickShop-Reremake#1517](https://github.com/Ghost-chu/QuickShop-Reremake/issues/1517)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

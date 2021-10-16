@@ -39,16 +39,16 @@ The list is updates twice a day and includes opening and closing issues and open
 Last update: `16.10.2021 14:14:57 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. {octicons/prMerged} **Pull request merged:** [Andre601/Spigot-Sounds#10](https://github.com/Andre601/Spigot-Sounds/pull/10)
-2. {octicons/prOpened} **Pull request opened:** [PlaceholderAPI/ScoreboardTags-Expansion#2](https://github.com/PlaceholderAPI/ScoreboardTags-Expansion/pull/2)
-3. {octicons/prMerged} **Pull request merged:** [purrbot-site/Docs#160](https://github.com/purrbot-site/Docs/pull/160)
-4. {octicons/prMerged} **Pull request merged:** [Andre601/mkdocs-template#37](https://github.com/Andre601/mkdocs-template/pull/37)
-5. {octicons/prMerged} **Pull request merged:** [purrbot-site/PurrBot#446](https://github.com/purrbot-site/PurrBot/pull/446)
-6. {octicons/repo} **Created Repository:** [Andre601/revolt-translation-guidelines](https://github.com/Andre601/revolt-translation-guidelines)
-7. {octicons/issueOpened} **Issue opened:** [revoltchat/revite#330](https://github.com/revoltchat/revite/issues/330)
-8. {octicons/prOpened} **Pull request opened:** [PlaceholderAPI/PlaceholderAPI#731](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/731)
-9. {octicons/prMerged} **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#730](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/730)
-10. {octicons/approved} **Approved Changes:** [PlaceholderAPI/PlaceholderAPI#730](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/730#pullrequestreview-775591688)
+1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/Spigot-Sounds#10](https://github.com/Andre601/Spigot-Sounds/pull/10)
+2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [PlaceholderAPI/ScoreboardTags-Expansion#2](https://github.com/PlaceholderAPI/ScoreboardTags-Expansion/pull/2)
+3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/Docs#160](https://github.com/purrbot-site/Docs/pull/160)
+4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/mkdocs-template#37](https://github.com/Andre601/mkdocs-template/pull/37)
+5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#446](https://github.com/purrbot-site/PurrBot/pull/446)
+6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) **Created Repository:** [Andre601/revolt-translation-guidelines](https://github.com/Andre601/revolt-translation-guidelines)
+7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [revoltchat/revite#330](https://github.com/revoltchat/revite/issues/330)
+8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [PlaceholderAPI/PlaceholderAPI#731](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/731)
+9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#730](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/730)
+10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) **Approved Changes:** [PlaceholderAPI/PlaceholderAPI#730](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/730#pullrequestreview-775591688)
 <!--RECENT_ACTIVITY:end-->
 
 ## 🔗 Links

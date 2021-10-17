@@ -10,7 +10,7 @@
 [star]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepository.svg
 [fork]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg
 
-## 👋 Hello there!
+## {emoji/waving-hand} Hello there!
 My name is Andreas but most people just call me Andre.  
 On the internet am I known as either Andre_601 or Andre601. My tag on Discord is `Andre_601#0601`.
 
@@ -19,19 +19,17 @@ I joined GitHub {{ SIGNUP_AGO }}.
 
 If you have any questions, feel free to join my [personal Discord Server][discord]. I'm pretty much always around and have time to answer stuff.
 
-## 📁 Projects
-Here is a list of various repositories based on certain criterias.
+## {emoji/graph} Statistics
+<img height="195px" src="https://github-readme-stats.vercel.app/api?username=Andre601&show_icons=true&hide_rank=true&title_color=3498db&bg_color=ffffff00&text_color=718096&disable_animations=true"><img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Andre601&layout=compact&title_color=3498db&bg_color=ffffff00&text_color=718096">
 
-### Most starred repositories
+### {emoji/star} Most starred Repositories
+The 3 most starred repositories on my personal account (Not including those in Organizations I own).
 
 {{ loop 3_MOST_STARRED_REPOS }}
 - [`{{ REPO_FULL_NAME }}`]({{ REPO_URL }}) (![star] {{ REPO_STARS }} ![fork] {{ REPO_FORK_COUNT }})
 {{ end 3_MOST_STARRED_REPOS }}
 
-## 📊 Statistics
-<img height="195px" src="https://github-readme-stats.vercel.app/api?username=Andre601&show_icons=true&hide_rank=true&title_color=3498db&bg_color=ffffff00&text_color=718096&disable_animations=true"><img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Andre601&layout=compact&title_color=3498db&bg_color=ffffff00&text_color=718096">
-
-### 📜 Recent Activity
+### {emoji/scroll} Recent Activity
 This is a list of my 10 most recent activities on GitHub.  
 The list is updates twice a day and includes opening and closing issues and opening, closing and merging Pull requests.
 
@@ -51,7 +49,7 @@ Last update: `17.10.2021 14:14:37 GMT+0200`
 10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) **Approved Changes:** [PlaceholderAPI/PlaceholderAPI#730](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/730#pullrequestreview-775591688)
 <!--RECENT_ACTIVITY:end-->
 
-## 🔗 Links
+## {emoji/chain} Links
 - [Website]
 - [Spigot Page][spigot]
 - [Patreon]

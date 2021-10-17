@@ -132,27 +132,27 @@
   },
   {
     "search": "{emoji/waving-hand}",
-    "replace": "<img alt=\"emoji\" src=\"https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f44b.svg\" height=\"30em\">",
+    "replace": "<img alt=\"waving hand emoji\" src=\"https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f44b.svg\" height=\"30em\">",
     "eval": false
   },
   {
     "search": "{emoji/graph}",
-    "replace": "<img alt=\"emoji\" src=\"https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f4ca.svg\" height=\"30em\">",
+    "replace": "<img alt=\"graph emoji\" src=\"https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f4ca.svg\" height=\"30em\">",
     "eval": false
   },
   {
     "search": "{emoji/star}",
-    "replace": "<img alt=\"emoji\" src=\"https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/2b50.svg\" height=\"25em\">",
+    "replace": "<img alt=\"star emoji\" src=\"https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/2b50.svg\" height=\"25em\">",
     "eval": false
   },
   {
     "search": "{emoji/clipboard}",
-    "replace": "<img alt=\"emoji\" src=\"https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f4cb.svg\" height=\"25em\">",
+    "replace": "<img alt=\"clipboard emoji\" src=\"https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f4cb.svg\" height=\"25em\">",
     "eval": false
   },
   {
     "search": "{emoji/link}",
-    "replace": "<img alt=\"emoji\" src=\"https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f517.svg\" height=\"30em\">",
+    "replace": "<img alt=\"link emoji\" src=\"https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f517.svg\" height=\"30em\">",
     "eval": false
   }
 ]

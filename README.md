@@ -10,7 +10,7 @@
 [star]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepository.svg
 [fork]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg
 
-## {emoji/waving-hand} Hello there!
+## <img alt="emoji" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f44b.svg" height="30em"> Hello there!
 My name is Andreas but most people just call me Andre.  
 On the internet am I known as either Andre_601 or Andre601. My tag on Discord is `Andre_601#0601`.
 
@@ -34,7 +34,7 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes opening and closing issues and opening, closing and merging Pull requests.
 
 <!--RECENT_ACTIVITY:last_update-->
-Last update: `17.10.2021 16:41:47 GMT+0200`
+Last update: `17.10.2021 16:43:19 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/Andre601#11](https://github.com/Andre601/Andre601/pull/11)

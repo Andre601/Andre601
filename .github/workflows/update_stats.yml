@@ -39,6 +39,7 @@ jobs:
         with:
           COMMIT_FILE: './TEMPLATE.md'
           TIMEZONE: 'Europe/Zurich'
+          CUSTOM_REPLACER_FILE: './.github/readme-replacer.json'
       
       - name: Push changes to TEMPLATE.md
         uses: actions-js/push@master

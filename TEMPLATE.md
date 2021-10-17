@@ -29,7 +29,7 @@ The 3 most starred repositories on my personal account (Not including those in O
 - [`{{ REPO_FULL_NAME }}`]({{ REPO_URL }}) (![star] {{ REPO_STARS }} ![fork] {{ REPO_FORK_COUNT }})
 {{ end 3_MOST_STARRED_REPOS }}
 
-### {emoji/scroll} Recent Activity
+### {emoji/clipboard} Recent Activity
 This is a list of my 10 most recent activities on GitHub.  
 The list is updates twice a day and includes opening and closing issues and opening, closing and merging Pull requests.
 
@@ -49,7 +49,7 @@ Last update: `17.10.2021 14:14:37 GMT+0200`
 10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) **Approved Changes:** [PlaceholderAPI/PlaceholderAPI#730](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/730#pullrequestreview-775591688)
 <!--RECENT_ACTIVITY:end-->
 
-## {emoji/chain} Links
+## {emoji/link} Links
 - [Website]
 - [Spigot Page][spigot]
 - [Patreon]

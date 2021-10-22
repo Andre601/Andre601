@@ -34,19 +34,19 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes opening and closing issues and opening, closing and merging Pull requests.
 
 <!--RECENT_ACTIVITY:last_update-->
-Last update: `21.10.2021 14:17:34 GMT+0200`
+Last update: `22.10.2021 02:40:12 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [PlaceholderAPI/Server-Expansion#37](https://github.com/PlaceholderAPI/Server-Expansion/pull/37)
-2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/blog#19](https://github.com/Andre601/blog/pull/19)
-3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [Andre601/blog#19](https://github.com/Andre601/blog/pull/19)
-4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [tr7zw/NotEnoughAnimations#48](https://github.com/tr7zw/NotEnoughAnimations/issues/48)
-5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) **Pull request closed:** [tr7zw/NotEnoughAnimations#47](https://github.com/tr7zw/NotEnoughAnimations/pull/47)
-6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [tr7zw/NotEnoughAnimations#47](https://github.com/tr7zw/NotEnoughAnimations/pull/47)
-7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) **Forked Repository:** [Andre601/NotEnoughAnimations](https://github.com/Andre601/NotEnoughAnimations) (From [tr7zw/NotEnoughAnimations](https://github.com/tr7zw/NotEnoughAnimations))
-8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/anti-phishing-database#31](https://github.com/Andre601/anti-phishing-database/pull/31)
-9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) **Issue closed:** [Andre601/anti-phishing-database#30](https://github.com/Andre601/anti-phishing-database/issues/30)
-10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [Andre601/anti-phishing-database#31](https://github.com/Andre601/anti-phishing-database/pull/31)
+1. {octicons/issueOpened} **Issue opened:** [anuraghazra/github-readme-stats#1405](https://github.com/anuraghazra/github-readme-stats/issues/1405)
+2. {octicons/prOpened} **Pull request opened:** [PlaceholderAPI/Server-Expansion#38](https://github.com/PlaceholderAPI/Server-Expansion/pull/38)
+3. {octicons/prMerged} **Pull request merged:** [purrbot-site/PurrBot#448](https://github.com/purrbot-site/PurrBot/pull/448)
+4. {octicons/prOpened} **Pull request opened:** [PlaceholderAPI/Server-Expansion#37](https://github.com/PlaceholderAPI/Server-Expansion/pull/37)
+5. {octicons/prMerged} **Pull request merged:** [Andre601/blog#19](https://github.com/Andre601/blog/pull/19)
+6. {octicons/prOpened} **Pull request opened:** [Andre601/blog#19](https://github.com/Andre601/blog/pull/19)
+7. {octicons/issueOpened} **Issue opened:** [tr7zw/NotEnoughAnimations#48](https://github.com/tr7zw/NotEnoughAnimations/issues/48)
+8. {octicons/prClosed} **Pull request closed:** [tr7zw/NotEnoughAnimations#47](https://github.com/tr7zw/NotEnoughAnimations/pull/47)
+9. {octicons/prOpened} **Pull request opened:** [tr7zw/NotEnoughAnimations#47](https://github.com/tr7zw/NotEnoughAnimations/pull/47)
+10. {octicons/forkedRepo} **Forked Repository:** [Andre601/NotEnoughAnimations](https://github.com/Andre601/NotEnoughAnimations) (From [tr7zw/NotEnoughAnimations](https://github.com/tr7zw/NotEnoughAnimations))
 <!--RECENT_ACTIVITY:end-->
 
 ## <img alt="emoji" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f517.svg" height="30em"> Links

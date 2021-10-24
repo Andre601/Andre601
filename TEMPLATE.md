@@ -37,16 +37,16 @@ The list is updates twice a day and includes opening and closing issues and open
 Last update: `24.10.2021 02:35:53 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. {octicons/issueOpened} **Issue opened:** [Sollace/Presence-Footsteps#107](https://github.com/Sollace/Presence-Footsteps/issues/107)
-2. {octicons/issueClosed} **Issue closed:** [primer/octicons#680](https://github.com/primer/octicons/issues/680)
-3. {octicons/issueOpened} **Issue opened:** [primer/octicons#680](https://github.com/primer/octicons/issues/680)
-4. {octicons/issueOpened} **Issue opened:** [anuraghazra/github-readme-stats#1405](https://github.com/anuraghazra/github-readme-stats/issues/1405)
-5. {octicons/prOpened} **Pull request opened:** [PlaceholderAPI/Server-Expansion#38](https://github.com/PlaceholderAPI/Server-Expansion/pull/38)
-6. {octicons/prMerged} **Pull request merged:** [purrbot-site/PurrBot#448](https://github.com/purrbot-site/PurrBot/pull/448)
-7. {octicons/prOpened} **Pull request opened:** [PlaceholderAPI/Server-Expansion#37](https://github.com/PlaceholderAPI/Server-Expansion/pull/37)
-8. {octicons/prMerged} **Pull request merged:** [Andre601/blog#19](https://github.com/Andre601/blog/pull/19)
-9. {octicons/prOpened} **Pull request opened:** [Andre601/blog#19](https://github.com/Andre601/blog/pull/19)
-10. {octicons/issueOpened} **Issue opened:** [tr7zw/NotEnoughAnimations#48](https://github.com/tr7zw/NotEnoughAnimations/issues/48)
+1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [Sollace/Presence-Footsteps#107](https://github.com/Sollace/Presence-Footsteps/issues/107)
+2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) **Issue closed:** [primer/octicons#680](https://github.com/primer/octicons/issues/680)
+3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [primer/octicons#680](https://github.com/primer/octicons/issues/680)
+4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [anuraghazra/github-readme-stats#1405](https://github.com/anuraghazra/github-readme-stats/issues/1405)
+5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [PlaceholderAPI/Server-Expansion#38](https://github.com/PlaceholderAPI/Server-Expansion/pull/38)
+6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#448](https://github.com/purrbot-site/PurrBot/pull/448)
+7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [PlaceholderAPI/Server-Expansion#37](https://github.com/PlaceholderAPI/Server-Expansion/pull/37)
+8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/blog#19](https://github.com/Andre601/blog/pull/19)
+9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [Andre601/blog#19](https://github.com/Andre601/blog/pull/19)
+10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [tr7zw/NotEnoughAnimations#48](https://github.com/tr7zw/NotEnoughAnimations/issues/48)
 <!--RECENT_ACTIVITY:end-->
 
 ## <img alt="emoji" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f517.svg" height="30em"> Links

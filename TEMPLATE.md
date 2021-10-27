@@ -37,16 +37,16 @@ The list is updates twice a day and includes opening and closing issues and open
 Last update: `27.10.2021 14:21:24 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. {octicons/issueOpened} **Issue opened:** [primer/octicons#687](https://github.com/primer/octicons/issues/687)
-2. {octicons/issueClosed} **Issue closed:** [imgbot/Imgbot#953](https://github.com/imgbot/Imgbot/issues/953)
-3. {octicons/forkedRepo} **Forked Repository:** [Andre601/Presence-Footsteps](https://github.com/Andre601/Presence-Footsteps) (From [Sollace/Presence-Footsteps](https://github.com/Sollace/Presence-Footsteps))
-4. {octicons/prOpened} **Pull request opened:** [5zig-reborn/documentation#1](https://github.com/5zig-reborn/documentation/pull/1)
-5. {octicons/forkedRepo} **Forked Repository:** [Andre601/documentation-1](https://github.com/Andre601/documentation-1) (From [5zig-reborn/documentation](https://github.com/5zig-reborn/documentation))
-6. {octicons/prMerged} **Pull request merged:** [purrbot-site/PurrBot#449](https://github.com/purrbot-site/PurrBot/pull/449)
-7. {octicons/issueOpened} **Issue opened:** [Sollace/Presence-Footsteps#108](https://github.com/Sollace/Presence-Footsteps/issues/108)
-8. {octicons/issueOpened} **Issue opened:** [Sollace/Presence-Footsteps#107](https://github.com/Sollace/Presence-Footsteps/issues/107)
-9. {octicons/issueClosed} **Issue closed:** [primer/octicons#680](https://github.com/primer/octicons/issues/680)
-10. {octicons/issueOpened} **Issue opened:** [primer/octicons#680](https://github.com/primer/octicons/issues/680)
+1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [primer/octicons#687](https://github.com/primer/octicons/issues/687)
+2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) **Issue closed:** [imgbot/Imgbot#953](https://github.com/imgbot/Imgbot/issues/953)
+3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) **Forked Repository:** [Andre601/Presence-Footsteps](https://github.com/Andre601/Presence-Footsteps) (From [Sollace/Presence-Footsteps](https://github.com/Sollace/Presence-Footsteps))
+4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [5zig-reborn/documentation#1](https://github.com/5zig-reborn/documentation/pull/1)
+5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) **Forked Repository:** [Andre601/documentation-1](https://github.com/Andre601/documentation-1) (From [5zig-reborn/documentation](https://github.com/5zig-reborn/documentation))
+6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#449](https://github.com/purrbot-site/PurrBot/pull/449)
+7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [Sollace/Presence-Footsteps#108](https://github.com/Sollace/Presence-Footsteps/issues/108)
+8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [Sollace/Presence-Footsteps#107](https://github.com/Sollace/Presence-Footsteps/issues/107)
+9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) **Issue closed:** [primer/octicons#680](https://github.com/primer/octicons/issues/680)
+10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [primer/octicons#680](https://github.com/primer/octicons/issues/680)
 <!--RECENT_ACTIVITY:end-->
 
 ## <img alt="emoji" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f517.svg" height="30em"> Links

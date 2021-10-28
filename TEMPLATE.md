@@ -34,19 +34,19 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes opening and closing issues and opening, closing and merging Pull requests.
 
 <!--RECENT_ACTIVITY:last_update-->
-Last update: `28.10.2021 02:34:28 GMT+0200`
+Last update: `28.10.2021 14:16:01 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/anti-phishing-database#33](https://github.com/Andre601/anti-phishing-database/pull/33)
-2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) **Issue closed:** [Andre601/anti-phishing-database#32](https://github.com/Andre601/anti-phishing-database/issues/32)
-3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [Andre601/anti-phishing-database#33](https://github.com/Andre601/anti-phishing-database/pull/33)
-4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [primer/octicons#687](https://github.com/primer/octicons/issues/687)
-5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) **Issue closed:** [imgbot/Imgbot#953](https://github.com/imgbot/Imgbot/issues/953)
-6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) **Forked Repository:** [Andre601/Presence-Footsteps](https://github.com/Andre601/Presence-Footsteps) (From [Sollace/Presence-Footsteps](https://github.com/Sollace/Presence-Footsteps))
-7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [5zig-reborn/documentation#1](https://github.com/5zig-reborn/documentation/pull/1)
-8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) **Forked Repository:** [Andre601/documentation-1](https://github.com/Andre601/documentation-1) (From [5zig-reborn/documentation](https://github.com/5zig-reborn/documentation))
-9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#449](https://github.com/purrbot-site/PurrBot/pull/449)
-10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [Sollace/Presence-Footsteps#108](https://github.com/Sollace/Presence-Footsteps/issues/108)
+1. {octicons/prMerged} **Pull request merged:** [Andre601/anti-phishing-database#33](https://github.com/Andre601/anti-phishing-database/pull/33)
+2. {octicons/issueClosed} **Issue closed:** [Andre601/anti-phishing-database#32](https://github.com/Andre601/anti-phishing-database/issues/32)
+3. {octicons/prOpened} **Pull request opened:** [Andre601/anti-phishing-database#33](https://github.com/Andre601/anti-phishing-database/pull/33)
+4. {octicons/issueOpened} **Issue opened:** [primer/octicons#687](https://github.com/primer/octicons/issues/687)
+5. {octicons/issueClosed} **Issue closed:** [imgbot/Imgbot#953](https://github.com/imgbot/Imgbot/issues/953)
+6. {octicons/forkedRepo} **Forked Repository:** [Andre601/Presence-Footsteps](https://github.com/Andre601/Presence-Footsteps) (From [Sollace/Presence-Footsteps](https://github.com/Sollace/Presence-Footsteps))
+7. {octicons/prOpened} **Pull request opened:** [5zig-reborn/documentation#1](https://github.com/5zig-reborn/documentation/pull/1)
+8. {octicons/forkedRepo} **Forked Repository:** [Andre601/documentation-1](https://github.com/Andre601/documentation-1) (From [5zig-reborn/documentation](https://github.com/5zig-reborn/documentation))
+9. {octicons/prMerged} **Pull request merged:** [purrbot-site/PurrBot#449](https://github.com/purrbot-site/PurrBot/pull/449)
+10. {octicons/issueOpened} **Issue opened:** [Sollace/Presence-Footsteps#108](https://github.com/Sollace/Presence-Footsteps/issues/108)
 <!--RECENT_ACTIVITY:end-->
 
 ## <img alt="emoji" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f517.svg" height="30em"> Links

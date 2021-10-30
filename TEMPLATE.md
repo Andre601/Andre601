@@ -37,16 +37,16 @@ The list is updates twice a day and includes opening and closing issues and open
 Last update: `30.10.2021 02:33:31 GMT+0200`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. {octicons/issueOpened} **Issue opened:** [brainboxdotcc/tutorials-and-howto#2](https://github.com/brainboxdotcc/tutorials-and-howto/issues/2)
-2. {octicons/prMerged} **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#739](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/739)
-3. {octicons/approved} **Approved Changes:** [PlaceholderAPI/PlaceholderAPI#739](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/739#pullrequestreview-792155340)
-4. {octicons/prMerged} **Pull request merged:** [purrbot-site/Docs#163](https://github.com/purrbot-site/Docs/pull/163)
-5. {octicons/prMerged} **Pull request merged:** [Andre601/mkdocs-template#40](https://github.com/Andre601/mkdocs-template/pull/40)
-6. {octicons/prMerged} **Pull request merged:** [Andre601/anti-phishing-database#33](https://github.com/Andre601/anti-phishing-database/pull/33)
-7. {octicons/issueClosed} **Issue closed:** [Andre601/anti-phishing-database#32](https://github.com/Andre601/anti-phishing-database/issues/32)
-8. {octicons/prOpened} **Pull request opened:** [Andre601/anti-phishing-database#33](https://github.com/Andre601/anti-phishing-database/pull/33)
-9. {octicons/issueOpened} **Issue opened:** [primer/octicons#687](https://github.com/primer/octicons/issues/687)
-10. {octicons/issueClosed} **Issue closed:** [imgbot/Imgbot#953](https://github.com/imgbot/Imgbot/issues/953)
+1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [brainboxdotcc/tutorials-and-howto#2](https://github.com/brainboxdotcc/tutorials-and-howto/issues/2)
+2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#739](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/739)
+3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) **Approved Changes:** [PlaceholderAPI/PlaceholderAPI#739](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/739#pullrequestreview-792155340)
+4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/Docs#163](https://github.com/purrbot-site/Docs/pull/163)
+5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/mkdocs-template#40](https://github.com/Andre601/mkdocs-template/pull/40)
+6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/anti-phishing-database#33](https://github.com/Andre601/anti-phishing-database/pull/33)
+7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) **Issue closed:** [Andre601/anti-phishing-database#32](https://github.com/Andre601/anti-phishing-database/issues/32)
+8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [Andre601/anti-phishing-database#33](https://github.com/Andre601/anti-phishing-database/pull/33)
+9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [primer/octicons#687](https://github.com/primer/octicons/issues/687)
+10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) **Issue closed:** [imgbot/Imgbot#953](https://github.com/imgbot/Imgbot/issues/953)
 <!--RECENT_ACTIVITY:end-->
 
 ## <img alt="emoji" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f517.svg" height="30em"> Links

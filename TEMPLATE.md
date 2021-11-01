@@ -37,16 +37,16 @@ The list is updates twice a day and includes opening and closing issues and open
 Last update: `01.11.2021 01:36:32 GMT+0100`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. {octicons/issueOpened} **Issue opened:** [Ghost-chu/QuickShop-Reremake#1538](https://github.com/Ghost-chu/QuickShop-Reremake/issues/1538)
-2. {octicons/prMerged} **Pull request merged:** [Readme-Workflows/Readme-Icons#27](https://github.com/Readme-Workflows/Readme-Icons/pull/27)
-3. {octicons/prOpened} **Pull request opened:** [Readme-Workflows/Readme-Icons#27](https://github.com/Readme-Workflows/Readme-Icons/pull/27)
-4. {octicons/issueOpened} **Issue opened:** [PluginBugs/Issues-ItemsAdder#1289](https://github.com/PluginBugs/Issues-ItemsAdder/issues/1289)
-5. {octicons/prOpened} **Pull request opened:** [Ghost-chu/QuickShop-Reremake#1531](https://github.com/Ghost-chu/QuickShop-Reremake/pull/1531)
-6. {octicons/forkedRepo} **Forked Repository:** [Andre601/QuickShop-Reremake](https://github.com/Andre601/QuickShop-Reremake) (From [Ghost-chu/QuickShop-Reremake](https://github.com/Ghost-chu/QuickShop-Reremake))
-7. {octicons/prOpened} **Pull request opened:** [Andre601/QuickShop-Reremake#1](https://github.com/Andre601/QuickShop-Reremake/pull/1)
-8. {octicons/issueOpened} **Issue opened:** [Ghost-chu/QuickShop-Reremake#1528](https://github.com/Ghost-chu/QuickShop-Reremake/issues/1528)
-9. {octicons/release} **Created Release:** [Andre601/OneVersionRemakev3.9.0: Make versions.json download URL configurable](https://github.com/Andre601/OneVersionRemake/releases/tag/v3.9.0)
-10. {octicons/prMerged} **Pull request merged:** [Andre601/OneVersionRemake#109](https://github.com/Andre601/OneVersionRemake/pull/109)
+1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [Ghost-chu/QuickShop-Reremake#1538](https://github.com/Ghost-chu/QuickShop-Reremake/issues/1538)
+2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Readme-Workflows/Readme-Icons#27](https://github.com/Readme-Workflows/Readme-Icons/pull/27)
+3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [Readme-Workflows/Readme-Icons#27](https://github.com/Readme-Workflows/Readme-Icons/pull/27)
+4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [PluginBugs/Issues-ItemsAdder#1289](https://github.com/PluginBugs/Issues-ItemsAdder/issues/1289)
+5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [Ghost-chu/QuickShop-Reremake#1531](https://github.com/Ghost-chu/QuickShop-Reremake/pull/1531)
+6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) **Forked Repository:** [Andre601/QuickShop-Reremake](https://github.com/Andre601/QuickShop-Reremake) (From [Ghost-chu/QuickShop-Reremake](https://github.com/Ghost-chu/QuickShop-Reremake))
+7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [Andre601/QuickShop-Reremake#1](https://github.com/Andre601/QuickShop-Reremake/pull/1)
+8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [Ghost-chu/QuickShop-Reremake#1528](https://github.com/Ghost-chu/QuickShop-Reremake/issues/1528)
+9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg) **Created Release:** [Andre601/OneVersionRemakev3.9.0: Make versions.json download URL configurable](https://github.com/Andre601/OneVersionRemake/releases/tag/v3.9.0)
+10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/OneVersionRemake#109](https://github.com/Andre601/OneVersionRemake/pull/109)
 <!--RECENT_ACTIVITY:end-->
 
 ## <img alt="emoji" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f517.svg" height="30em"> Links

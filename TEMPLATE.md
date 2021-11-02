@@ -37,16 +37,16 @@ The list is updates twice a day and includes opening and closing issues and open
 Last update: `02.11.2021 01:37:15 GMT+0100`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. {octicons/prOpened} **Pull request opened:** [EssentialsX/Essentials#4603](https://github.com/EssentialsX/Essentials/pull/4603)
-2. {octicons/prMerged} **Pull request merged:** [purrbot-site/PurrBot#450](https://github.com/purrbot-site/PurrBot/pull/450)
-3. {octicons/prMerged} **Pull request merged:** [Andre601/OneVersionRemake#113](https://github.com/Andre601/OneVersionRemake/pull/113)
-4. {octicons/prMerged} **Pull request merged:** [Andre601/OneVersionRemake#112](https://github.com/Andre601/OneVersionRemake/pull/112)
-5. {octicons/prMerged} **Pull request merged:** [Andre601/OneVersionRemake#111](https://github.com/Andre601/OneVersionRemake/pull/111)
-6. {octicons/requestedChanges} **2 changes requested:** [DV8FromTheWorld/JDA#1870](https://github.com/DV8FromTheWorld/JDA/pull/1870#pullrequestreview-793965084)
-7. {octicons/prMerged} **Pull request merged:** [purrbot-site/Docs#164](https://github.com/purrbot-site/Docs/pull/164)
-8. {octicons/prMerged} **Pull request merged:** [Andre601/mkdocs-template#41](https://github.com/Andre601/mkdocs-template/pull/41)
-9. {octicons/issueOpened} **Issue opened:** [Ghost-chu/QuickShop-Reremake#1538](https://github.com/Ghost-chu/QuickShop-Reremake/issues/1538)
-10. {octicons/prMerged} **Pull request merged:** [Readme-Workflows/Readme-Icons#27](https://github.com/Readme-Workflows/Readme-Icons/pull/27)
+1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [EssentialsX/Essentials#4603](https://github.com/EssentialsX/Essentials/pull/4603)
+2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#450](https://github.com/purrbot-site/PurrBot/pull/450)
+3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/OneVersionRemake#113](https://github.com/Andre601/OneVersionRemake/pull/113)
+4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/OneVersionRemake#112](https://github.com/Andre601/OneVersionRemake/pull/112)
+5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/OneVersionRemake#111](https://github.com/Andre601/OneVersionRemake/pull/111)
+6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) **2 changes requested:** [DV8FromTheWorld/JDA#1870](https://github.com/DV8FromTheWorld/JDA/pull/1870#pullrequestreview-793965084)
+7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/Docs#164](https://github.com/purrbot-site/Docs/pull/164)
+8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/mkdocs-template#41](https://github.com/Andre601/mkdocs-template/pull/41)
+9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [Ghost-chu/QuickShop-Reremake#1538](https://github.com/Ghost-chu/QuickShop-Reremake/issues/1538)
+10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Readme-Workflows/Readme-Icons#27](https://github.com/Readme-Workflows/Readme-Icons/pull/27)
 <!--RECENT_ACTIVITY:end-->
 
 ## <img alt="emoji" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f517.svg" height="30em"> Links

@@ -34,19 +34,19 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes opening and closing issues and opening, closing and merging Pull requests.
 
 <!--RECENT_ACTIVITY:last_update-->
-Last update: `02.11.2021 13:16:32 GMT+0100`
+Last update: `03.11.2021 01:34:27 GMT+0100`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [EssentialsX/Essentials#4603](https://github.com/EssentialsX/Essentials/pull/4603)
-2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#450](https://github.com/purrbot-site/PurrBot/pull/450)
-3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/OneVersionRemake#113](https://github.com/Andre601/OneVersionRemake/pull/113)
-4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/OneVersionRemake#112](https://github.com/Andre601/OneVersionRemake/pull/112)
-5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/OneVersionRemake#111](https://github.com/Andre601/OneVersionRemake/pull/111)
-6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) **2 changes requested:** [DV8FromTheWorld/JDA#1870](https://github.com/DV8FromTheWorld/JDA/pull/1870#pullrequestreview-793965084)
-7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/Docs#164](https://github.com/purrbot-site/Docs/pull/164)
-8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/mkdocs-template#41](https://github.com/Andre601/mkdocs-template/pull/41)
-9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [Ghost-chu/QuickShop-Reremake#1538](https://github.com/Ghost-chu/QuickShop-Reremake/issues/1538)
-10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Readme-Workflows/Readme-Icons#27](https://github.com/Readme-Workflows/Readme-Icons/pull/27)
+1. {octicons/prOpened} **Pull request opened:** [CitizensDev/Citizens2#2684](https://github.com/CitizensDev/Citizens2/pull/2684)
+2. {octicons/issueOpened} **Issue opened:** [CitizensDev/Citizens2#2683](https://github.com/CitizensDev/Citizens2/issues/2683)
+3. {octicons/issueClosed} **Issue closed:** [PluginBugs/Issues-ItemsAdder#1289](https://github.com/PluginBugs/Issues-ItemsAdder/issues/1289)
+4. {octicons/prMerged} **Pull request merged:** [Andre601/Spigot-Sounds#11](https://github.com/Andre601/Spigot-Sounds/pull/11)
+5. {octicons/prMerged} **Pull request merged:** [Andre601/blog#20](https://github.com/Andre601/blog/pull/20)
+6. {octicons/issueClosed} **Issue closed:** [purrbot-site/PurrBot#451](https://github.com/purrbot-site/PurrBot/issues/451)
+7. {octicons/issueOpened} **Issue opened:** [DV8FromTheWorld/JDA#1872](https://github.com/DV8FromTheWorld/JDA/issues/1872)
+8. {octicons/prOpened} **Pull request opened:** [EssentialsX/Essentials#4603](https://github.com/EssentialsX/Essentials/pull/4603)
+9. {octicons/prMerged} **Pull request merged:** [purrbot-site/PurrBot#450](https://github.com/purrbot-site/PurrBot/pull/450)
+10. {octicons/prMerged} **Pull request merged:** [Andre601/OneVersionRemake#113](https://github.com/Andre601/OneVersionRemake/pull/113)
 <!--RECENT_ACTIVITY:end-->
 
 ## <img alt="emoji" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f517.svg" height="30em"> Links

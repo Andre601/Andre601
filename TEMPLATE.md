@@ -37,16 +37,16 @@ The list is updates twice a day and includes opening and closing issues and open
 Last update: `04.11.2021 13:20:19 GMT+0100`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. {octicons/issueOpened} **Issue opened:** [DecentSoftware-eu/DecentHolograms#1](https://github.com/DecentSoftware-eu/DecentHolograms/issues/1)
-2. {octicons/prMerged} **Pull request merged:** [purrbot-site/PurrBot#452](https://github.com/purrbot-site/PurrBot/pull/452)
-3. {octicons/prMerged} **Pull request merged:** [Andre601/OneVersionRemake#114](https://github.com/Andre601/OneVersionRemake/pull/114)
-4. {octicons/prMerged} **Pull request merged:** [purrbot-site/Docs#165](https://github.com/purrbot-site/Docs/pull/165)
-5. {octicons/prMerged} **Pull request merged:** [Andre601/mkdocs-template#42](https://github.com/Andre601/mkdocs-template/pull/42)
-6. {octicons/prOpened} **Pull request opened:** [CitizensDev/Citizens2#2684](https://github.com/CitizensDev/Citizens2/pull/2684)
-7. {octicons/issueOpened} **Issue opened:** [CitizensDev/Citizens2#2683](https://github.com/CitizensDev/Citizens2/issues/2683)
-8. {octicons/issueClosed} **Issue closed:** [PluginBugs/Issues-ItemsAdder#1289](https://github.com/PluginBugs/Issues-ItemsAdder/issues/1289)
-9. {octicons/prMerged} **Pull request merged:** [Andre601/Spigot-Sounds#11](https://github.com/Andre601/Spigot-Sounds/pull/11)
-10. {octicons/prMerged} **Pull request merged:** [Andre601/blog#20](https://github.com/Andre601/blog/pull/20)
+1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [DecentSoftware-eu/DecentHolograms#1](https://github.com/DecentSoftware-eu/DecentHolograms/issues/1)
+2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#452](https://github.com/purrbot-site/PurrBot/pull/452)
+3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/OneVersionRemake#114](https://github.com/Andre601/OneVersionRemake/pull/114)
+4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/Docs#165](https://github.com/purrbot-site/Docs/pull/165)
+5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/mkdocs-template#42](https://github.com/Andre601/mkdocs-template/pull/42)
+6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [CitizensDev/Citizens2#2684](https://github.com/CitizensDev/Citizens2/pull/2684)
+7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [CitizensDev/Citizens2#2683](https://github.com/CitizensDev/Citizens2/issues/2683)
+8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) **Issue closed:** [PluginBugs/Issues-ItemsAdder#1289](https://github.com/PluginBugs/Issues-ItemsAdder/issues/1289)
+9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/Spigot-Sounds#11](https://github.com/Andre601/Spigot-Sounds/pull/11)
+10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/blog#20](https://github.com/Andre601/blog/pull/20)
 <!--RECENT_ACTIVITY:end-->
 
 ## <img alt="emoji" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f517.svg" height="30em"> Links

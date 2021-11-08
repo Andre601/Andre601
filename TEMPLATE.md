@@ -37,16 +37,16 @@ The list is updates twice a day and includes opening and closing issues and open
 Last update: `08.11.2021 13:17:06 GMT+0100`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. {octicons/prMerged} **Pull request merged:** [Andre601/okhttp#1](https://github.com/Andre601/okhttp/pull/1)
-2. {octicons/prClosed} **Pull request closed:** [Andre601/okhttp#1](https://github.com/Andre601/okhttp/pull/1)
-3. {octicons/prOpened} **Pull request opened:** [Andre601/okhttp#1](https://github.com/Andre601/okhttp/pull/1)
-4. {octicons/prClosed} **Pull request closed:** [purrbot-site/Docs#157](https://github.com/purrbot-site/Docs/pull/157)
-5. {octicons/prMerged} **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#740](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/740)
-6. {octicons/approved} **Approved Changes:** [PlaceholderAPI/PlaceholderAPI#740](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/740#pullrequestreview-799343518)
-7. {octicons/prOpened} **Pull request opened:** [Ghost-chu/QuickShop-Reremake#1562](https://github.com/Ghost-chu/QuickShop-Reremake/pull/1562)
-8. {octicons/issueOpened} **Issue opened:** [Ghost-chu/QuickShop-Reremake#1561](https://github.com/Ghost-chu/QuickShop-Reremake/issues/1561)
-9. {octicons/issueOpened} **Issue opened:** [DecentSoftware-eu/DecentHolograms#1](https://github.com/DecentSoftware-eu/DecentHolograms/issues/1)
-10. {octicons/prMerged} **Pull request merged:** [purrbot-site/PurrBot#452](https://github.com/purrbot-site/PurrBot/pull/452)
+1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/okhttp#1](https://github.com/Andre601/okhttp/pull/1)
+2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) **Pull request closed:** [Andre601/okhttp#1](https://github.com/Andre601/okhttp/pull/1)
+3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [Andre601/okhttp#1](https://github.com/Andre601/okhttp/pull/1)
+4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) **Pull request closed:** [purrbot-site/Docs#157](https://github.com/purrbot-site/Docs/pull/157)
+5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#740](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/740)
+6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) **Approved Changes:** [PlaceholderAPI/PlaceholderAPI#740](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/740#pullrequestreview-799343518)
+7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [Ghost-chu/QuickShop-Reremake#1562](https://github.com/Ghost-chu/QuickShop-Reremake/pull/1562)
+8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [Ghost-chu/QuickShop-Reremake#1561](https://github.com/Ghost-chu/QuickShop-Reremake/issues/1561)
+9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [DecentSoftware-eu/DecentHolograms#1](https://github.com/DecentSoftware-eu/DecentHolograms/issues/1)
+10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#452](https://github.com/purrbot-site/PurrBot/pull/452)
 <!--RECENT_ACTIVITY:end-->
 
 ## <img alt="emoji" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f517.svg" height="30em"> Links

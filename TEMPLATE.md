@@ -37,16 +37,16 @@ The list is updates twice a day and includes opening and closing issues and open
 Last update: `12.11.2021 13:15:45 GMT+0100`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. {octicons/prOpened} **Pull request opened:** [Chew/JDA-Chewtils#32](https://github.com/Chew/JDA-Chewtils/pull/32)
-2. {octicons/prClosed} **Pull request closed:** [Chew/JDA-Chewtils#29](https://github.com/Chew/JDA-Chewtils/pull/29)
-3. {octicons/prOpened} **Pull request opened:** [PlaceholderAPI/PlaceholderAPI#747](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/747)
-4. {octicons/issueClosed} **Issue closed:** [PlaceholderAPI/PlaceholderAPI#634](https://github.com/PlaceholderAPI/PlaceholderAPI/issues/634)
-5. {octicons/issueClosed} **Issue closed:** [PlaceholderAPI/PlaceholderAPI#708](https://github.com/PlaceholderAPI/PlaceholderAPI/issues/708)
-6. {octicons/issueClosed} **Issue closed:** [PlaceholderAPI/PlaceholderAPI#725](https://github.com/PlaceholderAPI/PlaceholderAPI/issues/725)
-7. {octicons/issueClosed} **Issue closed:** [PlaceholderAPI/PlaceholderAPI#418](https://github.com/PlaceholderAPI/PlaceholderAPI/issues/418)
-8. {octicons/issueClosed} **Issue closed:** [PlaceholderAPI/PlaceholderAPI#636](https://github.com/PlaceholderAPI/PlaceholderAPI/issues/636)
-9. {octicons/issueClosed} **Issue closed:** [PlaceholderAPI/PlaceholderAPI#702](https://github.com/PlaceholderAPI/PlaceholderAPI/issues/702)
-10. {octicons/prMerged} **Pull request merged:** [PowerPlugins/Plugin#43](https://github.com/PowerPlugins/Plugin/pull/43)
+1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [Chew/JDA-Chewtils#32](https://github.com/Chew/JDA-Chewtils/pull/32)
+2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) **Pull request closed:** [Chew/JDA-Chewtils#29](https://github.com/Chew/JDA-Chewtils/pull/29)
+3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [PlaceholderAPI/PlaceholderAPI#747](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/747)
+4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) **Issue closed:** [PlaceholderAPI/PlaceholderAPI#634](https://github.com/PlaceholderAPI/PlaceholderAPI/issues/634)
+5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) **Issue closed:** [PlaceholderAPI/PlaceholderAPI#708](https://github.com/PlaceholderAPI/PlaceholderAPI/issues/708)
+6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) **Issue closed:** [PlaceholderAPI/PlaceholderAPI#725](https://github.com/PlaceholderAPI/PlaceholderAPI/issues/725)
+7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) **Issue closed:** [PlaceholderAPI/PlaceholderAPI#418](https://github.com/PlaceholderAPI/PlaceholderAPI/issues/418)
+8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) **Issue closed:** [PlaceholderAPI/PlaceholderAPI#636](https://github.com/PlaceholderAPI/PlaceholderAPI/issues/636)
+9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) **Issue closed:** [PlaceholderAPI/PlaceholderAPI#702](https://github.com/PlaceholderAPI/PlaceholderAPI/issues/702)
+10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [PowerPlugins/Plugin#43](https://github.com/PowerPlugins/Plugin/pull/43)
 <!--RECENT_ACTIVITY:end-->
 
 ## <img alt="emoji" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f517.svg" height="30em"> Links

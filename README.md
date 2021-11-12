@@ -25,7 +25,7 @@ If you have any questions, feel free to join my [personal Discord Server][discor
 ### <img alt="emoji" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/2b50.svg" height="25em"> Most starred Repositories
 The 3 most starred repositories on my personal account (Not including those in Organizations I own).
 
-- [`Andre601/anti-phishing-database`](https://github.com/Andre601/anti-phishing-database) (![star] 10 ![fork] 3)
+- [`Andre601/anti-phishing-database`](https://github.com/Andre601/anti-phishing-database) (![star] 11 ![fork] 3)
 - [`Andre601/OneVersionRemake`](https://github.com/Andre601/OneVersionRemake) (![star] 8 ![fork] 0)
 - [`Andre601/Supporto`](https://github.com/Andre601/Supporto) (![star] 3 ![fork] 3)
 
@@ -34,7 +34,7 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes opening and closing issues and opening, closing and merging Pull requests.
 
 <!--RECENT_ACTIVITY:last_update-->
-Last update: `12.11.2021 01:36:18 GMT+0100`
+Last update: `12.11.2021 13:15:45 GMT+0100`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [Chew/JDA-Chewtils#32](https://github.com/Chew/JDA-Chewtils/pull/32)

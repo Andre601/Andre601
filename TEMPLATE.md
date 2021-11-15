@@ -37,16 +37,16 @@ The list is updates twice a day and includes opening and closing issues and open
 Last update: `15.11.2021 01:35:05 GMT+0100`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. {octicons/prMerged} **Pull request merged:** [Andre601/blog#23](https://github.com/Andre601/blog/pull/23)
-2. {octicons/prOpened} **Pull request opened:** [Andre601/blog#23](https://github.com/Andre601/blog/pull/23)
-3. {octicons/star} **Starred** [giscus/giscus](https://github.com/giscus/giscus)
-4. {octicons/prMerged} **Pull request merged:** [Andre601/blog#21](https://github.com/Andre601/blog/pull/21)
-5. {octicons/prOpened} **Pull request opened:** [Andre601/blog#21](https://github.com/Andre601/blog/pull/21)
-6. {octicons/prOpened} **Pull request opened:** [giscus/giscus#242](https://github.com/giscus/giscus/pull/242)
-7. {octicons/forkedRepo} **Forked Repository:** [Andre601/giscus](https://github.com/Andre601/giscus) (From [giscus/giscus](https://github.com/giscus/giscus))
-8. {octicons/issueClosed} **Issue closed:** [BeYkeRYkt/LightAPI#21](https://github.com/BeYkeRYkt/LightAPI/issues/21)
-9. {octicons/prMerged} **Pull request merged:** [purrbot-site/PurrBot#456](https://github.com/purrbot-site/PurrBot/pull/456)
-10. {octicons/prMerged} **Pull request merged:** [purrbot-site/PurrBot#455](https://github.com/purrbot-site/PurrBot/pull/455)
+1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/blog#23](https://github.com/Andre601/blog/pull/23)
+2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [Andre601/blog#23](https://github.com/Andre601/blog/pull/23)
+3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepository.svg) **Starred** [giscus/giscus](https://github.com/giscus/giscus)
+4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/blog#21](https://github.com/Andre601/blog/pull/21)
+5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [Andre601/blog#21](https://github.com/Andre601/blog/pull/21)
+6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [giscus/giscus#242](https://github.com/giscus/giscus/pull/242)
+7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) **Forked Repository:** [Andre601/giscus](https://github.com/Andre601/giscus) (From [giscus/giscus](https://github.com/giscus/giscus))
+8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) **Issue closed:** [BeYkeRYkt/LightAPI#21](https://github.com/BeYkeRYkt/LightAPI/issues/21)
+9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#456](https://github.com/purrbot-site/PurrBot/pull/456)
+10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#455](https://github.com/purrbot-site/PurrBot/pull/455)
 <!--RECENT_ACTIVITY:end-->
 
 ## <img alt="emoji" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f517.svg" height="30em"> Links

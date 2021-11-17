@@ -37,16 +37,16 @@ The list is updates twice a day and includes opening and closing issues and open
 Last update: `17.11.2021 13:20:32 GMT+0100`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. {octicons/prMerged} **Pull request merged:** [purrbot-site/Docs#168](https://github.com/purrbot-site/Docs/pull/168)
-2. {octicons/prOpened} **Pull request opened:** [purrbot-site/Docs#168](https://github.com/purrbot-site/Docs/pull/168)
-3. {octicons/prMerged} **Pull request merged:** [purrbot-site/Docs#167](https://github.com/purrbot-site/Docs/pull/167)
-4. {octicons/prOpened} **Pull request opened:** [purrbot-site/Docs#167](https://github.com/purrbot-site/Docs/pull/167)
-5. {octicons/prMerged} **Pull request merged:** [purrbot-site/Docs#166](https://github.com/purrbot-site/Docs/pull/166)
-6. {octicons/issueOpened} **Issue opened:** [CodingAir/WarpSystem-IssueTracker#667](https://github.com/CodingAir/WarpSystem-IssueTracker/issues/667)
-7. {octicons/issueOpened} **Issue opened:** [CodingAir/WarpSystem-IssueTracker#666](https://github.com/CodingAir/WarpSystem-IssueTracker/issues/666)
-8. {octicons/issueOpened} **Issue opened:** [Ghost-chu/QuickShop-Reremake#1601](https://github.com/Ghost-chu/QuickShop-Reremake/issues/1601)
-9. {octicons/prOpened} **Pull request opened:** [purrbot-site/Docs#166](https://github.com/purrbot-site/Docs/pull/166)
-10. {octicons/prMerged} **Pull request merged:** [Andre601/blog#23](https://github.com/Andre601/blog/pull/23)
+1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/Docs#168](https://github.com/purrbot-site/Docs/pull/168)
+2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [purrbot-site/Docs#168](https://github.com/purrbot-site/Docs/pull/168)
+3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/Docs#167](https://github.com/purrbot-site/Docs/pull/167)
+4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [purrbot-site/Docs#167](https://github.com/purrbot-site/Docs/pull/167)
+5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/Docs#166](https://github.com/purrbot-site/Docs/pull/166)
+6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [CodingAir/WarpSystem-IssueTracker#667](https://github.com/CodingAir/WarpSystem-IssueTracker/issues/667)
+7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [CodingAir/WarpSystem-IssueTracker#666](https://github.com/CodingAir/WarpSystem-IssueTracker/issues/666)
+8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [Ghost-chu/QuickShop-Reremake#1601](https://github.com/Ghost-chu/QuickShop-Reremake/issues/1601)
+9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [purrbot-site/Docs#166](https://github.com/purrbot-site/Docs/pull/166)
+10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/blog#23](https://github.com/Andre601/blog/pull/23)
 <!--RECENT_ACTIVITY:end-->
 
 ## <img alt="emoji" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f517.svg" height="30em"> Links

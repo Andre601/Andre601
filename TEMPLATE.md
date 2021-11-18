@@ -37,16 +37,16 @@ The list is updates twice a day and includes opening and closing issues and open
 Last update: `18.11.2021 01:35:54 GMT+0100`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. {octicons/prMerged} **Pull request merged:** [Andre601/Spigot-Sounds#12](https://github.com/Andre601/Spigot-Sounds/pull/12)
-2. {octicons/prMerged} **Pull request merged:** [Andre601/blog#25](https://github.com/Andre601/blog/pull/25)
-3. {octicons/issueOpened} **Issue opened:** [ultrabug/mkdocs-static-i18n#69](https://github.com/ultrabug/mkdocs-static-i18n/issues/69)
-4. {octicons/repo} **Created Repository:** [Andre601/Discordia-wiki](https://github.com/Andre601/Discordia-wiki)
-5. {octicons/prOpened} **Pull request opened:** [fralau/mkdocs_macros_plugin#103](https://github.com/fralau/mkdocs_macros_plugin/pull/103)
-6. {octicons/forkedRepo} **Forked Repository:** [Andre601/mkdocs_macros_plugin](https://github.com/Andre601/mkdocs_macros_plugin) (From [fralau/mkdocs_macros_plugin](https://github.com/fralau/mkdocs_macros_plugin))
-7. {octicons/issueOpened} **Issue opened:** [andyoakley/mkdocs-jinja2#3](https://github.com/andyoakley/mkdocs-jinja2/issues/3)
-8. {octicons/prMerged} **Pull request merged:** [purrbot-site/Docs#168](https://github.com/purrbot-site/Docs/pull/168)
-9. {octicons/prOpened} **Pull request opened:** [purrbot-site/Docs#168](https://github.com/purrbot-site/Docs/pull/168)
-10. {octicons/prMerged} **Pull request merged:** [purrbot-site/Docs#167](https://github.com/purrbot-site/Docs/pull/167)
+1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/Spigot-Sounds#12](https://github.com/Andre601/Spigot-Sounds/pull/12)
+2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/blog#25](https://github.com/Andre601/blog/pull/25)
+3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [ultrabug/mkdocs-static-i18n#69](https://github.com/ultrabug/mkdocs-static-i18n/issues/69)
+4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) **Created Repository:** [Andre601/Discordia-wiki](https://github.com/Andre601/Discordia-wiki)
+5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [fralau/mkdocs_macros_plugin#103](https://github.com/fralau/mkdocs_macros_plugin/pull/103)
+6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) **Forked Repository:** [Andre601/mkdocs_macros_plugin](https://github.com/Andre601/mkdocs_macros_plugin) (From [fralau/mkdocs_macros_plugin](https://github.com/fralau/mkdocs_macros_plugin))
+7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [andyoakley/mkdocs-jinja2#3](https://github.com/andyoakley/mkdocs-jinja2/issues/3)
+8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/Docs#168](https://github.com/purrbot-site/Docs/pull/168)
+9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [purrbot-site/Docs#168](https://github.com/purrbot-site/Docs/pull/168)
+10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/Docs#167](https://github.com/purrbot-site/Docs/pull/167)
 <!--RECENT_ACTIVITY:end-->
 
 ## <img alt="emoji" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f517.svg" height="30em"> Links

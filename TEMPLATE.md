@@ -37,16 +37,16 @@ The list is updates twice a day and includes opening and closing issues and open
 Last update: `18.11.2021 13:21:21 GMT+0100`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. {octicons/prMerged} **Pull request merged:** [purrbot-site/Docs#169](https://github.com/purrbot-site/Docs/pull/169)
-2. {octicons/prMerged} **Pull request merged:** [Andre601/mkdocs-template#43](https://github.com/Andre601/mkdocs-template/pull/43)
-3. {octicons/prMerged} **Pull request merged:** [Andre601/Spigot-Sounds#12](https://github.com/Andre601/Spigot-Sounds/pull/12)
-4. {octicons/prMerged} **Pull request merged:** [Andre601/blog#25](https://github.com/Andre601/blog/pull/25)
-5. {octicons/issueOpened} **Issue opened:** [ultrabug/mkdocs-static-i18n#69](https://github.com/ultrabug/mkdocs-static-i18n/issues/69)
-6. {octicons/repo} **Created Repository:** [Andre601/Discordia-wiki](https://github.com/Andre601/Discordia-wiki)
-7. {octicons/prOpened} **Pull request opened:** [fralau/mkdocs_macros_plugin#103](https://github.com/fralau/mkdocs_macros_plugin/pull/103)
-8. {octicons/forkedRepo} **Forked Repository:** [Andre601/mkdocs_macros_plugin](https://github.com/Andre601/mkdocs_macros_plugin) (From [fralau/mkdocs_macros_plugin](https://github.com/fralau/mkdocs_macros_plugin))
-9. {octicons/issueOpened} **Issue opened:** [andyoakley/mkdocs-jinja2#3](https://github.com/andyoakley/mkdocs-jinja2/issues/3)
-10. {octicons/prMerged} **Pull request merged:** [purrbot-site/Docs#168](https://github.com/purrbot-site/Docs/pull/168)
+1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/Docs#169](https://github.com/purrbot-site/Docs/pull/169)
+2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/mkdocs-template#43](https://github.com/Andre601/mkdocs-template/pull/43)
+3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/Spigot-Sounds#12](https://github.com/Andre601/Spigot-Sounds/pull/12)
+4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/blog#25](https://github.com/Andre601/blog/pull/25)
+5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [ultrabug/mkdocs-static-i18n#69](https://github.com/ultrabug/mkdocs-static-i18n/issues/69)
+6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) **Created Repository:** [Andre601/Discordia-wiki](https://github.com/Andre601/Discordia-wiki)
+7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [fralau/mkdocs_macros_plugin#103](https://github.com/fralau/mkdocs_macros_plugin/pull/103)
+8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) **Forked Repository:** [Andre601/mkdocs_macros_plugin](https://github.com/Andre601/mkdocs_macros_plugin) (From [fralau/mkdocs_macros_plugin](https://github.com/fralau/mkdocs_macros_plugin))
+9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [andyoakley/mkdocs-jinja2#3](https://github.com/andyoakley/mkdocs-jinja2/issues/3)
+10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/Docs#168](https://github.com/purrbot-site/Docs/pull/168)
 <!--RECENT_ACTIVITY:end-->
 
 ## <img alt="emoji" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f517.svg" height="30em"> Links

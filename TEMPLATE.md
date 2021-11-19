@@ -37,16 +37,16 @@ The list is updates twice a day and includes opening and closing issues and open
 Last update: `19.11.2021 01:35:18 GMT+0100`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. {octicons/issueOpened} **Issue opened:** [LuckPerms/LuckPermsWeb#385](https://github.com/LuckPerms/LuckPermsWeb/issues/385)
-2. {octicons/issueOpened} **Issue opened:** [LuckPerms/wiki#125](https://github.com/LuckPerms/wiki/issues/125)
-3. {octicons/prOpened} **Pull request opened:** [HelpChat/Barry#85](https://github.com/HelpChat/Barry/pull/85)
-4. {octicons/prOpened} **Pull request opened:** [HelpChat/Barry#84](https://github.com/HelpChat/Barry/pull/84)
-5. {octicons/prOpened} **Pull request opened:** [HelpChat/Barry#83](https://github.com/HelpChat/Barry/pull/83)
-6. {octicons/prMerged} **Pull request merged:** [purrbot-site/Docs#169](https://github.com/purrbot-site/Docs/pull/169)
-7. {octicons/prMerged} **Pull request merged:** [Andre601/mkdocs-template#43](https://github.com/Andre601/mkdocs-template/pull/43)
-8. {octicons/prMerged} **Pull request merged:** [Andre601/Spigot-Sounds#12](https://github.com/Andre601/Spigot-Sounds/pull/12)
-9. {octicons/prMerged} **Pull request merged:** [Andre601/blog#25](https://github.com/Andre601/blog/pull/25)
-10. {octicons/issueOpened} **Issue opened:** [ultrabug/mkdocs-static-i18n#69](https://github.com/ultrabug/mkdocs-static-i18n/issues/69)
+1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [LuckPerms/LuckPermsWeb#385](https://github.com/LuckPerms/LuckPermsWeb/issues/385)
+2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [LuckPerms/wiki#125](https://github.com/LuckPerms/wiki/issues/125)
+3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [HelpChat/Barry#85](https://github.com/HelpChat/Barry/pull/85)
+4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [HelpChat/Barry#84](https://github.com/HelpChat/Barry/pull/84)
+5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [HelpChat/Barry#83](https://github.com/HelpChat/Barry/pull/83)
+6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/Docs#169](https://github.com/purrbot-site/Docs/pull/169)
+7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/mkdocs-template#43](https://github.com/Andre601/mkdocs-template/pull/43)
+8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/Spigot-Sounds#12](https://github.com/Andre601/Spigot-Sounds/pull/12)
+9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/blog#25](https://github.com/Andre601/blog/pull/25)
+10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [ultrabug/mkdocs-static-i18n#69](https://github.com/ultrabug/mkdocs-static-i18n/issues/69)
 <!--RECENT_ACTIVITY:end-->
 
 ## <img alt="emoji" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f517.svg" height="30em"> Links

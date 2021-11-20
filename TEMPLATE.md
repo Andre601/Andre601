@@ -37,16 +37,16 @@ The list is updates twice a day and includes opening and closing issues and open
 Last update: `20.11.2021 01:34:49 GMT+0100`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. {octicons/issueOpened} **Issue opened:** [CodingAir/WarpSystem-IssueTracker#668](https://github.com/CodingAir/WarpSystem-IssueTracker/issues/668)
-2. {octicons/prMerged} **Pull request merged:** [purrbot-site/Docs#171](https://github.com/purrbot-site/Docs/pull/171)
-3. {octicons/prOpened} **Pull request opened:** [purrbot-site/Docs#171](https://github.com/purrbot-site/Docs/pull/171)
-4. {octicons/prMerged} **Pull request merged:** [purrbot-site/Docs#170](https://github.com/purrbot-site/Docs/pull/170)
-5. {octicons/prOpened} **Pull request opened:** [purrbot-site/Docs#170](https://github.com/purrbot-site/Docs/pull/170)
-6. {octicons/issueOpened} **Issue opened:** [LuckPerms/LuckPermsWeb#385](https://github.com/LuckPerms/LuckPermsWeb/issues/385)
-7. {octicons/issueOpened} **Issue opened:** [LuckPerms/wiki#125](https://github.com/LuckPerms/wiki/issues/125)
-8. {octicons/prOpened} **Pull request opened:** [HelpChat/Barry#85](https://github.com/HelpChat/Barry/pull/85)
-9. {octicons/prOpened} **Pull request opened:** [HelpChat/Barry#84](https://github.com/HelpChat/Barry/pull/84)
-10. {octicons/prOpened} **Pull request opened:** [HelpChat/Barry#83](https://github.com/HelpChat/Barry/pull/83)
+1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [CodingAir/WarpSystem-IssueTracker#668](https://github.com/CodingAir/WarpSystem-IssueTracker/issues/668)
+2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/Docs#171](https://github.com/purrbot-site/Docs/pull/171)
+3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [purrbot-site/Docs#171](https://github.com/purrbot-site/Docs/pull/171)
+4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/Docs#170](https://github.com/purrbot-site/Docs/pull/170)
+5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [purrbot-site/Docs#170](https://github.com/purrbot-site/Docs/pull/170)
+6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [LuckPerms/LuckPermsWeb#385](https://github.com/LuckPerms/LuckPermsWeb/issues/385)
+7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [LuckPerms/wiki#125](https://github.com/LuckPerms/wiki/issues/125)
+8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [HelpChat/Barry#85](https://github.com/HelpChat/Barry/pull/85)
+9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [HelpChat/Barry#84](https://github.com/HelpChat/Barry/pull/84)
+10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [HelpChat/Barry#83](https://github.com/HelpChat/Barry/pull/83)
 <!--RECENT_ACTIVITY:end-->
 
 ## <img alt="emoji" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f517.svg" height="30em"> Links

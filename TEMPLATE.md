@@ -37,16 +37,16 @@ The list is updates twice a day and includes opening and closing issues and open
 Last update: `24.11.2021 01:35:28 GMT+0100`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. {octicons/issueClosed} **Issue closed:** [lukasgeiter/mkdocs-awesome-pages-plugin#55](https://github.com/lukasgeiter/mkdocs-awesome-pages-plugin/issues/55)
-2. {octicons/prMerged} **Pull request merged:** [purrbot-site/Docs#174](https://github.com/purrbot-site/Docs/pull/174)
-3. {octicons/prOpened} **Pull request opened:** [purrbot-site/Docs#174](https://github.com/purrbot-site/Docs/pull/174)
-4. {octicons/prMerged} **Pull request merged:** [Andre601/blog#26](https://github.com/Andre601/blog/pull/26)
-5. {octicons/prMerged} **Pull request merged:** [Andre601/Spigot-Sounds#13](https://github.com/Andre601/Spigot-Sounds/pull/13)
-6. {octicons/prOpened} **Pull request opened:** [Andre601/blog#26](https://github.com/Andre601/blog/pull/26)
-7. {octicons/forkedRepo} **Forked Repository:** [Andre601/Wiki-ItemsAdder](https://github.com/Andre601/Wiki-ItemsAdder) (From [LoneDev6/Wiki-ItemsAdder](https://github.com/LoneDev6/Wiki-ItemsAdder))
-8. {octicons/prMerged} **Pull request merged:** [purrbot-site/Docs#173](https://github.com/purrbot-site/Docs/pull/173)
-9. {octicons/prOpened} **Pull request opened:** [purrbot-site/Docs#173](https://github.com/purrbot-site/Docs/pull/173)
-10. {octicons/prMerged} **Pull request merged:** [Andre601/OneVersionRemake#115](https://github.com/Andre601/OneVersionRemake/pull/115)
+1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) **Issue closed:** [lukasgeiter/mkdocs-awesome-pages-plugin#55](https://github.com/lukasgeiter/mkdocs-awesome-pages-plugin/issues/55)
+2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/Docs#174](https://github.com/purrbot-site/Docs/pull/174)
+3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [purrbot-site/Docs#174](https://github.com/purrbot-site/Docs/pull/174)
+4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/blog#26](https://github.com/Andre601/blog/pull/26)
+5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/Spigot-Sounds#13](https://github.com/Andre601/Spigot-Sounds/pull/13)
+6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [Andre601/blog#26](https://github.com/Andre601/blog/pull/26)
+7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) **Forked Repository:** [Andre601/Wiki-ItemsAdder](https://github.com/Andre601/Wiki-ItemsAdder) (From [LoneDev6/Wiki-ItemsAdder](https://github.com/LoneDev6/Wiki-ItemsAdder))
+8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/Docs#173](https://github.com/purrbot-site/Docs/pull/173)
+9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [purrbot-site/Docs#173](https://github.com/purrbot-site/Docs/pull/173)
+10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/OneVersionRemake#115](https://github.com/Andre601/OneVersionRemake/pull/115)
 <!--RECENT_ACTIVITY:end-->
 
 ## <img alt="emoji" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f517.svg" height="30em"> Links

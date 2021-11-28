@@ -37,16 +37,16 @@ The list is updates twice a day and includes opening and closing issues and open
 Last update: `28.11.2021 13:15:20 GMT+0100`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. {octicons/issueClosed} **Issue closed:** [Sollace/Presence-Footsteps#108](https://github.com/Sollace/Presence-Footsteps/issues/108)
-2. {octicons/release} **Created Release:** [Andre601/Presence-Footsteps-x-Origin-RealmsUpdated icon](https://github.com/Andre601/Presence-Footsteps-x-Origin-Realms/releases/tag/1.0.1)
-3. {octicons/issueOpened} **Issue opened:** [LoneDev6/ChestCommands-ItemsAdder#4](https://github.com/LoneDev6/ChestCommands-ItemsAdder/issues/4)
-4. {octicons/issueOpened} **Issue opened:** [LoneDev6/ChestCommands-ItemsAdder#3](https://github.com/LoneDev6/ChestCommands-ItemsAdder/issues/3)
-5. {octicons/release} **Created Release:** [Andre601/Presence-Footsteps-x-Origin-Realmsfirst release](https://github.com/Andre601/Presence-Footsteps-x-Origin-Realms/releases/tag/1.0.0)
-6. {octicons/repo} **Created Repository:** [Andre601/Presence-Footsteps-x-Origin-Realms](https://github.com/Andre601/Presence-Footsteps-x-Origin-Realms)
-7. {octicons/issueOpened} **Issue opened:** [xelA/bucket#167](https://github.com/xelA/bucket/issues/167)
-8. {octicons/issueOpened} **Issue opened:** [xelA/bucket#166](https://github.com/xelA/bucket/issues/166)
-9. {octicons/forkedRepo} **Forked Repository:** [Andre601/Presence-Footsteps](https://github.com/Andre601/Presence-Footsteps) (From [Sollace/Presence-Footsteps](https://github.com/Sollace/Presence-Footsteps))
-10. {octicons/issueClosed} **Issue closed:** [PlaceholderAPI/PlaceholderAPI#751](https://github.com/PlaceholderAPI/PlaceholderAPI/issues/751)
+1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) **Issue closed:** [Sollace/Presence-Footsteps#108](https://github.com/Sollace/Presence-Footsteps/issues/108)
+2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg) **Created Release:** [Andre601/Presence-Footsteps-x-Origin-RealmsUpdated icon](https://github.com/Andre601/Presence-Footsteps-x-Origin-Realms/releases/tag/1.0.1)
+3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [LoneDev6/ChestCommands-ItemsAdder#4](https://github.com/LoneDev6/ChestCommands-ItemsAdder/issues/4)
+4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [LoneDev6/ChestCommands-ItemsAdder#3](https://github.com/LoneDev6/ChestCommands-ItemsAdder/issues/3)
+5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg) **Created Release:** [Andre601/Presence-Footsteps-x-Origin-Realmsfirst release](https://github.com/Andre601/Presence-Footsteps-x-Origin-Realms/releases/tag/1.0.0)
+6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) **Created Repository:** [Andre601/Presence-Footsteps-x-Origin-Realms](https://github.com/Andre601/Presence-Footsteps-x-Origin-Realms)
+7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [xelA/bucket#167](https://github.com/xelA/bucket/issues/167)
+8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [xelA/bucket#166](https://github.com/xelA/bucket/issues/166)
+9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) **Forked Repository:** [Andre601/Presence-Footsteps](https://github.com/Andre601/Presence-Footsteps) (From [Sollace/Presence-Footsteps](https://github.com/Sollace/Presence-Footsteps))
+10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) **Issue closed:** [PlaceholderAPI/PlaceholderAPI#751](https://github.com/PlaceholderAPI/PlaceholderAPI/issues/751)
 <!--RECENT_ACTIVITY:end-->
 
 ## <img alt="emoji" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f517.svg" height="30em"> Links

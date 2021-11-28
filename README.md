@@ -34,19 +34,19 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes opening and closing issues and opening, closing and merging Pull requests.
 
 <!--RECENT_ACTIVITY:last_update-->
-Last update: `27.11.2021 13:15:08 GMT+0100`
+Last update: `28.11.2021 01:36:44 GMT+0100`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) **Forked Repository:** [Andre601/Presence-Footsteps](https://github.com/Andre601/Presence-Footsteps) (From [Sollace/Presence-Footsteps](https://github.com/Sollace/Presence-Footsteps))
-2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) **Issue closed:** [PlaceholderAPI/PlaceholderAPI#751](https://github.com/PlaceholderAPI/PlaceholderAPI/issues/751)
-3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [LoneDev6/Wiki-ItemsAdder#21](https://github.com/LoneDev6/Wiki-ItemsAdder/pull/21)
-4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/andre601.github.io#12](https://github.com/Andre601/andre601.github.io/pull/12)
-5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [Andre601/andre601.github.io#12](https://github.com/Andre601/andre601.github.io/pull/12)
-6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#457](https://github.com/purrbot-site/PurrBot/pull/457)
-7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/BungeeTabListPlus#1](https://github.com/Andre601/BungeeTabListPlus/pull/1)
-8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) **Issue closed:** [lukasgeiter/mkdocs-awesome-pages-plugin#55](https://github.com/lukasgeiter/mkdocs-awesome-pages-plugin/issues/55)
-9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/Docs#174](https://github.com/purrbot-site/Docs/pull/174)
-10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [purrbot-site/Docs#174](https://github.com/purrbot-site/Docs/pull/174)
+1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [LoneDev6/ChestCommands-ItemsAdder#4](https://github.com/LoneDev6/ChestCommands-ItemsAdder/issues/4)
+2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [LoneDev6/ChestCommands-ItemsAdder#3](https://github.com/LoneDev6/ChestCommands-ItemsAdder/issues/3)
+3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg) **Created Release:** [Andre601/Presence-Footsteps-x-Origin-Realmsfirst release](https://github.com/Andre601/Presence-Footsteps-x-Origin-Realms/releases/tag/1.0.0)
+4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) **Created Repository:** [Andre601/Presence-Footsteps-x-Origin-Realms](https://github.com/Andre601/Presence-Footsteps-x-Origin-Realms)
+5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [xelA/bucket#167](https://github.com/xelA/bucket/issues/167)
+6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [xelA/bucket#166](https://github.com/xelA/bucket/issues/166)
+7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) **Forked Repository:** [Andre601/Presence-Footsteps](https://github.com/Andre601/Presence-Footsteps) (From [Sollace/Presence-Footsteps](https://github.com/Sollace/Presence-Footsteps))
+8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) **Issue closed:** [PlaceholderAPI/PlaceholderAPI#751](https://github.com/PlaceholderAPI/PlaceholderAPI/issues/751)
+9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [LoneDev6/Wiki-ItemsAdder#21](https://github.com/LoneDev6/Wiki-ItemsAdder/pull/21)
+10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/andre601.github.io#12](https://github.com/Andre601/andre601.github.io/pull/12)
 <!--RECENT_ACTIVITY:end-->
 
 ## <img alt="emoji" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f517.svg" height="30em"> Links

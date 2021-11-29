@@ -37,16 +37,16 @@ The list is updates twice a day and includes opening and closing issues and open
 Last update: `29.11.2021 13:16:40 GMT+0100`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. {octicons/prMerged} **Pull request merged:** [Andre601/OneVersionRemake#116](https://github.com/Andre601/OneVersionRemake/pull/116)
-2. {octicons/prMerged} **Pull request merged:** [purrbot-site/Docs#175](https://github.com/purrbot-site/Docs/pull/175)
-3. {octicons/prMerged} **Pull request merged:** [Andre601/mkdocs-template#44](https://github.com/Andre601/mkdocs-template/pull/44)
-4. {octicons/prMerged} **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#731](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/731)
-5. {octicons/prMerged} **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#753](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/753)
-6. {octicons/prOpened} **Pull request opened:** [PlaceholderAPI/PlaceholderAPI#753](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/753)
-7. {octicons/issueOpened} **Issue opened:** [KyoriPowered/adventure#584](https://github.com/KyoriPowered/adventure/issues/584)
-8. {octicons/issueOpened} **Issue opened:** [KyoriPowered/adventure#571](https://github.com/KyoriPowered/adventure/issues/571)
-9. {octicons/prMerged} **Pull request merged:** [Andre601/ArmorStand-Tools#2](https://github.com/Andre601/ArmorStand-Tools/pull/2)
-10. {octicons/issueClosed} **Issue closed:** [Sollace/Presence-Footsteps#108](https://github.com/Sollace/Presence-Footsteps/issues/108)
+1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/OneVersionRemake#116](https://github.com/Andre601/OneVersionRemake/pull/116)
+2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/Docs#175](https://github.com/purrbot-site/Docs/pull/175)
+3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/mkdocs-template#44](https://github.com/Andre601/mkdocs-template/pull/44)
+4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#731](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/731)
+5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#753](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/753)
+6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [PlaceholderAPI/PlaceholderAPI#753](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/753)
+7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [KyoriPowered/adventure#584](https://github.com/KyoriPowered/adventure/issues/584)
+8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [KyoriPowered/adventure#571](https://github.com/KyoriPowered/adventure/issues/571)
+9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/ArmorStand-Tools#2](https://github.com/Andre601/ArmorStand-Tools/pull/2)
+10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) **Issue closed:** [Sollace/Presence-Footsteps#108](https://github.com/Sollace/Presence-Footsteps/issues/108)
 <!--RECENT_ACTIVITY:end-->
 
 ## <img alt="emoji" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f517.svg" height="30em"> Links

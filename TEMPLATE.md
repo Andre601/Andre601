@@ -37,16 +37,16 @@ The list is updates twice a day and includes opening and closing issues and open
 Last update: `01.12.2021 01:37:57 GMT+0100`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. {octicons/prMerged} **Pull request merged:** [Andre601/Spigot-Sounds#16](https://github.com/Andre601/Spigot-Sounds/pull/16)
-2. {octicons/prMerged} **Pull request merged:** [Andre601/andre601.github.io#13](https://github.com/Andre601/andre601.github.io/pull/13)
-3. {octicons/prMerged} **Pull request merged:** [Andre601/OneVersionRemake#117](https://github.com/Andre601/OneVersionRemake/pull/117)
-4. {octicons/prMerged} **Pull request merged:** [Andre601/mkdocs-template#45](https://github.com/Andre601/mkdocs-template/pull/45)
-5. {octicons/prOpened} **Pull request opened:** [Andre601/andre601.github.io#13](https://github.com/Andre601/andre601.github.io/pull/13)
-6. {octicons/prMerged} **Pull request merged:** [purrbot-site/PurrBot#459](https://github.com/purrbot-site/PurrBot/pull/459)
-7. {octicons/prMerged} **Pull request merged:** [purrbot-site/Docs#176](https://github.com/purrbot-site/Docs/pull/176)
-8. {octicons/issueClosed} **Issue closed:** [PlaceholderAPI/PlaceholderAPI#756](https://github.com/PlaceholderAPI/PlaceholderAPI/issues/756)
-9. {octicons/forkedRepo} **Forked Repository:** [Andre601/DecentHolograms-Wiki](https://github.com/Andre601/DecentHolograms-Wiki) (From [DecentSoftware-eu/DecentHolograms-Wiki](https://github.com/DecentSoftware-eu/DecentHolograms-Wiki))
-10. {octicons/prMerged} **Pull request merged:** [Andre601/Spigot-Sounds#15](https://github.com/Andre601/Spigot-Sounds/pull/15)
+1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/Spigot-Sounds#16](https://github.com/Andre601/Spigot-Sounds/pull/16)
+2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/andre601.github.io#13](https://github.com/Andre601/andre601.github.io/pull/13)
+3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/OneVersionRemake#117](https://github.com/Andre601/OneVersionRemake/pull/117)
+4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/mkdocs-template#45](https://github.com/Andre601/mkdocs-template/pull/45)
+5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [Andre601/andre601.github.io#13](https://github.com/Andre601/andre601.github.io/pull/13)
+6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#459](https://github.com/purrbot-site/PurrBot/pull/459)
+7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/Docs#176](https://github.com/purrbot-site/Docs/pull/176)
+8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) **Issue closed:** [PlaceholderAPI/PlaceholderAPI#756](https://github.com/PlaceholderAPI/PlaceholderAPI/issues/756)
+9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) **Forked Repository:** [Andre601/DecentHolograms-Wiki](https://github.com/Andre601/DecentHolograms-Wiki) (From [DecentSoftware-eu/DecentHolograms-Wiki](https://github.com/DecentSoftware-eu/DecentHolograms-Wiki))
+10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/Spigot-Sounds#15](https://github.com/Andre601/Spigot-Sounds/pull/15)
 <!--RECENT_ACTIVITY:end-->
 
 ## <img alt="emoji" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f517.svg" height="30em"> Links

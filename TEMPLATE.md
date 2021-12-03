@@ -37,16 +37,16 @@ The list is updates twice a day and includes opening and closing issues and open
 Last update: `03.12.2021 13:16:28 GMT+0100`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. {octicons/prMerged} **Pull request merged:** [PowerPlugins/Plugin#46](https://github.com/PowerPlugins/Plugin/pull/46)
-2. {octicons/prMerged} **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#758](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/758)
-3. {octicons/prOpened} **Pull request opened:** [PlaceholderAPI/PlaceholderAPI#758](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/758)
-4. {octicons/prMerged} **Pull request merged:** [purrbot-site/Docs#178](https://github.com/purrbot-site/Docs/pull/178)
-5. {octicons/prMerged} **Pull request merged:** [Andre601/mkdocs-template#47](https://github.com/Andre601/mkdocs-template/pull/47)
-6. {octicons/prMerged} **Pull request merged:** [Andre601/Spigot-Sounds#17](https://github.com/Andre601/Spigot-Sounds/pull/17)
-7. {octicons/issueOpened} **Issue opened:** [IrisShaders/Iris#1042](https://github.com/IrisShaders/Iris/issues/1042)
-8. {octicons/prMerged} **Pull request merged:** [Andre601/OneVersionRemake#118](https://github.com/Andre601/OneVersionRemake/pull/118)
-9. {octicons/issueOpened} **Issue opened:** [Sollace/Presence-Footsteps#111](https://github.com/Sollace/Presence-Footsteps/issues/111)
-10. {octicons/prMerged} **Pull request merged:** [PowerPlugins/Plugin#45](https://github.com/PowerPlugins/Plugin/pull/45)
+1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [PowerPlugins/Plugin#46](https://github.com/PowerPlugins/Plugin/pull/46)
+2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#758](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/758)
+3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [PlaceholderAPI/PlaceholderAPI#758](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/758)
+4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/Docs#178](https://github.com/purrbot-site/Docs/pull/178)
+5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/mkdocs-template#47](https://github.com/Andre601/mkdocs-template/pull/47)
+6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/Spigot-Sounds#17](https://github.com/Andre601/Spigot-Sounds/pull/17)
+7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [IrisShaders/Iris#1042](https://github.com/IrisShaders/Iris/issues/1042)
+8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/OneVersionRemake#118](https://github.com/Andre601/OneVersionRemake/pull/118)
+9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [Sollace/Presence-Footsteps#111](https://github.com/Sollace/Presence-Footsteps/issues/111)
+10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [PowerPlugins/Plugin#45](https://github.com/PowerPlugins/Plugin/pull/45)
 <!--RECENT_ACTIVITY:end-->
 
 ## <img alt="emoji" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f517.svg" height="30em"> Links

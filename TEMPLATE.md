@@ -37,16 +37,16 @@ The list is updates twice a day and includes opening and closing issues and open
 Last update: `04.12.2021 01:35:59 GMT+0100`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. {octicons/prMerged} **Pull request merged:** [purrbot-site/PurrBot#461](https://github.com/purrbot-site/PurrBot/pull/461)
-2. {octicons/prMerged} **Pull request merged:** [purrbot-site/PurrBot#460](https://github.com/purrbot-site/PurrBot/pull/460)
-3. {octicons/prMerged} **Pull request merged:** [PowerPlugins/Plugin#46](https://github.com/PowerPlugins/Plugin/pull/46)
-4. {octicons/prMerged} **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#758](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/758)
-5. {octicons/prOpened} **Pull request opened:** [PlaceholderAPI/PlaceholderAPI#758](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/758)
-6. {octicons/prMerged} **Pull request merged:** [purrbot-site/Docs#178](https://github.com/purrbot-site/Docs/pull/178)
-7. {octicons/prMerged} **Pull request merged:** [Andre601/mkdocs-template#47](https://github.com/Andre601/mkdocs-template/pull/47)
-8. {octicons/prMerged} **Pull request merged:** [Andre601/Spigot-Sounds#17](https://github.com/Andre601/Spigot-Sounds/pull/17)
-9. {octicons/issueOpened} **Issue opened:** [IrisShaders/Iris#1042](https://github.com/IrisShaders/Iris/issues/1042)
-10. {octicons/prMerged} **Pull request merged:** [Andre601/OneVersionRemake#118](https://github.com/Andre601/OneVersionRemake/pull/118)
+1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#461](https://github.com/purrbot-site/PurrBot/pull/461)
+2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#460](https://github.com/purrbot-site/PurrBot/pull/460)
+3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [PowerPlugins/Plugin#46](https://github.com/PowerPlugins/Plugin/pull/46)
+4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#758](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/758)
+5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [PlaceholderAPI/PlaceholderAPI#758](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/758)
+6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/Docs#178](https://github.com/purrbot-site/Docs/pull/178)
+7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/mkdocs-template#47](https://github.com/Andre601/mkdocs-template/pull/47)
+8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/Spigot-Sounds#17](https://github.com/Andre601/Spigot-Sounds/pull/17)
+9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [IrisShaders/Iris#1042](https://github.com/IrisShaders/Iris/issues/1042)
+10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/OneVersionRemake#118](https://github.com/Andre601/OneVersionRemake/pull/118)
 <!--RECENT_ACTIVITY:end-->
 
 ## <img alt="emoji" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f517.svg" height="30em"> Links

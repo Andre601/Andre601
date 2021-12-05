@@ -37,16 +37,16 @@ The list is updates twice a day and includes opening and closing issues and open
 Last update: `05.12.2021 13:15:40 GMT+0100`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. {octicons/prOpened} **Pull request opened:** [Chew/JDA-Chewtils#38](https://github.com/Chew/JDA-Chewtils/pull/38)
-2. {octicons/prOpened} **Pull request opened:** [DecentSoftware-eu/DecentHolograms#5](https://github.com/DecentSoftware-eu/DecentHolograms/pull/5)
-3. {octicons/prOpened} **Pull request opened:** [DecentSoftware-eu/DecentHolograms#4](https://github.com/DecentSoftware-eu/DecentHolograms/pull/4)
-4. {octicons/forkedRepo} **Forked Repository:** [Andre601/DecentHolograms](https://github.com/Andre601/DecentHolograms) (From [DecentSoftware-eu/DecentHolograms](https://github.com/DecentSoftware-eu/DecentHolograms))
-5. {octicons/prMerged} **Pull request merged:** [purrbot-site/PurrBot#461](https://github.com/purrbot-site/PurrBot/pull/461)
-6. {octicons/prMerged} **Pull request merged:** [purrbot-site/PurrBot#460](https://github.com/purrbot-site/PurrBot/pull/460)
-7. {octicons/prMerged} **Pull request merged:** [PowerPlugins/Plugin#46](https://github.com/PowerPlugins/Plugin/pull/46)
-8. {octicons/prMerged} **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#758](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/758)
-9. {octicons/prOpened} **Pull request opened:** [PlaceholderAPI/PlaceholderAPI#758](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/758)
-10. {octicons/prMerged} **Pull request merged:** [purrbot-site/Docs#178](https://github.com/purrbot-site/Docs/pull/178)
+1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [Chew/JDA-Chewtils#38](https://github.com/Chew/JDA-Chewtils/pull/38)
+2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [DecentSoftware-eu/DecentHolograms#5](https://github.com/DecentSoftware-eu/DecentHolograms/pull/5)
+3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [DecentSoftware-eu/DecentHolograms#4](https://github.com/DecentSoftware-eu/DecentHolograms/pull/4)
+4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) **Forked Repository:** [Andre601/DecentHolograms](https://github.com/Andre601/DecentHolograms) (From [DecentSoftware-eu/DecentHolograms](https://github.com/DecentSoftware-eu/DecentHolograms))
+5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#461](https://github.com/purrbot-site/PurrBot/pull/461)
+6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#460](https://github.com/purrbot-site/PurrBot/pull/460)
+7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [PowerPlugins/Plugin#46](https://github.com/PowerPlugins/Plugin/pull/46)
+8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#758](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/758)
+9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [PlaceholderAPI/PlaceholderAPI#758](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/758)
+10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/Docs#178](https://github.com/purrbot-site/Docs/pull/178)
 <!--RECENT_ACTIVITY:end-->
 
 ## <img alt="emoji" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f517.svg" height="30em"> Links

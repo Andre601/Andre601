@@ -37,16 +37,16 @@ The list is updates twice a day and includes opening and closing issues and open
 Last update: `06.12.2021 01:37:30 GMT+0100`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. {octicons/prOpened} **Pull request opened:** [DV8FromTheWorld/JDA#1938](https://github.com/DV8FromTheWorld/JDA/pull/1938)
-2. {octicons/prOpened} **Pull request opened:** [Chew/JDA-Chewtils#38](https://github.com/Chew/JDA-Chewtils/pull/38)
-3. {octicons/prOpened} **Pull request opened:** [DecentSoftware-eu/DecentHolograms#5](https://github.com/DecentSoftware-eu/DecentHolograms/pull/5)
-4. {octicons/prOpened} **Pull request opened:** [DecentSoftware-eu/DecentHolograms#4](https://github.com/DecentSoftware-eu/DecentHolograms/pull/4)
-5. {octicons/forkedRepo} **Forked Repository:** [Andre601/DecentHolograms](https://github.com/Andre601/DecentHolograms) (From [DecentSoftware-eu/DecentHolograms](https://github.com/DecentSoftware-eu/DecentHolograms))
-6. {octicons/prMerged} **Pull request merged:** [purrbot-site/PurrBot#461](https://github.com/purrbot-site/PurrBot/pull/461)
-7. {octicons/prMerged} **Pull request merged:** [purrbot-site/PurrBot#460](https://github.com/purrbot-site/PurrBot/pull/460)
-8. {octicons/prMerged} **Pull request merged:** [PowerPlugins/Plugin#46](https://github.com/PowerPlugins/Plugin/pull/46)
-9. {octicons/prMerged} **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#758](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/758)
-10. {octicons/prOpened} **Pull request opened:** [PlaceholderAPI/PlaceholderAPI#758](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/758)
+1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [DV8FromTheWorld/JDA#1938](https://github.com/DV8FromTheWorld/JDA/pull/1938)
+2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [Chew/JDA-Chewtils#38](https://github.com/Chew/JDA-Chewtils/pull/38)
+3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [DecentSoftware-eu/DecentHolograms#5](https://github.com/DecentSoftware-eu/DecentHolograms/pull/5)
+4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [DecentSoftware-eu/DecentHolograms#4](https://github.com/DecentSoftware-eu/DecentHolograms/pull/4)
+5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) **Forked Repository:** [Andre601/DecentHolograms](https://github.com/Andre601/DecentHolograms) (From [DecentSoftware-eu/DecentHolograms](https://github.com/DecentSoftware-eu/DecentHolograms))
+6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#461](https://github.com/purrbot-site/PurrBot/pull/461)
+7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#460](https://github.com/purrbot-site/PurrBot/pull/460)
+8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [PowerPlugins/Plugin#46](https://github.com/PowerPlugins/Plugin/pull/46)
+9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#758](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/758)
+10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [PlaceholderAPI/PlaceholderAPI#758](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/758)
 <!--RECENT_ACTIVITY:end-->
 
 ## <img alt="emoji" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f517.svg" height="30em"> Links

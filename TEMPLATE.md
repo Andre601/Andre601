@@ -37,16 +37,16 @@ The list is updates twice a day and includes opening and closing issues and open
 Last update: `10.12.2021 01:37:32 GMT+0100`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. {octicons/prMerged} **Pull request merged:** [Andre601/Spigot-Sounds#19](https://github.com/Andre601/Spigot-Sounds/pull/19)
-2. {octicons/issueClosed} **Issue closed:** [PlaceholderAPI/PlaceholderAPI#761](https://github.com/PlaceholderAPI/PlaceholderAPI/issues/761)
-3. {octicons/prMerged} **Pull request merged:** [Andre601/mkdocs-template#49](https://github.com/Andre601/mkdocs-template/pull/49)
-4. {octicons/prMerged} **Pull request merged:** [Andre601/Spigot-Sounds#18](https://github.com/Andre601/Spigot-Sounds/pull/18)
-5. {octicons/prMerged} **Pull request merged:** [purrbot-site/PurrBot#463](https://github.com/purrbot-site/PurrBot/pull/463)
-6. {octicons/prMerged} **Pull request merged:** [purrbot-site/PurrBot#462](https://github.com/purrbot-site/PurrBot/pull/462)
-7. {octicons/prMerged} **Pull request merged:** [purrbot-site/Docs#179](https://github.com/purrbot-site/Docs/pull/179)
-8. {octicons/prMerged} **Pull request merged:** [Andre601/mkdocs-template#48](https://github.com/Andre601/mkdocs-template/pull/48)
-9. {octicons/prOpened} **Pull request opened:** [DV8FromTheWorld/JDA#1938](https://github.com/DV8FromTheWorld/JDA/pull/1938)
-10. {octicons/prOpened} **Pull request opened:** [Chew/JDA-Chewtils#38](https://github.com/Chew/JDA-Chewtils/pull/38)
+1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/Spigot-Sounds#19](https://github.com/Andre601/Spigot-Sounds/pull/19)
+2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) **Issue closed:** [PlaceholderAPI/PlaceholderAPI#761](https://github.com/PlaceholderAPI/PlaceholderAPI/issues/761)
+3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/mkdocs-template#49](https://github.com/Andre601/mkdocs-template/pull/49)
+4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/Spigot-Sounds#18](https://github.com/Andre601/Spigot-Sounds/pull/18)
+5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#463](https://github.com/purrbot-site/PurrBot/pull/463)
+6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#462](https://github.com/purrbot-site/PurrBot/pull/462)
+7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/Docs#179](https://github.com/purrbot-site/Docs/pull/179)
+8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/mkdocs-template#48](https://github.com/Andre601/mkdocs-template/pull/48)
+9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [DV8FromTheWorld/JDA#1938](https://github.com/DV8FromTheWorld/JDA/pull/1938)
+10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [Chew/JDA-Chewtils#38](https://github.com/Chew/JDA-Chewtils/pull/38)
 <!--RECENT_ACTIVITY:end-->
 
 ## <img alt="emoji" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f517.svg" height="30em"> Links

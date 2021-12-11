@@ -34,19 +34,19 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes opening and closing issues and opening, closing and merging Pull requests.
 
 <!--RECENT_ACTIVITY:last_update-->
-Last update: `11.12.2021 01:35:13 GMT+0100`
+Last update: `11.12.2021 13:15:44 GMT+0100`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/blog#28](https://github.com/Andre601/blog/pull/28)
-2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [squidfunk/mkdocs-material#3329](https://github.com/squidfunk/mkdocs-material/pull/3329)
-3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/Spigot-Sounds#20](https://github.com/Andre601/Spigot-Sounds/pull/20)
-4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/Spigot-Sounds#19](https://github.com/Andre601/Spigot-Sounds/pull/19)
-5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) **Issue closed:** [PlaceholderAPI/PlaceholderAPI#761](https://github.com/PlaceholderAPI/PlaceholderAPI/issues/761)
-6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/mkdocs-template#49](https://github.com/Andre601/mkdocs-template/pull/49)
-7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/Spigot-Sounds#18](https://github.com/Andre601/Spigot-Sounds/pull/18)
-8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#463](https://github.com/purrbot-site/PurrBot/pull/463)
-9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#462](https://github.com/purrbot-site/PurrBot/pull/462)
-10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/Docs#179](https://github.com/purrbot-site/Docs/pull/179)
+1. {octicons/prMerged} **Pull request merged:** [Andre601/blog#28](https://github.com/Andre601/blog/pull/28)
+2. {octicons/prOpened} **Pull request opened:** [squidfunk/mkdocs-material#3329](https://github.com/squidfunk/mkdocs-material/pull/3329)
+3. {octicons/prMerged} **Pull request merged:** [Andre601/Spigot-Sounds#20](https://github.com/Andre601/Spigot-Sounds/pull/20)
+4. {octicons/prMerged} **Pull request merged:** [Andre601/Spigot-Sounds#19](https://github.com/Andre601/Spigot-Sounds/pull/19)
+5. {octicons/issueClosed} **Issue closed:** [PlaceholderAPI/PlaceholderAPI#761](https://github.com/PlaceholderAPI/PlaceholderAPI/issues/761)
+6. {octicons/prMerged} **Pull request merged:** [Andre601/mkdocs-template#49](https://github.com/Andre601/mkdocs-template/pull/49)
+7. {octicons/prMerged} **Pull request merged:** [Andre601/Spigot-Sounds#18](https://github.com/Andre601/Spigot-Sounds/pull/18)
+8. {octicons/prMerged} **Pull request merged:** [purrbot-site/PurrBot#463](https://github.com/purrbot-site/PurrBot/pull/463)
+9. {octicons/prMerged} **Pull request merged:** [purrbot-site/PurrBot#462](https://github.com/purrbot-site/PurrBot/pull/462)
+10. {octicons/prMerged} **Pull request merged:** [purrbot-site/Docs#179](https://github.com/purrbot-site/Docs/pull/179)
 <!--RECENT_ACTIVITY:end-->
 
 ## <img alt="emoji" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f517.svg" height="30em"> Links

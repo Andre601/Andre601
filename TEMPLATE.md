@@ -34,19 +34,19 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes opening and closing issues and opening, closing and merging Pull requests.
 
 <!--RECENT_ACTIVITY:last_update-->
-Last update: `14.12.2021 01:39:22 GMT+0100`
+Last update: `14.12.2021 13:16:32 GMT+0100`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/Spigot-Sounds#21](https://github.com/Andre601/Spigot-Sounds/pull/21)
-2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#464](https://github.com/purrbot-site/PurrBot/pull/464)
-3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [PluginBugs/Issues-ItemsAdder#1353](https://github.com/PluginBugs/Issues-ItemsAdder/issues/1353)
-4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) **Issue closed:** [dmulloy2/ProtocolLib#1406](https://github.com/dmulloy2/ProtocolLib/issues/1406)
-5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [PowerPlugins/Plugin#48](https://github.com/PowerPlugins/Plugin/pull/48)
-6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [PowerPlugins/Plugin#47](https://github.com/PowerPlugins/Plugin/pull/47)
-7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/Docs#181](https://github.com/purrbot-site/Docs/pull/181)
-8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/mkdocs-template#50](https://github.com/Andre601/mkdocs-template/pull/50)
-9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [DV8FromTheWorld/JDA-Website#1](https://github.com/DV8FromTheWorld/JDA-Website/pull/1)
-10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) **Forked Repository:** [Andre601/JDA-Website](https://github.com/Andre601/JDA-Website) (From [DV8FromTheWorld/JDA-Website](https://github.com/DV8FromTheWorld/JDA-Website))
+1. {octicons/requestedChanges} **2 changes requested:** [botblock/discord-botlist-best-practices#16](https://github.com/botblock/discord-botlist-best-practices/pull/16#pullrequestreview-831396990)
+2. {octicons/prMerged} **Pull request merged:** [purrbot-site/Docs#182](https://github.com/purrbot-site/Docs/pull/182)
+3. {octicons/approved} **Approved Changes:** [botblock/.github#1](https://github.com/botblock/.github/pull/1#pullrequestreview-831231218)
+4. {octicons/prMerged} **Pull request merged:** [Andre601/mkdocs-template#51](https://github.com/Andre601/mkdocs-template/pull/51)
+5. {octicons/prMerged} **Pull request merged:** [Andre601/Spigot-Sounds#21](https://github.com/Andre601/Spigot-Sounds/pull/21)
+6. {octicons/prMerged} **Pull request merged:** [purrbot-site/PurrBot#464](https://github.com/purrbot-site/PurrBot/pull/464)
+7. {octicons/issueOpened} **Issue opened:** [PluginBugs/Issues-ItemsAdder#1353](https://github.com/PluginBugs/Issues-ItemsAdder/issues/1353)
+8. {octicons/issueClosed} **Issue closed:** [dmulloy2/ProtocolLib#1406](https://github.com/dmulloy2/ProtocolLib/issues/1406)
+9. {octicons/prMerged} **Pull request merged:** [PowerPlugins/Plugin#48](https://github.com/PowerPlugins/Plugin/pull/48)
+10. {octicons/prMerged} **Pull request merged:** [PowerPlugins/Plugin#47](https://github.com/PowerPlugins/Plugin/pull/47)
 <!--RECENT_ACTIVITY:end-->
 
 ## <img alt="emoji" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f517.svg" height="30em"> Links

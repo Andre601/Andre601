@@ -34,19 +34,19 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes opening and closing issues and opening, closing and merging Pull requests.
 
 <!--RECENT_ACTIVITY:last_update-->
-Last update: `15.12.2021 01:36:39 GMT+0100`
+Last update: `15.12.2021 13:16:48 GMT+0100`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [DecentSoftware-eu/DecentHolograms#9](https://github.com/DecentSoftware-eu/DecentHolograms/pull/9)
-2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [liang2kl/mkdocs-blogging-plugin#7](https://github.com/liang2kl/mkdocs-blogging-plugin/issues/7)
-3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [liang2kl/mkdocs-blogging-plugin#6](https://github.com/liang2kl/mkdocs-blogging-plugin/pull/6)
-4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) **Forked Repository:** [Andre601/mkdocs-blogging-plugin](https://github.com/Andre601/mkdocs-blogging-plugin) (From [liang2kl/mkdocs-blogging-plugin](https://github.com/liang2kl/mkdocs-blogging-plugin))
-5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [Andre601/blog#29](https://github.com/Andre601/blog/pull/29)
-6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [andyoakley/mkdocs-blog#5](https://github.com/andyoakley/mkdocs-blog/issues/5)
-7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [andyoakley/mkdocs-blog#4](https://github.com/andyoakley/mkdocs-blog/pull/4)
-8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) **Forked Repository:** [Andre601/mkdocs-blog](https://github.com/Andre601/mkdocs-blog) (From [andyoakley/mkdocs-blog](https://github.com/andyoakley/mkdocs-blog))
-9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#465](https://github.com/purrbot-site/PurrBot/pull/465)
-10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) **1 changes requested:** [botblock/discord-botlist-best-practices#16](https://github.com/botblock/discord-botlist-best-practices/pull/16#pullrequestreview-831396990)
+1. {octicons/prMerged} **Pull request merged:** [Andre601/blog#29](https://github.com/Andre601/blog/pull/29)
+2. {octicons/prOpened} **Pull request opened:** [DecentSoftware-eu/DecentHolograms#9](https://github.com/DecentSoftware-eu/DecentHolograms/pull/9)
+3. {octicons/issueOpened} **Issue opened:** [liang2kl/mkdocs-blogging-plugin#7](https://github.com/liang2kl/mkdocs-blogging-plugin/issues/7)
+4. {octicons/prOpened} **Pull request opened:** [liang2kl/mkdocs-blogging-plugin#6](https://github.com/liang2kl/mkdocs-blogging-plugin/pull/6)
+5. {octicons/forkedRepo} **Forked Repository:** [Andre601/mkdocs-blogging-plugin](https://github.com/Andre601/mkdocs-blogging-plugin) (From [liang2kl/mkdocs-blogging-plugin](https://github.com/liang2kl/mkdocs-blogging-plugin))
+6. {octicons/prOpened} **Pull request opened:** [Andre601/blog#29](https://github.com/Andre601/blog/pull/29)
+7. {octicons/issueOpened} **Issue opened:** [andyoakley/mkdocs-blog#5](https://github.com/andyoakley/mkdocs-blog/issues/5)
+8. {octicons/prOpened} **Pull request opened:** [andyoakley/mkdocs-blog#4](https://github.com/andyoakley/mkdocs-blog/pull/4)
+9. {octicons/forkedRepo} **Forked Repository:** [Andre601/mkdocs-blog](https://github.com/Andre601/mkdocs-blog) (From [andyoakley/mkdocs-blog](https://github.com/andyoakley/mkdocs-blog))
+10. {octicons/prMerged} **Pull request merged:** [purrbot-site/PurrBot#465](https://github.com/purrbot-site/PurrBot/pull/465)
 <!--RECENT_ACTIVITY:end-->
 
 ## <img alt="emoji" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f517.svg" height="30em"> Links

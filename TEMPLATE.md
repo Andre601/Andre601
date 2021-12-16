@@ -37,16 +37,16 @@ The list is updates twice a day and includes opening and closing issues and open
 Last update: `16.12.2021 01:37:10 GMT+0100`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. {octicons/prMerged} **Pull request merged:** [Andre601/blog#31](https://github.com/Andre601/blog/pull/31)
-2. {octicons/star} **Starred** [christopherwalkerml/DeepStoragePlus](https://github.com/christopherwalkerml/DeepStoragePlus)
-3. {octicons/forkedRepo} **Forked Repository:** [Andre601/DeepStoragePlus](https://github.com/Andre601/DeepStoragePlus) (From [christopherwalkerml/DeepStoragePlus](https://github.com/christopherwalkerml/DeepStoragePlus))
-4. {octicons/star} **Starred** [christopherwalkerml/DeepStoragePlus](https://github.com/christopherwalkerml/DeepStoragePlus)
-5. {octicons/prOpened} **Pull request opened:** [Andre601/blog#30](https://github.com/Andre601/blog/pull/30)
-6. {octicons/issueClosed} **Issue closed:** [liang2kl/mkdocs-blogging-plugin#7](https://github.com/liang2kl/mkdocs-blogging-plugin/issues/7)
-7. {octicons/prMerged} **Pull request merged:** [Andre601/blog#29](https://github.com/Andre601/blog/pull/29)
-8. {octicons/prOpened} **Pull request opened:** [DecentSoftware-eu/DecentHolograms#9](https://github.com/DecentSoftware-eu/DecentHolograms/pull/9)
-9. {octicons/issueOpened} **Issue opened:** [liang2kl/mkdocs-blogging-plugin#7](https://github.com/liang2kl/mkdocs-blogging-plugin/issues/7)
-10. {octicons/prOpened} **Pull request opened:** [liang2kl/mkdocs-blogging-plugin#6](https://github.com/liang2kl/mkdocs-blogging-plugin/pull/6)
+1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/blog#31](https://github.com/Andre601/blog/pull/31)
+2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepository.svg) **Starred** [christopherwalkerml/DeepStoragePlus](https://github.com/christopherwalkerml/DeepStoragePlus)
+3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) **Forked Repository:** [Andre601/DeepStoragePlus](https://github.com/Andre601/DeepStoragePlus) (From [christopherwalkerml/DeepStoragePlus](https://github.com/christopherwalkerml/DeepStoragePlus))
+4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepository.svg) **Starred** [christopherwalkerml/DeepStoragePlus](https://github.com/christopherwalkerml/DeepStoragePlus)
+5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [Andre601/blog#30](https://github.com/Andre601/blog/pull/30)
+6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) **Issue closed:** [liang2kl/mkdocs-blogging-plugin#7](https://github.com/liang2kl/mkdocs-blogging-plugin/issues/7)
+7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/blog#29](https://github.com/Andre601/blog/pull/29)
+8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [DecentSoftware-eu/DecentHolograms#9](https://github.com/DecentSoftware-eu/DecentHolograms/pull/9)
+9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [liang2kl/mkdocs-blogging-plugin#7](https://github.com/liang2kl/mkdocs-blogging-plugin/issues/7)
+10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [liang2kl/mkdocs-blogging-plugin#6](https://github.com/liang2kl/mkdocs-blogging-plugin/pull/6)
 <!--RECENT_ACTIVITY:end-->
 
 ## <img alt="emoji" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f517.svg" height="30em"> Links

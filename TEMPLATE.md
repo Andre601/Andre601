@@ -34,19 +34,19 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes opening and closing issues and opening, closing and merging Pull requests.
 
 <!--RECENT_ACTIVITY:last_update-->
-Last update: `16.12.2021 13:16:55 GMT+0100`
+Last update: `17.12.2021 01:39:21 GMT+0100`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/Docs#183](https://github.com/purrbot-site/Docs/pull/183)
-2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/mkdocs-template#52](https://github.com/Andre601/mkdocs-template/pull/52)
-3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) **Pull request closed:** [PlaceholderAPI/PlaceholderAPI#764](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/764)
-4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/Spigot-Sounds#22](https://github.com/Andre601/Spigot-Sounds/pull/22)
-5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [christopherwalkerml/DeepStoragePlus#10](https://github.com/christopherwalkerml/DeepStoragePlus/pull/10)
-6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/blog#31](https://github.com/Andre601/blog/pull/31)
-7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepository.svg) **Starred** [christopherwalkerml/DeepStoragePlus](https://github.com/christopherwalkerml/DeepStoragePlus)
-8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) **Forked Repository:** [Andre601/DeepStoragePlus](https://github.com/Andre601/DeepStoragePlus) (From [christopherwalkerml/DeepStoragePlus](https://github.com/christopherwalkerml/DeepStoragePlus))
-9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepository.svg) **Starred** [christopherwalkerml/DeepStoragePlus](https://github.com/christopherwalkerml/DeepStoragePlus)
-10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [Andre601/blog#30](https://github.com/Andre601/blog/pull/30)
+1. {octicons/prMerged} **Pull request merged:** [Andre601/DeepStoragePlus#1](https://github.com/Andre601/DeepStoragePlus/pull/1)
+2. {octicons/prOpened} **Pull request opened:** [Andre601/DeepStoragePlus#1](https://github.com/Andre601/DeepStoragePlus/pull/1)
+3. {octicons/prMerged} **Pull request merged:** [Andre601/StatusNPC#5](https://github.com/Andre601/StatusNPC/pull/5)
+4. {octicons/prMerged} **Pull request merged:** [purrbot-site/Docs#183](https://github.com/purrbot-site/Docs/pull/183)
+5. {octicons/prMerged} **Pull request merged:** [Andre601/mkdocs-template#52](https://github.com/Andre601/mkdocs-template/pull/52)
+6. {octicons/prClosed} **Pull request closed:** [PlaceholderAPI/PlaceholderAPI#764](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/764)
+7. {octicons/prMerged} **Pull request merged:** [Andre601/Spigot-Sounds#22](https://github.com/Andre601/Spigot-Sounds/pull/22)
+8. {octicons/prOpened} **Pull request opened:** [christopherwalkerml/DeepStoragePlus#10](https://github.com/christopherwalkerml/DeepStoragePlus/pull/10)
+9. {octicons/prMerged} **Pull request merged:** [Andre601/blog#31](https://github.com/Andre601/blog/pull/31)
+10. {octicons/star} **Starred** [christopherwalkerml/DeepStoragePlus](https://github.com/christopherwalkerml/DeepStoragePlus)
 <!--RECENT_ACTIVITY:end-->
 
 ## <img alt="emoji" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f517.svg" height="30em"> Links

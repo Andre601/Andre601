@@ -34,19 +34,19 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes opening and closing issues and opening, closing and merging Pull requests.
 
 <!--RECENT_ACTIVITY:last_update-->
-Last update: `19.12.2021 13:16:26 GMT+0100`
+Last update: `20.12.2021 01:38:40 GMT+0100`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [Andre601/Andre601#12](https://github.com/Andre601/Andre601/pull/12)
-2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [botblock/botblock.github.io#4](https://github.com/botblock/botblock.github.io/issues/4)
-3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) **Issue closed:** [tr7zw/3d-Skin-Layers#28](https://github.com/tr7zw/3d-Skin-Layers/issues/28)
-4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [tr7zw/3d-Skin-Layers#28](https://github.com/tr7zw/3d-Skin-Layers/issues/28)
-5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) **Approved Changes:** [botblock/discord-botlist-best-practices#16](https://github.com/botblock/discord-botlist-best-practices/pull/16#pullrequestreview-835757355)
-6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [IrisShaders/Iris#1105](https://github.com/IrisShaders/Iris/pull/1105)
-7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) **Forked Repository:** [Andre601/Iris](https://github.com/Andre601/Iris) (From [IrisShaders/Iris](https://github.com/IrisShaders/Iris))
-8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#466](https://github.com/purrbot-site/PurrBot/pull/466)
-9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#467](https://github.com/purrbot-site/PurrBot/pull/467)
-10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/DeepStoragePlus#1](https://github.com/Andre601/DeepStoragePlus/pull/1)
+1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) **Pull request closed:** [PlaceholderAPI/PlaceholderAPI#768](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/768)
+2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) **Approved Changes:** [PlaceholderAPI/PlaceholderAPI#766](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/766#pullrequestreview-835886322)
+3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [Sollace/Presence-Footsteps#117](https://github.com/Sollace/Presence-Footsteps/issues/117)
+4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [Andre601/Andre601#12](https://github.com/Andre601/Andre601/pull/12)
+5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [botblock/botblock.github.io#4](https://github.com/botblock/botblock.github.io/issues/4)
+6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) **Issue closed:** [tr7zw/3d-Skin-Layers#28](https://github.com/tr7zw/3d-Skin-Layers/issues/28)
+7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [tr7zw/3d-Skin-Layers#28](https://github.com/tr7zw/3d-Skin-Layers/issues/28)
+8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) **Approved Changes:** [botblock/discord-botlist-best-practices#16](https://github.com/botblock/discord-botlist-best-practices/pull/16#pullrequestreview-835757355)
+9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [IrisShaders/Iris#1105](https://github.com/IrisShaders/Iris/pull/1105)
+10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) **Forked Repository:** [Andre601/Iris](https://github.com/Andre601/Iris) (From [IrisShaders/Iris](https://github.com/IrisShaders/Iris))
 <!--RECENT_ACTIVITY:end-->
 
 ## <img alt="emoji" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f517.svg" height="30em"> Links

@@ -37,16 +37,16 @@ The list is updates twice a day and includes opening and closing issues and open
 Last update: `21.12.2021 01:40:11 GMT+0100`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. {octicons/prMerged} **Pull request merged:** [Andre601/blog#32](https://github.com/Andre601/blog/pull/32)
-2. {octicons/prMerged} **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#770](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/770)
-3. {octicons/approved} **Approved Changes:** [PlaceholderAPI/PlaceholderAPI#770](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/770#pullrequestreview-836211337)
-4. {octicons/prMerged} **Pull request merged:** [purrbot-site/Docs#184](https://github.com/purrbot-site/Docs/pull/184)
-5. {octicons/prMerged} **Pull request merged:** [Andre601/mkdocs-template#53](https://github.com/Andre601/mkdocs-template/pull/53)
-6. {octicons/release} **Created Release:** [PlaceholderAPI/PlaceholderAPI1.18 support, new expansion features, dependencies updates and more](https://github.com/PlaceholderAPI/PlaceholderAPI/releases/tag/2.11.0)
-7. {octicons/prClosed} **Pull request closed:** [PlaceholderAPI/PlaceholderAPI#768](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/768)
-8. {octicons/approved} **Approved Changes:** [PlaceholderAPI/PlaceholderAPI#766](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/766#pullrequestreview-835886322)
-9. {octicons/issueOpened} **Issue opened:** [Sollace/Presence-Footsteps#117](https://github.com/Sollace/Presence-Footsteps/issues/117)
-10. {octicons/prOpened} **Pull request opened:** [Andre601/Andre601#12](https://github.com/Andre601/Andre601/pull/12)
+1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/blog#32](https://github.com/Andre601/blog/pull/32)
+2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#770](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/770)
+3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) **Approved Changes:** [PlaceholderAPI/PlaceholderAPI#770](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/770#pullrequestreview-836211337)
+4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/Docs#184](https://github.com/purrbot-site/Docs/pull/184)
+5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/mkdocs-template#53](https://github.com/Andre601/mkdocs-template/pull/53)
+6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg) **Created Release:** [PlaceholderAPI/PlaceholderAPI1.18 support, new expansion features, dependencies updates and more](https://github.com/PlaceholderAPI/PlaceholderAPI/releases/tag/2.11.0)
+7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) **Pull request closed:** [PlaceholderAPI/PlaceholderAPI#768](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/768)
+8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) **Approved Changes:** [PlaceholderAPI/PlaceholderAPI#766](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/766#pullrequestreview-835886322)
+9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [Sollace/Presence-Footsteps#117](https://github.com/Sollace/Presence-Footsteps/issues/117)
+10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [Andre601/Andre601#12](https://github.com/Andre601/Andre601/pull/12)
 <!--RECENT_ACTIVITY:end-->
 
 ## <img alt="emoji" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f517.svg" height="30em"> Links

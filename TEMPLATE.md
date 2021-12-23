@@ -37,16 +37,16 @@ The list is updates twice a day and includes opening and closing issues and open
 Last update: `23.12.2021 13:17:39 GMT+0100`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. {octicons/release} **Created Release:** [Andre601/Presence-Footsteps-x-Origin-RealmsUpdate Resource pack for OriginRealms 0.14.1](https://github.com/Andre601/Presence-Footsteps-x-Origin-Realms/releases/tag/0.14.1)
-2. {octicons/release} **Created Release:** [Andre601/Presence-Footsteps-x-Origin-RealmsRelease action test](https://github.com/Andre601/Presence-Footsteps-x-Origin-Realms/releases/tag/0.14.1-t1)
-3. {octicons/prOpened} **Pull request opened:** [DecentSoftware-eu/DecentHolograms#13](https://github.com/DecentSoftware-eu/DecentHolograms/pull/13)
-4. {octicons/prMerged} **Pull request merged:** [Andre601/Spigot-Sounds#23](https://github.com/Andre601/Spigot-Sounds/pull/23)
-5. {octicons/prMerged} **Pull request merged:** [Andre601/blog#32](https://github.com/Andre601/blog/pull/32)
-6. {octicons/prMerged} **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#770](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/770)
-7. {octicons/approved} **Approved Changes:** [PlaceholderAPI/PlaceholderAPI#770](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/770#pullrequestreview-836211337)
-8. {octicons/prMerged} **Pull request merged:** [purrbot-site/Docs#184](https://github.com/purrbot-site/Docs/pull/184)
-9. {octicons/prMerged} **Pull request merged:** [Andre601/mkdocs-template#53](https://github.com/Andre601/mkdocs-template/pull/53)
-10. {octicons/release} **Created Release:** [PlaceholderAPI/PlaceholderAPI1.18 support, new expansion features, dependencies updates and more](https://github.com/PlaceholderAPI/PlaceholderAPI/releases/tag/2.11.0)
+1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg) **Created Release:** [Andre601/Presence-Footsteps-x-Origin-RealmsUpdate Resource pack for OriginRealms 0.14.1](https://github.com/Andre601/Presence-Footsteps-x-Origin-Realms/releases/tag/0.14.1)
+2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg) **Created Release:** [Andre601/Presence-Footsteps-x-Origin-RealmsRelease action test](https://github.com/Andre601/Presence-Footsteps-x-Origin-Realms/releases/tag/0.14.1-t1)
+3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [DecentSoftware-eu/DecentHolograms#13](https://github.com/DecentSoftware-eu/DecentHolograms/pull/13)
+4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/Spigot-Sounds#23](https://github.com/Andre601/Spigot-Sounds/pull/23)
+5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/blog#32](https://github.com/Andre601/blog/pull/32)
+6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#770](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/770)
+7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) **Approved Changes:** [PlaceholderAPI/PlaceholderAPI#770](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/770#pullrequestreview-836211337)
+8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/Docs#184](https://github.com/purrbot-site/Docs/pull/184)
+9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/mkdocs-template#53](https://github.com/Andre601/mkdocs-template/pull/53)
+10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg) **Created Release:** [PlaceholderAPI/PlaceholderAPI1.18 support, new expansion features, dependencies updates and more](https://github.com/PlaceholderAPI/PlaceholderAPI/releases/tag/2.11.0)
 <!--RECENT_ACTIVITY:end-->
 
 ## <img alt="emoji" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f517.svg" height="30em"> Links

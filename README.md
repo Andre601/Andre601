@@ -34,19 +34,19 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes opening and closing issues and opening, closing and merging Pull requests.
 
 <!--RECENT_ACTIVITY:last_update-->
-Last update: `23.12.2021 13:17:39 GMT+0100`
+Last update: `24.12.2021 01:37:24 GMT+0100`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg) **Created Release:** [Andre601/Presence-Footsteps-x-Origin-RealmsUpdate Resource pack for OriginRealms 0.14.1](https://github.com/Andre601/Presence-Footsteps-x-Origin-Realms/releases/tag/0.14.1)
-2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg) **Created Release:** [Andre601/Presence-Footsteps-x-Origin-RealmsRelease action test](https://github.com/Andre601/Presence-Footsteps-x-Origin-Realms/releases/tag/0.14.1-t1)
-3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [DecentSoftware-eu/DecentHolograms#13](https://github.com/DecentSoftware-eu/DecentHolograms/pull/13)
-4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/Spigot-Sounds#23](https://github.com/Andre601/Spigot-Sounds/pull/23)
-5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/blog#32](https://github.com/Andre601/blog/pull/32)
-6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#770](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/770)
-7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) **Approved Changes:** [PlaceholderAPI/PlaceholderAPI#770](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/770#pullrequestreview-836211337)
-8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/Docs#184](https://github.com/purrbot-site/Docs/pull/184)
-9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/mkdocs-template#53](https://github.com/Andre601/mkdocs-template/pull/53)
-10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg) **Created Release:** [PlaceholderAPI/PlaceholderAPI1.18 support, new expansion features, dependencies updates and more](https://github.com/PlaceholderAPI/PlaceholderAPI/releases/tag/2.11.0)
+1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [InventivetalentDev/mcasset.cloud#69](https://github.com/InventivetalentDev/mcasset.cloud/issues/69)
+2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [PluginBugs/Issues-ItemsAdder#1374](https://github.com/PluginBugs/Issues-ItemsAdder/issues/1374)
+3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#468](https://github.com/purrbot-site/PurrBot/pull/468)
+4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg) **Created Release:** [Andre601/Presence-Footsteps-x-Origin-RealmsUpdate Resource pack for OriginRealms 0.14.1](https://github.com/Andre601/Presence-Footsteps-x-Origin-Realms/releases/tag/0.14.1)
+5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg) **Created Release:** [Andre601/Presence-Footsteps-x-Origin-RealmsRelease action test](https://github.com/Andre601/Presence-Footsteps-x-Origin-Realms/releases/tag/0.14.1-t1)
+6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [DecentSoftware-eu/DecentHolograms#13](https://github.com/DecentSoftware-eu/DecentHolograms/pull/13)
+7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/Spigot-Sounds#23](https://github.com/Andre601/Spigot-Sounds/pull/23)
+8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/blog#32](https://github.com/Andre601/blog/pull/32)
+9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [PlaceholderAPI/PlaceholderAPI#770](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/770)
+10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) **Approved Changes:** [PlaceholderAPI/PlaceholderAPI#770](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/770#pullrequestreview-836211337)
 <!--RECENT_ACTIVITY:end-->
 
 ## <img alt="emoji" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f517.svg" height="30em"> Links

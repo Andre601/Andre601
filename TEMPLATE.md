@@ -15,39 +15,27 @@ My name is Andreas but most people just call me Andre.
 On the internet am I known as either Andre_601 or Andre601. My tag on Discord is `Andre_601#0601`.
 
 I'm a Hobby Java-Developer who creates a lot of various projects here on GitHub from which some are more popular than others.  
-I joined GitHub {{ SIGNUP_AGO }}.
 
 If you have any questions, feel free to join my [personal Discord Server][discord]. I'm pretty much always around and have time to answer stuff.
 
 ## <img alt="emoji" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f4ca.svg" height="30em"> Statistics
-<img height="195px" src="https://github-readme-stats.vercel.app/api?username=Andre601&show_icons=true&hide_rank=true&title_color=3498db&bg_color=ffffff00&text_color=718096&disable_animations=true"><img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Andre601&layout=compact&title_color=3498db&bg_color=ffffff00&text_color=718096">
+{%- await embed(`stats-base`, {base:"activity, community, repositories, metadata"}) %}
 
-### <img alt="emoji" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/2b50.svg" height="25em"> Most starred Repositories
-The 3 most starred repositories on my personal account (Not including those in Organizations I own).
+{%- await embed(`stats-commits-iso`, {isocalendar: true, isocalendar_duration:"half-year"}) %}
 
-{{ loop 3_MOST_STARRED_REPOS }}
-- [`{{ REPO_FULL_NAME }}`]({{ REPO_URL }}) (![star] {{ REPO_STARS }} ![fork] {{ REPO_FORK_COUNT }})
-{{ end 3_MOST_STARRED_REPOS }}
+{%- await embed(`stats-issues-prs`, {plugin_followup: true, followup_sections:"repositories, user"}) %}
 
-### <img alt="emoji" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f4cb.svg" height="25em"> Recent Activity
-This is a list of my 10 most recent activities on GitHub.  
-The list is updates twice a day and includes opening and closing issues and opening, closing and merging Pull requests.
+### <img alt="emoji" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/2b50.svg" height="25em"> Recently starred
+{%- await embed(`stats-stars`, {stars: true, stars_limit: 5}) %}
 
-<!--RECENT_ACTIVITY:last_update-->
-Last update: `27.12.2021 13:22:21 GMT+0100`
-<!--RECENT_ACTIVITY:last_update_end-->
-<!--RECENT_ACTIVITY:start-->
-1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [purrbot-site/Docs#185](https://github.com/purrbot-site/Docs/pull/185)
-2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [PlaceholderAPI/PlaceholderAPI#773](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/773)
-3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) **Pull request closed:** [PlaceholderAPI/PlaceholderAPI#547](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/547)
-4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) **Pull request closed:** [PlaceholderAPI/PlaceholderAPI#612](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/612)
-5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [InventivetalentDev/mcasset.cloud#69](https://github.com/InventivetalentDev/mcasset.cloud/issues/69)
-6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [PluginBugs/Issues-ItemsAdder#1374](https://github.com/PluginBugs/Issues-ItemsAdder/issues/1374)
-7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#468](https://github.com/purrbot-site/PurrBot/pull/468)
-8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg) **Created Release:** [Andre601/Presence-Footsteps-x-Origin-RealmsUpdate Resource pack for OriginRealms 0.14.1](https://github.com/Andre601/Presence-Footsteps-x-Origin-Realms/releases/tag/0.14.1)
-9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg) **Created Release:** [Andre601/Presence-Footsteps-x-Origin-RealmsRelease action test](https://github.com/Andre601/Presence-Footsteps-x-Origin-Realms/releases/tag/0.14.1-t1)
-10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [DecentSoftware-eu/DecentHolograms#13](https://github.com/DecentSoftware-eu/DecentHolograms/pull/13)
-<!--RECENT_ACTIVITY:end-->
+### <img alt="emoji" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f5c2.svg" height="25em"> Most used languages
+{%- await embed(`stats-languages`, {languages: true, languages_analysis_timeout: 15, languages_categories:"markup, programming", languages_colors:"github", languages_details:"percentage", languages_ignored:"shell, hack", languages_limit: 8, languages_recent_categories:"markup, programming", languages_recent_days: 14, languages_recent_load: 300, languages_sections:"most-used", languages_threshold:"0%"}) %}
+
+### <img alt="emoji" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f46a.svg" height="25em"> Follower
+{%- await embed(`stats-follower`, {people: true, people_limit: 24, people_size: 28, people_types:"followers"}) %}
+
+### <img alt="emoji" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f4ac.svg" height="25em"> Discussions
+{%- await embed(`stats-discussion`, {discussions: true}) %}
 
 ## <img alt="emoji" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f517.svg" height="30em"> Links
 - [Website]

@@ -20,6 +20,10 @@ jobs:
         
         user: Andre601
         template: markdown
+        filename: README.md
+        markdown: TEMPLATE.md
+        markdown_cache: '.cache'
+        
         base: activity, community, repositories, metadata
         config_timezone: Europe/Zurich
         #

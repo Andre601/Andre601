@@ -26,7 +26,7 @@ If you have any questions, feel free to join my [personal Discord Server][discor
 The 3 most starred repositories on my personal account (Not including those in Organizations I own).
 
 - [`Andre601/anti-phishing-database`](https://github.com/Andre601/anti-phishing-database) (![star] 10 ![fork] 2)
-- [`Andre601/OneVersionRemake`](https://github.com/Andre601/OneVersionRemake) (![star] 8 ![fork] 0)
+- [`Andre601/OneVersionRemake`](https://github.com/Andre601/OneVersionRemake) (![star] 9 ![fork] 0)
 - [`Andre601/Supporto`](https://github.com/Andre601/Supporto) (![star] 3 ![fork] 3)
 
 ### <img alt="emoji" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f4cb.svg" height="25em"> Recent Activity
@@ -34,19 +34,19 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes opening and closing issues and opening, closing and merging Pull requests.
 
 <!--RECENT_ACTIVITY:last_update-->
-Last update: `18.12.2021 13:16:02 GMT+0100`
+Last update: `27.12.2021 13:22:21 GMT+0100`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) **Approved Changes:** [botblock/discord-botlist-best-practices#16](https://github.com/botblock/discord-botlist-best-practices/pull/16#pullrequestreview-835757355)
-2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [IrisShaders/Iris#1105](https://github.com/IrisShaders/Iris/pull/1105)
-3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg) **Forked Repository:** [Andre601/Iris](https://github.com/Andre601/Iris) (From [IrisShaders/Iris](https://github.com/IrisShaders/Iris))
-4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#466](https://github.com/purrbot-site/PurrBot/pull/466)
-5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#467](https://github.com/purrbot-site/PurrBot/pull/467)
-6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/DeepStoragePlus#1](https://github.com/Andre601/DeepStoragePlus/pull/1)
-7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [Andre601/DeepStoragePlus#1](https://github.com/Andre601/DeepStoragePlus/pull/1)
-8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/StatusNPC#5](https://github.com/Andre601/StatusNPC/pull/5)
-9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/Docs#183](https://github.com/purrbot-site/Docs/pull/183)
-10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [Andre601/mkdocs-template#52](https://github.com/Andre601/mkdocs-template/pull/52)
+1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [purrbot-site/Docs#185](https://github.com/purrbot-site/Docs/pull/185)
+2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [PlaceholderAPI/PlaceholderAPI#773](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/773)
+3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) **Pull request closed:** [PlaceholderAPI/PlaceholderAPI#547](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/547)
+4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) **Pull request closed:** [PlaceholderAPI/PlaceholderAPI#612](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/612)
+5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [InventivetalentDev/mcasset.cloud#69](https://github.com/InventivetalentDev/mcasset.cloud/issues/69)
+6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [PluginBugs/Issues-ItemsAdder#1374](https://github.com/PluginBugs/Issues-ItemsAdder/issues/1374)
+7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#468](https://github.com/purrbot-site/PurrBot/pull/468)
+8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg) **Created Release:** [Andre601/Presence-Footsteps-x-Origin-RealmsUpdate Resource pack for OriginRealms 0.14.1](https://github.com/Andre601/Presence-Footsteps-x-Origin-Realms/releases/tag/0.14.1)
+9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg) **Created Release:** [Andre601/Presence-Footsteps-x-Origin-RealmsRelease action test](https://github.com/Andre601/Presence-Footsteps-x-Origin-Realms/releases/tag/0.14.1-t1)
+10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [DecentSoftware-eu/DecentHolograms#13](https://github.com/DecentSoftware-eu/DecentHolograms/pull/13)
 <!--RECENT_ACTIVITY:end-->
 
 ## <img alt="emoji" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f517.svg" height="30em"> Links

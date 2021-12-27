@@ -19,23 +19,23 @@ I'm a Hobby Java-Developer who creates a lot of various projects here on GitHub 
 If you have any questions, feel free to join my [personal Discord Server][discord]. I'm pretty much always around and have time to answer stuff.
 
 ## <img alt="emoji" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f4ca.svg" height="30em"> Statistics
-{% await embed(`stats-base`, {base:"activity, community, repositories, metadata"}) %}
+{%- await embed(`stats-base`, {base:"activity, community, repositories, metadata"}) %}
 
-{% await embed(`stats-commits-iso`, {isocalendar: true, isocalendar_duration:"half-year"}) %}
+{%- await embed(`stats-commits-iso`, {isocalendar: true, isocalendar_duration:"half-year"}) %}
 
-{% await embed(`stats-issues-prs`, {plugin_followup: true, plugin_followup_sections:"repositories, user"}) %}
+{%- await embed(`stats-issues-prs`, {plugin_followup: true, followup_sections:"repositories, user"}) %}
 
 ### <img alt="emoji" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/2b50.svg" height="25em"> Recently starred
-{% await embed(`stats-stars`, {stars: true, stars_limit: 5}) %}
+{%- await embed(`stats-stars`, {stars: true, stars_limit: 5}) %}
 
 ### <img alt="emoji" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f5c2.svg" height="25em"> Most used languages
-{% await embed(`stats-languages`, {plugin_languages: true, plugin_languages_analysis_timeout: 15, plugin_languages_categories:"markup, programming", plugin_languages_colors:"github", plugin_languages_details:"percentage", plugin_languages_ignored:"shell, hack", plugin_languages_limit: 8, plugin_languages_recent_categories:"markup, programming", plugin_languages_recent_days: 14, plugin_languages_recent_load: 300, plugin_languages_sections:"most-used", plugin_languages_threshold:"0%"}) %}
+{%- await embed(`stats-languages`, {languages: true, languages_analysis_timeout: 15, languages_categories:"markup, programming", languages_colors:"github", languages_details:"percentage", languages_ignored:"shell, hack", languages_limit: 8, languages_recent_categories:"markup, programming", languages_recent_days: 14, languages_recent_load: 300, languages_sections:"most-used", languages_threshold:"0%"}) %}
 
 ### <img alt="emoji" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f46a.svg" height="25em"> Follower
-{% await embed(`stats-follower`, {plugin_people: true, plugin_people_limit: 24, plugin_people_size: 28, plugin_people_types:"followers"}) %}
+{%- await embed(`stats-follower`, {people: true, people_limit: 24, people_size: 28, people_types:"followers"}) %}
 
 ### <img alt="emoji" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f4ac.svg" height="25em"> Discussions
-{% await embed(`stats-discussion`, {plugin_discussions: true}) %}
+{%- await embed(`stats-discussion`, {discussions: true}) %}
 
 ## <img alt="emoji" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f517.svg" height="30em"> Links
 - [Website]

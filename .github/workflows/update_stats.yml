@@ -28,32 +28,15 @@ jobs:
         #
         # List issue and PR stats
         plugin_followup: yes
-        plugin_followup_sections: repositories, user
         #
         # Show 3D Commit calendar
         plugin_isocalendar: yes
-        plugin_isocalendar_duration: half-year
         #
         # Show "Most used languages"
         plugin_languages: yes
-        plugin_languages_analysis_timeout: 15
-        plugin_languages_categories: markup, programming
-        plugin_languages_colors: github
-        plugin_languages_details: percentage
-        plugin_languages_ignored: shell, hack
-        plugin_languages_limit: 8
-        plugin_languages_recent_categories: markup, programming
-        plugin_languages_recent_days: 14
-        plugin_languages_recent_load: 300
-        plugin_languages_sections: most-used
-        plugin_languages_threshold: 0%
         #
         # Show people following
         plugin_people: yes
-        plugin_people_limit: 24
-        plugin_people_size: 28
-        plugin_people_types: followers
         #
         # Show recently starred
         plugin_stars: yes
-        plugin_stars_limit: 5

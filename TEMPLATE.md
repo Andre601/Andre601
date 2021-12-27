@@ -34,19 +34,19 @@ This is a list of my 10 most recent activities on GitHub.
 The list is updates twice a day and includes opening and closing issues and opening, closing and merging Pull requests.
 
 <!--RECENT_ACTIVITY:last_update-->
-Last update: `27.12.2021 01:38:27 GMT+0100`
+Last update: `27.12.2021 13:22:21 GMT+0100`
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [purrbot-site/Docs#185](https://github.com/purrbot-site/Docs/pull/185)
-2. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [PlaceholderAPI/PlaceholderAPI#773](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/773)
-3. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) **Pull request closed:** [PlaceholderAPI/PlaceholderAPI#547](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/547)
-4. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) **Pull request closed:** [PlaceholderAPI/PlaceholderAPI#612](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/612)
-5. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [InventivetalentDev/mcasset.cloud#69](https://github.com/InventivetalentDev/mcasset.cloud/issues/69)
-6. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) **Issue opened:** [PluginBugs/Issues-ItemsAdder#1374](https://github.com/PluginBugs/Issues-ItemsAdder/issues/1374)
-7. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) **Pull request merged:** [purrbot-site/PurrBot#468](https://github.com/purrbot-site/PurrBot/pull/468)
-8. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg) **Created Release:** [Andre601/Presence-Footsteps-x-Origin-RealmsUpdate Resource pack for OriginRealms 0.14.1](https://github.com/Andre601/Presence-Footsteps-x-Origin-Realms/releases/tag/0.14.1)
-9. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg) **Created Release:** [Andre601/Presence-Footsteps-x-Origin-RealmsRelease action test](https://github.com/Andre601/Presence-Footsteps-x-Origin-Realms/releases/tag/0.14.1-t1)
-10. ![image](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) **Pull request opened:** [DecentSoftware-eu/DecentHolograms#13](https://github.com/DecentSoftware-eu/DecentHolograms/pull/13)
+1. {octicons/prOpened} **Pull request opened:** [purrbot-site/Docs#185](https://github.com/purrbot-site/Docs/pull/185)
+2. {octicons/prOpened} **Pull request opened:** [PlaceholderAPI/PlaceholderAPI#773](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/773)
+3. {octicons/prClosed} **Pull request closed:** [PlaceholderAPI/PlaceholderAPI#547](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/547)
+4. {octicons/prClosed} **Pull request closed:** [PlaceholderAPI/PlaceholderAPI#612](https://github.com/PlaceholderAPI/PlaceholderAPI/pull/612)
+5. {octicons/issueOpened} **Issue opened:** [InventivetalentDev/mcasset.cloud#69](https://github.com/InventivetalentDev/mcasset.cloud/issues/69)
+6. {octicons/issueOpened} **Issue opened:** [PluginBugs/Issues-ItemsAdder#1374](https://github.com/PluginBugs/Issues-ItemsAdder/issues/1374)
+7. {octicons/prMerged} **Pull request merged:** [purrbot-site/PurrBot#468](https://github.com/purrbot-site/PurrBot/pull/468)
+8. {octicons/release} **Created Release:** [Andre601/Presence-Footsteps-x-Origin-RealmsUpdate Resource pack for OriginRealms 0.14.1](https://github.com/Andre601/Presence-Footsteps-x-Origin-Realms/releases/tag/0.14.1)
+9. {octicons/release} **Created Release:** [Andre601/Presence-Footsteps-x-Origin-RealmsRelease action test](https://github.com/Andre601/Presence-Footsteps-x-Origin-Realms/releases/tag/0.14.1-t1)
+10. {octicons/prOpened} **Pull request opened:** [DecentSoftware-eu/DecentHolograms#13](https://github.com/DecentSoftware-eu/DecentHolograms/pull/13)
 <!--RECENT_ACTIVITY:end-->
 
 ## <img alt="emoji" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f517.svg" height="30em"> Links

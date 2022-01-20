@@ -35,7 +35,7 @@ If you have any questions, feel free to join my [personal Discord Server][discor
 {%- await embed(`stats-follower`, {people: true, people_limit: 24, people_size: 28, people_types:"followers"}) %}
 
 ### <img alt="emoji" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f4ac.svg" height="25em"> Discussions
-{%- await embed(`stats-discussion`, {discussions: true}) %}
+{%- await embed(`stats-discussion`, {discussions: true, discussions_categories: false}) %}
 
 ## <img alt="emoji" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f517.svg" height="30em"> Links
 - [Website]

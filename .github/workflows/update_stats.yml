@@ -44,3 +44,6 @@ jobs:
         #
         # Show recently starred
         plugin_stars: yes
+        #
+        # Show most starred and random repos
+        plugin_repositories: yes

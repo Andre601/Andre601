@@ -23,7 +23,7 @@ If you have any questions, feel free to join my [personal Discord Server][discor
 
 {%- await embed(`stats-commits-iso`, {isocalendar: true, isocalendar_duration:"half-year"}) %}
 
-{%- await embed(`stats-issues-prs`, {plugin_followup: true, followup_sections:"repositories, user"}) %}
+{%- await embed(`stats-issues-prs`, {followup: true, followup_sections:"repositories, user"}) %}
 
 ### <img alt="emoji" src="https://octicons.andre601.ch/star-fill/c9d1d9" height="25em"> Recently starred
 {%- await embed(`stats-stars`, {stars: true, stars_limit: 5}) %}
@@ -41,11 +41,11 @@ If you have any questions, feel free to join my [personal Discord Server][discor
 
 ### <img alt="emoji" src="https://octicons.andre601.ch/star-fill/c9d1d9" height="25em"> Most starred
 
-{%- await embed(`stats-starred-repo`, {repositories_starred: 3}) %}
+{%- await embed(`stats-starred-repo`, {repositories: true, repositories_starred: 3}) %}
 
 ### <img alt="emoji" src="https://octicons.andre601.ch/tasklist/c9d1d9" height="25em"> Random picks
 
-{%- await embed(`stats-random-repo`, {repositories_random: 3}) %}
+{%- await embed(`stats-random-repo`, {repositories: true, repositories_random: 3}) %}
 
 ## <img alt="emoji" src="https://octicons.andre601.ch/link/c9d1d9" height="30em"> Links
 - [Website]

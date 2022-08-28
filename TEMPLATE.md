@@ -45,7 +45,7 @@ If you have any questions, feel free to join my [personal Discord Server][discor
 
 ### <img alt="emoji" src="https://octicons.andre601.ch/tasklist/c9d1d9" height="25em"> Random picks
 
-{%- await embed(`stats-random-repo`, {repositories: true, repositories_random: 3}) %}
+{%- await embed(`stats-random-repo`, {repositories: true, repositories_random: 3, repositories_forks: false}) %}
 
 ## <img alt="emoji" src="https://octicons.andre601.ch/link/c9d1d9" height="30em"> Links
 - [Website]

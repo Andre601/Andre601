@@ -46,22 +46,22 @@ If you have any questions, feel free to join my [personal Discord Server][discor
 ## <img alt="emoji" src="https://octicons.andre601.ch/link/c9d1d9" height="30em"> Links
 
 <a href="https://www.spigotmc.org/resources/authors/56829/" target="_blank">
-  <img alt="spigot" src="https://raw.githubusercontent.com/intergrav/devins-badges/v2/assets/minimal/supported/spigot_vector.svg" width="64">
+  <img alt="spigot" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/supported/spigot_vector.svg" width="64">
 </a>
 <a href="https://modrinth.com/user/Andre601" target="_blank">
-  <img alt="modrinth" src="https://raw.githubusercontent.com/intergrav/devins-badges/v2/assets/minimal/available/modrinth_vector.svg" width="64">
+  <img alt="modrinth" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/modrinth_vector.svg" width="64">
 </a>
 
 <a href="https://discord.gg/6dazXp6" target="_blank">
-  <img alt="discord" src="https://raw.githubusercontent.com/intergrav/devins-badges/v2/assets/minimal/social/discord-singular_vector.svg" width="64">
+  <img alt="discord" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/social/discord-singular_vector.svg" width="64">
 </a>
 <a href="https://app.revolt.chat/invite/74TpERXA" target="_blank">
-  <img alt="revolt" src="https://raw.githubusercontent.com/intergrav/devins-badges/v2/assets/minimal/social/revolt-singular_vector.svg" width="64">
+  <img alt="revolt" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/social/revolt-singular_vector.svg" width="64">
 </a>
 
 <a href="https://patreon.com/andre_601" target="_blank">
-  <img alt="patreon" src="https://raw.githubusercontent.com/intergrav/devins-badges/v2/assets/minimal/donate/patreon-singular_vector.svg" width="64">
+  <img alt="patreon" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/donate/patreon-singular_vector.svg" width="64">
 </a>
 <a href="https://ko-fi.com/andre_601" target="_blank">
-  <img alt="ko-fi" src="https://raw.githubusercontent.com/intergrav/devins-badges/v2/assets/minimal/donate/kofi-singular_vector.svg" width="64">
+  <img alt="ko-fi" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/donate/kofi-singular_vector.svg" width="64">
 </a>

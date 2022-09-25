@@ -1,10 +1,6 @@
 <!-- Links -->
 [purr]: https://purrbot.site
 [discord]: https://discord.gg/6dazXp6
-[website]: https://andre601.ch
-[spigot]: https://www.spigotmc.org/resources/authors/56829/
-[patreon]: https://patreon.com/andre_601
-[ko-fi]: https://ko-fi.com/andre_601
 
 <!-- SVGs -->
 [star]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepository.svg
@@ -48,7 +44,24 @@ If you have any questions, feel free to join my [personal Discord Server][discor
 {%- await embed(`stats-random-repo`, {repositories: true, repositories_random: 3, repositories_forks: false}) %}
 
 ## <img alt="emoji" src="https://octicons.andre601.ch/link/c9d1d9" height="30em"> Links
-- [Website]
-- [Spigot Page][spigot]
-- [Patreon]
-- [Ko-fi]
+
+<a href="https://www.spigotmc.org/resources/authors/56829/" target="_blank">
+  <img alt="spigot" src="https://raw.githubusercontent.com/intergrav/devins-badges/v2/assets/minimal/supported/spigot_vector.svg" width="64">
+</a>
+<a href="https://modrinth.com/user/Andre601" target="_blank">
+  <img alt="modrinth" src="https://raw.githubusercontent.com/intergrav/devins-badges/v2/assets/minimal/available/modrinth_vector.svg" width="64">
+</a>
+
+<a href="https://discord.gg/6dazXp6" target="_blank">
+  <img alt="discord" src="https://raw.githubusercontent.com/intergrav/devins-badges/v2/assets/minimal/social/discord-singular_vector.svg" width="64">
+</a>
+<a href="https://app.revolt.chat/invite/74TpERXA" target="_blank">
+  <img alt="revolt" src="https://raw.githubusercontent.com/intergrav/devins-badges/v2/assets/minimal/social/revolt-singular_vector.svg" width="64">
+</a>
+
+<a href="https://patreon.com/andre_601" target="_blank">
+  <img alt="patreon" src="https://raw.githubusercontent.com/intergrav/devins-badges/v2/assets/minimal/donate/patreon-singular_vector.svg" width="64">
+</a>
+<a href="https://ko-fi.com/andre_601" target="_blank">
+  <img alt="ko-fi" src="https://raw.githubusercontent.com/intergrav/devins-badges/v2/assets/minimal/donate/kofi-singular_vector.svg" width="64">
+</a>

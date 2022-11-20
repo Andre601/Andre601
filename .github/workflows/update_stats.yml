@@ -47,3 +47,7 @@ jobs:
         #
         # Show most starred and random repos
         plugin_repositories: yes
+        #
+        # Temporary fix for lowlighter/metrics#1222
+        extras_css: |
+          .field.warning { display: none; }

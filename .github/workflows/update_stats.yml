@@ -14,7 +14,7 @@ jobs:
     name: Generate image for GitHub Stats
     runs-on: ubuntu-latest
     steps:
-    - uses: lowlighter/metrics@main
+    - uses: lowlighter/metrics@v3.29
       with:
         token: ${{ secrets.METRICS_TOKEN }}
         

@@ -28,7 +28,7 @@ If you have any questions, feel free to join my [personal Discord Server][discor
 {%- await embed(`stats-languages`, {languages: true, languages_analysis_timeout: 15, languages_categories:"markup, programming", languages_colors:"github", languages_details:"percentage", languages_ignored:"shell, hack", languages_limit: 8, languages_recent_categories:"markup, programming", languages_recent_days: 14, languages_recent_load: 300, languages_sections:"most-used", languages_threshold:"0%"}) %}
 
 ### <img alt="emoji" src="https://octicons.andre601.ch/people/c9d1d9" height="25em"> Follower
-{%- await embed(`stats-follower`, {people: true, people_limit: 24, people_size: 28, people_types:"followers"}) %}
+{%- await embed(`stats-follower`, {people: true, people_limit: 0, people_size: 28, people_types:"followers"}) %}
 
 ### <img alt="emoji" src="https://octicons.andre601.ch/comment-discussion/c9d1d9" height="25em"> Discussions
 {%- await embed(`stats-discussion`, {discussions: true, discussions_categories: false}) %}

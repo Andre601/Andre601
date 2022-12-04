@@ -45,7 +45,7 @@ If you have any questions, feel free to join my [personal Discord Server][discor
 
 ## <img alt="emoji" src="https://octicons.andre601.ch/link/c9d1d9" height="30em"> Links
 
-### My plugins
+### Find my plugins here
 
 <a href="https://www.spigotmc.org/resources/authors/56829/" target="_blank">
   <img alt="spigot" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/supported/spigot_vector.svg" width="64" title="My Resources on SpigotMC">
@@ -54,7 +54,7 @@ If you have any questions, feel free to join my [personal Discord Server][discor
   <img alt="modrinth" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/modrinth_vector.svg" width="64" title="My Resources on Modrinth">
 </a>
 
-### Social Media
+### Be social with me
 
 <a href="https://discord.gg/6dazXp6" target="_blank">
   <img alt="discord" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/social/discord-singular_vector.svg" width="64" title="Join my Discord Server">
@@ -65,8 +65,11 @@ If you have any questions, feel free to join my [personal Discord Server][discor
 <a href="https://blobfox.coffee/@andre_601" target="_blank">
   <img alt="revolt" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/social/mastodon-singular_vector.svg" width="64" title="Chat with me on Mastodon">
 </a>
+<a href="https://twitter.com/TrueAndre_601" target="_blank">
+  <img alt="twitter" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/social/twitter-singular_vector.svg" width="64" title="Chat with me on Twitter">
+</a>
 
-### Support me
+### Support me and my work
 
 <a href="https://patreon.com/andre_601" target="_blank">
   <img alt="patreon" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/donate/patreon-singular_vector.svg" width="64" title="Support me through Patreon">

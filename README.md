@@ -47,36 +47,33 @@ If you have any questions, feel free to join my [personal Discord Server][discor
 
 ### Find my plugins here
 
-<a href="https://modrinth.com/user/Andre601" target="_blank">
-  <img alt="modrinth" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/available/modrinth_vector.svg" width="64" title="My Resources on Modrinth">
-</a>
-<a href="https://hangar.papermc.io/Andre_601" target="_blank">
-  <img alt="modrinth" src="https://cdn.jsdelivr.net/gh/intergrav/devins-badges@bf8f985/assets/minimal/available/hangar_vector.svg" width="64" title="My Resources on Modrinth">
-</a>  
 <a href="https://www.spigotmc.org/resources/authors/56829/" target="_blank">
-  <img alt="spigot" src="https://cdn.jsdelivr.net/gh/andre601/devins-badges@b9ff12b/assets/cozy-minimal/available/spigot_vector.svg" width="64" title="My Resources on SpigotMC">
+  <img alt="spigot" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/supported/spigot_vector.svg" width="64" title="My Resources on SpigotMC">
+</a>
+<a href="https://modrinth.com/user/Andre601" target="_blank">
+  <img alt="modrinth" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/available/modrinth_vector.svg" width="64" title="My Resources on Modrinth">
 </a>
 
 ### Be social with me
 
 <a href="https://discord.gg/6dazXp6" target="_blank">
-  <img alt="discord" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/social/discord-singular_vector.svg" width="64" title="Join my Discord Server">
+  <img alt="discord" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/social/discord-singular_vector.svg" width="64" title="Join my Discord Server">
 </a>
 <a href="https://app.revolt.chat/invite/74TpERXA" target="_blank">
-  <img alt="revolt" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/social/revolt-singular_vector.svg" width="64" title="Join my Revolt Server">
+  <img alt="revolt" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/social/revolt-singular_vector.svg" width="64" title="Join my Revolt Server">
 </a>
 <a href="https://blobfox.coffee/@andre_601" target="_blank">
-  <img alt="revolt" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/social/mastodon-singular_vector.svg" width="64" title="Chat with me on Mastodon">
+  <img alt="revolt" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/social/mastodon-singular_vector.svg" width="64" title="Chat with me on Mastodon">
 </a>
 <a href="https://twitter.com/TrueAndre_601" target="_blank">
-  <img alt="twitter" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/social/twitter-singular_vector.svg" width="64" title="Chat with me on Twitter">
+  <img alt="twitter" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/social/twitter-singular_vector.svg" width="64" title="Chat with me on Twitter">
 </a>
 
 ### Support me and my work
 
 <a href="https://patreon.com/andre_601" target="_blank">
-  <img alt="patreon" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/donate/patreon-singular_vector.svg" width="64" title="Support me through Patreon">
+  <img alt="patreon" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/donate/patreon-singular_vector.svg" width="64" title="Support me through Patreon">
 </a>
 <a href="https://ko-fi.com/andre_601" target="_blank">
-  <img alt="ko-fi" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/donate/kofi-singular_vector.svg" width="64" title="Support me through Ko-fi">
+  <img alt="ko-fi" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/donate/kofi-singular_vector.svg" width="64" title="Support me through Ko-fi">
 </a>

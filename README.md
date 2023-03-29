@@ -50,7 +50,7 @@ If you have any questions, feel free to join my [personal Discord Server][discor
 <a href="https://modrinth.com/user/Andre601" target="_blank">
   <img alt="modrinth" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/available/modrinth_vector.svg" width="64" title="My Resources on Modrinth">
 </a>
-<a href="https://hangar.papermc.io/Andre_601/AdvancedServerList" target="_blank">
+<a href="https://hangar.papermc.io/Andre_601" target="_blank">
   <img alt="modrinth" src="https://cdn.jsdelivr.net/gh/intergrav/devins-badges@bf8f985/assets/minimal/available/hangar_vector.svg" width="64" title="My Resources on Modrinth">
 </a>  
 <a href="https://www.spigotmc.org/resources/authors/56829/" target="_blank">

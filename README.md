@@ -8,7 +8,7 @@
 
 ## <img alt="emoji" src="https://octicons.andre601.ch/mark-github/c9d1d9" height="30em"> Hello there!
 My name is Andreas but most people just call me Andre.  
-On the internet am I known as either Andre_601 or Andre601. My tag on Discord is `Andre_601#0601`.
+On the internet am I known as either Andre_601 or Andre601. My tag on Discord is `andre601`.
 
 I'm a Hobby Java-Developer who creates a lot of various projects here on GitHub from which some are more popular than others.  
 
